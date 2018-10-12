@@ -11,7 +11,21 @@
   </head>
 
   <body class="body">
-     <div class="navbar">
+    <div class="navbar">
+      <% Province.all.each do |province| %>
+        <ul>
+          <li class="region">
+           <%= link_to province.name, province_path(province)  %>
+             <% province.cities.each do |city| %>
+              <ul class="villes">
+                <%= link_to city.name, city_path(city)  %>
+              </ul>
+            <% end %>
+          </li>
+        </ul>
+      <% end %>
+    </div>
+<!--      <div class="navbar">
       <ul>
         <li class="region">
           <a href="toscane.html">Toscane</a>
@@ -69,7 +83,7 @@
           </ul>
         </li>
       </ul>
-    </div>
+    </div> -->
     <%= yield %>
     <%= javascript_include_tag 'application' %>
     <%= javascript_pack_tag 'application' %>

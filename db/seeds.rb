@@ -5,3 +5,10 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+City.destroy_all
+Province.destroy_all
+
+toscane = Province.create(name: "Toscane", description:"la Toscane est une grande region")
+florence = City.create(name:"Florence", description:"Florence est une belle ville", province: toscane)
+
+puts "All good"
