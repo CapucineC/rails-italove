@@ -1,2 +1,21 @@
-<%= @province.name %>
-<%= @province.description %>
+<div class="content-province">
+  <h1><span><%= @province.name %></span></h1>
+  <p class="description-province">
+  <%= @province.description %>
+  </p>
+
+  <ul class="emblems">
+    <li>
+      <a href="">
+        <img class="heraldic-image" src="/images/blaz_florence.png" alt="" />
+        Florence
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <img class="heraldic-image" src="/images/blaz_sienne.png" alt="" />
+        Sienne
+      </a>
+    </li>
+  </ul>
+</div>

@@ -10,10 +10,10 @@ Province.destroy_all
 
 toscane = Province.create(
   name: "Toscane",
-  description:"Le train rentre en Toscane : l’imaginaire se met en branle. Viennent à nous des souvenirs que nous n’avons pas vécu – l’Histoire. Monde de l’humanisme, royaume des fleurs, ombre des chevaliers, forteresses, présages d’amour. A Florence, on arrive, en pleine, lumière du matin. Soleil éclatant qui se lève. Promesse d’or à venir.")
+  description:"La Toscane réalise le  Passage du Moyen Âge à la Renaissance, seul endroit au monde concentrant autant d’oeuvres et de génies. Sa campagne vallonée et ses villes de pierre ont été au seiziècle le lieu du laboratoire de la politique. Deux modèles se sont opposés dans une rivalité historique : la bourgeoisie de Sienne contre principat de Florence.")
 florence = City.create(
   name:"Florence",
-  description:"Florence, capitale de la Toscane, est riche de nombreux chefs-d'œuvre de l'art et de l'architecture de la Renaissance. L'un de ses sites les plus emblématiques est le Duomo, la cathédrale dont la coupole en terre cuite a été conçue par Brunelleschi et, le campanile, par Giotto.",
+  description:"Palazzo Medici Ricardi, Uffizzi, Ponte Vecchio, Duomo, Giardino di Boboli, Santa Maria Novella, Santa Croce ou San Marco.... “dans ce nom de Florence, tout un rêve de soleil et de lys” écrivait Marcel Proust..",
   province: toscane)
 sienne = City.create(
   name:"Sienne",
