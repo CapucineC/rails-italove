@@ -5,8 +5,17 @@
   </p>
 
   <ul class="emblems">
+    <% @province.cities.each do |city| %>
+              <!--  pour toutes les villes de la province en param do  -->
+              <ul>
+                <%= link_to city.name, city_path(city)  %>
+                <!--  mettre le nom de la ville + redirection URL page dans son nom -->
+              </ul>
+            <% end %>
+<!--
     <li>
       <a href="">
+
         <img class="heraldic-image" src="/images/blaz_florence.png" alt="" />
         Florence
       </a>
@@ -16,6 +25,7 @@
         <img class="heraldic-image" src="/images/blaz_sienne.png" alt="" />
         Sienne
       </a>
-    </li>
+    </li> -->
+
   </ul>
 </div>

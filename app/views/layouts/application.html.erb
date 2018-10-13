@@ -13,12 +13,16 @@
   <body class="body">
     <div class="navbar">
       <% Province.all.each do |province| %>
+      <!--  pour toutes les provinces  -->
         <ul>
           <li class="region">
            <%= link_to province.name, province_path(province)  %>
+             <!--  mettre le nom de la province + redirection URL page -->
              <% province.cities.each do |city| %>
+              <!--  pour toutes les villes des provinces  -->
               <ul class="villes">
                 <%= link_to city.name, city_path(city)  %>
+                <!--  mettre le nom de la ville + redirection URL page -->
               </ul>
             <% end %>
           </li>
