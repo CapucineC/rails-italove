@@ -11,21 +11,21 @@
   }
 
   & .description-city,
-  & .emblems {
+  & .heraldic {
     max-width: 670px;
     padding: 40px;
     margin: 0 auto;
     text-align: justify;
   }
 
-  & .emblems {
+  & .heraldic {
     position: absolute;
     top: 1px;
     left: 80px;
     padding:6px 15px;
   }
 
-  & .emblems a {
+  & .heraldic a {
     display: block;
     padding: 20px;
 
@@ -41,7 +41,7 @@
 
     & > img {
       display: block;
-      width: 100px;
+      width: 10px;
       height: auto;
     }
   }

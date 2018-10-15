@@ -2,13 +2,14 @@
   <h1><span><%= @city.name %></span></h1>
 
     <div class= "position">
-    43°46′45″ N <br>
-    11°14′46″ E
+      <%= @city.geocoding %>
     </div>
 
-    <div class="emblems">
-      <img class="heraldic-image" src="/images/blaz_florence.png" alt="heraldic" />
+<!--   <div class="heraldic">
+    <div class="heraldic-image">>
+      <%= image_tag ("/assets/blaz_florence.png")%>
     </div>
+  </div> -->
 
     <p class="description-city">
     <%= @city.description %>
