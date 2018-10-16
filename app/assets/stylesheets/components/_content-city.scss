@@ -3,6 +3,7 @@
   margin: auto;
   text-align: justify;
   position: relative;
+  margin-top: 193px;
 
   & h1 {
     text-align: center;
@@ -50,19 +51,28 @@
      top: -29px;
      right: 147px;
      max-width: 117px;
+     font-size: 16px;
+     text-align: justify;
      ///padding:6px 15px;
 }
 
 & .thumbnails{
-    padding: 60px;
+    padding: 40px;
     ///margin-left: 172px;
     display: flex;
-    justify-content: center;
+    //flex-wrap: wrap;
+    justify-content: space-around;
     background-color: $light-gray;
   }
 
 & .item{
-    padding: 10px;
+  padding: 10px;
 }
+
+& .photo{
+  max-width: 80%;
+  margin: 0;
+}
+
 
 }

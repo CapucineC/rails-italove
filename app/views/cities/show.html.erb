@@ -2,7 +2,7 @@
   <h1><span><%= @city.name %></span></h1>
 
     <div class= "position">
-      <%= @city.geocoding %>
+      <a href="https://fr.wikipedia.org/wiki/V%C3%A9rone#/maplink/0"><%= @city.geocoding %></a>
     </div>
 
 <!--   <div class="heraldic">
@@ -16,11 +16,28 @@
     </p>
 
 
+<!-- <div class="thumbnails">
+  <a href="https://placeholder.com" class="item"><img src="https://via.placeholder.com/300x150"></a>
+  <a href="https://placeholder.com" class="item"><img src="https://via.placeholder.com/300x150"></a>
+  <a href="https://placeholder.com" class="item"><img src="https://via.placeholder.com/300x150"></a>
+</div> -->
 
 <div class="thumbnails">
-  <a href="https://placeholder.com" class="item"><img src="https://via.placeholder.com/300x150"></a>
-  <a href="https://placeholder.com" class="item"><img src="https://via.placeholder.com/300x150"></a>
-  <a href="https://placeholder.com" class="item"><img src="https://via.placeholder.com/300x150"></a>
+  <div>
+    <img class="photo"
+    <%= image_tag ("/assets/photo1.jpg")%>
+  </div>
+
+  <div>
+  <img class="photo"
+  <%= image_tag ("/assets/photo2.jpg")%>
+  </div>
+
+  <div>
+    <img class="photo"
+    <%= image_tag ("/assets/photo3.jpg")%>
+  </div>
+
 </div>
 
 </div>
