@@ -1,8 +1,7 @@
 .container {
   display: flex;
-  justify-content: space-around;
-  align: center;
-  text-align: center;
+  ///lign: center;
+  //text-align: center;
 }
 
 .intro-note{
@@ -10,5 +9,7 @@
   padding: 40px;
   margin: 0 auto;
   text-align: justify;
+ // vertical-align: middle;
+  margin: auto;
 }
 

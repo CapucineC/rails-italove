@@ -47,13 +47,22 @@
   }
   & .position {
      position:absolute;
-     top: 1px;
+     top: -29px;
      right: 147px;
+     max-width: 117px;
      ///padding:6px 15px;
 }
 
 & .thumbnails{
-    padding: 40px;
-    margin-left: 172px;
+    padding: 60px;
+    ///margin-left: 172px;
+    display: flex;
+    justify-content: center;
+    background-color: $light-gray;
   }
+
+& .item{
+    padding: 10px;
+}
+
 }
