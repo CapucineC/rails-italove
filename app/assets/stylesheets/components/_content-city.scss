@@ -25,9 +25,10 @@
   justify-content: space-evenly;
   text-align: center;
   align-items: center;
-  justify-content: space-between;
-  margin-right: 350px;
-  margin-left: 360px;
+  //justify-content: space-between;
+  //margin-right: 250px;
+  //margin-left: 250px;
+  margin: 0 auto;
 }
 
 //   & .heraldic {
@@ -74,21 +75,20 @@
     ///margin-left: 172px;
     display: flex;
     //flex-wrap: wrap;
-    justify-content: center;
+    justify-content: space-around;
     background-color: $light-gray;
     margin-left: 200px;
     margin-right: 200px;
-
   }
 
-& .item{
-  padding: 10px;
-}
 
-& .photo{
-  max-width: 40%;
-  margin: 0;
-}
 
+.photo {
+ & > img {
+    width: 200px;
+    //   width: 10px;
+    //   height: auto;
+  }
+}
 
 }

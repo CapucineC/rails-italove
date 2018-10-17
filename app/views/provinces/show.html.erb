@@ -5,17 +5,18 @@
     <%= @province.description %>
  </div>
 <br>
-
+<br>
 <div>
   <ul class="town-list">
     <% @province.cities.each do |city| %>
               <!--  pour toutes les villes de la province en param do  -->
     <ul>
-    <%= link_to city.name, city_path(city)  %>
-                <!--  mettre le nom de la ville + redirection URL page dans son nom -->
-     <div class="heraldic">
-      <%= image_tag ("/assets/blaz_florence.png")%>
-     </div>
+      <div class="heraldic">
+        <%= image_tag ("/assets/blaz_florence.png")%>
+       </div>
+
+      <%= link_to city.name, city_path(city)  %>
+    <!--  mettre le nom de la ville + redirection URL page dans son nom -->
     </ul>
     <% end %>
   </ul>
