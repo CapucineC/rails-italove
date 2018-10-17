@@ -1,31 +1,28 @@
 <div class="content-province">
   <h1><span><%= @province.name %></span></h1>
-  <p class="description-province">
-  <%= @province.description %>
-  </p>
+<br>
+  <div class="description-province">
+    <%= @province.description %>
+ </div>
+<br>
 
-  <ul class="emblems">
+<div>
+  <ul class="town-list">
     <% @province.cities.each do |city| %>
               <!--  pour toutes les villes de la province en param do  -->
-              <ul>
-                <%= link_to city.name, city_path(city)  %>
+    <ul>
+    <%= link_to city.name, city_path(city)  %>
                 <!--  mettre le nom de la ville + redirection URL page dans son nom -->
-              </ul>
-            <% end %>
-<!--
-    <li>
-      <a href="">
 
-        <img class="heraldic-image" src="/images/blaz_florence.png" alt="" />
-        Florence
-      </a>
-    </li>
-    <li>
-      <a href="">
-        <img class="heraldic-image" src="/images/blaz_sienne.png" alt="" />
-        Sienne
-      </a>
-    </li> -->
-
+     <div class="heraldic">
+      <%= image_tag ("/assets/blaz_florence.png")%>
+     </div>
+    </ul>
+    <% end %>
   </ul>
+</div>
+
+
+
+
 </div>

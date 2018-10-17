@@ -3,7 +3,9 @@
   margin: auto;
   text-align: justify;
   position: relative;
-  margin-top: 193px;
+  margin-top: 180px;
+  font-size: 20px;
+
 
   & h1 {
     text-align: center;
@@ -52,7 +54,8 @@
      right: 147px;
      max-width: 117px;
      font-size: 16px;
-     text-align: justify;
+     text-align: center;
+     font-family: 'Cinzel Decorative', cursive;
      ///padding:6px 15px;
 }
 
@@ -63,6 +66,7 @@
     //flex-wrap: wrap;
     justify-content: space-around;
     background-color: $light-gray;
+    margin-left: 10px;
   }
 
 & .item{
@@ -70,7 +74,7 @@
 }
 
 & .photo{
-  max-width: 80%;
+  max-width: 70%;
   margin: 0;
 }
 

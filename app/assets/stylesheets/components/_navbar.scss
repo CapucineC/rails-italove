@@ -1,13 +1,13 @@
 .navbar {
     flex-shrink: 0;
     list-style-type: none;
-    margin: 0 0 0 66px;
+    margin: 0 0 0 0px;
     padding: 0;
     padding-top: 15px;
-    width: 242px;
+    width: 229px;
     min-height: 100vh;
     background-color: $medium-grey;
-    box-shadow: -21px 0 0 black, -100px 0 0 $dark-grey,
+    box-shadow: 7px 0 0 #2e2e2e, 0px 0 0 $dark-grey,
   }
 
 //dark- sublime- grey : #4b4b4b//
@@ -24,7 +24,7 @@
     color: $light-gray;
     padding: 1px 0px;
     text-decoration: none;
-    color: black;
+    color: #2e2e2e;
 
 }
 
@@ -40,13 +40,13 @@
   }
 
 .region > a {
-  color: black;
-  //font-weight: bolder;
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 300;
+  color: #2e2e2e;
+  //font-family: 'Montserrat', sans-serif;
+  font-family: 'Cinzel Decorative', cursive;
+  text-transform: capitalize;
 }
 
 .villes {
   text-transform: capitalize;
-  font-family: 'Cinzel Decorative', cursive;
+  font-family: 'Cabin Sketch', cursive;
 }

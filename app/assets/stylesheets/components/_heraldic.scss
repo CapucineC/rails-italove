@@ -1,8 +1,17 @@
-.heraldic {
-  display: flex;
-  flex-grow: 0;
-  margin: auto;
-  max-height: 12vh;
-}
+// .heraldic {
+//   display: flex;
+//   flex-grow: 0;
+//   margin: auto;
+//   max-height: 12vh;
+// }
 
+
+
+.heraldic {
+& > img {
+    max-width: 25%;
+    //   width: 10px;
+    //   height: auto;
+  }
+}
 
