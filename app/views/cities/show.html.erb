@@ -1,48 +1,43 @@
 <div class="content-city">
-  <h1><span><%= @city.name %></span></h1>
+    <div class="top-info">
+      <div class="heraldic">
+        <%= image_tag ("/assets/blaz_florence.png")%>
+       </div>
 
-    <div class= "position">
-      <a href="https://fr.wikipedia.org/wiki/V%C3%A9rone#/maplink/0"><%= @city.geocoding %></a>
+       <div class= "position">
+        <a href="https://fr.wikipedia.org/wiki/V%C3%A9rone#/maplink/0"><%= @city.geocoding %></a>
+       </div>
     </div>
-
-<!--   <div class="heraldic">
-    <div class="heraldic-image">>
-      <%= image_tag ("/assets/blaz_florence.png")%>
+    <div class="description-city">
+      <h1><span><%= @city.name %></span></h1>
+      <br>
+      <%= @city.description %>
     </div>
-  </div> -->
-
-    <p class="description-city">
-    <%= @city.description %>
-    </p>
-
-
-<!-- <div class="thumbnails">
-  <a href="https://placeholder.com" class="item"><img src="https://via.placeholder.com/300x150"></a>
-  <a href="https://placeholder.com" class="item"><img src="https://via.placeholder.com/300x150"></a>
-  <a href="https://placeholder.com" class="item"><img src="https://via.placeholder.com/300x150"></a>
-</div> -->
 
 <div class="thumbnails">
-  <div>
-    <img class="photo"
-    <%= image_tag ("/assets/photo1.jpg")%>
-    <p>Paysages</p>
-  </div>
 
 
-  <div>
+<div>
   <img class="photo"
-  <%= image_tag ("/assets/photo2.jpg")%>
-  <p>Rues</p>
-  </div>
-
-  <div>
-    <img class="photo"
-    <%= image_tag ("/assets/photo3.jpg")%>
-    <p>Scènes</p>
-  </div>
-
+  <%= image_tag ("/assets/photo1.jpg")%>
 </div>
 
+
+<div>
+   <img class="photo"
+    <%= image_tag ("/assets/photo2.jpg")%>
 </div>
+
+
+<div>
+  <img class="photo"
+  <%= image_tag ("/assets/photo3.jpg")%>
+</div>
+
+
+
+
+</div>
+</div>
+
 
