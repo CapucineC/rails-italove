@@ -3,7 +3,7 @@
     list-style-type: none;
     margin: 0 0 0 0px;
     padding: 0;
-    padding-top: 15px;
+    padding-top: 5px;
     width: 229px;
     min-height: 100vh;
     background-color: $medium-grey;
@@ -49,4 +49,9 @@
 .villes {
   text-transform: capitalize;
   font-family: 'Cabin Sketch', cursive;
+}
+
+.website-title{
+  padding-left: 15px;
+  font-weight: bold;
 }
