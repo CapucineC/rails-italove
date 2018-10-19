@@ -6,8 +6,10 @@
     padding-top: 5px;
     width: 229px;
     min-height: 100vh;
-    background-color: $medium-grey;
-    box-shadow: 7px 0 0 #2e2e2e, 0px 0 0 $dark-grey,
+    background-color: #eeeeee;
+    //background-color: $medium-grey;
+    //box-shadow: 7px 0 0 #2e2e2e, 0px 0 0 $dark-grey,
+    box-shadow: 7px 0 0 lightgrey, 0px 0 0 $dark-grey,
   }
 
 //dark- sublime- grey : #4b4b4b//
@@ -30,7 +32,7 @@
 
 /* Change the link color on hover */
 .navbar a:hover {
-    background-color: $medium-grey ;
+    background-color: #eeeeee;
     color: white;
 }
 
@@ -42,7 +44,8 @@
 .region > a {
   color: #2e2e2e;
   //font-family: 'Montserrat', sans-serif;
-  font-family: 'Cinzel Decorative', cursive;
+ // font-family: 'Cinzel Decorative', cursive;
+  font-family: 'Raleway', cursive;
   text-transform: capitalize;
 }
 
