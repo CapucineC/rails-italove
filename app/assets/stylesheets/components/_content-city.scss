@@ -76,9 +76,11 @@
     display: flex;
     //flex-wrap: wrap;
     justify-content: space-around;
-    background-color: $light-gray;
-    margin-left: 200px;
-    margin-right: 200px;
+    background-color: white;
+    //margin-left: 200px;
+    //margin-right: 200px;
+    max-width: 630px;
+    margin: auto;
   }
 
 
