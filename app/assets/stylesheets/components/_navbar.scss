@@ -9,7 +9,7 @@
     background-color: #eeeeee;
     //background-color: $medium-grey;
     //box-shadow: 7px 0 0 #2e2e2e, 0px 0 0 $dark-grey,
-    box-shadow: 7px 0 0 lightgrey, 0px 0 0 $dark-grey,
+    box-shadow: 1px 0 0 lightgrey, 0px 0 0 $dark-grey,
   }
 
 //dark- sublime- grey : #4b4b4b//
@@ -23,10 +23,10 @@
 
 .navbar a {
     display: block;
-    color: $light-gray;
+    //color: $light-gray;
     padding: 1px 0px;
     text-decoration: none;
-    color: #2e2e2e;
+    color: #7d7d7d;
 }
 
 /* Change the link color on hover */
@@ -37,21 +37,20 @@
 
 .region {
   margin: 10px 5px 20px;
-  text-transform: uppercase;
+  //text-transform: uppercase;
+  font-family: 'Cinzel', cursive;
+  //font-weight: bolder;
   }
 
 .region > a {
-  color: #2e2e2e;
   //font-family: 'Montserrat', sans-serif;
  // font-family: 'Cinzel Decorative', cursive;
-  font-family: 'Josefin Sans', cursive;
-  //text-transform: capitalize;
-  font-weight: bolder;
+
 }
 
 .villes {
-  text-transform: capitalize;
-  //font-family: 'Cabin Sketch', cursive;
+  //text-transform: capitalize;
+  //font-family: 'Cabin Sketch/Quicksand', cursive;
   font-family: 'Josefin Sans', cursive;
 }
 
