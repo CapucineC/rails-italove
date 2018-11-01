@@ -8,8 +8,9 @@
 
 
 .heraldic {
- & > img {
-    width: 100px;
+& > img {
+width: 80px;
+filter: grayscale(20%);
     //   width: 10px;
     //   height: auto;
   }

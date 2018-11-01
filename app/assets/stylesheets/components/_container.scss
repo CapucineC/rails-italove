@@ -1,15 +1,25 @@
 .container {
-  display: flex;
-  ///lign: center;
+  //display: flex;
+  //background: #F4F4F4;
+  ///align: center;
   //text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    align-items: center;
+    margin: 0 auto;
 }
+
+
 
 .intro-note{
   max-width: 670px;
-  padding: 40px;
-  margin: 0 auto;
+  padding: 112px;
+  //margin: 0 auto;
   text-align: justify;
  // vertical-align: middle;
-  margin: auto;
+  //margin: auto;
+  margin: auto 30px;
+  background: #F4F4F4;
 }
 

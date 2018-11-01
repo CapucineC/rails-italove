@@ -16,13 +16,16 @@ florence = City.create(
   geocoding: "43° 46′ 18′ NORD 11° 15′ 13′ EST",
   description:"Palazzo Medici Ricardi, Uffizzi, Ponte Vecchio, Duomo, Giardino di Boboli, Santa Maria Novella, Santa Croce ou San Marco.... “dans ce nom de Florence, tout un rêve de soleil et de lys” écrivait Marcel Proust..",
   province: toscane,
-  coordinates: "https://goo.gl/maps/4WL6xXWkwjs")
+  coordinates: "https://goo.gl/maps/4WL6xXWkwjs",
+  heraldic: "/assets/blaz_florence.png")
+
  sienne = City.create(
   name:"Sienne",
   geocoding: "43° 20′ 00″ NORD 11° 20′ 00″ EST",
   description: "Sienne, ville située en Toscane, au centre de l'Italie, se caractérise par ses bâtiments médiévaux en briques. Sur la Piazza del Campo, la place centrale en forme de coquillage, se dressent le Palazzo Pubblico, l'hôtel de ville gothique, et la Torre del Mangia, tour étroite du XIVe siècle offrant une vue panoramique depuis son sommet en travertin blanc. Les 17 contrades (quartiers) historiques de la ville s'articulent autour de la piazza.",
   province: toscane,
-  coordinates: "https://goo.gl/maps/85YqEXKrphs")
+  coordinates: "https://goo.gl/maps/85YqEXKrphs",
+  heraldic: "/assets/blaz_siena.png")
 
 venetie = Province.create(
   name: "Vénétie",
@@ -32,13 +35,15 @@ venise = City.create(
   geocoding: "45° 26′ 23″ NORD 12° 19′ 55″ EST",
   description:"'Voici la ville qui, à tous, inspire la stupeur. Qui ne la loue est indigne de sa langue, qui ne la contemple est indigne de la lumière, qui ne l’admire est indigne de l’esprit, qui ne l’honore est indigne de l’honneur. Qui ne l’a vue ne croit point ce qu’on lui en dit et qui la voit croit à peine ce qu’il voit. Qui entend sa gloire n’a de cesse de la voir, et qui la voit n’a de cesse de la revoir. Qui la voit une fois s’en énamoure pour la vie et ne la quitte jamais plus, ou s’il la quitte c’est bientôt pour la retrouver, et s’il ne la retrouve il se désole de ne point la revoir. De ce désir d’y retourner qui pèse sur tous ceux qui la quittèrent elle prit le nom de venetia, comme pour dire à ceux qui la quittent, dans une douce prière : Veni etiam, reviens encore'",
   province: venetie,
-  coordinates: "https://goo.gl/maps/Unz3cfn1V442")
+  coordinates: "https://goo.gl/maps/Unz3cfn1V442",
+  heraldic: "/assets/blaz_venise.png")
 verone = City.create(
   name:"Verone",
   geocoding: "45° 26′ 00″ NORD 10° 59′ 00″ EST",
   description:"Au milieu d'une bande de terre dessinée par les coudes du fleuve Adige surgit Vérone, une splendide ville. Les Arènes de Vérone sont un immense amphithéâtre romain du Ier siècle, où se déroulent aujourd'hui des concerts et des grandes représentations d'opéra.",
   province: venetie,
-  coordinates: "https://goo.gl/maps/PhQ2mgP1ypK2")
+  coordinates: "https://goo.gl/maps/PhQ2mgP1ypK2",
+  heraldic: "/assets/blaz_rome.png")
 
 emilieromagne = Province.create(
   name: "Emilie-romagne",
