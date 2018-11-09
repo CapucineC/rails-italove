@@ -19,6 +19,7 @@
     margin: 0 auto;
     text-align: justify;
     padding-top: 10px;
+    padding-bottom: 10px;
   }
 
  & .top-info{
@@ -101,15 +102,35 @@
   text-align: center;
 }
 
+.photo{
+  //width: 200px;
+  //height: 120px;
+}
 
-.photo {
- & > img {
-    width: 200px;
-    border: 8px solid #F4F4F4;
+.photo img {
+  width: 150px;
+  height: 150px;
+  padding-bottom: 7px;
+
+  //object-fit: cover;
+}
+
+//.photo {
+ //& > img {
+   // width: 200px;
+    //border: 8px solid #F4F4F4;
     //   width: 10px;
     //   height: auto;
-  }
-}
+//}
 
 
+
+img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  display: inline-block;
 }
+
+}
+
