@@ -3,18 +3,18 @@
   margin: auto;
   text-align: justify;
   position: relative;
-  margin-top: 100px;
-  font-size: 20px;
+  font-size: 18px;
 
   & h1 {
     text-align: center;
     font-family: 'Cinzel Decorative', cursive;
     font-weight: bold;
-    font-size: 40px;
+    font-size: 38px;
+    margin-top: 30px;
   }
 
   & .description-city{
-    max-width: 670px;
+    max-width: 508px;
     padding: 40px;
     margin: 0 auto;
     text-align: justify;
@@ -23,6 +23,7 @@
   }
 
  & .top-info{
+  padding-top: 64px;
   display: flex;
   justify-content: space-evenly;
   text-align: center;
@@ -36,7 +37,7 @@
 & .heraldic {
   filter: grayscale(100%);
  & > img {
-    width: 80px;
+    width: 60px;
 
 
     //filter: grayscale();
@@ -76,8 +77,8 @@
 //      position:absolute;
 //      top: -80px;
 //      right: 200px;
-  max-width: 117px;
-  font-size: 16px;
+  max-width: 90px;
+  font-size: 12px;
   text-align: center;
   font-family: 'Cinzel Decorative', cursive;
 //      ///padding:6px 15px;
@@ -108,10 +109,9 @@
 }
 
 .photo img {
-  width: 150px;
-  height: 150px;
+  width: 130px;
+  //height: 150px;
   padding-bottom: 7px;
-
   //object-fit: cover;
 }
 
@@ -123,8 +123,6 @@
     //   height: auto;
 //}
 
-
-
 img {
   //height: 100%;
   width: 100%;
@@ -132,5 +130,8 @@ img {
   display: inline-block;
 }
 
+& .cadre {
+  height: 100vh;
 }
 
+}

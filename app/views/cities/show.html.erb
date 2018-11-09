@@ -1,26 +1,28 @@
 <div class="content-city">
+  <div class="cadre">
     <div class="top-info">
       <div class="heraldic">
-        <%= image_tag (@city.heraldic)%>
-       </div>
+      <%= image_tag (@city.heraldic)%>
+      </div>
 
-       <div class= "position">
+      <div class= "position">
       <!--   <a href="https://goo.gl/maps/SCVdsKrtJpM2"><%= @city.geocoding %></a> -->
         <a href=<%= @city.coordinates  %>><%= @city.geocoding %></a>
-       </div>
-    </div>
-    <div class="description-city">
-      <h1><span><%= @city.name %></span></h1>
-      <br>
-      <%= @city.description %>
+      </div>
     </div>
 
-<div class="thumbnails">
-  <div class="photo">
-    <%= image_tag (@city.picture)%>
-    <p>→ ici...</p>
-  </div>
+      <div class="description-city">
+        <h1><span><%= @city.name %></span></h1>
+        <br>
+        <%= @city.description %>
+      </div>
 
+    <div class="thumbnails">
+      <div class="photo">
+        <%= image_tag (@city.picture)%>
+        <p>Par ici ↓</p>
+      </div>
+    </div>
  <!--  <div class="photo">
     <%= image_tag ("/assets/photo3.jpg")%>
 
