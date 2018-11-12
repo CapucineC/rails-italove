@@ -26,7 +26,7 @@ florence = City.create(
   description: "Sienne, ville située en Toscane, au centre de l'Italie, se caractérise par ses bâtiments médiévaux en briques. Sur la Piazza del Campo, la place centrale en forme de coquillage, se dressent le Palazzo Pubblico, l'hôtel de ville gothique, et la Torre del Mangia, tour étroite du XIVe siècle offrant une vue panoramique depuis son sommet en travertin blanc. Les 17 contrades (quartiers) historiques de la ville s'articulent autour de la piazza.",
   province: toscane,
   coordinates: "https://goo.gl/maps/85YqEXKrphs",
-  heraldic: "/assets/blaz_siena.png",
+  heraldic: "/assets/blaz_sienne.png",
   picture: "/assets/sienne.jpg")
 
 venetie = Province.create(
@@ -46,7 +46,7 @@ verone = City.create(
   description:"Au milieu d'une bande de terre dessinée par les coudes du fleuve Adige surgit Vérone, une splendide ville. Les Arènes de Vérone sont un immense amphithéâtre romain du Ier siècle, où se déroulent aujourd'hui des concerts et des grandes représentations d'opéra.",
   province: venetie,
   coordinates: "https://goo.gl/maps/PhQ2mgP1ypK2",
-  heraldic: "/assets/blaz_rome.png",
+  heraldic: "/assets/blaz_verone.png",
   picture: "/assets/verone.jpg")
 
 emilieromagne = Province.create(
@@ -58,7 +58,7 @@ bologne = City.create(
   description:"Bologne est la capitale dynamique et historique de la région d'Émilie-Romagne, au NORD de l'Italie. Sa Piazza Maggiore E une vaste place bordée de colonnades voûtées, de cafés et de structures médiévales et Renaissance telles que l'hôtel de ville, la fontaine de Neptune et la basilique San Petronio. Les nombreuses tours médiévales de la ville comprennent la tour penchée Asinelli et la tour Garisenda.",
   province: emilieromagne,
   coordinates: "https://goo.gl/maps/gyyqhXALfVz",
-  heraldic: "/assets/blaz_rome.png",
+  heraldic: "/assets/blaz_bologne.png",
   picture: "/assets/bologne.jpg")
 ferrare = City.create(
   name:"Ferrare",
@@ -66,7 +66,7 @@ ferrare = City.create(
   description:"Ferrare est une ville italienne de la province de Ferrare en Émilie-Romagne. Située dans le delta du Pô sur le bras nommé Pô de Volano, la cité actuelle remonte au XIVᵉ siècle, alors qu'elle était gouvernée par la famille d'Ee.",
   province: emilieromagne,
   coordinates: "https://goo.gl/maps/dRXnKnRM3BM2",
-  heraldic: "/assets/blaz_rome.png",
+  heraldic: "/assets/blaz_ferrare.png",
   picture: "/assets/ferrare.jpg")
 
 latium = Province.create(
@@ -77,7 +77,8 @@ rome = City.create(
   geocoding: "41° 53′ 19″ NORD 12° 29′ 12″ EST",
   description:"Capitale de l'Italie, Rome est une grande ville cosmopolite dont l'art, l'architecture et la culture de presque 3 000 ans rayonnent dans le monde entier. Ses ruines telles que celles du Forum Romain et du Colisée évoquent la puissance de l'ancien Empire romain. Siège de l'Église catholique romaine, la Cité du Vatican compte la basilique Saint-Pierre et les musées du Vatican où se trouvent des chefs-d'œuvre tels que la fresque de la chapelle Sixtine, peinte par Michel-Ange.",
   province: latium,
-  coordinates: "https://goo.gl/maps/ZfDcvgGZPpv")
+  coordinates: "https://goo.gl/maps/ZfDcvgGZPpv",
+  heraldic: "/assets/blaz_rome.png")
 
 lombardie = Province.create(
   name: "Lombardie",
@@ -87,19 +88,22 @@ milan = City.create(
   geocoding: "45° 28′ 00″ NORD 9° 10′ 00″ EST",
   description:"Milan, métropole de la région de la Lombardie, au NORD de l'Italie, E une capitale mondiale de la mode et du design. Ce centre financier, siège de la Bourse d'Italie, E également connu pour ses boutiques et ses rEaurants haut de gamme. La cathédrale gothique du Dôme de Milan et le couvent Santa Maria delle Grazie, qui abrite la fresque de Léonard de Vinci, La Cène, témoignent de plusieurs siècles d'art et de culture.",
   province: lombardie,
-  coordinates: "https://goo.gl/maps/mKiL573Sybt")
+  coordinates: "https://goo.gl/maps/mKiL573Sybt",
+  heraldic: "/assets/blaz_milan.png")
 bergame = City.create(
   name:"Bergame",
   geocoding: "45° 42′ 00″ NORD 9° 39′ 58″ EST",
   description:"Bergame est une ville italienne au N-E de Milan, dans la région de la Lombardie. Sa vieille ville en hauteur, appelée Città Alta, se caractérise par ses rues pavées, encerclées de murs vénitiens et accessibles par funiculaire. C'E dans ce quartier que se trouve le Duomo di Bergamo, la cathédrale de la ville. La basilique romane Santa Maria Maggiore et l'immense Cappella Colleoni, une chapelle décorée de fresques du XVIIIe siècle peintes par Tiepolo, y sont également implantées.",
   province: lombardie,
-  coordinates: "https://goo.gl/maps/EVKRgQvA6jK2")
+  coordinates: "https://goo.gl/maps/EVKRgQvA6jK2",
+  heraldic: "/assets/blaz_bergame.png",)
 mantoue = City.create(
   name:"Mantoue",
   geocoding: "45° 10′ NORD 10° 48′ EST",
   description:"Mantoue est une ville italienne, perle de la Renaissance, chef-lieu de la province du même nom en Lombardie, région de la plaine du Pô",
   province: lombardie,
-  coordinates: "https://goo.gl/maps/wMK3qnSbNVn")
+  coordinates: "https://goo.gl/maps/wMK3qnSbNVn",
+  heraldic: "/assets/blaz_mantoue.png",)
 
 lacs = Province.create(
   name: "Lacs Italiens",
@@ -109,35 +113,47 @@ come = City.create(
   geocoding: "45° 59′ 40″ NORD 9° 15′ 58″ EST",
   description:"connue pour ses paysages spectaculaires est adossée aux contreforts des Alpes. Le lac a la forme d'un Y renversé, avec trois fines branches qui se rejoignent à la station balnéaire de Bellagio. À l'extrémité de la branche sud-ouE se trouve la ville de Côme, avec son architecture de la Renaissance et un funiculaire qui rejoint la ville de montagne de Brunate.",
   province: lacs,
-  coordinates: "https://goo.gl/maps/iNpSnhvPHom")
+  coordinates: "https://goo.gl/maps/iNpSnhvPHom",
+  heraldic: "/assets/blaz_varese.png",)
 majeur = City.create(
   name:"Lac majeure",
   geocoding: "45° 54′ 18″ NORD 8° 34′ 57″ EST",
   description:"Le lac Majeur est un lac italo-suisse situé à cheval sur le Piémont, la Lombardie et le canton du Tessin. Il E l’un des plus beaux lacs italiens.",
   province: lacs,
-  coordinates: "https://goo.gl/maps/J9Rdd5nAh8A2")
+  coordinates: "https://goo.gl/maps/J9Rdd5nAh8A2",
+  heraldic: "/assets/blaz_stressa.png")
 
 pouilles = Province.create(
   name: "Pouilles",
   description:"Les Pouilles, région du sud de l'Italie formant le talon de la botte, sont réputées pour leurs villes blanchies à la chaux dans les collines, leurs terres agricoles vieilles de plusieurs siècles et leurs centaines de kilomètres de littoral méditerranéen. Bari, la capitale, E une ville universitaire et portuaire dynamique, tandis que Lecce E connue comme la Florence du sud en raison de son architecture baroque. Alberobello et la vallée d'Itria abritent des trulli, habitations en pierre aux toits coniques caractéristiques de la région.")
-polignano = City.create(
-  name:"Polignano a Mare",
-  geocoding: "41° 00′ 00″ NORD 17° 13′ 00″ EST",
-  description:"Polignano a Mare est une commune de la ville métropolitaine de Bari, dans les Pouilles, en Italie méridionale. Ses habitants sont appelés les Polignanesi. La ville, perchée en haut de falaises calcaires, E célèbre pour la transparence bleutée de la mer qui la borde.",
+bari = City.create(
+  name:"Bari",
+  geocoding: "41° 08′ 00″ NORD, 16° 52′ 00″ EST",
+  description:"Bari est une ville portuaire sur la mer Adriatique, et le chef-lieu des Pouilles, une région du Sud de l'Italie. La vieille ville, dans le quartier de Barivecchia, est un labyrinthe de rues occupant un promontoire entre deux ports. Entourée de rues étroites, la basilique de San Nicola, un édifice bâti au XIe siècle et lieu de pèlerinage majeur, renferme des reliques de saint Nicolas. Au sud, le quartier de Murat offre une architecture monumentale du XIXe siècle, une promenade et des rues commerçantes piétonnes.",
   province: pouilles,
-  coordinates: "https://goo.gl/maps/LUrv3p7dSFH2")
+  coordinates: "https://goo.gl/maps/sfbWwN4KmgE2",
+  heraldic: "/assets/blaz_bari.png")
 monopoli = City.create(
   name:"Monopoli",
   geocoding: "40° 57′ 00″ NORD 17° 18′ 00″ EST",
   description:"Monopoli (du grec Monos-polis) qui signifie ville unique, et sans doute, elle rEe fidèle à son nom encore aujourd'hui. La ville conserve son charme qui vient de son histoire et de ses traditions. Ville d'environ 50.000 d’habitants, sur le littoral adriatique, à 43km de Bari, elle voisine avec les villes de Polignano a Mare, Conversano, Castellana Grotte, Alberobello et Fasano.",
   province: pouilles,
-  coordinates: "https://goo.gl/maps/eeRFwUbMUuS2")
+  coordinates: "https://goo.gl/maps/eeRFwUbMUuS2",
+  heraldic: "/assets/blaz_monopoli.png")
+polignano = City.create(
+  name:"Polignano a Mare",
+  geocoding: "41° 00′ 00″ NORD 17° 13′ 00″ EST",
+  description:"Polignano a Mare est une commune de la ville métropolitaine de Bari, dans les Pouilles, en Italie méridionale. Ses habitants sont appelés les Polignanesi. La ville, perchée en haut de falaises calcaires, E célèbre pour la transparence bleutée de la mer qui la borde.",
+  province: pouilles,
+  coordinates: "https://goo.gl/maps/LUrv3p7dSFH2",
+  heraldic: "/assets/blaz_polignano.png")
 lecce = City.create(
   name:"Lecce",
   geocoding: "40° 21′ 13″ NORD 18° 10′ 32″ EST",
   description:"Elle est célèbre pour ses bâtiments de style baroque. Sur la Piazza del Duomo, au centre, le dôme de Lecce présente une façade double et un clocher. La basilique de Santa Croce E ornée de sculptures et d'une rosace. À proximité se trouvent la colonne de Sant'Oronzo, une colonne surmontée d'une statue en bronze du saint patron de la ville, et l’amphithéâtre romain, construit en partie sous terre.",
   province: pouilles,
-  coordinates: "https://goo.gl/maps/KYwRbRVnUfp")
+  coordinates: "https://goo.gl/maps/KYwRbRVnUfp",
+  heraldic: "/assets/blaz_lecce.png")
 
 piemont = Province.create(
   name: "Piémont",
@@ -147,7 +163,8 @@ turin = City.create(
   geocoding: "45° 04′ 00″ NORD 7° 42′ 00″ EST",
   description:"Les Alpes s'élèvent au Nord-ouest de la ville. De superbes bâtiments baroques et de vieux cafés bordent les boulevards de Turin ainsi que ses grandes places, comme la Piazza Castello et la Piazza San Carlo. La flèche élancée de la Mole Antonelliana se dresse à proximité ;",
   province: piemont,
-  coordinates: "https://goo.gl/maps/TqJf3La3Dmo")
+  coordinates: "https://goo.gl/maps/TqJf3La3Dmo",
+  heraldic: "/assets/blaz_turin.png")
 
 puts "All good"
 
