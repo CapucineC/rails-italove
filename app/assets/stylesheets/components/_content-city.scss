@@ -20,15 +20,16 @@
     margin: 0 auto;
     text-align: justify;
     padding-top: 10px;
-    padding-bottom: 10px;
   }
 
  & .top-info{
-  padding-top: 64px;
+  max-width: 508px;
+  padding: 64px 38px 0 38px;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   text-align: center;
   align-items: center;
+
   //justify-content: space-between;
   //margin-right: 250px;
   //margin-left: 250px;
@@ -36,9 +37,9 @@
 }
 
 & .heraldic {
-  //filter: grayscale(100%);
  & > img {
     width: 60px;
+    //filter: grayscale(20%);
 
 
     //filter: grayscale();

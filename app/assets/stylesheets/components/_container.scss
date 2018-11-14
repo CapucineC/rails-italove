@@ -1,4 +1,8 @@
 .container {
+  margin: auto;
+}
+
+.box {
   //display: flex;
   //background: #F4F4F4;
   ///align: center;
@@ -8,18 +12,23 @@
     text-align: center;
     align-items: center;
     margin: 0 auto;
+    width: 800px;
+    height: 450px;
+    border: 2px solid #F4F4F4;
 }
 
 
-
 .intro-note{
-  max-width: 670px;
-  padding: 112px;
-  //margin: 0 auto;
+  max-width: 370px;
+  padding: 22px;
   text-align: justify;
+  margin: auto auto auto 45px;
+  background: #F4F4F4;
+  font-size: 14px;
+  font-family: 'Cabin Sketch', cursive;
+  //margin: 0 auto;
+
  // vertical-align: middle;
   //margin: auto;
-  margin: auto 30px;
-  background: #F4F4F4;
 }
 

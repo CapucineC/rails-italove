@@ -13,10 +13,11 @@
     <ul>
       <div class="heraldic">
         <!--<%= image_tag ("/assets/blaz_florence.png")%>-->
-        <%= image_tag (city.heraldic)%>
+        <%=link_to image_tag(city.heraldic), city_path(city)  %>
          <!-- How to make this an href clickable -->
-       </div>
-      <%= link_to city.name, city_path(city)  %>
+        <%=link_to city.name, city_path(city)  %>
+
+      </div>
     <!--  mettre le nom de la ville + redirection URL page dans son nom -->
     </ul>
     <% end %>

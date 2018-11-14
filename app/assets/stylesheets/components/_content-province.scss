@@ -8,7 +8,6 @@
   & h1 {
     text-align: center;
     margin-bottom: 20px;
-    //font-family: 'Josefin Sans';
     font-weight: 700;
     font-family: 'Cinzel Decorative', cursive;
     font-size: 40px;
@@ -49,20 +48,17 @@
       font-weight: lighter;
     }
 
-    .heraldic {
-      & > img {
-      width: 80px;
-      filter: grayscale(20%);
+    & > img {
+      width: 60px;
     //   width: 10px;
     //   height: auto;
   }
   }
-
     // & > img {
     //   display: block;
     //   width: 10px;
     //   height: auto;
-  }
+
   }
 
 

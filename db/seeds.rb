@@ -35,9 +35,11 @@ venetie = Province.create(
 venise = City.create(
   name: "Venise",
   geocoding: "45° 26′ 23″ NORD 12° 19′ 55″ EST",
-  description:"'Voici la ville qui, à tous, inspire la stupeur. Qui ne la loue est indigne de sa langue, qui ne la contemple est indigne de la lumière, qui ne l’admire est indigne de l’esprit, qui ne l’honore est indigne de l’honneur. Qui ne l’a vue ne croit point ce qu’on lui en dit et qui la voit croit à peine ce qu’il voit. Qui entend sa gloire n’a de cesse de la voir, et qui la voit n’a de cesse de la revoir. Qui la voit une fois s’en énamoure pour la vie et ne la quitte jamais plus, ou s’il la quitte c’est bientôt pour la retrouver, et s’il ne la retrouve il se désole de ne point la revoir. De ce désir d’y retourner qui pèse sur tous ceux qui la quittèrent elle prit le nom de venetia, comme pour dire à ceux qui la quittent, dans une douce prière : Veni etiam, reviens encore'",
+  description:"“Voici la ville qui, à tous, inspire la stupeur. Qui ne la loue est indigne de sa langue, qui ne la contemple est indigne de la lumière, qui ne l’admire est indigne de l’esprit, qui ne l’honore est indigne de l’honneur. Qui ne l’a vue ne croit point ce qu’on lui en dit et qui la voit croit à peine ce qu’il voit. Qui entend sa gloire n’a de cesse de la voir, et qui la voit n’a de cesse de la revoir. Qui la voit une fois s’en énamoure pour la vie et ne la quitte jamais plus, ou s’il la quitte c’est bientôt pour la retrouver, et s’il ne la retrouve il se désole de ne point la revoir. De ce désir d’y retourner qui pèse sur tous ceux qui la quittèrent elle prit le nom de venetia, comme pour dire à ceux qui la quittent, dans une douce prière :
+  Veni etiam, reviens encore.”
+  – Luigi Groto",
   province: venetie,
-  coordinates: "https://goo.gl/maps/Unz3cfn1V442",
+  coordinates: "https://goo.gl/maps/eyGwojdbeDT2",
   heraldic: "/assets/blaz_venise.png",
   picture: "/assets/venise.jpg")
 verone = City.create(
@@ -88,7 +90,7 @@ milan = City.create(
   geocoding: "45° 28′ 00″ NORD 9° 10′ 00″ EST",
   description:"Milan, métropole de la région de la Lombardie, au NORD de l'Italie, E une capitale mondiale de la mode et du design. Ce centre financier, siège de la Bourse d'Italie, E également connu pour ses boutiques et ses rEaurants haut de gamme. La cathédrale gothique du Dôme de Milan et le couvent Santa Maria delle Grazie, qui abrite la fresque de Léonard de Vinci, La Cène, témoignent de plusieurs siècles d'art et de culture.",
   province: lombardie,
-  coordinates: "https://goo.gl/maps/mKiL573Sybt",
+  coordinates: "https://goo.gl/maps/NiCiPELALho",
   heraldic: "/assets/blaz_milan.png")
 bergame = City.create(
   name:"Bergame",
