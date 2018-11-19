@@ -1,5 +1,6 @@
 .container {
   margin: auto;
+  //background: image-url('mappa.png') no-repeat;
 }
 
 .box {
@@ -15,20 +16,29 @@
     width: 800px;
     height: 450px;
     border: 2px solid #F4F4F4;
+   //background-image: url('assets/ma.png');
+    //background-image: url(background.png);
+    //background-color: lightgray;
+    //background: image-url('background.png') no-repeat;
+    //background-size: 100% 100%;
+    //background: image-url('mappa.png') no-repeat;
+    //background-size: 100% 100%;
 }
 
 
 .intro-note{
   max-width: 370px;
-  padding: 22px;
+  padding: 48px;
   text-align: justify;
-  margin: auto auto auto 45px;
+  margin: auto auto auto 77px;
   background: #F4F4F4;
   font-size: 14px;
   font-family: 'Cabin Sketch', cursive;
+  height: 250px;
   //margin: 0 auto;
-
- // vertical-align: middle;
+  // vertical-align: middle;
   //margin: auto;
+
+
 }
 

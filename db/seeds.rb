@@ -10,11 +10,11 @@ Province.destroy_all
 
 toscane = Province.create(
   name: "Toscane",
-  description:"La Toscane réalise le  Passage du Moyen Âge à la Renaissance, seul endroit au monde concentrant autant d’oeuvres et de génies. Sa campagne vallonée et ses villes de pierre ont été au seiziècle le lieu du laboratoire de la politique. Deux modèles se sont opposés dans une rivalité historique : la bourgeoisie de Sienne contre principat de Florence.")
+  description:"Splendeur du paysage toscan, si finement ciselée dans ses contours qu'on dirait qu'il fut dessiné par les peintres pour continuer l'art hors des villes. Au creux des vallons bleutés, on trouve des vignes vertes produisant les meilleurs vins, parmi lesquels le Chianti et le Vino Nobile di Montepulciano. La Toscane réalisa le Passage du Moyen-Âge à la Renaissance. Elle est le seul endroit au monde concentrant autant d’oeuvres et de génies. Sa campagne vallonée et ses villes de pierre ont été au seizième laboratoire de la politique. Deux modèles se sont opposés dans une rivalité historique : la bourgeoisie de Sienne contre le principat de Florence.")
 florence = City.create(
   name:"Florence",
   geocoding: "43° 46′ 18′ NORD 11° 15′ 13′ EST",
-  description:"Palazzo Medici Ricardi, Uffizzi, Ponte Vecchio, Duomo, Giardino di Boboli, Santa Maria Novella, Santa Croce ou San Marco.... “dans ce nom de Florence, tout un rêve de soleil et de lys” écrivait Marcel Proust..",
+  description: "Berceau de la Renaissance, la ville de Florence possède un patrimoine culturel et artistique extraordinaire où se succèdent églises, musées et palais d’une richesse presque indécente. Sous l'impulsion des Médicis, elle fut le lieu d'un foisonnement intellectuel sans précédent, donnant à l'Italie ses plus grands artistes et penseurs, voyant se succéder parmi tant d'autres Brunelleschi, Botticelli, Machiavel et encore Boccace.",
   province: toscane,
   coordinates: "https://goo.gl/maps/4WL6xXWkwjs",
   heraldic: "/assets/blaz_florence.png",
