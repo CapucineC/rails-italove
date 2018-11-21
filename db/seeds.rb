@@ -45,8 +45,7 @@ venise = City.create(
 verone = City.create(
   name:"Verone",
   geocoding: "45° 26′ 00″ NORD 10° 59′ 00″ EST",
-  description:"
-  Vérone est belle comme un jardin d'été. Les balcons de la ville sont parsemés d'une profusion de fleurs et de lier grimpants. Les rues sont peintes. Les murs de la Piazza delle Erbe sont recouvert de splendides fresques dont on devine l'éclat d'antan. Plus loin, le jardin Giusti est un havre de paix aux allées de cyprès, dont la simplicité magnanime respire la serenité et la beauté.",
+  description:"Vérone resplendit comme un jardin d'été. Les balcons de la ville sont parsemés d'une profusion de fleurs et de lier grimpants. Les rues sont peintes. Les murs de la Piazza delle Erbe sont recouvert de splendides fresques dont on devine l'éclat d'antan. Plus loin, le jardin Giusti est un havre de paix aux allées de cyprès, dont la simplicité magnanime respire la serenité et la beauté.",
   province: venetie,
   coordinates: "https://goo.gl/maps/PhQ2mgP1ypK2",
   heraldic: "/assets/blaz_verone.png",
@@ -58,7 +57,7 @@ emilieromagne = Province.create(
 bologne = City.create(
   name:"Bologne",
   geocoding: "44° 30′ 00″ NORD 11° 21′ 00″ EST",
-  description:"Par l'atmosphère si sympathique qu'elle dégage et la beauté de ses rues médiévales, Bologne est une joie. On s'y promène par tout temps, grâce aux portiques infinis qui recouvrent ses rues. Très pittoresque, le centre ville est hérissé de tours médiévales. Au Moyen-Age, on en comptait plus de deux cents, qui servaient de poste de guet pour prévenir les attaques. Et puis le pouvoir fut confisqué par la famille Bentivoglio, qui fit entrer la Renaissance dans la ville. En témoigne, la façade très belle façade de la basilique San Petronio réalisé par Jacopo della Quercia. Depuis toujours, Bologne est connue pour abriter la plus vieille université d'Europe, qui fut fréquentée par Dante, Boccace et Pétrarque.",
+  description:"Par l'atmosphère si sympathique qu'elle dégage et la beauté de ses rues médiévales et romanes, Bologne est une joie. On s'y promène par tout temps, grâce aux portiques infinis qui recouvrent ses rues. Très pittoresque, le centre ville est hérissé de tours médiévales. Au Moyen-Age, on en comptait plus de deux cents, qui servaient de poste de guet pour prévenir les attaques. Et puis le pouvoir fut confisqué par la famille Bentivoglio, qui fit entrer la Renaissance dans la ville. En témoigne la très belle façade de la basilique San Petronio réalisé par Jacopo della Quercia. Bologne est connue pour abriter la plus vieille université d'Europe, qui fut fréquentée par les illustres Dante, Boccace et Pétrarque.",
   province: emilieromagne,
   coordinates: "https://goo.gl/maps/SikWUfv8ZAP2",
   heraldic: "/assets/blaz_bologne.png",
@@ -85,13 +84,13 @@ rome = City.create(
 
 lombardie = Province.create(
   name: "Lombardie",
-  description:"La Lombardie est une région du NORD de l'Italie. Son chef-lieu, Milan, E un centre mondial de la mode et de la finance, avec de nombreux rEaurants et boutiques haut de gamme. Sa cathédrale gothique (le Duomo di Milano) et le couvent Santa Maria delle Grazie, qui abrite le tableau de Léonard de Vinci La Cène, témoignent de siècles d'art et de culture. Au NORD de Milan, dans les Préalpes, le lac de Côme E un lieu de villégiature haut de gamme avec des paysages pittoresques.")
+  description:"Située sous les Alpes et serties par les lacs, la Lombardie est une région à la nature bleutée et rafraichissante. On le voit dans l'esthétique des peintres de la renaissance lombarde comme Bernardino Luini, dont les tableaux ont des tons toujours plus sobres et glacés. Région très prospère du Nord de l'Italie, la Lombardie possède des villes très actives qui se parent de prestigieux monuments: Dômes, palais de marbres et forteresses se dressent élégament vers le ciel, tandis que les piétons affairés marchent d'un pas rapide dans des rues rectilignes.")
 milan = City.create(
   name:"Milan",
   geocoding: "45° 28′ 00″ NORD 9° 10′ 00″ EST",
-  description:"Milan, métropole de la région de la Lombardie, au NORD de l'Italie, E une capitale mondiale de la mode et du design. Ce centre financier, siège de la Bourse d'Italie, E également connu pour ses boutiques et ses rEaurants haut de gamme. La cathédrale gothique du Dôme de Milan et le couvent Santa Maria delle Grazie, qui abrite la fresque de Léonard de Vinci, La Cène, témoignent de plusieurs siècles d'art et de culture.",
+  description:"Fief des familles Sforza et Visconti, capitale de la mode et de la finance, la divine Milan étale son succès aux quatre coins de la ville. Ce n'est pas dans ses rues qu'il faut cherche sa beauté car elle n'y est pas. Elle se révèle par a-coups, au grés des arrières cours cachés des Palazzi, de balades matinales dans le quartier de Brera, dans ses monuments et ses institutions : on voit les milanais déguster un rissoto dans une trattoria fine, déambuler dans la Galleria Vittorio Emmanuelle regarder les sublimes devantures de Prada, prendre quelques pâtisseries chez Marchesi, se rendre à la Scala pour écouter Verdi. Reste à admirer l'austère château Sforza et l'éblouissant Dôme de Milan qui pointe vers le ciel cent trente cinq flèches de marbre.",
   province: lombardie,
-  coordinates: "https://goo.gl/maps/NiCiPELALho",
+  coordinates: "https://goo.gl/maps/PwxzZtBFjSq",
   heraldic: "/assets/blaz_milan.png")
 bergame = City.create(
   name:"Bergame",
