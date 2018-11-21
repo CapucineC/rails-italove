@@ -10,28 +10,28 @@ Province.destroy_all
 
 toscane = Province.create(
   name: "Toscane",
-  description:"Splendeur du paysage toscan, si finement ciselée dans ses contours qu'on dirait qu'il fut dessiné par les peintres pour continuer l'art hors des villes. Au creux des vallons bleutés, on trouve des vignes vertes produisant les meilleurs vins, parmi lesquels le Chianti et le Vino Nobile di Montepulciano. La Toscane réalisa le Passage du Moyen-Âge à la Renaissance. Elle est le seul endroit au monde concentrant autant d’oeuvres et de génies. Sa campagne vallonée et ses villes de pierre ont été au seizième laboratoire de la politique. Deux modèles se sont opposés dans une rivalité historique : la bourgeoisie de Sienne contre le principat de Florence.")
+  description:"Splendeur du paysage toscan, si finement ciselée dans ses contours qu'on dirait qu'il fut dessiné par les peintres pour continuer l'art hors des villes. Au creux de ses vallons bleutés se nichent les vignes du Chianti qui produisent aujourd'hui encore les meilleurs vins. C'est ici qu'a débuté la Renaissance dont l'histoire et l'héritage artistique eurent une influence considérable sur la haute culture européenne. Rivales éternelles, les villes de Toscane ont été un véritable laboratoire du politique. Deux modèles s'y sont opposés dans une rivalité historique : la bourgeoisie de Sienne contre le principat médicéen de Florence.")
 florence = City.create(
   name:"Florence",
   geocoding: "43° 46′ 18′ NORD 11° 15′ 13′ EST",
-  description: "Berceau de la Renaissance, la ville de Florence possède un patrimoine culturel et artistique extraordinaire où se succèdent églises, musées et palais d’une richesse presque indécente. Sous l'impulsion des Médicis, elle fut le lieu d'un foisonnement intellectuel sans précédent, donnant à l'Italie ses plus grands artistes et penseurs, voyant se succéder parmi tant d'autres Brunelleschi, Botticelli, Machiavel et encore Boccace.",
+  description: "Berceau de la Renaissance, la ville de Florence possède un patrimoine culturel et artistique extraordinaire où se succèdent églises, monuments et palais d’une richesse presque indécente. Sous l'impulsion des banquiers Médicis, elle fut le lieu d'un foisonnement intellectuel et artistique sans précédent, donnant à l'Italie ses plus grands artistes et penseurs, voyant se succéder parmi tant d'autres Brunelleschi, Botticelli, Léonard de Vinci, Machiavel et encore Boccace.",
   province: toscane,
-  coordinates: "https://goo.gl/maps/4WL6xXWkwjs",
+  coordinates: "https://goo.gl/maps/sZJUBztHrg82",
   heraldic: "/assets/blaz_florence.png",
   picture: "/assets/florence1.jpg")
 
  sienne = City.create(
   name:"Sienne",
   geocoding: "43° 20′ 00″ NORD 11° 20′ 00″ EST",
-  description: "Sienne, ville située en Toscane, au centre de l'Italie, se caractérise par ses bâtiments médiévaux en briques. Sur la Piazza del Campo, la place centrale en forme de coquillage, se dressent le Palazzo Pubblico, l'hôtel de ville gothique, et la Torre del Mangia, tour étroite du XIVe siècle offrant une vue panoramique depuis son sommet en travertin blanc. Les 17 contrades (quartiers) historiques de la ville s'articulent autour de la piazza.",
+  description: "Ville médiévale perchée en haut d'une colline, Sienne est un bijoux. Avec ses rues hautes et étroites elle possède encore le pouvoir évocateur que donne l'Histoire. Tout en haut, le Duomo rayé de marbre blanc et noir cache des madones d'or. A flanc de colline, on trouve la Piazza del Campo, connue pour sa forme de coquillage. Chaque année s'y déroule la course de chevaux du Palio, durant laquelle s'affrontent les 17 contrades (quartiers de la ville). Surplombant la place, se dressent la Torre della Mangia et les hautes façade du Palazzo Publico, où l'on peut voir les excellentes fresques peintes par Ambrogio Lorenzetti au quatorzième siècle, lorsque Sienne est en plein doute sur l'efficacité de son gouvernement bourgeois.",
   province: toscane,
-  coordinates: "https://goo.gl/maps/85YqEXKrphs",
+  coordinates: "https://goo.gl/maps/5n7jjEjss7K2",
   heraldic: "/assets/blaz_sienne.png",
   picture: "/assets/sienne.jpg")
 
 venetie = Province.create(
   name: "Vénétie",
-  description:"La Vénétie est une région du Nord-Est de l'Italie s'étendant des Dolomites à la mer Adriatique. Venise, sa capitale, E célèbre pour ses canaux, son architecture gothique et les fEivités de son carnaval. La Vénétie a fait partie de la puissante république de Venise pendant plus de 1 000 ans, entre le VIIe et le XVIIIe siècle. Située à proximité du lac de Garde, on trouve la ville médiévale de Vérone.")
+  description:"La Vénétie dessine pour les voyageurs des paysages féeriques : ici les montagnes enneigée des Dolomites recouvertes d'un long manteaux blanc, par là la lagune de Venise qui pave les rues d'eau, là bas le charme Vérone qui fait éclore des fleurs sur tous les balcons à l'arrivée du printemps.")
 venise = City.create(
   name: "Venise",
   geocoding: "45° 26′ 23″ NORD 12° 19′ 55″ EST",
@@ -45,7 +45,8 @@ venise = City.create(
 verone = City.create(
   name:"Verone",
   geocoding: "45° 26′ 00″ NORD 10° 59′ 00″ EST",
-  description:"Au milieu d'une bande de terre dessinée par les coudes du fleuve Adige surgit Vérone, une splendide ville. Les Arènes de Vérone sont un immense amphithéâtre romain du Ier siècle, où se déroulent aujourd'hui des concerts et des grandes représentations d'opéra.",
+  description:"
+  Vérone est belle comme un jardin d'été. Les balcons de la ville sont parsemés d'une profusion de fleurs et de lier grimpants. Les rues sont peintes. Les murs de la Piazza delle Erbe sont recouvert de splendides fresques dont on devine l'éclat d'antan. Plus loin, le jardin Giusti est un havre de paix aux allées de cyprès, dont la simplicité magnanime respire la serenité et la beauté.",
   province: venetie,
   coordinates: "https://goo.gl/maps/PhQ2mgP1ypK2",
   heraldic: "/assets/blaz_verone.png",
@@ -53,19 +54,19 @@ verone = City.create(
 
 emilieromagne = Province.create(
   name: "Emilie-romagne",
-  description:"L'Émilie-Romagne est une région du NORD de l'Italie qui s'étend de la chaîne des Apennins jusqu'au fleuve Pô. Elle E connue pour ses villes médiévales, sa gastronomie et ses stations balnéaires. La capitale, Bologne, E une ville dynamique, siège d'une université datant du XIe siècle et dotée, en son centre historique médiéval, de rues et de places bordées de portiques en arcades. Ravenne, près de la côte adriatique, E célèbre pour ses mosaïques byzantines aux couleurs éclatantes.")
+  description:"L'Émiligne-Romagne est une contrée d'aventure, où tout rappelle encore l'empire romain. Elle doit d'ailleurs son nom à la construction de la 'voie Emilienne' par le consul romain Marcus Aemilius Lepidus au IIe siècle A.D. Aventuresques, les villes de Bologne et de Ferrare nous entrainent dans des rues rougeoyantes, sous des arcades et des voutes, sur des places bordée de tavernes, à l'intérieur de châteaux qui ont encore des pont levis. On y ripaille excellemment, tant la région est connue pour sa bonne viande, ses saucissons et son vin goutu.")
 bologne = City.create(
   name:"Bologne",
   geocoding: "44° 30′ 00″ NORD 11° 21′ 00″ EST",
-  description:"Bologne est la capitale dynamique et historique de la région d'Émilie-Romagne, au NORD de l'Italie. Sa Piazza Maggiore E une vaste place bordée de colonnades voûtées, de cafés et de structures médiévales et Renaissance telles que l'hôtel de ville, la fontaine de Neptune et la basilique San Petronio. Les nombreuses tours médiévales de la ville comprennent la tour penchée Asinelli et la tour Garisenda.",
+  description:"Par l'atmosphère si sympathique qu'elle dégage et la beauté de ses rues médiévales, Bologne est une joie. On s'y promène par tout temps, grâce aux portiques infinis qui recouvrent ses rues. Très pittoresque, le centre ville est hérissé de tours médiévales. Au Moyen-Age, on en comptait plus de deux cents, qui servaient de poste de guet pour prévenir les attaques. Et puis le pouvoir fut confisqué par la famille Bentivoglio, qui fit entrer la Renaissance dans la ville. En témoigne, la façade très belle façade de la basilique San Petronio réalisé par Jacopo della Quercia. Depuis toujours, Bologne est connue pour abriter la plus vieille université d'Europe, qui fut fréquentée par Dante, Boccace et Pétrarque.",
   province: emilieromagne,
-  coordinates: "https://goo.gl/maps/gyyqhXALfVz",
+  coordinates: "https://goo.gl/maps/SikWUfv8ZAP2",
   heraldic: "/assets/blaz_bologne.png",
   picture: "/assets/bologne.jpg")
 ferrare = City.create(
   name:"Ferrare",
   geocoding: "44° 50′ 00″ NORD 11° 37′ 00″ EST",
-  description:"Ferrare est une ville italienne de la province de Ferrare en Émilie-Romagne. Située dans le delta du Pô sur le bras nommé Pô de Volano, la cité actuelle remonte au XIVᵉ siècle, alors qu'elle était gouvernée par la famille d'Ee.",
+  description:"Le destin de Ferrare est intimement lié à la dynastie des Ducs d'Este qui la gouvernèrent pendant plus de quatre siècles. Au centre de la vieille ville trône le majestueux mais terrifiant château d'Este, séparé du reste du monde par des douves remplis d'eau verte. Visionnaire et tyranniques, ces princes ont remodelé la ville à la Renaissance, redessinant ses rues pour en faire une citadelle idéale. Ferrare était alors une des cours les plus prestigieuses d'Europe : s'y réunissait tout ce que l'on comptait d'esprits fins et cultivés. Les fresques du Palazzo Schifanoia témoignent encore des fastes de la vie à la cour des Estes.",
   province: emilieromagne,
   coordinates: "https://goo.gl/maps/dRXnKnRM3BM2",
   heraldic: "/assets/blaz_ferrare.png",
@@ -73,13 +74,13 @@ ferrare = City.create(
 
 latium = Province.create(
   name: "Latium",
-  description:"Le Latium est une région du centre de l'Italie au bord de la mer Tyrrhénienne. Sa principale ville, Rome, E la capitale de l'Italie et ancien cœur de l'Empire romain. Les vEiges emblématiques de la ville comprennent le Colisée, un amphithéâtre qui pouvait accueillir plusieurs milliers de personnes. Sur la côte, le port antique d'Ostie conserve encore des mosaïques et un théâtre. Dans les terres se trouve la chaîne des Apennins avec ses montagnes boisées, ses réserves naturelles, ses lacs et ses villages en pierre.")
+  description:"Le Latium est une succession de champs cultivés, de paysages blondis par les blés et d'étendues verdoyantes s'étendant des montagnes de l'Apennins à la mer Tyrrhénienne. Pareille à la louvre romaine, la vocation du Latium semble être celle de substance nourricière des villes. Au milieux des terres, on trouve encore des ruines de l'empire romain comme le Colisée de Rome ou les théâtres d'Ostie.")
 rome = City.create(
   name:"Rome",
   geocoding: "41° 53′ 19″ NORD 12° 29′ 12″ EST",
-  description:"Capitale de l'Italie, Rome est une grande ville cosmopolite dont l'art, l'architecture et la culture de presque 3 000 ans rayonnent dans le monde entier. Ses ruines telles que celles du Forum Romain et du Colisée évoquent la puissance de l'ancien Empire romain. Siège de l'Église catholique romaine, la Cité du Vatican compte la basilique Saint-Pierre et les musées du Vatican où se trouvent des chefs-d'œuvre tels que la fresque de la chapelle Sixtine, peinte par Michel-Ange.",
+  description:"On dit de Rome qu'elle est Caput Mundis, Urbs, ville entre les ville, la ville éternelle. La gloire de Rome renaît sans cesse. Elle fut le coeur de l'empire romain et lieu de vie de ses empereurs. Puis elle devint le siège du pouvoir spirituel des Papes. Son règne fut ensuite disputé par les grandes familles romaines de la Renaissance : les Orsini, les Médicis et les Borgia. Elle devint enfin le haut lieu d'expression baroque au dix-septième siècle. ROMA, qui se renverse en AMOR pour nous parler de passion au milieu des peintures du Carravage et de Michel-Ange, des églises et des palais.",
   province: latium,
-  coordinates: "https://goo.gl/maps/ZfDcvgGZPpv",
+  coordinates: "https://goo.gl/maps/ceRkEQgjreP2",
   heraldic: "/assets/blaz_rome.png")
 
 lombardie = Province.create(
