@@ -14,7 +14,7 @@ toscane = Province.create(
 florence = City.create(
   name:"Florence",
   geocoding: "43° 46′ 18′ NORD 11° 15′ 13′ EST",
-  description: "Berceau de la Renaissance, la ville de Florence possède un patrimoine culturel et artistique extraordinaire où se succèdent églises, monuments et palais d’une richesse presque indécente. Sous l'impulsion des banquiers Médicis, elle fut le lieu d'un foisonnement intellectuel et artistique sans précédent, donnant à l'Italie ses plus grands artistes et penseurs, voyant se succéder parmi tant d'autres Brunelleschi, Botticelli, Léonard de Vinci, Machiavel et encore Boccace.",
+  description: "Berceau de la Renaissance, la ville de Florence possède un patrimoine culturel et artistique extraordinaire où se succèdent églises, monuments et palais d’une beauté magnanime. Sous l'impulsion des banquiers Médicis, elle fut le lieu d'un foisonnement intellectuel et artistique sans précédent, donnant à l'Italie ses plus grands artistes et penseurs, voyant se succéder parmi tant d'autres Brunelleschi, Botticelli, Léonard de Vinci, Machiavel et encore Boccace.",
   province: toscane,
   coordinates: "https://goo.gl/maps/sZJUBztHrg82",
   heraldic: "/assets/blaz_florence.png",
@@ -57,7 +57,7 @@ emilieromagne = Province.create(
 bologne = City.create(
   name:"Bologne",
   geocoding: "44° 30′ 00″ NORD 11° 21′ 00″ EST",
-  description:"Par l'atmosphère si sympathique qu'elle dégage et la beauté de ses rues médiévales et romanes, Bologne est une joie. On s'y promène par tout temps, grâce aux portiques infinis qui recouvrent ses rues. Très pittoresque, le centre ville est hérissé de tours médiévales. Au Moyen-Age, on en comptait plus de deux cents, qui servaient de poste de guet pour prévenir les attaques. Et puis le pouvoir fut confisqué par la famille Bentivoglio, qui fit entrer la Renaissance dans la ville. En témoigne la très belle façade de la basilique San Petronio réalisé par Jacopo della Quercia. Bologne est connue pour abriter la plus vieille université d'Europe, qui fut fréquentée par les illustres Dante, Boccace et Pétrarque.",
+  description:"Par l'atmosphère si sympathique qu'elle dégage et la beauté de ses rues médiévales et romanes, Bologne vous rend joyeux. On s'y promène par tout temps, grâce aux portiques infinis qui recouvrent ses rues. Très pittoresque, le centre ville est hérissé de tours médiévales. Au Moyen-Age, on en comptait plus de deux cents, qui servaient de poste de guet pour prévenir les attaques. Et puis le pouvoir fut confisqué par la famille Bentivoglio, qui fit entrer la Renaissance dans la ville. En témoigne la très belle façade de la basilique San Petronio réalisé par Jacopo della Quercia. Bologne est connue pour abriter la plus vieille université d'Europe, qui fut fréquentée par les illustres Dante, Boccace et Pétrarque.",
   province: emilieromagne,
   coordinates: "https://goo.gl/maps/SikWUfv8ZAP2",
   heraldic: "/assets/blaz_bologne.png",
@@ -73,61 +73,61 @@ ferrare = City.create(
 
 latium = Province.create(
   name: "Latium",
-  description:"Le Latium est une succession de champs cultivés, de paysages blondis par les blés et d'étendues verdoyantes s'étendant des montagnes de l'Apennins à la mer Tyrrhénienne. Pareille à la louvre romaine, la vocation du Latium semble être celle de substance nourricière des villes. Au milieux des terres, on trouve encore des ruines de l'empire romain comme le Colisée de Rome ou les théâtres d'Ostie.")
+  description:"Depuis l'époque antique, le Latium est une succession de champs cultivés, de paysages blondis par les blés et d'étendues verdoyantes courrant des montagnes de l'Apennins à la mer Tyrrhénienne. La région doit son nom au roi Latinus et à ses sujets les Latini, une tribu qui s'y est implantée après les étrusques et qui parlait une langue ancêtre du latin archaïque. Nourricière comme la louvre romaine, le Latium ne compte pas beaucoup de grandes villes, mais elle a construit Rome, capitale de l'Empire romain, ville la plus chargée d'histoire de toute l'Italie. Au milieux de ses terres, on trouve encore des ruines de l'empire. Parmi les plus connues, le Colisée de Rome ou les théâtres d'Ostie.")
 rome = City.create(
   name:"Rome",
   geocoding: "41° 53′ 19″ NORD 12° 29′ 12″ EST",
-  description:"On dit de Rome qu'elle est Caput Mundis, Urbs, ville entre les ville, la ville éternelle. La gloire de Rome renaît sans cesse. Elle fut le coeur de l'empire romain et lieu de vie de ses empereurs. Puis elle devint le siège du pouvoir spirituel des Papes. Son règne fut ensuite disputé par les grandes familles romaines de la Renaissance : les Orsini, les Médicis et les Borgia. Elle devint enfin le haut lieu d'expression baroque au dix-septième siècle. ROMA, qui se renverse en AMOR pour nous parler de passion au milieu des peintures du Carravage et de Michel-Ange, des églises et des palais.",
+  description:"On dit de Rome qu'elle est Caput Mundis, Urbs, ville entre les ville, la ville éternelle. La gloire de Rome renaît sans cesse. Elle fut le coeur de l'empire romain et lieu de vie de ses empereurs. Puis elle devint le siège du pouvoir spirituel des Papes. Son règne fut ensuite disputé par les grandes familles romaines de la Renaissance : les Orsini, les Médicis et les Borgia. Elle devint enfin le haut lieu d'expression baroque au dix-septième siècle. ROMA, qui se renverse en AMOR pour nous parler de passion au milieu des peintures du Carravage, des églises baroques et des palais somptueux.",
   province: latium,
   coordinates: "https://goo.gl/maps/ceRkEQgjreP2",
   heraldic: "/assets/blaz_rome.png")
 
 lombardie = Province.create(
   name: "Lombardie",
-  description:"Située sous les Alpes et serties par les lacs, la Lombardie est une région à la nature bleutée et rafraichissante. On le voit dans l'esthétique des peintres de la renaissance lombarde comme Bernardino Luini, dont les tableaux ont des tons toujours plus sobres et glacés. Région très prospère du Nord de l'Italie, la Lombardie possède des villes très actives qui se parent de prestigieux monuments: Dômes, palais de marbres et forteresses se dressent élégament vers le ciel, tandis que les piétons affairés marchent d'un pas rapide dans des rues rectilignes.")
+  description:"Située sous les Alpes et serties par les lacs, la Lombardie est une région à la nature bleutée et rafraichissante. On le voit dans l'esthétique des peintres de la renaissance lombarde comme Luini, dont les tableaux ont des tons plus sobres et glacés que ses condisciples florentins. Région prospère du Nord de l'Italie, la Lombardie possède des villes très actives qui se parent de prestigieux monuments: Dômes, palais de marbres et forteresses se dressent élégamment vers le ciel, tandis que les piétons affairés marchent d'un pas rapide dans des rues rectilignes.")
 milan = City.create(
   name:"Milan",
   geocoding: "45° 28′ 00″ NORD 9° 10′ 00″ EST",
-  description:"Fief des familles Sforza et Visconti, capitale de la mode et de la finance, la divine Milan étale son succès aux quatre coins de la ville. Ce n'est pas dans ses rues qu'il faut cherche sa beauté car elle n'y est pas. Elle se révèle par a-coups, au grés des arrières cours cachés des Palazzi, de balades matinales dans le quartier de Brera, dans ses monuments et ses institutions : on voit les milanais déguster un rissoto dans une trattoria fine, déambuler dans la Galleria Vittorio Emmanuelle regarder les sublimes devantures de Prada, prendre quelques pâtisseries chez Marchesi, se rendre à la Scala pour écouter Verdi. Reste à admirer l'austère château Sforza et l'éblouissant Dôme de Milan qui pointe vers le ciel cent trente cinq flèches de marbre.",
+  description:"Fief des familles Sforza et Visconti, capitale de la mode et de la finance, la divine Milan étale son succès aux quatre coins de la ville. Mais ce n'est pas dans ses rues qu'il faut cherche sa beauté car elle n'y est pas. Elle se cache dans les arrières cours des Palazzi, se revèle par a-coups au grés des balades dans le quartier de Brera, devant ses monuments et dans ses institutions. Il faut regarder vivre les milanais : on les voit déguster un risotto dans une trattoria fine, se promener dans la Galleria Vittorio Emmanuelle pour regarder les sublimes devantures de Prada, prendre quelques pâtisseries chez Marchesi, se rendre à la Scala pour écouter Verdi. Nous reste à admirer l'austère château Sforza et l'éblouissant Dôme de Milan qui pointe vers le ciel cent trente cinq flèches de marbre.",
   province: lombardie,
   coordinates: "https://goo.gl/maps/PwxzZtBFjSq",
   heraldic: "/assets/blaz_milan.png")
 bergame = City.create(
   name:"Bergame",
   geocoding: "45° 42′ 00″ NORD 9° 39′ 58″ EST",
-  description:"Bergame est une ville italienne au N-E de Milan, dans la région de la Lombardie. Sa vieille ville en hauteur, appelée Città Alta, se caractérise par ses rues pavées, encerclées de murs vénitiens et accessibles par funiculaire. C'E dans ce quartier que se trouve le Duomo di Bergamo, la cathédrale de la ville. La basilique romane Santa Maria Maggiore et l'immense Cappella Colleoni, une chapelle décorée de fresques du XVIIIe siècle peintes par Tiepolo, y sont également implantées.",
+  description:" La partie haute de la vlle, Bergame altà, est un village lombard perché en haut une colline, au pied des Alpes bergamasques. Il est entouré de ses vieilles murailles d'enceinte, consolidées au XVIe siècle par la domination vénitienne. A l’intérieur du bastion, on trouve une ville miniature pleine de charme : sur le sol quadrillé de longue Piazza Vecchia se regroupent le médiéval Palazzo della Ragione, le Palazzo Nuovo habillé par une façade en marbre et la Fontaine Contarini dont les lions vénitiens semblent toiser les habitants assis dans les cafés. Plus loin, la très belle Basilica di Santa Maria Maggiore présente une extraordinaire façade rose et blanche, structurées en fin motifs géométriques.",
   province: lombardie,
   coordinates: "https://goo.gl/maps/EVKRgQvA6jK2",
   heraldic: "/assets/blaz_bergame.png",)
 mantoue = City.create(
   name:"Mantoue",
   geocoding: "45° 10′ NORD 10° 48′ EST",
-  description:"Mantoue est une ville italienne, perle de la Renaissance, chef-lieu de la province du même nom en Lombardie, région de la plaine du Pô",
+  description:"C'est d'éclat qu'il faut parler pour décrire Mantoue, cette éboulissante perle de la Renaissance dont les Gonzagues firent la richesse et la gloire. Il semble que le Palazzo Ducal ait été uniquement fait pour l'art et les plaisirs tant ses couloirs d'or, ses loggias et ses jardins promènent le voyageur dans un rêve. Au fond du palais, dans la camera degli Sposi, Andrea Mantegna raconte dans ses fresques l'histoire du règne des Gonzagues, tandis qu'au plafond, des anges nous regardent depuis un ciel majestueux. Aux portes de la ville, dans le Palazzo Te, le peintre maniériste Giulio Romano renverse les perspectives et les ordres de grandeur nous entrainant à sa suite, dans le monde des géants et des dieux.",
   province: lombardie,
   coordinates: "https://goo.gl/maps/wMK3qnSbNVn",
   heraldic: "/assets/blaz_mantoue.png",)
 
 lacs = Province.create(
   name: "Lacs Italiens",
-  description:"La beauté des lacs du nord de l'Italie, qui se sont formés à la fin de la dernière période glaciaire, fascine les vacanciers depuis l’époque romaine. Le voyageur qui traverse les Alpes E accueilli par une explosion de couleurs méditerranéennes : des jardins remplis de camélias, de lauriers-roses et de palmiers luxuriants entourent des lacs d’un bleu azur. Des bateaux de pêche se balancent doucement dans de petites criques, des palais semblent flotter au-dessus de l’eau, des églises rustiques s’agrippent à flanc de falaise et des hôtels et établissements thermaux de la Belle Époque bordent le rivage.")
+  description:"La beauté des lacs de l'Italie du Nord fascine. Dans la brume des montages bleutée, on les voit se dessiner avec leurs bateaux de pêche, leurs criques, leur villages authentiques, leur somptueuses villas bordées par des jardins remplis de lauriers et de roses et leurs palais magnifiques construits au fil des siècles par les grandes familles de la noblesse lombarde. Le voyageur est arlos attrapé par des couleurs méditerranées et des saveurs italiennes, et par ces lacs au bleu majestueux et profond qui présage déjà la sérénité des paysages suisses.")
 come = City.create(
   name:"Lac de Come",
   geocoding: "45° 59′ 40″ NORD 9° 15′ 58″ EST",
-  description:"connue pour ses paysages spectaculaires est adossée aux contreforts des Alpes. Le lac a la forme d'un Y renversé, avec trois fines branches qui se rejoignent à la station balnéaire de Bellagio. À l'extrémité de la branche sud-ouE se trouve la ville de Côme, avec son architecture de la Renaissance et un funiculaire qui rejoint la ville de montagne de Brunate.",
+  description:"Lac longiligne, qui touchent en ses sommets les villages de Bellagio, Como et Lecco. Il est entouré par un paysage de montagnes où les cloches des villages cotoient les cyprès et où les villas sublimes s'accrochent au flanc des falaises. Dès l'époque romaine, le Lac de Côme fut prisé par l'élite qui y a construit au fil des siècles de magnifiques demeures. La villa Monastero accueille ses promeneurs par des allées de fleur gardées par des lions de statue tandis que du haut de la villa Carlotta, une succession d'escalier renouvelle sans cesse les perspectives sur le bleu profond du lac.",
   province: lacs,
   coordinates: "https://goo.gl/maps/iNpSnhvPHom",
   heraldic: "/assets/blaz_varese.png",)
 majeur = City.create(
   name:"Lac majeure",
   geocoding: "45° 54′ 18″ NORD 8° 34′ 57″ EST",
-  description:"Le lac Majeur est un lac italo-suisse situé à cheval sur le Piémont, la Lombardie et le canton du Tessin. Il E l’un des plus beaux lacs italiens.",
+  description:"Sur les rivages du lac Majeure, des bateaux de bois laqués attendent les voyageurs pour les emmener sur les îles Borromées, qui font la réputation de l'endroit. Sur Isola Madre, on trouvera un jardin luxuriant aux fleurs colorés, où les palmiers côtoient des statues d'une blancheur éclatante. Sur l'Isola dei Pescatori se dresse un village très pittoresque avec son clocher blanc, ses toits rouges et ses filets de pêcheurs qui pendant encore aux portes rustiques. Enfin, sur Isola Bella, un somptueux palais baroque semblent flotter sur les eaux, tandis que dans ses magnifiques jardins en cascade, des paons blancs se baladent en seigneur dans des allées rosies par les azalées et les rhododendrons.",
   province: lacs,
   coordinates: "https://goo.gl/maps/J9Rdd5nAh8A2",
   heraldic: "/assets/blaz_stressa.png")
 
 pouilles = Province.create(
   name: "Pouilles",
-  description:"Les Pouilles, région du sud de l'Italie formant le talon de la botte, sont réputées pour leurs villes blanchies à la chaux dans les collines, leurs terres agricoles vieilles de plusieurs siècles et leurs centaines de kilomètres de littoral méditerranéen. Bari, la capitale, E une ville universitaire et portuaire dynamique, tandis que Lecce E connue comme la Florence du sud en raison de son architecture baroque. Alberobello et la vallée d'Itria abritent des trulli, habitations en pierre aux toits coniques caractéristiques de la région.")
+  description:"La région des Pouilles forme le talon de la botte italienne. Avec sa côté capricieusement découpée, sa mer d'un bleu cristallin et ses plateaux agricoles couleur cuivre parsemé d'abres verts et elle offre aux promeneurs ébahis des paysages d'une beauté à couper le souffle. Bordée par les mers adriatiques et ionienne, parsemée d'églises romanes, de palais baroques et de châteaux normands et souables, il fallait bien que les Pouilles s'accordent au pluriel. Sur la route de Bari à Ortranto, le littoral est parsemé de petites ports, et de villes blanchies à la chaux dont l'aspect antique vous projette dans les souvenirs des mythes grecs.")
 bari = City.create(
   name:"Bari",
   geocoding: "41° 08′ 00″ NORD, 16° 52′ 00″ EST",
