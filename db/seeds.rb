@@ -127,32 +127,32 @@ majeur = City.create(
 
 pouilles = Province.create(
   name: "Pouilles",
-  description:"La région des Pouilles forme le talon de la botte italienne. Avec sa côté capricieusement découpée, sa mer d'un bleu cristallin et ses plateaux agricoles couleur cuivre parsemé d'abres verts et elle offre aux promeneurs ébahis des paysages d'une beauté à couper le souffle. Bordée par les mers adriatiques et ionienne, parsemée d'églises romanes, de palais baroques et de châteaux normands et souables, il fallait bien que les Pouilles s'accordent au pluriel. Sur la route de Bari à Ortranto, le littoral est parsemé de petites ports, et de villes blanchies à la chaux dont l'aspect antique vous projette dans les souvenirs des mythes grecs.")
+  description:"La région des Pouilles forme le talon de la botte italienne. Elle offre aux promeneurs des paysages d'une beauté à couper le souffle. En témoigne sa côte capricieusement découpée, sa mer d'un bleu cristallin, ses criques secrètes, ses plages au sable infiniment fin et ses plateaux agricoles couleur cuivre parsemé d'arbres verts.Bordée par les mers adriatique et ionienne, parsemée d'églises romanes, de palais baroques et de châteaux normands, souabes et aragonais, il fallait bien que les Pouilles s'accordent au pluriel. Sur la route de Bari à Ortranto se succèdent petites ports, et de villes blanchies à la chaux, simple et nues, de moins en moins italiennes, et qui nous emmènent déjà sur les traces de la Grèce.")
 bari = City.create(
   name:"Bari",
   geocoding: "41° 08′ 00″ NORD, 16° 52′ 00″ EST",
-  description:"Bari est une ville portuaire sur la mer Adriatique, et le chef-lieu des Pouilles, une région du Sud de l'Italie. La vieille ville, dans le quartier de Barivecchia, est un labyrinthe de rues occupant un promontoire entre deux ports. Entourée de rues étroites, la basilique de San Nicola, un édifice bâti au XIe siècle et lieu de pèlerinage majeur, renferme des reliques de saint Nicolas. Au sud, le quartier de Murat offre une architecture monumentale du XIXe siècle, une promenade et des rues commerçantes piétonnes.",
+  description:"A l'intérieur de Bari, le vieux quartier de Barivecchia est un labyrinthe au charme fou. Dès 7 heures le matin, les femmes pendent le linge propre à leurs fenêtre ou préparent manuellement des pâtes orrechiete dans leur cuisine. Dans des ruelles étroites, passent des habitants parlant un dialecte que l'on comprend à peine, empruntant des rues couloirs parsemées d'effigie de madone. On voit des hommes boire le café matinale entre eux, des enfants jouent sur les petites places. Enfin, on arrive devant la très altière basilique romane de San Nicolo, bâti au XIe siècle. Et puis, notre promenade nous emmène en faut des remparts, devant la mer adriatique ou des pécheurs lavent le poisson tout juste péché.",
   province: pouilles,
   coordinates: "https://goo.gl/maps/sfbWwN4KmgE2",
   heraldic: "/assets/blaz_bari.png")
 monopoli = City.create(
   name:"Monopoli",
   geocoding: "40° 57′ 00″ NORD 17° 18′ 00″ EST",
-  description:"Monopoli (du grec Monos-polis) qui signifie ville unique, et sans doute, elle rEe fidèle à son nom encore aujourd'hui. La ville conserve son charme qui vient de son histoire et de ses traditions. Ville d'environ 50.000 d’habitants, sur le littoral adriatique, à 43km de Bari, elle voisine avec les villes de Polignano a Mare, Conversano, Castellana Grotte, Alberobello et Fasano.",
+  description:"Le charme de Monopoli vient de son petit port pittoresque, rempli de barques bleu et rouge. Avec certains balcons ayant des loggias, une place d'eau, des Dômes en arrière fond, les bâtiments du port ont un air quelque peu vénitien, ou byzantin. Viennent s'y retrouver les promoneurs, avant de continuer leur balade dans les ruelles de la vieille ville pour terminer devant le château de Charles V, une impréssionante fortification défensive édifiée pendant l'occupation aragonaise. La ville a donc eu plusieurs influences, mais son nom hérité du grec 'monos-polis' l'affirme, elle est 'la ville unique'.",
   province: pouilles,
   coordinates: "https://goo.gl/maps/eeRFwUbMUuS2",
   heraldic: "/assets/blaz_monopoli.png")
 polignano = City.create(
   name:"Polignano a Mare",
   geocoding: "41° 00′ 00″ NORD 17° 13′ 00″ EST",
-  description:"Polignano a Mare est une commune de la ville métropolitaine de Bari, dans les Pouilles, en Italie méridionale. Ses habitants sont appelés les Polignanesi. La ville, perchée en haut de falaises calcaires, E célèbre pour la transparence bleutée de la mer qui la borde.",
+  description:"C'est un village tout blanc perché en haut de ses falaises, qui s'avance dans la mer. C'est l'un des plus beaux village des Pouilles, au profil antique et grec. Au grès de ses rues réchauffées par le soleil, Polignago laisse voir et revoir la mer par quelques points de perspectives. En bas des falaises, une crique aux eaux limpides rassemble entre ses deux rochers des nageurs colorés, plantés dans l'eau et sur le sable dans un tourbillon de couleurs.",
   province: pouilles,
   coordinates: "https://goo.gl/maps/LUrv3p7dSFH2",
   heraldic: "/assets/blaz_polignano.png")
 lecce = City.create(
   name:"Lecce",
   geocoding: "40° 21′ 13″ NORD 18° 10′ 32″ EST",
-  description:"Elle est célèbre pour ses bâtiments de style baroque. Sur la Piazza del Duomo, au centre, le dôme de Lecce présente une façade double et un clocher. La basilique de Santa Croce E ornée de sculptures et d'une rosace. À proximité se trouvent la colonne de Sant'Oronzo, une colonne surmontée d'une statue en bronze du saint patron de la ville, et l’amphithéâtre romain, construit en partie sous terre.",
+  description:"La beauté de Lecce s'explique par sa pierre si particulière, dont la souplesse et la luminosité ont permis l'invention du 'Barocco leccese', un style architectural qui pare les façades de multiples sculptures d'anges, fleurs et colonnades torsadées. Pierre blanche, beige ou ocre à mesure que le soleil l'éclaire pendant la journée. Pierre crayeuse, lisse, lumineuse, douce, montée en crème, sculptée toute en rondeur avec une facilité déconcertante, qui confère à la ville une harmonie, une douceur, en élégance. Pierre qu'on voudrait toucher ou manger. 'Dolce di Lecce' pense-t-on intérieurement en parcourant la ville d'un sourire béa.",
   province: pouilles,
   coordinates: "https://goo.gl/maps/KYwRbRVnUfp",
   heraldic: "/assets/blaz_lecce.png")
