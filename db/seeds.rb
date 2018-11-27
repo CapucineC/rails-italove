@@ -77,7 +77,7 @@ latium = Province.create(
 rome = City.create(
   name:"Rome",
   geocoding: "41° 53′ 19″ NORD 12° 29′ 12″ EST",
-  description:"On dit de Rome qu'elle est Caput Mundis, Urbs, ville entre les ville, la ville éternelle. La gloire de Rome renaît sans cesse. Elle fut le coeur de l'empire romain et lieu de vie de ses empereurs. Puis elle devint le siège du pouvoir spirituel des Papes. Son règne fut ensuite disputé par les grandes familles romaines de la Renaissance : les Orsini, les Médicis et les Borgia. Elle devint enfin le haut lieu d'expression baroque au dix-septième siècle. ROMA, qui se renverse en AMOR pour nous parler de passion au milieu des peintures du Carravage, des églises baroques et des palais somptueux.",
+  description:"On dit de Rome qu'elle est Caput Mundis, Urbs, ville entre les ville, la ville éternelle. La gloire de cette ville renaît sans cesse et ne s'éteint jamais. Dans l'antiquité, elle fut la capitale de l'empire romain et lieu de vie de ses empereurs. Au moyen-âge, elle devint le siège du pouvoir spirituel des Papes. Son règne fut ensuite disputé par les grandes familles romaines de la Renaissance : les Orsini, les Farnese, les Borghese et les Barberini. Elle devint enfin le haut lieu d'expression baroque au dix-septième siècle. ROMA, ville fascinante qui se renverse en AMOR pour nous parler de passion au milieu des peintures du Carravage et de Michel-Ange, des églises et des palais.",
   province: latium,
   coordinates: "https://goo.gl/maps/ceRkEQgjreP2",
   heraldic: "/assets/blaz_rome.png")
@@ -95,7 +95,7 @@ milan = City.create(
 bergame = City.create(
   name:"Bergame",
   geocoding: "45° 42′ 00″ NORD 9° 39′ 58″ EST",
-  description:" La partie haute de la vlle, Bergame altà, est un village lombard perché en haut une colline, au pied des Alpes bergamasques. Il est entouré de ses vieilles murailles d'enceinte, consolidées au XVIe siècle par la domination vénitienne. A l’intérieur du bastion, on trouve une ville miniature pleine de charme : sur le sol quadrillé de longue Piazza Vecchia se regroupent le médiéval Palazzo della Ragione, le Palazzo Nuovo habillé par une façade en marbre et la Fontaine Contarini dont les lions vénitiens semblent toiser les habitants assis dans les cafés. Plus loin, la très belle Basilica di Santa Maria Maggiore présente une extraordinaire façade rose et blanche, structurées en fin motifs géométriques.",
+  description:"Le Bergame altà est un village lombard perché en haut une colline, au pied des Alpes bergamasques. Il est entouré de ses vieilles murailles d'enceinte, consolidées au XVIe siècle par la domination vénitienne. A l’intérieur du bastion, on trouve une ville miniature : sur le sol quadrillé de longue Piazza Vecchia se regroupent le médiéval Palazzo della Ragione, le Palazzo Nuovo habillé par une façade en marbre et la Fontaine Contarini dont les lions vénitiens semblent toiser les habitants assis dans les cafés. Plus loin, la Basilica di Santa Maria Maggiore présente une extraordinaire façade rose et blanche, structurées en fin motifs géométriques.",
   province: lombardie,
   coordinates: "https://goo.gl/maps/EVKRgQvA6jK2",
   heraldic: "/assets/blaz_bergame.png",)
@@ -113,7 +113,7 @@ lacs = Province.create(
 come = City.create(
   name:"Lac de Come",
   geocoding: "45° 59′ 40″ NORD 9° 15′ 58″ EST",
-  description:"Lac longiligne, qui touchent en ses sommets les villages de Bellagio, Como et Lecco. Il est entouré par un paysage de montagnes où les cloches des villages cotoient les cyprès et où les villas sublimes s'accrochent au flanc des falaises. Dès l'époque romaine, le Lac de Côme fut prisé par l'élite qui y a construit au fil des siècles de magnifiques demeures. La villa Monastero accueille ses promeneurs par des allées de fleur gardées par des lions de statue tandis que du haut de la villa Carlotta, une succession d'escalier renouvelle sans cesse les perspectives sur le bleu profond du lac.",
+  description:"En arrivant sur les berges du lac Come, on est saisit par la perfection du paysage. Le lac est entouré par des montagnes où les cloches des villages côtoient les cyprès et où les villas sublimes s'accrochent au flanc des falaises. Dès l'époque romaine, il fut prisé par l'élite qui y a construit au fil des siècles de magnifiques demeures. Ainsi, la villa Monastero accueille ses promeneurs par des allées de fleur gardées par des lions de statue tandis que du haut de la villa Carlotta, une succession d'escalier renouvelle sans cesse les perspectives sur le bleu profond du lac.",
   province: lacs,
   coordinates: "https://goo.gl/maps/iNpSnhvPHom",
   heraldic: "/assets/blaz_varese.png",)
@@ -127,7 +127,7 @@ majeur = City.create(
 
 pouilles = Province.create(
   name: "Pouilles",
-  description:"La région des Pouilles forme le talon de la botte italienne. Elle offre aux promeneurs des paysages d'une beauté à couper le souffle. En témoigne sa côte capricieusement découpée, sa mer d'un bleu cristallin, ses criques secrètes, ses plages au sable infiniment fin et ses plateaux agricoles couleur cuivre parsemé d'arbres verts.Bordée par les mers adriatique et ionienne, parsemée d'églises romanes, de palais baroques et de châteaux normands, souabes et aragonais, il fallait bien que les Pouilles s'accordent au pluriel. Sur la route de Bari à Ortranto se succèdent petites ports, et de villes blanchies à la chaux, simple et nues, de moins en moins italiennes, et qui nous emmènent déjà sur les traces de la Grèce.")
+  description:"La région des Pouilles forme le talon de la botte italienne. Elle offre aux promeneurs des paysages d'une beauté à couper le souffle. Le voyageur est saisi par la beauté de sa côte capricieusement découpée, sa mer d'un bleu cristallin, ses criques secrètes, ses plages au sable infiniment fin et ses plateaux agricoles couleur cuivre parsemé d'arbres verts. Bordée par les mers adriatique et ionienne, parsemée d'églises romanes, de palais baroques et de châteaux normands, souabes et aragonais, il fallait bien que les Pouilles s'accordent au pluriel. Sur la route de Bari à Ortranto se succèdent petites ports, et de villes blanchies à la chaux, simple et nues, de moins en moins italiennes, et qui nous emmènent déjà sur les traces de la Grèce.")
 bari = City.create(
   name:"Bari",
   geocoding: "41° 08′ 00″ NORD, 16° 52′ 00″ EST",
@@ -152,18 +152,18 @@ polignano = City.create(
 lecce = City.create(
   name:"Lecce",
   geocoding: "40° 21′ 13″ NORD 18° 10′ 32″ EST",
-  description:"La beauté de Lecce s'explique par sa pierre si particulière, dont la souplesse et la luminosité ont permis l'invention du 'Barocco leccese', un style architectural qui pare les façades de multiples sculptures d'anges, fleurs et colonnades torsadées. Pierre blanche, beige ou ocre à mesure que le soleil l'éclaire pendant la journée. Pierre crayeuse, lisse, lumineuse, douce, montée en crème, sculptée toute en rondeur avec une facilité déconcertante, qui confère à la ville une harmonie, une douceur, en élégance. Pierre qu'on voudrait toucher ou manger. 'Dolce di Lecce' pense-t-on intérieurement en parcourant la ville d'un sourire béa.",
+  description:"La beauté de Lecce s'explique par sa pierre si particulière, dont la souplesse et la luminosité ont permis l'invention du 'Barocco leccese', un style architectural qui pare les façades de multiples sculptures d'anges, fleurs et colonnades torsadées. Pierre blanche, beige ou ocre à mesure que le soleil l'éclaire pendant la journée. Pierre crayeuse, lisse, lumineuse, douce, montée en crème, sculptée toute en rondeur avec une facilité déconcertante, qui confère à la ville une harmonie, une douceur, en élégance. Pierre qu'on voudrait toucher ou manger. 'Dolce di Lecce' pense-t-on secrètement, en parcourant la ville d'un sourire béa.",
   province: pouilles,
   coordinates: "https://goo.gl/maps/KYwRbRVnUfp",
   heraldic: "/assets/blaz_lecce.png")
 
 piemont = Province.create(
   name: "Piémont",
-  description:"Le Piémont, région d'Italie limitrophe de la France et de la Suisse, E situé au pied des Alpes. Cette région E connue pour sa cuisine raffinée et ses vins comme le Barolo. Turin, la capitale, possède de nombreux bâtiments à l'architecture baroque ainsi que l'emblématique et monumental Mole Antonelliana, avec sa flèche qui s'élève dans le ciel. Le musée de l'Automobile E consacré à la principale industrie de Turin, tandis que le musée égyptien présente des collections archéologiques et anthropologiques.")
+  description:"Le Piémont fut créé au fil des siècle par la maison de Savoie. Ces seigneurs alpins ont su conquérir villages, vallées et seigneuries dans les alpes françaises et italiennes, pour finalement se concentrer en Italie du Nord, jusqu'à mener le pays à son unification avec une autre famille de piémontais, les Cavours. Ici, la nature y est sereine. En arrière fond, les Alpes sont blanches et majestueuses. Devant elles, les vallées du Pô gorgée d'eau produisent un riz perlé admirable. Enfin, des vignes plantées à coteaux de valons assurent à la région d'excellent vins. Ville haute et fière, son chef lieu Turin a gardé la dignité royale des Savoie.")
 turin = City.create(
   name:"Turin",
   geocoding: "45° 04′ 00″ NORD 7° 42′ 00″ EST",
-  description:"Les Alpes s'élèvent au Nord-ouest de la ville. De superbes bâtiments baroques et de vieux cafés bordent les boulevards de Turin ainsi que ses grandes places, comme la Piazza Castello et la Piazza San Carlo. La flèche élancée de la Mole Antonelliana se dresse à proximité ;",
+  description:"Tout s'élève dans Turin. Tout semble répondre à une quête de grandeur classiciste, de solennité grave. Les Alpes se dressent au Nord-ouest de la ville, offrant des magnifiques point de perspective. Le Palazzo Reale des Savoie renferment un trésor baroque époustouflant derrière ses hauts murs qu'il faut gravir. Des cavaliers en statues se cabrent au milieu de ses longues places majestueuses.  La flèche de la Mole Antonelliana s'élance comme pour défier le ciel. Avec sues droites, ses avenues larges, ses angles parfaits, Turin est une ville élégante, sérieuse et ingénieuse. Elle n'en est pas moins chaleureuse, à l'instar de ses vieux cafés qui rehaussent l'hiver avec d'excellent chocolats chauds.",
   province: piemont,
   coordinates: "https://goo.gl/maps/TqJf3La3Dmo",
   heraldic: "/assets/blaz_turin.png")
