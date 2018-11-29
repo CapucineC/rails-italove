@@ -115,11 +115,10 @@ florence = City.create(
   coordinates: "https://goo.gl/maps/sZJUBztHrg82",
   heraldic: "/assets/blaz_florence.png",
   picture: "/assets/florence1.jpg")
-
  sienne = City.create(
   name:"Sienne",
   geocoding: "43° 20′ 00″ NORD 11° 20′ 00″ EST",
-  description: "Ville médiévale perchée en haut d'une colline, Sienne est un bijoux. Avec ses rues hautes et étroites elle possède encore le pouvoir évocateur que donne l'Histoire. Tout en haut, le Duomo rayé de marbre blanc et noir cache des madones d'or. A flanc de colline, on trouve la Piazza del Campo, connue pour sa forme de coquillage. Chaque année s'y déroule la course de chevaux du Palio, durant laquelle s'affrontent les 17 contrades (quartiers de la ville). Surplombant la place, se dressent la Torre della Mangia et les hautes façade du Palazzo Publico, où l'on peut voir les excellentes fresques peintes par Ambrogio Lorenzetti au quatorzième siècle, lorsque Sienne est en plein doute sur l'efficacité de son gouvernement bourgeois.",
+  description: "Sienne est une forteresse médiévale perchée en haut d'une colline. Avec ses rues hautes et étroites elle possède encore le pouvoir évocateur que donne l'Histoire. Tout en haut, le Duomo rayé de marbre blanc et noir cache des madones d'or. A flanc de colline, on trouve la Piazza del Campo, connue pour sa forme de coquillage. Chaque année s'y déroule la course de chevaux du Palio, durant laquelle s'affrontent les 17 contrades (quartiers de la ville). Surplombant la place, se dressent la Torre della Mangia et les hautes façade du Palazzo Publico, où l'on peut voir les excellentes fresques peintes par Ambrogio Lorenzetti au quatorzième siècle, lorsque Sienne est en plein doute sur l'efficacité de son gouvernement bourgeois.",
   province: toscane,
   coordinates: "https://goo.gl/maps/5n7jjEjss7K2",
   heraldic: "/assets/blaz_sienne.png",
@@ -131,7 +130,7 @@ latium = Province.create(
 rome = City.create(
   name:"Rome",
   geocoding: "41° 53′ 19″ NORD 12° 29′ 12″ EST",
-  description:"On dit de Rome qu'elle est Caput Mundis, Urbs, ville entre les ville, la ville éternelle. La gloire de cette ville renaît sans cesse et ne s'éteint jamais. Dans l'antiquité, elle fut la capitale de l'empire romain et lieu de vie de ses empereurs. Au moyen-âge, elle devint le siège du pouvoir spirituel des Papes. Son règne fut ensuite disputé par les grandes familles romaines de la Renaissance : les Orsini, les Farnese, les Borghese et les Barberini. Elle devint enfin le haut lieu d'expression baroque au dix-septième siècle. ROMA, ville fascinante qui se renverse en AMOR pour nous parler de passion au milieu des peintures du Carravage et de Michel-Ange, des églises et des palais.",
+  description:"On dit de Rome qu'elle est Caput Mundis, Urbs, ville entre les ville, la ville éternelle. La gloire de Rome renaît sans cesse et ne s'éteint jamais. Dans l'antiquité, elle fut la capitale de l'empire romain et lieu de vie de ses empereurs. Au moyen-âge, elle devint le siège du pouvoir spirituel des Papes. Son règne fut ensuite disputé par les grandes familles romaines de la Renaissance : les Orsini, les Farnese, les Borghese et les Barberini. Elle devint enfin le haut lieu d'expression baroque au dix-septième siècle. ROMA, ville fascinante qui se renverse en AMOR pour nous parler de passion au milieu des peintures du Carravage, des églises baroques et des palais somptueux.",
   province: latium,
   coordinates: "https://goo.gl/maps/ceRkEQgjreP2",
   heraldic: "/assets/blaz_rome.png")
