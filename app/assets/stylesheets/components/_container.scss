@@ -1,9 +1,9 @@
-.container {
-  margin: auto;
- // display: flex;
-  //background: image-url('mappa.png') no-repeat;
-}
 
+.container {
+  background: image-url('essay.png') no-repeat;
+  background-size: 100% 100%;
+  padding: 10px;
+}
 .box {
   //display: flex;
   //background: #F4F4F4;
@@ -52,4 +52,16 @@
   display: flex;
   margin: auto;
   padding: 10px;
+}
+
+.title{
+  color: white;
+  font-size: 80px;
+  //display: flex;
+ // justify-content:center;
+  //margin: auto;
+   margin: 0 auto;
+   width: 235px;
+   //font-family: 'Gravitas One', cursive;
+font-family: 'Libre Baskerville', serif;
 }
