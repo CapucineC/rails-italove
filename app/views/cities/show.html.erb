@@ -17,6 +17,9 @@
         <%= @city.description %>
       </div>
 
+
+
+
     <p>Par ici ↓</p>
 
   <!--   <div class="thumbnails">
@@ -28,6 +31,10 @@
 
   </div> -->
 </div>
+
+<%= cl_image_tag("https://res.cloudinary.com/dhehntw3i/image/upload/v1504870238/sample.jpg",
+      width: 100, height: 150, crop: :fill) %>
+
 <div class="gallery">
   <div class="column">
     <%= image_tag ("/assets/flo-9.jpg")%>
