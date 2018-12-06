@@ -1,5 +1,5 @@
 .navbar {
-    flex-shrink: 0;
+    //flex-shrink: 0;
     list-style-type: none;
     margin: 0 0 0 0px;
     padding: 0;
@@ -20,16 +20,15 @@
   list-style-type: none;
   padding-left: 20px;
   margin-bottom: 0px;
- // margin-top: 10px;
 }
 
 .navbar a {
     display: block;
-    //color: $light-gray;
     padding: 0px 1px;
     text-decoration: none;
     color: #7d7d7d;
 }
+
 
 /* Change the link color on hover */
 .navbar a:hover {
@@ -39,24 +38,41 @@
 
 .region {
   margin: 10px 5px 14px;
-  //text-transform: uppercase;
   font-family: 'Cinzel', cursive;
-  //font-weight: bolder;
   }
 
 .region > a {
   //font-family: 'Montserrat', sans-serif;
  // font-family: 'Cinzel Decorative', cursive;
-
 }
 
 .villes {
-  //text-transform: capitalize;
-  //font-family: 'Cabin Sketch/Quicksand', cursive;
   font-family: 'Josefin Sans', cursive;
 }
 
-.website-title {
-  padding-left: 15px;
-  font-weight: bold;
+.Navbar__Link-toggle {
+  display: none;
 }
+
+@media only screen and (max-width: 700px) {
+  .Navbar__Items,
+  .Navbar {
+    flex-direction: row-reverse;
+  }
+//.region {
+    //display:none;
+  //}
+
+.Navbar__ToggleShow {
+  display: flex;
+
+  }
+.Navbar__Link-toggle {
+    align-self: flex-end;
+    display: initial;
+    position: absolute;
+    cursor: pointer;
+    margin: auto;
+   }
+}
+

@@ -12,14 +12,17 @@
   </head>
 
   <body class="body">
-    <div class="navbar">
+    <div class="navbar" class="Navbar__Items">
+      <div class="Navbar__Link Navbar__Link-toggle">
+      <i class="fas fa-bars"></i>
+      </div>
     <!--   <p class="website-title">
       <a href="/">#</a>
       </p> -->
       <% Province.all.each do |province| %>
       <!--  pour toutes les provinces  -->
         <ul>
-          <li class="region">
+          <li class="region" >
            <%= link_to province.name, province_path(province)  %>
              <!--  mettre le nom de la province + redirection URL page -->
              <% province.cities.each do |city| %>
