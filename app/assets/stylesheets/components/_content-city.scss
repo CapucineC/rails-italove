@@ -1,9 +1,16 @@
+
+
 .content-city {
   flex-grow: 1;
   margin: auto;
   text-align: justify;
   position: relative;
   font-size: 18px;
+
+  & .cadre {
+  min-height: 100vh;
+  display: flex;
+  }
 
   & h1 {
     text-align: center;
@@ -17,23 +24,23 @@
   & .description-city{
     max-width: 508px;
     padding: 40px;
-    margin: 0 auto;
+    margin: auto;
     text-align: justify;
-    padding-top: 10px;
+    //padding-top: 10px;
   }
 
  & .top-info{
   max-width: 508px;
-  padding: 64px 38px 0 38px;
+  //padding: 64px 38px 0 38px;
   display: flex;
   justify-content: space-between;
   text-align: center;
   align-items: center;
-
+  margin: auto;
+  padding-bottom: 21px;
   //justify-content: space-between;
   //margin-right: 250px;
   //margin-left: 250px;
-  margin: 0 auto;
 }
 
 & .heraldic {
@@ -101,8 +108,13 @@
   }
 
 & p {
-  font-family: 'Josefin Sans';
+  font-family: 'Cabin Sketch', cursive;
+  //text-align: center;
+  color: black;
+  margin: 20px 0 0 0;
+  //display: flex;
   text-align: center;
+  font-size: 17px;
 }
 
 .photo{
@@ -130,10 +142,6 @@ img {
   width: 100%;
   object-fit: cover;
   display: inline-block;
-}
-
-& .cadre {
-  min-height: 100vh;
 }
 
 }

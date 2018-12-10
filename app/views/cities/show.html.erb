@@ -1,43 +1,32 @@
 <div class="content-city">
   <div class="cadre">
-     <div class="top-info">
-      <div class="heraldic">
-      <%= image_tag (@city.heraldic)%>
+    <div class="description-city">
+      <div class="top-info">
+        <div class="heraldic">
+        <%= image_tag (@city.heraldic)%>
+        </div>
+        <div class= "position">
+        <a href=<%= @city.coordinates  %>><%= @city.geocoding %></a>
+        </div>
       </div>
 
-      <div class= "position">
-      <a href=<%= @city.coordinates  %>><%= @city.geocoding %></a>
-      </div>
+      <h1><span><%= @city.name %></span></h1>
+      <br>
+      <%= @city.description %>
+      <p>Par ici ↓</p>
     </div>
-
-      <div class="description-city">
-
-        <h1><span><%= @city.name %></span></h1>
-        <br>
-        <%= @city.description %>
-      </div>
+  </div>
 
 
 
-
-    <p>Par ici ↓</p>
-
-  <!--   <div class="thumbnails">
-      <div class="photo">
-      </div>
-    </div> -->
- <!--  <div class="photo">
-    <%= image_tag ("/assets/photo3.jpg")%>
-
-  </div> -->
-</div>
-
-<%= cl_image_tag("https://res.cloudinary.com/dhehntw3i/image/upload/v1504870238/sample.jpg",
-      width: 100, height: 150, crop: :fill) %>
+<!--
+<%= cl_image_tag("https://res.cloudinary.com/dhehntw3i/image/upload/v1504870238/sample.jpg")%> -->
 
 <div class="gallery">
   <div class="column">
+    <%= cl_image_tag(@city.picture)%>
     <%= image_tag ("/assets/flo-9.jpg")%>
+    <%= cl_image_tag("https://res.cloudinary.com/dhehntw3i/image/upload/v1504870238/sample.jpg")%>
     <%= image_tag ("/assets/flo-1.jpg")%>
     <%= image_tag ("/assets/flo-3.jpg")%>
     <%= image_tag ("/assets/flo-4.jpg")%>
@@ -82,11 +71,9 @@
     <%= image_tag ("/assets/flo-7.jpg")%>
   </div>
 
-   </div>
   </div>
-  </div>
-
 </div>
+
 
 
 

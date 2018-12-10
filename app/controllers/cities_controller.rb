@@ -3,7 +3,10 @@ class CitiesController < ApplicationController
     @city = City.find(params[:id])
   end
 
-  def gallery
-    @city = City.find(params[:id])
-  end
+ #methode dans le controller
+#   def gallery
+#     @city = City.find(params[:id])
+#     city.picture.each do |picture| %>
+# end
+#   end
 end

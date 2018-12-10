@@ -17,7 +17,10 @@ turin = City.create(
   description:"Tout s'élève dans Turin. Tout semble répondre à une quête de grandeur classiciste, de solennité grave. Les Alpes se dressent au Nord-ouest de la ville, offrant des magnifiques point de perspective. Le Palazzo Reale des Savoie renferment un trésor baroque époustouflant derrière ses hauts murs qu'il faut gravir. Des cavaliers en statues se cabrent au milieu de ses longues places majestueuses.  La flèche de la Mole Antonelliana s'élance comme pour défier le ciel. Avec sues droites, ses avenues larges, ses angles parfaits, Turin est une ville élégante, sérieuse et ingénieuse. Elle n'en est pas moins chaleureuse, à l'instar de ses vieux cafés qui rehaussent l'hiver avec d'excellent chocolats chauds.",
   province: piemont,
   coordinates: "https://goo.gl/maps/TqJf3La3Dmo",
-  heraldic: "/assets/blaz_turin.png")
+  heraldic: "/assets/blaz_turin.png",
+  # picture:["https://res.cloudinary.com/dhehntw3i/image/upload/v1504870238/sample.jpg","https://res.cloudinary.com/dhehntw3i/image/upload/v1504870238/sample.jpg"])
+  picture: "/assets/turin.jpg")
+
 
 lombardie = Province.create(
   name: "Lombardie",
@@ -28,7 +31,9 @@ milan = City.create(
   description:"Fief des familles Sforza et Visconti, capitale de la mode et de la finance, la divine Milan étale son succès aux quatre coins de la ville. Mais ce n'est pas dans ses rues qu'il faut cherche sa beauté car elle n'y est pas. Elle se cache dans les arrières cours des Palazzi, se revèle par a-coups au grés des balades dans le quartier de Brera, devant ses monuments et dans ses institutions. Il faut regarder vivre les milanais : on les voit déguster un risotto dans une trattoria fine, se promener dans la Galleria Vittorio Emmanuelle pour regarder les sublimes devantures de Prada, prendre quelques pâtisseries chez Marchesi, se rendre à la Scala pour écouter Verdi. Nous reste à admirer l'austère château Sforza et l'éblouissant Dôme de Milan qui pointe vers le ciel cent trente cinq flèches de marbre.",
   province: lombardie,
   coordinates: "https://goo.gl/maps/PwxzZtBFjSq",
-  heraldic: "/assets/blaz_milan.png")
+  heraldic: "/assets/blaz_milan.png",
+  picture: "https://res.cloudinary.com/dhehntw3i/image/upload/v1504870238/sample.jpg")
+
 bergame = City.create(
   name:"Bergame",
   geocoding: "45° 42′ 00″ NORD 9° 39′ 58″ EST",
@@ -50,16 +55,16 @@ lacs = Province.create(
 come = City.create(
   name:"Lac de Come",
   geocoding: "45° 59′ 40″ NORD 9° 15′ 58″ EST",
-  description:"En arrivant sur les berges du lac Come, on est saisit par la perfection du paysage. Le lac est entouré par des montagnes où les cloches des villages côtoient les cyprès et où les villas sublimes s'accrochent au flanc des falaises. Dès l'époque romaine, il fut prisé par l'élite qui y a construit au fil des siècles de magnifiques demeures. Ainsi, la villa Monastero accueille ses promeneurs par des allées de fleur gardées par des lions de statue tandis que du haut de la villa Carlotta, une succession d'escalier renouvelle sans cesse les perspectives sur le bleu profond du lac.",
+  description:"En arrivant sur les berges du lac Come, on est saisi par la perfection du paysage. Entouré par des montagnes encore enneigées parfois, le lac est d'un bleu profond, froid, calme. Ici les les clochers des villages côtoient les cyprès. Dès l'époque romaine, il fut prisé par l'élite qui y a construit au fil des siècles des magnifiques demeures entre ciel et eau. Dans la villa Carlotta, des jardins à l'italienne proposent une cascade de jardins, tandis qu'à l'intérieur, les plafonds sont peints à l'or, et les statues sont des marbres de Canova. Plus loin, la villa Monastero accueille ses promeneurs par une longue balade sur graviers blancs, avec vue sur le lac immobile et bleu, sur ce lac de Come qui scintille en milles endroits, comme un diamant liquide.",
   province: lacs,
   coordinates: "https://goo.gl/maps/iNpSnhvPHom",
   heraldic: "/assets/blaz_varese.png",)
 majeur = City.create(
   name:"Lac majeure",
   geocoding: "45° 54′ 18″ NORD 8° 34′ 57″ EST",
-  description:"Sur les rivages du lac Majeure, des bateaux de bois laqués attendent les voyageurs pour les emmener sur les îles Borromées, qui font la réputation de l'endroit. Sur Isola Madre, on trouvera un jardin luxuriant aux fleurs colorés, où les palmiers côtoient des statues d'une blancheur éclatante. Sur l'Isola dei Pescatori se dresse un village très pittoresque avec son clocher blanc, ses toits rouges et ses filets de pêcheurs qui pendant encore aux portes rustiques. Enfin, sur Isola Bella, un somptueux palais baroque semblent flotter sur les eaux, tandis que dans ses magnifiques jardins en cascade, des paons blancs se baladent en seigneur dans des allées rosies par les azalées et les rhododendrons.",
+  description:"Sur le rivage du lac Majeure, des bateaux en bois vernis attendent les promeneurs pour les emmener sur les trois ilots perdus au milieu du lac, qui constituent 'les îles Borromées'. Sur l'île Isola Madre, des allées mènent vers des jardin luxuriant aux fleurs colorés, où les palmiers côtoient des statues d'une blancheur éclatante. Sur l'Isola dei Pescatori, on trouve un village pittoresque avec son clocher blanc, ses toits rouges et ses filets de pêcheurs accrochés aux portes rustiques. Enfin, sur Isola Bella, un somptueux palais baroque semblent flotter sur les eaux, tandis que dans ses magnifiques jardins en cascade, des paons blancs se baladent en grand seigneur dans des allées rosies par les azalées et les rhododendrons.",
   province: lacs,
-  coordinates: "https://goo.gl/maps/J9Rdd5nAh8A2",
+  coordinates: "https://goo.gl/maps/UhoNC994VF42",
   heraldic: "/assets/blaz_stressa.png")
 
 venetie = Province.create(
@@ -106,7 +111,7 @@ ferrare = City.create(
 
 toscane = Province.create(
   name: "Toscane",
-  description:"Splendeur du paysage toscan, si finement ciselée dans ses contours qu'on dirait qu'il fut dessiné par les peintres pour continuer l'art hors des villes. Au creux de ses vallons bleutés se nichent les vignes du Chianti qui produisent aujourd'hui encore les meilleurs vins. C'est ici qu'a débuté la Renaissance dont l'histoire et l'héritage artistique eurent une influence considérable sur la haute culture européenne. Rivales éternelles, les villes de Toscane ont été un véritable laboratoire du politique. Deux modèles s'y sont opposés dans une rivalité historique : la bourgeoisie de Sienne contre le principat médicéen de Florence.")
+  description:"Splendeur du paysage toscan, si finement ciselée dans ses contours qu'on dirait qu'il fut dessiné par les peintres pour continuer l'art hors des villes. Au creux de ses vallons bleutés s'accrochent les vignes du Chianti qui produisent aujourd'hui encore les meilleurs vins. C'est ici qu'a débuté la Renaissance dont l'histoire et l'héritage artistique eurent une influence considérable sur la haute culture européenne. Rivales éternelles, les villes de Toscane ont été un véritable laboratoire du politique. Deux modèles s'y sont opposés dans une rivalité historique : la bourgeoisie de Sienne contre le principat médicéen de Florence.")
 florence = City.create(
   name:"Florence",
   geocoding: "43° 46′ 18′ NORD 11° 15′ 13′ EST",
@@ -126,11 +131,11 @@ florence = City.create(
 
 latium = Province.create(
   name: "Latium",
-  description:"Depuis l'époque antique, le Latium est une succession de champs cultivés, de paysages blondis par les blés et d'étendues verdoyantes courrant des montagnes de l'Apennins à la mer Tyrrhénienne. La région doit son nom au roi Latinus et à ses sujets les Latini, une tribu qui s'y est implantée après les étrusques et qui parlait une langue ancêtre du latin archaïque. Nourricière comme la louvre romaine, le Latium ne compte pas beaucoup de grandes villes, mais elle a construit Rome, capitale de l'Empire romain, ville la plus chargée d'histoire de toute l'Italie. Au milieux de ses terres, on trouve encore des ruines de l'empire. Parmi les plus connues, le Colisée de Rome ou les théâtres d'Ostie.")
+  description:"Depuis l'époque antique, le Latium est une succession de champs cultivés, de paysages dorés par les blés et d'étendues verdoyantes courant des montagnes de l'Apennins à la mer Tyrrhénienne. Pareille à la louve romaine, il semble que la vocation de cette région soit d'être nourricière. Elle doit son nom au roi Latinus et à ses sujets les Latini, implantés ici après les étrusques et parlant une langue ancêtre du latin archaïque. Le Latium ne compte pas beaucoup de grandes villes il est vrai, mais le Latium a construit Rome, capitale de l'Empire romain, ville la plus chargée d'histoire de toute l'Italie. Au milieux de ses terres, on trouve encore aujourd'hui des ruines de l'empire. Parmi les plus connues, le Colisée de Rome ou les théâtres d'Ostie.")
 rome = City.create(
   name:"Rome",
   geocoding: "41° 53′ 19″ NORD 12° 29′ 12″ EST",
-  description:"On dit de Rome qu'elle est Caput Mundis, Urbs, ville entre les ville, la ville éternelle. La gloire de Rome renaît sans cesse et ne s'éteint jamais. Dans l'antiquité, elle fut la capitale de l'empire romain et lieu de vie de ses empereurs. Au moyen-âge, elle devint le siège du pouvoir spirituel des Papes. Son règne fut ensuite disputé par les grandes familles romaines de la Renaissance : les Orsini, les Farnese, les Borghese et les Barberini. Elle devint enfin le haut lieu d'expression baroque au dix-septième siècle. ROMA, ville fascinante qui se renverse en AMOR pour nous parler de passion au milieu des peintures du Carravage, des églises baroques et des palais somptueux.",
+  description:"On dit de Rome qu'elle est Caput Mundis, Urbs, ville entre les ville, la ville éternelle. La gloire de Rome renaît sans cesse et ne s'éteint jamais. Dans l'antiquité, elle était la capitale de l'empire romain et lieu de vie de ses empereurs. Au moyen-âge, elle est devenue le siège du pouvoir spirituel des Papes. Son règne fut ensuite disputé par les grandes familles romaines de la Renaissance : les Orsini, les Farnese, les Borghese et les Barberini. Elle devint enfin le haut lieu d'expression baroque au dix-septième siècle. ROMA, ville fascinante qui se renverse en AMOR pour nous parler de passion au milieu des peintures du Carravage, des églises baroques et des palais somptueux.",
   province: latium,
   coordinates: "https://goo.gl/maps/ceRkEQgjreP2",
   heraldic: "/assets/blaz_rome.png")
@@ -138,34 +143,34 @@ rome = City.create(
 
 pouilles = Province.create(
   name: "Pouilles",
-  description:"La région des Pouilles forme le talon de la botte italienne. Le voyageur est saisi par la beauté de sa côte capricieusement découpée, sa mer d'un bleu cristallin, ses criques secrètes, ses plages au sable infiniment fin et ses plateaux agricoles couleur cuivre parsemé d'oliviers centenaires. Bordée par les mers adriatique et ionienne, parsemée d'églises romanes, de palais baroques et de châteaux normands, souabes et aragonais, il fallait bien que les Pouilles s'accordent au pluriel. Sur la route de Bari à Ortranto se succèdent petites ports, et de villes blanchies à la chaux, simple et nues, de moins en moins italiennes, et qui nous emmènent déjà sur les traces de la Grèce.")
+  description:"La région des Pouilles forme le talon de la botte italienne. Elle offre aux promeneurs des paysages d'une grande beauté. On est saisi sa côte capricieusement découpée, par sa mer d'un bleu cristallin, par ses criques secrètes, par ses plages au sable infiniment fin et ses plateaux agricoles couleur cuivre semés d'oliviers centenaires. Bordée par les mers adriatique et ionienne, parsemée d'églises romanes, de palais baroques et de châteaux normands, souabes et aragonais, il fallait bien que les Pouilles s'accordent au pluriel. Sur la route de Bari à Otrante se succèdent petits ports et villes blanchies à la chaux, simples et nues, de moins en moins italiennes et de plus en plus grecques.")
 bari = City.create(
   name:"Bari",
   geocoding: "41° 08′ 00″ NORD, 16° 52′ 00″ EST",
-  description:"A l'intérieur de Bari, le vieux quartier de Barivecchia est un labyrinthe au charme fou. Dès 7 heures le matin, les femmes pendent le linge propre à leurs fenêtre ou préparent manuellement des pâtes orrechiete dans leur cuisine. Dans des ruelles étroites, passent des habitants parlant un dialecte que l'on comprend à peine, empruntant des rues couloirs parsemées d'effigie de madone. On voit des hommes boire le café matinale entre eux, des enfants jouent sur les petites places. Enfin, on arrive devant la très altière basilique romane de San Nicolo, bâti au XIe siècle. Et puis, notre promenade nous emmène en faut des remparts, devant la mer adriatique ou des pécheurs lavent le poisson tout juste péché.",
+  description:"À l'intérieur de Bari, le quartier de Barivecchia est un labyrinthe de vieilles rues secrètes et mystérieuses. Dès l'aube, on voit les femmes pendre le linge propre à leurs fenêtre, préparer manuellement des pâtes orecchiette dans leur cuisine et puis s'assoir sur le pas de leur porte. D'autres habitants passent, parlant un dialecte que l'on comprend à peine, empruntant des ruelles étroites, sorte de rue-couloirs ou s'égrènent les effigies de la Madone. On voit aussi des enfants jouer au ballon et des hommes qui boivent le café entre eux. Enfin, la promenade emmène devant de très belles cathédrales romanes, et puis en haut des remparts, face à la mer adriatique, où des pécheurs nettoient le poisson tout juste péché.",
   province: pouilles,
   coordinates: "https://goo.gl/maps/sfbWwN4KmgE2",
   heraldic: "/assets/blaz_bari.png")
 polignano = City.create(
   name:"Polignano a Mare",
   geocoding: "41° 00′ 00″ NORD 17° 13′ 00″ EST",
-  description:"C'est un village tout blanc perché en haut de ses falaises, qui s'avance dans la mer. C'est l'un des plus beaux village des Pouilles, au profil antique et grec. Au grès de ses rues réchauffées par le soleil, Polignago laisse voir et revoir la mer par quelques points de perspectives. En bas des falaises, une crique aux eaux limpides rassemble entre ses deux rochers des nageurs colorés, plantés dans l'eau et sur le sable dans un tourbillon de couleurs.",
+  description:"C'est un village tout blanc perché en haut de ses falaises, qui s'avance dans la mer. C'est l'un des plus beaux village des Pouilles, au profil antique et grec. Au gré de ses rues pavées réchauffées par le soleil, Polignago laisse voir et revoir la mer par différents points de perspectives. En bas des falaises, une crique aux eaux limpides rassemble entre ses deux rochers des nageurs colorés, plantés dans l'eau et sur le sable dans un tourbillon de couleurs.",
   province: pouilles,
-  coordinates: "https://goo.gl/maps/LUrv3p7dSFH2",
+  coordinates: "https://goo.gl/maps/y5jPJWArV9H2",
   heraldic: "/assets/blaz_polignano.png")
 monopoli = City.create(
   name:"Monopoli",
   geocoding: "40° 57′ 00″ NORD 17° 18′ 00″ EST",
-  description:"Le charme de Monopoli vient de son petit port pittoresque, rempli de barques bleu et rouge. Avec certains balcons ayant des loggias, une place d'eau, des Dômes en arrière fond, les bâtiments du port ont un air quelque peu vénitien, ou byzantin. Viennent s'y retrouver les promoneurs, avant de continuer leur balade dans les ruelles de la vieille ville pour terminer devant le château de Charles V, une impréssionante fortification défensive édifiée pendant l'occupation aragonaise. La ville a donc eu plusieurs influences, mais son nom hérité du grec 'monos-polis' l'affirme, elle est 'la ville unique'.",
+  description:"Le charme de Monopoli vient de son petit port rempli de barques bleues et rouges. Avec certains balcons qui ont des loggias blanches, sa place faite d'eau et des Dômes en arrière fond, le port de Monopoli possède un air quelque peu vénitien. Viennent s'y retrouver les promeneurs, avant de continuer leur balade dans les ruelles historiques pour terminer devant le château de Charles V, une impressionnante fortification défensive édifiée pendant l'occupation aragonaise. La ville a donc eu plusieurs influences, mais son nom hérité du grec 'monos-polis' l'affirme, elle est 'la ville unique'.",
   province: pouilles,
-  coordinates: "https://goo.gl/maps/eeRFwUbMUuS2",
+  coordinates: "https://goo.gl/maps/iSCYZKeXgPk",
   heraldic: "/assets/blaz_monopoli.png")
 lecce = City.create(
   name:"Lecce",
   geocoding: "40° 21′ 13″ NORD 18° 10′ 32″ EST",
-  description:"La beauté de Lecce s'explique par sa pierre si particulière, dont la souplesse et la luminosité ont permis l'invention du 'Barocco leccese', un style architectural qui pare les façades de multiples sculptures d'anges, fleurs et colonnades torsadées. Pierre blanche, beige ou ocre à mesure que le soleil l'éclaire pendant la journée. Pierre crayeuse, lisse, lumineuse, douce, montée en crème, sculptée toute en rondeur avec une facilité déconcertante, qui confère à la ville une harmonie, une douceur, en élégance. Pierre qu'on voudrait toucher ou manger. 'Dolce di Lecce' pense-t-on secrètement, en parcourant la ville d'un sourire béa.",
+  description:"La beauté de Lecce s'explique par sa pierre si particulière, dont la souplesse et la luminosité ont permis l'invention du 'Barocco leccese', un style architectural qui pare les façades de multiples sculptures d'anges, fleurs et colonnades torsadées. Pierre blanche, beige ou ocre à mesure que le soleil l'éclaire pendant la journée. Pierre crayeuse, lisse, lumineuse, douce, montée en crème, sculptée toute en rondeur avec une facilité déconcertante, qui confère à la ville une harmonie et une douceur, en élégance : 'Dolce di Lecce'.",
   province: pouilles,
-  coordinates: "https://goo.gl/maps/KYwRbRVnUfp",
+  coordinates: "https://goo.gl/maps/jtHhFteNxYD2",
   heraldic: "/assets/blaz_lecce.png")
 
 
