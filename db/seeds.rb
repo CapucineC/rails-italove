@@ -91,7 +91,7 @@ verone = City.create(
 
 emilieromagne = Province.create(
   name: "Emilie-romagne",
-  description:"L'Émiligne-Romagne est une contrée d'aventure, où tout rappelle encore l'empire romain. Elle doit d'ailleurs son nom à la construction de la 'voie Emilienne' par le consul romain Marcus Aemilius Lepidus au IIe siècle A.D. Aventuresques, les villes de Bologne et de Ferrare nous entrainent dans des rues rougeoyantes, sous des arcades et des voutes, sur des places bordée de tavernes, à l'intérieur de châteaux qui ont encore des pont levis. On y ripaille excellemment, tant la région est connue pour sa bonne viande, ses saucissons et son vin goutu.")
+  description:"L'Émiligne-Romagne est une contrée d'aventure, où tout rappelle encore les centurions et les frasques de l'empire romain. Elle doit d'ailleurs son nom à la construction de la 'voie Emilienne' par le consul romain Marcus Aemilius Lepidus au IIe siècle A.D. Aventuresques, les villes de Bologne et de Ferrare nous entrainent dans des rues rougeoyantes, sous des arcades et des voutes, sur des places bordée de tavernes, à l'intérieur de châteaux qui ont encore des pont levis. On y ripaille excellemment, tant la région est connue pour sa bonne viande, ses saucissons et son vin goutu.")
 bologne = City.create(
   name:"Bologne",
   geocoding: "44° 30′ 00″ NORD 11° 21′ 00″ EST",
@@ -111,7 +111,7 @@ ferrare = City.create(
 
 toscane = Province.create(
   name: "Toscane",
-  description:"Splendeur du paysage toscan, si finement ciselée dans ses contours qu'on dirait qu'il fut dessiné par les peintres pour continuer l'art hors des villes. Au creux de ses vallons bleutés s'accrochent les vignes du Chianti qui produisent aujourd'hui encore les meilleurs vins. C'est ici qu'a débuté la Renaissance dont l'histoire et l'héritage artistique eurent une influence considérable sur la haute culture européenne. Rivales éternelles, les villes de Toscane ont été un véritable laboratoire du politique. Deux modèles s'y sont opposés dans une rivalité historique : la bourgeoisie de Sienne contre le principat médicéen de Florence.")
+  description:"Splendeur du paysage toscan, si finement ciselée dans ses contours qu'on dirait qu'il fut dessiné par les peintres pour continuer l'art hors des villes. Au creux de ses vallons bleutés se nichent les vignes du Chianti qui produisent aujourd'hui encore les meilleurs vins. C'est ici qu'a débuté la Renaissance dont l'histoire et l'héritage artistique eurent une influence considérable sur la haute culture européenne. Rivales éternelles, les villes de Toscane ont été un véritable laboratoire du politique. Deux modèles s'y sont opposés dans une opposition historique : la bourgeoisie de Sienne contre le principat médicéen de Florence.")
 florence = City.create(
   name:"Florence",
   geocoding: "43° 46′ 18′ NORD 11° 15′ 13′ EST",
@@ -123,7 +123,7 @@ florence = City.create(
  sienne = City.create(
   name:"Sienne",
   geocoding: "43° 20′ 00″ NORD 11° 20′ 00″ EST",
-  description: "Sienne est une forteresse médiévale perchée en haut d'une colline. Avec ses rues hautes et étroites elle possède encore le pouvoir évocateur que donne l'Histoire. Tout en haut, le Duomo rayé de marbre blanc et noir cache des madones d'or. A flanc de colline, on trouve la Piazza del Campo, connue pour sa forme de coquillage. Chaque année s'y déroule la course de chevaux du Palio, durant laquelle s'affrontent les 17 contrades (quartiers de la ville). Surplombant la place, se dressent la Torre della Mangia et les hautes façade du Palazzo Publico, où l'on peut voir les excellentes fresques peintes par Ambrogio Lorenzetti au quatorzième siècle, lorsque Sienne est en plein doute sur l'efficacité de son gouvernement bourgeois.",
+  description: "Petite forteresse médiévale perchée en haut d'une colline, la ville de Sienne est un bijoux. Ses rues pavées, hautes et étroites nous plongent au coeur de l'histoire, et nous emmènent vers le Duomo rayé de marbre blanc et noir qui cache des madones d'or. A flanc de colline, on trouve la Piazza del Campo, connue pour sa forme de coquillage. Chaque année s'y déroule la course de chevaux du Palio, durant laquelle s'affrontent les 17 contrades (quartiers de la ville). Surplombant la place, il y la Torre della Mangia et les hautes façade du Palazzo Publico. On peut y voir les excellentes fresques dîtes peintes par Ambrogio Lorenzetti au quatorzième siècle, lorsque Sienne est en plein doute sur l'efficacité de son gouvernement bourgeois.",
   province: toscane,
   coordinates: "https://goo.gl/maps/5n7jjEjss7K2",
   heraldic: "/assets/blaz_sienne.png",
@@ -131,7 +131,7 @@ florence = City.create(
 
 latium = Province.create(
   name: "Latium",
-  description:"Depuis l'époque antique, le Latium est une succession de champs cultivés, de paysages dorés par les blés et d'étendues verdoyantes courant des montagnes de l'Apennins à la mer Tyrrhénienne. Pareille à la louve romaine, il semble que la vocation de cette région soit d'être nourricière. Elle doit son nom au roi Latinus et à ses sujets les Latini, implantés ici après les étrusques et parlant une langue ancêtre du latin archaïque. Le Latium ne compte pas beaucoup de grandes villes il est vrai, mais le Latium a construit Rome, capitale de l'Empire romain, ville la plus chargée d'histoire de toute l'Italie. Au milieux de ses terres, on trouve encore aujourd'hui des ruines de l'empire. Parmi les plus connues, le Colisée de Rome ou les théâtres d'Ostie.")
+  description:"Pareil à la louve romaine, le Latium est, depuis l'époque antique, une terre nourricière. C'est une succession de champs cultivés, de paysages blondis par les épis dorés, et d'étendues verdoyantes courant des montagnes de l'Apennins à la mer Tyrrhénienne. La région doit son nom au roi Latinus et à ses sujets les Latini, implantés ici après les étrusques et qui parlaient une langue ancêtre du latin archaïque. Le Latium ne compte pas beaucoup de grandes villes il est vrai, mais le Latium a construit Rome, capitale de l'Empire romain, ville la plus chargée d'histoire de toute l'Italie. Au milieux de ses terres, on trouve encore aujourd'hui des ruines de l'empire. Parmi les plus connues, le Colisée de Rome ou les théâtres d'Ostie.")
 rome = City.create(
   name:"Rome",
   geocoding: "41° 53′ 19″ NORD 12° 29′ 12″ EST",
@@ -147,7 +147,7 @@ pouilles = Province.create(
 bari = City.create(
   name:"Bari",
   geocoding: "41° 08′ 00″ NORD, 16° 52′ 00″ EST",
-  description:"À l'intérieur de Bari, le quartier de Barivecchia est un labyrinthe de vieilles rues secrètes et mystérieuses. Dès l'aube, on voit les femmes pendre le linge propre à leurs fenêtre, préparer manuellement des pâtes orecchiette dans leur cuisine et puis s'assoir sur le pas de leur porte. D'autres habitants passent, parlant un dialecte que l'on comprend à peine, empruntant des ruelles étroites, sorte de rue-couloirs ou s'égrènent les effigies de la Madone. On voit aussi des enfants jouer au ballon et des hommes qui boivent le café entre eux. Enfin, la promenade emmène devant de très belles cathédrales romanes, et puis en haut des remparts, face à la mer adriatique, où des pécheurs nettoient le poisson tout juste péché.",
+  description:"À l'intérieur de Bari, le quartier de Barivecchia est un labyrinthe de vieilles rues secrètes et mystérieuses. Dès l'aube, on voit les femmes pendre le linge propre à leurs fenêtre, préparer manuellement des orecchiettes dans leur cuisine et puis s'assoir sur le pas de leur porte. D'autres habitants passent, parlant un dialecte que l'on comprend à peine, empruntant des ruelles étroites, sorte de rue-couloirs ou s'égrènent les effigies de la Madone. On voit aussi des enfants jouer au ballon et des hommes qui boivent le café entre eux. Enfin, la promenade emmène devant de très belles cathédrales romanes, et puis en haut des remparts, face à la mer adriatique, où des pécheurs nettoient le poisson tout juste péché.",
   province: pouilles,
   coordinates: "https://goo.gl/maps/sfbWwN4KmgE2",
   heraldic: "/assets/blaz_bari.png")
