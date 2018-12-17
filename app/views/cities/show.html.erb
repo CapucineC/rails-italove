@@ -17,39 +17,12 @@
     </div>
   </div>
 
-
-
-<!--
-<%= cl_image_tag("https://res.cloudinary.com/dhehntw3i/image/upload/v1504870238/sample.jpg")%> -->
-
-<div class="gallery">
-  <div class="column">
-    <%= cl_image_tag(@city.picture)%>
-    <%= image_tag ("/assets/1.jpg")%>
-    <%= image_tag ("/assets/4.jpg")%>
-    <%= image_tag ("/assets/7.jpg")%>
-    <%= image_tag ("/assets/10.jpg")%>
-    <%= image_tag ("/assets/13.jpg")%>
-    <%= image_tag ("/assets/16.jpg")%>
-    <%= image_tag ("/assets/19.jpg")%>
-  </div>
-   <div class="column">
-    <%= image_tag ("/assets/2.jpg")%>
-    <%= image_tag ("/assets/5.jpg")%>
-    <%= image_tag ("/assets/8.jpg")%>
-    <%= image_tag ("/assets/11.jpg")%>
-    <%= image_tag ("/assets/14.jpg")%>
-    <%= image_tag ("/assets/17.jpg")%>
-  </div>
-  <div class="column">
-  <%= image_tag ("/assets/3.jpg")%>
-    <%= image_tag ("/assets/6.jpg")%>
-    <%= image_tag ("/assets/9.jpg")%>
-    <%= image_tag ("/assets/12.jpg")%>
-    <%= image_tag ("/assets/15.jpg")%>
-    <%= image_tag ("/assets/18.jpg")%>
-  </div>
-
+  <div class="gallery">
+      <% @city.pictures.order(:position).each do |picture| %>
+        <div class="column">
+          <%= image_tag picture.url, alt: "alttext" %>
+        </div>
+      <% end %>
   </div>
 </div>
 

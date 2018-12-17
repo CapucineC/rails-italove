@@ -1,5 +1,4 @@
 class City < ApplicationRecord
   belongs_to :province
-  mount_uploaders :pictures, PictureUploader
-  serialize :pictures, JSON
+  has_many :pictures
 end
