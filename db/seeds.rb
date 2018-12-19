@@ -175,7 +175,7 @@ Picture.create(
   position:6,
   city: rome)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545147215/Rome/rome_7_zktf2b.jpg",
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545218455/Rome/rome_7.jpg",
   position:7,
   city: rome)
 Picture.create(
@@ -187,10 +187,485 @@ Picture.create(
   position:9,
   city: rome)
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545147225/Rome/rome_10.1_a4hxgq.jpg",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219202/Rome/rome_10.1.jpg",
   position:10,
   city: rome)
-
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545147243/Rome/rome_11.1_jre9q0.jpg",
+  position:11,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545147242/Rome/rome_12.1_apfbar.jpg",
+  position:12,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219207/Rome/rome_13.1.jpg",
+  position:13,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219200/Rome/rome_14.1.jpg",
+  position:14,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219210/Rome/rome_15.1.jpg",
+  position:15,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545147242/Rome/rome_16_kfmtfy.jpg",
+  position:16,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219204/Rome/rome_17.jpg",
+  position:17,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545147251/Rome/rome_18.1_m3ijeg.jpg",
+  position:18,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219205/Rome/rome_19.1.jpg",
+  position:19,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545147253/Rome/rome_20_gmbket.jpg",
+  position:20,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545147351/Rome/rome_21_erhzjd.jpg",
+  position:21,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219225/Rome/rome_22.1.jpg",
+  position:22,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545147353/Rome/rome_23.1_rwrpxf.jpg",
+  position:23,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545147348/Rome/rome_24.1_swxsfp.jpg",
+  position:24,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219218/Rome/rome_25.1.jpg",
+  position:25,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545147380/Rome/rome_26.1_pluk98.jpg",
+  position:26,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545147364/Rome/rome_27.1_xdzufc.jpg",
+  position:27,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219221/Rome/rome_28.1.jpg",
+  position:28,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219231/Rome/rome_29.1.jpg",
+  position:29,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219221/Rome/rome_30.1.jpg",
+  position:30,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219222/Rome/rome_31.1.jpg",
+  position:31,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219231/Rome/rome_32.1.jpg",
+  position:32,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545147378/Rome/rome_33_pkz3l7.jpg",
+  position:33,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219232/Rome/rome_34.1.jpg",
+  position:34,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219232/Rome/rome_35.1.jpg",
+  position:35,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545148656/Rome/rome_36.2_edlodz.jpg",
+  position:36,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545147394/Rome/rome_37.1_bti6oj.jpg",
+  position:37,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545147403/Rome/rome_38.1_bdzxmz.jpg",
+  position:38,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545147394/Rome/rome_39.1_yymnyu.jpg",
+  position:39,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545147399/Rome/rome_40.1_qeslmw.jpg",
+  position:40,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219240/Rome/rome_41.1.jpg",
+  position:41,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545147415/Rome/rome_42.1_icy3iw.jpg",
+  position:42,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545147412/Rome/rome_43.1_x6dh9c.jpg",
+  position:43,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219243/Rome/rome_45.1.jpg",
+  position:44,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219252/Rome/rome_46.1.jpg",
+  position:45,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545147422/Rome/rome_47.1_jjntji.jpg",
+  position:46,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545147422/Rome/rome_48.1_rvct8q.jpg",
+  position:47,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545147426/Rome/rome_49.1_ci5dab.jpg",
+  position:48,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219245/Rome/rome_50.jpg",
+  position:49,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545148875/Rome/rome_51_ddwo84.jpg",
+  position:50,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545148876/Rome/rome_52_eoaprc.jpg",
+  position:51,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545148879/Rome/rome_53_lbrhmp.jpg",
+  position:52,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545148864/Rome/rome_54.1_c7wzzm.jpg",
+  position:53,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545148882/Rome/rome_55.1_cgwnbl.jpg",
+  position:54,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219250/Rome/rome_56.1.jpg",
+  position:55,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545148871/Rome/rome_57.1_puzqlw.jpg",
+  position:56,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545148889/Rome/rome_58_eafrel.jpg",
+  position:57,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545148891/Rome/rome_60_ig5oeb.jpg",
+  position:58,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219245/Rome/rome_61.jpg",
+  position:59,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219251/Rome/rome_62.jpg",
+  position:60,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219256/Rome/rome_63.jpg",
+  position:61,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219255/Rome/rome_64.jpg",
+  position:62,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545148911/Rome/rome_65.1_iva6vs.jpg",
+  position:63,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545148904/Rome/rome_66_vzibmr.jpg",
+  position:64,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545148915/Rome/rome_67.1_ucbaao.jpg",
+  position:65,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545148909/Rome/rome_68.1_pjomwd.jpg",
+  position:66,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545148912/Rome/rome_69_fpcddr.jpg",
+  position:67,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545218455/Rome/rome_7.jpg",
+  position:68,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219266/Rome/rome_71.1.jpg",
+  position:69,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545148924/Rome/rome_72_qvmmqd.jpg",
+  position:70,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219264/Rome/rome_73.1.jpg",
+  position:71,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545148926/Rome/rome_74.1_xo9au2.jpg",
+  position:72,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545148928/Rome/rome_75_a8sf4l.jpg",
+  position:73,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545148941/Rome/rome_76_e5ujta.jpg",
+  position:74,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219275/Rome/rome_77.jpg",
+  position:75,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545221762/rome_78_xkpv7r.jpg",
+  position:76,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545221777/rome_79_ua6bj9.jpg",
+  position:77,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545148942/Rome/rome_80_rygwcq.jpg",
+  position:78,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545148949/Rome/rome_81.1_w40jdv.jpg",
+  position:79,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219273/Rome/rome_82.jpg",
+  position:80,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545148958/Rome/rome_83_wh9brs.jpg",
+  position:81,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545148964/Rome/rome_84_o2cklb.jpg",
+  position:82,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545148967/Rome/rome_85.1_c6xhi4.jpg",
+  position:83,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219273/Rome/rome_86.1.jpg",
+  position:84,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545148979/Rome/rome_87_r2ry8n.jpg",
+  position:85,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219277/Rome/rome_88.jpg",
+  position:86,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219278/Rome/rome_89.jpg",
+  position:87,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219280/Rome/rome_90.jpg",
+  position:88,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219302/Rome/rome_91.jpg",
+  position:89,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219294/Rome/rome_92.jpg",
+  position:90,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545221621/rome_93_yycgus.jpg",
+  position:91,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545221645/rome_94_k4ss6q.jpg",
+  position:92,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219307/Rome/rome_95.jpg",
+  position:93,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545221664/rome_96_l1uazn.jpg",
+  position:94,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219299/Rome/rome_97.jpg",
+  position:95,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545221678/rome_98_ti3ub9.jpg",
+  position:96,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219297/Rome/rome_99.jpg",
+  position:97,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545226699/Rome/rome_100.jpg",
+  position:98,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219302/Rome/rome_101.jpg",
+  position:99,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545226794/Rome/rome_102.jpg",
+  position:100,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219311/Rome/rome_103.jpg",
+  position:101,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545226807/Rome/rome_104.jpg",
+  position:102,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545226805/Rome/rome_105.jpg",
+  position:103,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545226800/Rome/rome_106.jpg",
+  position:104,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545226799/Rome/rome_107.jpg",
+  position:105,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219307/Rome/rome_108.jpg",
+  position:106,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545226805/Rome/rome_109.jpg",
+  position:107,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219308/Rome/rome_110.jpg",
+  position:108,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545226810/Rome/rome_112.jpg",
+  position:109,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219307/Rome/rome_113.jpg",
+  position:110,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545226811/Rome/rome_114.jpg",
+  position:111,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545226811/Rome/rome_115.jpg",
+  position:112,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545226814/Rome/rome_116.jpg",
+  position:113,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219318/Rome/rome_117.jpg",
+  position:114,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219312/Rome/rome_118.jpg",
+  position:115,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545227281/rome_119_gbwii0.jpg",
+  position:116,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219313/Rome/rome_120.jpg",
+  position:117,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219315/Rome/rome_121.jpg",
+  position:118,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545226818/Rome/rome_122.jpg",
+  position:119,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545227326/rome_123_ipurqo.jpg",
+  position:120,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545226820/Rome/rome_124.jpg",
+  position:121,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219313/Rome/rome_125.jpg",
+  position:122,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219316/Rome/rome_126.jpg",
+  position:123,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219317/Rome/rome_127.jpg",
+  position:124,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545219317/Rome/rome_128.jpg",
+  position:125,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545227202/Rome/rome_129.jpg",
+  position:126,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545226821/Rome/rome_130.jpg",
+  position:127,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545227357/rome_131_nfxn7w.jpg",
+  position:128,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545227358/rome_132_w6zxyw.jpg",
+  position:129,
+  city: rome)
 
 pouilles = Province.create(
   name: "Pouilles",
