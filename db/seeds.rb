@@ -1,5 +1,5 @@
 Picture.destroy_all
-  City.destroy_all
+City.destroy_all
 Province.destroy_all
 
 piemont = Province.create(
@@ -150,23 +150,23 @@ rome =  City.create(
   coordinates: "https://goo.gl/maps/ceRkEQgjreP2",
   heraldic: "/assets/blaz_rome.png")
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545406082/rome_1.1_atbqdu.jpg",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545406770/Rome/rome_1.1_vkyder.jpg"
   position:1,
   city: rome)
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545406086/rome_2_ux8pcw.jpg",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545406758/Rome/rome_2.2_wtckys.jpg",
   position:2,
   city: rome)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545406084/rome_3_q9cwy5.jpg",
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545406760/Rome/rome_3_vap3ly.jpg",
   position:3,
   city: rome)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545406085/rome_4_g8g5xr.jpg",
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545406771/Rome/rome_4_r0agra.jpg",
   position:4,
   city: rome)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545406084/rome_5_l2i1xa.jpg",
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545406764/Rome/rome_5_gv31hp.jpg",
   position:5,
   city: rome)
 Picture.create(
