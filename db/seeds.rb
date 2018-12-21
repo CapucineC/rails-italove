@@ -149,7 +149,86 @@ rome =  City.create(
   province: latium,
   coordinates: "https://goo.gl/maps/ceRkEQgjreP2",
   heraldic: "/assets/blaz_rome.png")
-
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545406082/rome_1.1_atbqdu.jpg",
+  position:1,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545406086/rome_2_ux8pcw.jpg",
+  position:2,
+  city: rome)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545406084/rome_3_q9cwy5.jpg",
+  position:3,
+  city: rome)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545406085/rome_4_g8g5xr.jpg",
+  position:4,
+  city: rome)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545406084/rome_5_l2i1xa.jpg",
+  position:5,
+  city: rome)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/q_auto/v1545147215/Rome/rome_6_dwxgqc.jpg",
+  position:6,
+  city: rome)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/q_auto/v1545218455/Rome/rome_7.jpg",
+  position:7,
+  city: rome)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/q_auto/v1545147225/Rome/rome_8_weyhri.jpg",
+  position:8,
+  city: rome)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/q_auto/v1545147230/Rome/rome_9_xdfedo.jpg",
+  position:9,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/q_auto/v1545219202/Rome/rome_10.1.jpg",
+  position:10,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/q_auto/v1545147243/Rome/rome_11.1_jre9q0.jpg",
+  position:11,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/q_auto/v1545147242/Rome/rome_12.1_apfbar.jpg",
+  position:12,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/q_auto/v1545219207/Rome/rome_13.1.jpg",
+  position:13,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/q_auto/v1545219200/Rome/rome_14.1.jpg",
+  position:14,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/q_auto/v1545219210/Rome/rome_15.1.jpg",
+  position:15,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/q_auto/v1545147242/Rome/rome_16_kfmtfy.jpg",
+  position:16,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/q_auto/v1545219204/Rome/rome_17.jpg",
+  position:17,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/q_auto/v1545147251/Rome/rome_18.1_m3ijeg.jpg",
+  position:18,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/q_auto/v1545219205/Rome/rome_19.1.jpg",
+  position:19,
+  city: rome)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/q_auto/v1545147253/Rome/rome_20_gmbket.jpg",
+  position:20,
+  city: rome)
 
 pouilles = Province.create(
   name: "Pouilles",

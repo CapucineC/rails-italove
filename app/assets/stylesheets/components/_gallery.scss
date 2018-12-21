@@ -6,8 +6,6 @@
 
 /* Create four equal columns that sits next to each other */
 .column {
-  display: flex;
-  flex-wrap: wrap;
   flex: 33.3%;
   max-width: 33.3%;
   padding: 0 4px;
@@ -16,7 +14,6 @@
 .column img {
   margin-top: 8px;
   vertical-align: middle;
-  max-height: 50vh;
 }
 
 /* Responsive layout - makes a two column-layout instead of four columns */
