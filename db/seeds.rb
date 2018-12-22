@@ -282,665 +282,471 @@ lecce =   City.create(
   coordinates: "https://goo.gl/maps/jtHhFteNxYD2",
   heraldic: "/assets/blaz_lecce.png")
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424849/Lecce/lecce_127.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_1',
   position: 1,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424848/Lecce/lecce_132.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_2',
   position: 2,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424846/Lecce/lecce_190.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_3',
   position: 3,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424848/Lecce/lecce_271.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_4',
   position: 4,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424848/Lecce/lecce_271.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_5',
   position: 5,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424848/Lecce/lecce_271.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_6',
   position: 6,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424851/Lecce/lecce_272.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_7',
   position: 7,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424859/Lecce/lecce_274.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_8',
   position: 8,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424859/Lecce/lecce_274.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_9',
   position: 9,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424859/Lecce/lecce_274.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_10',
   position: 10,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424858/Lecce/lecce_275.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_11',
   position: 11,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424858/Lecce/lecce_275.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_12.0',
   position: 12,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424859/Lecce/lecce_278.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_12.1',
   position: 13,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424855/Lecce/lecce_279.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_12.2',
   position: 14,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424859/Lecce/lecce_285.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_12.3',
   position: 15,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424857/Lecce/lecce_288.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_13',
   position: 16,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424860/Lecce/lecce_290.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_14',
   position: 17,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424863/Lecce/lecce_293.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_15',
   position: 18,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424868/Lecce/lecce_299.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_16',
   position: 19,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424868/Lecce/lecce_304.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_17',
   position: 20,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424870/Lecce/lecce_305.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_18',
   position: 21,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424871/Lecce/lecce_307.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_19',
   position: 22,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424866/Lecce/lecce_314.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_20',
   position: 23,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424869/Lecce/lecce_315.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_21',
   position: 24,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424871/Lecce/lecce_316.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_22',
   position: 25,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424872/Lecce/lecce_327.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_23',
   position: 26,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424873/Lecce/lecce_337.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_24',
   position: 27,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424873/Lecce/lecce_338.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_25',
   position: 28,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424878/Lecce/lecce_340.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_26',
   position: 29,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424875/Lecce/lecce_344.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_27',
   position: 30,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424876/Lecce/lecce_376.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_28',
   position: 31,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424880/Lecce/lecce_389.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_29',
   position: 32,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424877/Lecce/lecce_424.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_30.0',
   position: 33,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424879/Lecce/lecce_430.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_30.1',
   position: 34,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424882/Lecce/lecce_434.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_30.2',
   position: 35,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424883/Lecce/lecce_442.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_30.3',
   position: 36,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424883/Lecce/lecce_443.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_31',
   position: 37,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424883/Lecce/lecce_444.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_32',
   position: 38,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424883/Lecce/lecce_445.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_33',
   position: 39,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424883/Lecce/lecce_446.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_34',
   position: 40,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424884/Lecce/lecce_448.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_35',
   position: 41,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424889/Lecce/lecce_450.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_36',
   position: 42,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424890/Lecce/lecce_451.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_37',
   position: 43,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424888/Lecce/lecce_455.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_38',
   position: 44,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424891/Lecce/lecce_457.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_39',
   position: 45,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424891/Lecce/lecce_458.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_40.0',
   position: 46,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424897/Lecce/lecce_459.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_40.1',
   position: 47,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424892/Lecce/lecce_462.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_40.2',
   position: 48,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424900/Lecce/lecce_465.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_40.3',
   position: 49,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424897/Lecce/lecce_466.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_41',
   position: 50,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424894/Lecce/lecce_469.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_42',
   position: 51,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424897/Lecce/lecce_471.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_43',
   position: 52,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424896/Lecce/lecce_475.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_44',
   position: 53,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424898/Lecce/lecce_477.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_45.0',
   position: 54,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424901/Lecce/lecce_480.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_45.1',
   position: 55,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424904/Lecce/lecce_482.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_45.2',
   position: 56,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424902/Lecce/lecce_486.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_45.3',
   position: 57,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424906/Lecce/lecce_496.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_46',
   position: 58,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424901/Lecce/lecce_498.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_47',
   position: 59,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424911/Lecce/lecce_503.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_48',
   position: 60,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424905/Lecce/lecce_508.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_49',
   position: 61,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424905/Lecce/lecce_512.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_50',
   position: 62,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424911/Lecce/lecce_514.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_51',
   position: 63,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424914/Lecce/lecce_516.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_52',
   position: 64,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424907/Lecce/lecce_518.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_53',
   position: 65,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424908/Lecce/lecce_519.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_54',
   position: 66,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424915/Lecce/lecce_520.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_55',
   position: 67,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424912/Lecce/lecce_521.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_56',
   position: 68,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424911/Lecce/lecce_523.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_57',
   position: 69,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424915/Lecce/lecce_525.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_58',
   position: 70,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424916/Lecce/lecce_540.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_59',
   position: 71,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424916/Lecce/lecce_542.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_60',
   position: 72,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424915/Lecce/lecce_547.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_61',
   position: 73,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424919/Lecce/lecce_550.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_62',
   position: 74,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424919/Lecce/lecce_552.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_63',
   position: 75,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424919/Lecce/lecce_553.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_64',
   position: 76,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424919/Lecce/lecce_555.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_65',
   position: 77,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424919/Lecce/lecce_558.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_66',
   position: 78,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424919/Lecce/lecce_559.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_67',
   position: 79,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424925/Lecce/lecce_560.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_68',
   position: 80,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424925/Lecce/lecce_562.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_69',
   position: 81,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424924/Lecce/lecce_779.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_70',
   position: 82,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424928/Lecce/lecce_790.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_71',
   position: 83,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424928/Lecce/lecce_791.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_72',
   position: 84,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424929/Lecce/lecce_792.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_73',
   position: 85,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424926/Lecce/lecce_801.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_74',
   position: 86,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424926/Lecce/lecce_802.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_75',
   position: 87,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424926/Lecce/lecce_804.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_76',
   position: 88,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424926/Lecce/lecce_806.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_77',
   position: 89,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424926/Lecce/lecce_807.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_78',
   position: 90,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424926/Lecce/lecce_808.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_79',
   position: 91,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424935/Lecce/lecce_814.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_80',
   position: 92,
   city: lecce
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424935/Lecce/lecce_816.jpg",
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_81',
   position: 93,
   city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424935/Lecce/lecce_817.jpg",
-  position: 94,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424936/Lecce/lecce_821.jpg",
-  position: 95,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424936/Lecce/lecce_823.jpg",
-  position: 96,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424936/Lecce/lecce_825.jpg",
-  position: 97,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424936/Lecce/lecce_828.jpg",
-  position: 98,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424936/Lecce/lecce_829.jpg",
-  position: 99,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424942/Lecce/lecce_831.jpg",
-  position: 100,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424941/Lecce/lecce_837.jpg",
-  position: 101,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424946/Lecce/lecce_844.jpg",
-  position: 102,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424946/Lecce/lecce_847.jpg",
-  position: 103,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424945/Lecce/lecce_848.jpg",
-  position: 104,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424949/Lecce/lecce_852.jpg",
-  position: 105,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424948/Lecce/lecce_855.jpg",
-  position: 106,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424950/Lecce/lecce_860.jpg",
-  position: 107,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424949/Lecce/lecce_862.jpg",
-  position: 108,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424956/Lecce/lecce_864.jpg",
-  position: 109,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424957/Lecce/lecce_869.jpg",
-  position: 110,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424953/Lecce/lecce_875.jpg",
-  position: 111,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424953/Lecce/lecce_878.jpg",
-  position: 112,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424953/Lecce/lecce_879.jpg",
-  position: 113,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424953/Lecce/lecce_880.jpg",
-  position: 114,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424959/Lecce/lecce_882.jpg",
-  position: 115,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424959/Lecce/lecce_887.jpg",
-  position: 116,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424959/Lecce/lecce_888.jpg",
-  position: 117,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424968/Lecce/lecce_889.jpg",
-  position: 118,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424965/Lecce/lecce_894.jpg",
-  position: 119,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424963/Lecce/lecce_895.jpg",
-  position: 120,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424963/Lecce/lecce_898.jpg",
-  position: 121,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424963/Lecce/lecce_899.jpg",
-  position: 122,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424968/Lecce/lecce_901.jpg",
-  position: 123,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424966/Lecce/lecce_903.jpg",
-  position: 124,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424971/Lecce/lecce_904.jpg",
-  position: 125,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424968/Lecce/lecce_906.jpg",
-  position: 126,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424971/Lecce/lecce_908.jpg",
-  position: 127,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424975/Lecce/lecce_909.jpg",
-  position: 128,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424975/Lecce/lecce_910.jpg",
-  position: 129,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424973/Lecce/lecce_916.jpg",
-  position: 130,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424970/Lecce/lecce_919.jpg",
-  position: 131,
-  city: lecce
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545424974/Lecce/lecce_946.jpg",
-  position: 132,
-  city: lecce
-  )
+)
+
 
 puts "All good"
 
