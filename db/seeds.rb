@@ -69,7 +69,406 @@ come =  City.create(
   province: lacs,
   coordinates: "https://goo.gl/maps/iNpSnhvPHom",
   heraldic: "/assets/blaz_varese.png")
-
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545070901/Capture_d_e%CC%81cran_2018-12-15_a%CC%80_16.17.38_kqj0x9.png",
+  position: 4,
+  city: come
+  )
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_01",
+  position: 1,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_02",
+  position: 2,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_03",
+  position: 3,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_04",
+  position: 4,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_05",
+  position: 5,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_06",
+  position: 6,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_07",
+  position: 7,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_08",
+  position: 8,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_09",
+  position: 9,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_10",
+  position: 10,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_11",
+  position: 11,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_12",
+  position: 12,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_13",
+  position: 13,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_14",
+  position: 14,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_15",
+  position: 15,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_16",
+  position: 16,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_17",
+  position: 17,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_18",
+  position: 18,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_19",
+  position: 19,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_20",
+  position: 20,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_21",
+  position: 21,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_22",
+  position: 22,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_23",
+  position: 23,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_24",
+  position: 24,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_25",
+  position: 25,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_26",
+  position: 26,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_27",
+  position: 27,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_28",
+  position: 28,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_29",
+  position: 29,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_30",
+  position: 30,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_31",
+  position: 31,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_32",
+  position: 32,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_33",
+  position: 33,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_34",
+  position: 34,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_35",
+  position: 35,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_36",
+  position: 36,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_37",
+  position: 37,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_38",
+  position: 38,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_39",
+  position: 39,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_40",
+  position: 40,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_41",
+  position: 41,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_42",
+  position: 42,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_43",
+  position: 43,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_44",
+  position: 44,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_45",
+  position: 45,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_46",
+  position: 46,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_47",
+  position: 47,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_48",
+  position: 48,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_50",
+  position: 50,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_51",
+  position: 51,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_52",
+  position: 52,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_58",
+  position: 58,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_59",
+  position: 59,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_60",
+  position: 60,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_61",
+  position: 61,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_62",
+  position: 62,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_63",
+  position: 63,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_64",
+  position: 64,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_65",
+  position: 65,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_66",
+  position: 66,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_67",
+  position: 67,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_68",
+  position: 68,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_69",
+  position: 69,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_70",
+  position: 70,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_71",
+  position: 71,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_72",
+  position: 72,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_73",
+  position: 73,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_74",
+  position: 74,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_75",
+  position: 75,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_76",
+  position: 76,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_77",
+  position: 77,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_78",
+  position: 78,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_79",
+  position: 79,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_80",
+  position: 80,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_82",
+  position: 82,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_83",
+  position: 83,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_84",
+  position: 84,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_85",
+  position: 85,
+  city: come
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_86",
+  position: 86,
+  city: come
+)
 majeur =  City.create(
   name:"Lac Majeure",
   geocoding: "45° 54′ 18″ NORD 8° 34′ 57″ EST",
@@ -77,7 +476,646 @@ majeur =  City.create(
   province: lacs,
   coordinates: "https://goo.gl/maps/UhoNC994VF42",
   heraldic: "/assets/blaz_stressa.png")
-
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_1",
+  position: 1,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_2",
+  position: 2,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_3",
+  position: 3,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_4",
+  position: 4,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_5",
+  position: 5,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_6",
+  position: 6,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_7",
+  position: 7,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_8",
+  position: 8,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_9",
+  position: 9,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_10",
+  position: 10,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_11",
+  position: 11,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_12",
+  position: 12,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_13",
+  position: 13,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_14",
+  position: 14,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_15",
+  position: 15,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_16",
+  position: 16,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_17",
+  position: 17,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_18",
+  position: 18,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_19",
+  position: 19,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_20",
+  position: 20,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_21",
+  position: 21,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_22",
+  position: 22,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_23",
+  position: 23,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_24",
+  position: 24,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_25",
+  position: 25,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_26",
+  position: 26,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_27",
+  position: 27,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_28",
+  position: 28,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_29",
+  position: 29,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_30",
+  position: 30,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_31",
+  position: 31,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_32",
+  position: 32,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_33",
+  position: 33,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_34",
+  position: 34,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_35",
+  position: 35,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_36",
+  position: 36,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_37",
+  position: 37,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_38",
+  position: 38,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_39",
+  position: 39,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_40",
+  position: 40,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_41",
+  position: 41,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_42",
+  position: 42,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_43",
+  position: 43,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_44",
+  position: 44,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_45",
+  position: 45,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_46",
+  position: 46,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_47",
+  position: 47,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_48",
+  position: 48,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_49",
+  position: 49,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_50",
+  position: 50,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_51",
+  position: 51,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_52",
+  position: 52,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_53",
+  position: 53,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_54",
+  position: 54,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_55",
+  position: 55,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_56",
+  position: 56,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_57",
+  position: 57,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_58",
+  position: 58,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_59",
+  position: 59,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_60",
+  position: 60,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_61",
+  position: 61,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_62",
+  position: 62,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_63",
+  position: 63,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_64",
+  position: 64,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_65",
+  position: 65,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_66",
+  position: 66,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_67",
+  position: 67,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_68",
+  position: 68,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_69",
+  position: 69,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_70",
+  position: 70,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_71",
+  position: 71,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_72",
+  position: 72,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_73",
+  position: 73,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_74",
+  position: 74,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_75",
+  position: 75,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_76",
+  position: 76,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_77",
+  position: 77,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_78",
+  position: 78,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_79",
+  position: 79,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_80",
+  position: 80,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_81",
+  position: 81,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_82",
+  position: 82,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_83",
+  position: 83,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_84",
+  position: 84,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_85",
+  position: 85,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_86",
+  position: 86,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_87",
+  position: 87,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_88",
+  position: 88,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_89",
+  position: 89,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_90",
+  position: 90,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_91",
+  position: 91,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_92",
+  position: 92,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_93",
+  position: 93,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_94",
+  position: 94,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_95",
+  position: 95,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_96",
+  position: 96,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_97",
+  position: 97,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_98",
+  position: 98,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_99",
+  position: 99,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_100",
+  position: 100,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_101",
+  position: 101,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_102",
+  position: 102,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_103",
+  position: 103,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_104",
+  position: 104,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_105",
+  position: 105,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_106",
+  position: 106,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_107",
+  position: 107,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_108",
+  position: 108,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_109",
+  position: 109,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_110",
+  position: 110,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_111",
+  position: 111,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_112",
+  position: 112,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_113",
+  position: 113,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_114",
+  position: 114,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_115",
+  position: 115,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_116",
+  position: 116,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_117",
+  position: 117,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_118",
+  position: 118,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_119",
+  position: 119,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_120",
+  position: 120,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_121",
+  position: 121,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_122",
+  position: 122,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_123",
+  position: 123,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_124",
+  position: 124,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_125",
+  position: 125,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_126",
+  position: 126,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_127",
+  position: 127,
+  city: majeur
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_128",
+  position: 128,
+  city: majeur
+)
 venetie = Province.create(
   name: "Vénétie",
   description:"La Vénétie dessine pour les voyageurs des paysages féeriques : ici les montagnes enneigée des Dolomites recouvertes d'un long manteaux blanc, par là la lagune de Venise qui pave les rues d'eau, là bas le charme Vérone qui fait éclore des fleurs sur tous les balcons à l'arrivée du printemps.")
@@ -90,7 +1128,871 @@ venise =  City.create(
   province: venetie,
   coordinates: "https://goo.gl/maps/eyGwojdbeDT2",
   heraldic: "/assets/blaz_venise.png")
-
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_1",
+  position: 1,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_2",
+  position: 2,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_3",
+  position: 3,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_4",
+  position: 4,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_5",
+  position: 5,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_6",
+  position: 6,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_7",
+  position: 7,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_8",
+  position: 8,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_9",
+  position: 9,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_10",
+  position: 10,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_11",
+  position: 11,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_12",
+  position: 12,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_13",
+  position: 13,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_14",
+  position: 14,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_15",
+  position: 15,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_16",
+  position: 16,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_17",
+  position: 17,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_18",
+  position: 18,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_19",
+  position: 19,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_20",
+  position: 20,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_21",
+  position: 21,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_22",
+  position: 22,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_23",
+  position: 23,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_24",
+  position: 24,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_25",
+  position: 25,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_26",
+  position: 26,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_27",
+  position: 27,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_28",
+  position: 28,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_29",
+  position: 29,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_30",
+  position: 30,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_31",
+  position: 31,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_32",
+  position: 32,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_33",
+  position: 33,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_34",
+  position: 34,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_35",
+  position: 35,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_36",
+  position: 36,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_37",
+  position: 37,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_38",
+  position: 38,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_39",
+  position: 39,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_40",
+  position: 40,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_41",
+  position: 41,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_42",
+  position: 42,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_43",
+  position: 43,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_44",
+  position: 44,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_45",
+  position: 45,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_46",
+  position: 46,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_47",
+  position: 47,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_48",
+  position: 48,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_49",
+  position: 49,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_50",
+  position: 50,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_51",
+  position: 51,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_52",
+  position: 52,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_53",
+  position: 53,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_54",
+  position: 54,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_55",
+  position: 55,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_56",
+  position: 56,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_57",
+  position: 57,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_58",
+  position: 58,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_59",
+  position: 59,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_60",
+  position: 60,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_61",
+  position: 61,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_62",
+  position: 62,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_63",
+  position: 63,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_64",
+  position: 64,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_65",
+  position: 65,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_66",
+  position: 66,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_67",
+  position: 67,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_68",
+  position: 68,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_69",
+  position: 69,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_70",
+  position: 70,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_71",
+  position: 71,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_72",
+  position: 72,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_73",
+  position: 73,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_74",
+  position: 74,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_75",
+  position: 75,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_76",
+  position: 76,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_77",
+  position: 77,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_78",
+  position: 78,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_79",
+  position: 79,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_80",
+  position: 80,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_81",
+  position: 81,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_82",
+  position: 82,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_83",
+  position: 83,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_84",
+  position: 84,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_85",
+  position: 85,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_86",
+  position: 86,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_87",
+  position: 87,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_88",
+  position: 88,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_89",
+  position: 89,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_90",
+  position: 90,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_91",
+  position: 91,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_92",
+  position: 92,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_93",
+  position: 93,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_94",
+  position: 94,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_95",
+  position: 95,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_96",
+  position: 96,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_97",
+  position: 97,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_98",
+  position: 98,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_99",
+  position: 99,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_100",
+  position: 100,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_101",
+  position: 101,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_102",
+  position: 102,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_103",
+  position: 103,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_104",
+  position: 104,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_105",
+  position: 105,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_106",
+  position: 106,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_107",
+  position: 107,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_108",
+  position: 108,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_109",
+  position: 109,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_110",
+  position: 110,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_111",
+  position: 111,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_112",
+  position: 112,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_113",
+  position: 113,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_114",
+  position: 114,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_115",
+  position: 115,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_116",
+  position: 116,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_117",
+  position: 117,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_118",
+  position: 118,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_119",
+  position: 119,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_120",
+  position: 120,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_121",
+  position: 121,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_122",
+  position: 122,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_123",
+  position: 123,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_124",
+  position: 124,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_125",
+  position: 125,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_126",
+  position: 126,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_127",
+  position: 127,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_128",
+  position: 128,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_129",
+  position: 129,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_130",
+  position: 130,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_131",
+  position: 131,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_132",
+  position: 132,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_133",
+  position: 133,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_134",
+  position: 134,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_135",
+  position: 135,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_136",
+  position: 136,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_137",
+  position: 137,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_138",
+  position: 138,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_139",
+  position: 139,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_140",
+  position: 140,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_141",
+  position: 141,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_142",
+  position: 142,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_143",
+  position: 143,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_144",
+  position: 144,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_145",
+  position: 145,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_146",
+  position: 146,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_147",
+  position: 147,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_148",
+  position: 148,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_149",
+  position: 149,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_150",
+  position: 150,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_151",
+  position: 151,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_152",
+  position: 152,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_153",
+  position: 153,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_154",
+  position: 154,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_155",
+  position: 155,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_156",
+  position: 156,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_157",
+  position: 157,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_158",
+  position: 158,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_159",
+  position: 159,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_160",
+  position: 160,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_161",
+  position: 161,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_162",
+  position: 162,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_163",
+  position: 163,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_164",
+  position: 164,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_165",
+  position: 165,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_166",
+  position: 166,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_167",
+  position: 167,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_168",
+  position: 168,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_169",
+  position: 169,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_170",
+  position: 170,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_171",
+  position: 171,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_172",
+  position: 172,
+  city: venise
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_173",
+  position: 173,
+  city: venise
+)
 verone =  City.create(
   name:"Verone",
   geocoding: "45° 26′ 00″ NORD 10° 59′ 00″ EST",
@@ -110,6 +2012,731 @@ bologne =   City.create(
   province: emilieromagne,
   coordinates: "https://goo.gl/maps/SikWUfv8ZAP2",
   heraldic: "/assets/blaz_bologne.png")
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_1",
+  position: 1,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_2",
+  position: 2,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_3",
+  position: 3,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_4",
+  position: 4,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_5",
+  position: 5,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_6",
+  position: 6,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_7",
+  position: 7,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_8",
+  position: 8,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_9",
+  position: 9,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_10",
+  position: 10,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_11",
+  position: 11,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_12",
+  position: 12,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_13",
+  position: 13,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_14",
+  position: 14,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_15",
+  position: 15,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_16",
+  position: 16,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_17",
+  position: 17,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_18",
+  position: 18,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_19",
+  position: 19,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_20",
+  position: 20,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_21",
+  position: 21,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_22",
+  position: 22,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_23",
+  position: 23,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_24",
+  position: 24,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_25",
+  position: 25,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_26",
+  position: 26,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_27",
+  position: 27,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_28",
+  position: 28,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_29",
+  position: 29,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_30",
+  position: 30,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_31",
+  position: 31,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_32",
+  position: 32,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_33",
+  position: 33,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_34",
+  position: 34,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_35",
+  position: 35,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_36",
+  position: 36,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_37",
+  position: 37,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_38",
+  position: 38,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_39",
+  position: 39,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_40",
+  position: 40,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_41",
+  position: 41,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_42",
+  position: 42,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_43",
+  position: 43,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_44",
+  position: 44,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_45",
+  position: 45,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_46",
+  position: 46,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_47",
+  position: 47,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_48",
+  position: 48,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_49",
+  position: 49,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_50",
+  position: 50,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_51",
+  position: 51,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_52",
+  position: 52,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_53",
+  position: 53,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_54",
+  position: 54,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_55",
+  position: 55,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_56",
+  position: 56,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_57",
+  position: 57,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_58",
+  position: 58,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_59",
+  position: 59,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_60",
+  position: 60,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_61",
+  position: 61,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_62",
+  position: 62,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_63",
+  position: 63,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_64",
+  position: 64,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_65",
+  position: 65,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_66",
+  position: 66,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_67",
+  position: 67,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_68",
+  position: 68,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_69",
+  position: 69,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_70",
+  position: 70,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_71",
+  position: 71,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_72",
+  position: 72,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_73",
+  position: 73,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_74",
+  position: 74,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_75",
+  position: 75,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_76",
+  position: 76,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_77",
+  position: 77,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_78",
+  position: 78,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_79",
+  position: 79,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_80",
+  position: 80,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_81",
+  position: 81,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_82",
+  position: 82,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_83",
+  position: 83,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_84",
+  position: 84,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_85",
+  position: 85,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_86",
+  position: 86,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_87",
+  position: 87,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_88",
+  position: 88,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_89",
+  position: 89,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_90",
+  position: 90,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_91",
+  position: 91,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_92",
+  position: 92,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_93",
+  position: 93,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_94",
+  position: 94,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_95",
+  position: 95,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_96",
+  position: 96,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_97",
+  position: 97,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_98",
+  position: 98,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_99",
+  position: 99,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_100",
+  position: 100,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_101",
+  position: 101,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_102",
+  position: 102,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_103",
+  position: 103,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_104",
+  position: 104,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_105",
+  position: 105,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_106",
+  position: 106,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_107",
+  position: 107,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_108",
+  position: 108,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_109",
+  position: 109,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_110",
+  position: 110,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_111",
+  position: 111,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_112",
+  position: 112,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_113",
+  position: 113,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_114",
+  position: 114,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_115",
+  position: 115,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_116",
+  position: 116,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_117",
+  position: 117,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_118",
+  position: 118,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_119",
+  position: 119,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_120",
+  position: 120,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_121",
+  position: 121,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_122",
+  position: 122,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_123",
+  position: 123,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_124",
+  position: 124,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_125",
+  position: 125,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_126",
+  position: 126,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_127",
+  position: 127,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_128",
+  position: 128,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_129",
+  position: 129,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_130",
+  position: 130,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_131",
+  position: 131,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_132",
+  position: 132,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_133",
+  position: 133,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_134",
+  position: 134,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_135",
+  position: 135,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_136",
+  position: 136,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_137",
+  position: 137,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_138",
+  position: 138,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_139",
+  position: 139,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_140",
+  position: 140,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_141",
+  position: 141,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_142",
+  position: 142,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_143",
+  position: 143,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_144",
+  position: 144,
+  city: bologne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_145",
+  position: 145,
+  city: bologne
+)
 
 ferrare =   City.create(
   name:"Ferrare",
