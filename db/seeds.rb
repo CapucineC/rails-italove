@@ -18,7 +18,7 @@ Picture.create(
   city: turin
   )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1504871700/ikonyetu8eeqk2ohmruo.jpg",
+  url: 'https://res.cloudinary.com/dhehntw3i/image/upload/v1504871700/ikonyetu8eeqk2ohmruo.jpg',
   position: 2,
   city: turin
   )
@@ -2765,6 +2765,446 @@ florence =  City.create(
   province: toscane,
   coordinates: "https://goo.gl/maps/5n7jjEjss7K2",
   heraldic: "/assets/blaz_sienne.png")
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_01",
+  position: 1,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_02",
+  position: 14,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_03",
+  position: 15,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_04",
+  position: 4,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_05",
+  position: 5,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_06",
+  position: 6,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_07",
+  position: 7,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_08",
+  position: 8,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_O9",
+  position: 9,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_10",
+  position: 10,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_11",
+  position: 11,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_12",
+  position: 12,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_13",
+  position: 13,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_14",
+  position: 2,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_15",
+  position: 3,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_16",
+  position: 16,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_17",
+  position: 17,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_18",
+  position: 18,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_19",
+  position: 19,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_20",
+  position: 20,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_21",
+  position: 21,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_22",
+  position: 22,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_23",
+  position: 23,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_24",
+  position: 24,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_25",
+  position: 25,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_26",
+  position: 26,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_27",
+  position: 27,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_28",
+  position: 28,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_29",
+  position: 29,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_30",
+  position: 30,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_31",
+  position: 31,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_32",
+  position: 32,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_33",
+  position: 33,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_34",
+  position: 34,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_35",
+  position: 35,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_36",
+  position: 36,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_37",
+  position: 37,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_38",
+  position: 38,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_39",
+  position: 39,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_40",
+  position: 40,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_41",
+  position: 41,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_42",
+  position: 42,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_43",
+  position: 43,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_44",
+  position: 44,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_45",
+  position: 45,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_46",
+  position: 46,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_47",
+  position: 47,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_48",
+  position: 48,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_49",
+  position: 49,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_50",
+  position: 50,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_51",
+  position: 51,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_52",
+  position: 52,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_53",
+  position: 53,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_54",
+  position: 54,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_55",
+  position: 55,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_56",
+  position: 56,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_57",
+  position: 57,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_58",
+  position: 58,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_59",
+  position: 59,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_60",
+  position: 60,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_61",
+  position: 61,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_62",
+  position: 62,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_63",
+  position: 63,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_64",
+  position: 64,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_65",
+  position: 65,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_66",
+  position: 66,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_67",
+  position: 67,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_68",
+  position: 68,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_69",
+  position: 69,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_70",
+  position: 70,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_71",
+  position: 71,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_72",
+  position: 72,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_73",
+  position: 73,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_74",
+  position: 74,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_75",
+  position: 75,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_76",
+  position: 76,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_77",
+  position: 77,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_78",
+  position: 78,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_79",
+  position: 79,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_80",
+  position: 80,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_81",
+  position: 81,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_82",
+  position: 82,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_83",
+  position: 83,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_84",
+  position: 84,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_85",
+  position: 85,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_86",
+  position: 86,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_87",
+  position: 87,
+  city: sienne
+)
+Picture.create(
+  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_88",
+  position: 88,
+  city: sienne
+)
 
 latium = Province.create(
   name: "Latium",
