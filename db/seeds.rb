@@ -8,30 +8,330 @@ piemont = Province.create(
 turin =   City.create(
   name:"Turin",
   geocoding: "45° 04′ 00″ NORD 7° 42′ 00″ EST",
-  description:"Tout dans Turin semble répondre à une quête de grandeur classiciste, de solennité grave. Elle se rapporche en cela des villes françaises. Derrière elle se dressent les Alpes, dont les monts eneigés entourent la ville d'une blancheur intacte. Son Palazzo Reale renferme dans ses hauts murs des trésors baroques. La flèche de la Mole Antonelliana s'élance vers le ciel comme pour le défier. Des cavaliers en statue se cabrent au milieu de ses longues places majestueuses. Avec ses rues droites, ses avenues larges et ses angles parfaits, Turin une ville élégante, sérieuse et ingénieuse. Mais elle sait aussi se montrer chaleureuse, en proposant dans ses vieux cafés d'excellents chocolats chaud à la noisette.",
+  description:"Turin semble répondre à une quête de grandeur classiciste, de solennité grave. Elle se rapporche en cela des villes françaises. Derrière elle se dressent les Alpes, dont les monts eneigés entourent la ville d'une blancheur intacte. Son Palazzo Reale renferme dans ses hauts murs des trésors baroques. La flèche de la Mole Antonelliana s'élance vers le ciel comme pour le défier. Des cavaliers en statue se cabrent au milieu de ses longues places majestueuses. Avec ses rues droites, ses avenues larges et ses angles parfaits, Turin une ville élégante, sérieuse et ingénieuse. Mais elle sait aussi se montrer chaleureuse, en proposant dans ses vieux cafés d'excellents chocolats chaud à la noisette.",
   province: piemont,
   coordinates: "https://goo.gl/maps/TqJf3La3Dmo",
   heraldic: "/assets/blaz_turin.png")
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545070901/Capture_d_e%CC%81cran_2018-12-15_a%CC%80_16.17.38_kqj0x9.png",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_1",
   position: 1,
   city: turin
-  )
+)
 Picture.create(
-  url: 'https://res.cloudinary.com/dhehntw3i/image/upload/v1504871700/ikonyetu8eeqk2ohmruo.jpg',
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_2",
   position: 2,
   city: turin
-  )
+)
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545070901/Capture_d_e%CC%81cran_2018-12-15_a%CC%80_16.17.38_kqj0x9.png",
-  position: 4,
-  city: turin
-  )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1504871700/ikonyetu8eeqk2ohmruo.jpg",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_3",
   position: 3,
   city: turin
-  )
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_4",
+  position: 4,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_5",
+  position: 5,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_6",
+  position: 6,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_7",
+  position: 7,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_8",
+  position: 8,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_9",
+  position: 9,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_10",
+  position: 10,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_11",
+  position: 11,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_12",
+  position: 12,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_13",
+  position: 13,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_14",
+  position: 14,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_15",
+  position: 15,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_16",
+  position: 16,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_17",
+  position: 17,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_18",
+  position: 18,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_19",
+  position: 19,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_20",
+  position: 20,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_21",
+  position: 21,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_22",
+  position: 22,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_23",
+  position: 23,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_24",
+  position: 24,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_25",
+  position: 25,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_26",
+  position: 26,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_27",
+  position: 27,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_28",
+  position: 28,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_29",
+  position: 29,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_30",
+  position: 30,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_31",
+  position: 31,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_32",
+  position: 32,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_33",
+  position: 33,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_34",
+  position: 34,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_35",
+  position: 35,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_36",
+  position: 36,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_37",
+  position: 37,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_38",
+  position: 38,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_39",
+  position: 39,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_40",
+  position: 40,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_41",
+  position: 41,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_42",
+  position: 42,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_43",
+  position: 43,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_44",
+  position: 44,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_45",
+  position: 45,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_46",
+  position: 46,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_47",
+  position: 47,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_48",
+  position: 48,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_49",
+  position: 49,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_50",
+  position: 50,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_51",
+  position: 51,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_52",
+  position: 52,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_53",
+  position: 53,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_54",
+  position: 54,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_55",
+  position: 55,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_56",
+  position: 56,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_57",
+  position: 57,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_58",
+  position: 58,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_59",
+  position: 59,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_60",
+  position: 60,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_61",
+  position: 61,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_62",
+  position: 62,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_63",
+  position: 63,
+  city: turin
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_64",
+  position: 64,
+  city: turin
+)
 
 lombardie = Province.create(
   name: "Lombardie",
@@ -50,7 +350,202 @@ bergame =   City.create(
   description:"Bergame altà est un village lombard perché en haut une colline, au pied des Alpes bergamasques. Il est entouré par ses vieilles murailles d'enceinte, consolidées au XVIe siècle par la domination vénitienne. A l’intérieur du bastion, on trouve une ville miniature : sur le sol quadrillé de longue Piazza Vecchia se regroupent des bâtiments publiques aux façades de marbre et le palais du gouvernement. Au centre, la Fontaine Contarini est gardée par des lions sculptés qui toisent les habitants attablés dans les cafés. Plus loin, la Basilica di Santa Maria Maggiore présente une extraordinaire façade rose et blanche, structurées en fin motifs géométriques.",
   province: lombardie,
   coordinates: "https://goo.gl/maps/EVKRgQvA6jK2",
-  heraldic: "/assets/blaz_bergame.png",)
+  heraldic: "/assets/blaz_bergame.png")
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_1",
+  position: 1,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_2",
+  position: 2,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_3",
+  position: 3,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_4",
+  position: 4,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_5",
+  position: 5,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_6",
+  position: 6,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_7",
+  position: 7,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_8",
+  position: 8,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_9",
+  position: 9,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_10",
+  position: 10,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_11",
+  position: 11,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_12",
+  position: 12,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_13",
+  position: 13,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_14",
+  position: 14,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_15",
+  position: 15,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_16",
+  position: 16,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_17",
+  position: 17,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_18",
+  position: 18,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_19",
+  position: 19,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_20",
+  position: 20,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_21",
+  position: 21,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_22",
+  position: 22,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_23",
+  position: 23,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_24",
+  position: 24,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_25",
+  position: 25,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_26",
+  position: 26,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_27",
+  position: 27,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_28",
+  position: 28,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_29",
+  position: 29,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_30",
+  position: 30,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_31",
+  position: 31,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_32",
+  position: 32,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_33",
+  position: 33,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_34",
+  position: 34,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_35",
+  position: 35,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_36",
+  position: 36,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_37",
+  position: 37,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_38",
+  position: 38,
+  city: bergame
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_39",
+  position: 39,
+  city: bergame
+)
 mantoue =   City.create(
   name:"Mantoue",
   geocoding: "45° 10′ NORD 10° 48′ EST",
@@ -58,7 +553,411 @@ mantoue =   City.create(
   province: lombardie,
   coordinates: "https://goo.gl/maps/wMK3qnSbNVn",
   heraldic: "/assets/blaz_mantoue.png",)
-
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_1",
+  position: 1,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_2",
+  position: 2,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_3",
+  position: 3,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_4",
+  position: 4,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_5",
+  position: 5,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_6",
+  position: 6,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_7",
+  position: 7,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_8",
+  position: 8,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_9",
+  position: 9,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_10",
+  position: 10,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_11",
+  position: 11,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_12",
+  position: 12,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_13",
+  position: 13,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_14",
+  position: 14,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_15",
+  position: 15,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_16",
+  position: 16,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_17",
+  position: 17,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_18",
+  position: 18,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_19",
+  position: 19,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_20",
+  position: 20,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_21",
+  position: 21,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_22",
+  position: 22,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_23",
+  position: 23,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_24",
+  position: 24,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_25",
+  position: 25,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_26",
+  position: 26,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_27",
+  position: 27,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_28",
+  position: 28,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_29",
+  position: 29,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_30",
+  position: 30,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_31",
+  position: 31,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_32",
+  position: 32,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_33",
+  position: 33,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_34",
+  position: 34,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_35",
+  position: 35,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_36",
+  position: 36,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_37",
+  position: 37,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_38",
+  position: 38,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_39",
+  position: 39,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_40",
+  position: 40,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_41",
+  position: 41,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_42",
+  position: 42,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_43",
+  position: 43,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_44",
+  position: 44,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_45",
+  position: 45,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_46",
+  position: 46,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_47",
+  position: 47,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_48",
+  position: 48,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_49",
+  position: 49,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_50",
+  position: 50,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_51",
+  position: 51,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_52",
+  position: 52,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_53",
+  position: 53,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_54",
+  position: 54,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_55",
+  position: 55,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_56",
+  position: 56,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_57",
+  position: 57,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_58",
+  position: 58,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_59",
+  position: 59,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_60",
+  position: 60,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_61",
+  position: 61,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_62",
+  position: 62,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_63",
+  position: 63,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_64",
+  position: 64,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_65",
+  position: 65,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_66",
+  position: 66,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_67",
+  position: 67,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_68",
+  position: 68,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_69",
+  position: 69,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_70",
+  position: 70,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_71",
+  position: 71,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_72",
+  position: 72,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_73",
+  position: 73,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_74",
+  position: 74,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_75",
+  position: 75,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_76",
+  position: 76,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_77",
+  position: 77,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_78",
+  position: 78,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_79",
+  position: 79,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_80",
+  position: 80,
+  city: mantoue
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_81",
+  position: 81,
+  city: mantoue
+)
 lacs = Province.create(
   name: "Lacs Italiens",
   description:"La beauté des lacs de l'Italie du Nord fascine. Dans la brume des montages bleutée, on les voit se dessiner avec leurs bateaux de pêche, leurs criques, leur villages authentiques, leur somptueuses villas bordées par des jardins remplis de lauriers et de roses et leurs palais magnifiques construits au fil des siècles par les grandes familles de la noblesse lombarde. Le voyageur est arlos attrapé par des couleurs méditerranées et des saveurs italiennes, et par ces lacs au bleu majestueux et profond qui présage déjà la sérénité des paysages suisses.")
@@ -5033,6 +5932,96 @@ polignano =   City.create(
   province: pouilles,
   coordinates: "https://goo.gl/maps/y5jPJWArV9H2",
   heraldic: "/assets/blaz_polignano.png")
+Picture.create(
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_1',
+  position: 1,
+  city: polignano
+)
+Picture.create(
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_2',
+  position: 2,
+  city: polignano
+)
+Picture.create(
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_3',
+  position: 3,
+  city: polignano
+)
+Picture.create(
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_4',
+  position: 4,
+  city: polignano
+)
+Picture.create(
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_5',
+  position: 5,
+  city: polignano
+)
+Picture.create(
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_6',
+  position: 6,
+  city: polignano
+)
+Picture.create(
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_7',
+  position: 7,
+  city: polignano
+)
+Picture.create(
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_8',
+  position: 8,
+  city: polignano
+)
+Picture.create(
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_9',
+  position: 9,
+  city: polignano
+)
+Picture.create(
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_10',
+  position: 10,
+  city: polignano
+)
+Picture.create(
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_12',
+  position: 12,
+  city: polignano
+)
+Picture.create(
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_13',
+  position: 13,
+  city: polignano
+)
+Picture.create(
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_14',
+  position: 14,
+  city: polignano
+)
+Picture.create(
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_15',
+  position: 15,
+  city: polignano
+)
+Picture.create(
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_16',
+  position: 16,
+  city: polignano
+)
+Picture.create(
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_17',
+  position: 17,
+  city: polignano
+)
+Picture.create(
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_18',
+  position: 18,
+  city: polignano
+)
+Picture.create(
+  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_19',
+  position: 19,
+  city: polignano
+)
 monopoli =  City.create(
   name:"Monopoli",
   geocoding: "40° 57′ 00″ NORD 17° 18′ 00″ EST",
@@ -5040,6 +6029,181 @@ monopoli =  City.create(
   province: pouilles,
   coordinates: "https://goo.gl/maps/iSCYZKeXgPk",
   heraldic: "/assets/blaz_monopoli.png")
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_1",
+  position: 1,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_2",
+  position: 2,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_3",
+  position: 3,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_4",
+  position: 4,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_5",
+  position: 5,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_6",
+  position: 6,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_7",
+  position: 7,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_8",
+  position: 8,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_9",
+  position: 9,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_10",
+  position: 10,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_11",
+  position: 11,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_12",
+  position: 12,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_13",
+  position: 13,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_14",
+  position: 14,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_15",
+  position: 15,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_16",
+  position: 16,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_17",
+  position: 17,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_18",
+  position: 18,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_19",
+  position: 19,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_20",
+  position: 20,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_21",
+  position: 21,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_22",
+  position: 22,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_23",
+  position: 23,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_24",
+  position: 24,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_25",
+  position: 25,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_26",
+  position: 26,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_27",
+  position: 27,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_28",
+  position: 28,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_29",
+  position: 29,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_30",
+  position: 30,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_31",
+  position: 31,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_32",
+  position: 32,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_33",
+  position: 33,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_34",
+  position: 34,
+  city: monopoli
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_35",
+  position: 35,
+  city: monopoli
+)
 lecce =   City.create(
   name:"Lecce",
   geocoding: "40° 21′ 13″ NORD 18° 10′ 32″ EST",
