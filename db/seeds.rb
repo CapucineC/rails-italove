@@ -336,14 +336,6 @@ Picture.create(
 lombardie = Province.create(
   name: "Lombardie",
   description:"Située sous les Alpes et serties par les lacs, la Lombardie est une région à la nature bleutée et rafraichissante. On le voit dans l'esthétique des peintres de la renaissance lombarde comme Luini, dont les tableaux ont des tons plus sobres et glacés que ses condisciples florentins. Région prospère du Nord de l'Italie, la Lombardie possède des villes très actives qui se parent de prestigieux monuments: Dômes, palais de marbres et forteresses se dressent élégamment vers le ciel, tandis que les piétons affairés marchent d'un pas rapide dans des rues rectilignes.")
-milan =   City.create(
-  name:"Milan",
-  geocoding: "45° 28′ 00″ NORD 9° 10′ 00″ EST",
-  description:"Fief des familles Sforza et Visconti, capitale de la mode et de la finance, la divine Milan étale son succès aux quatre coins de la ville. Mais ce n'est pas dans ses rues qu'il faut cherche sa beauté car elle n'y est pas. Elle se cache dans les arrières cours des Palazzi, se revèle par a-coups au grés des balades dans le quartier de Brera, devant ses monuments et dans ses institutions. Il faut regarder vivre les milanais : on les voit déguster un risotto dans une trattoria fine, se promener dans la Galleria Vittorio Emmanuelle pour regarder les sublimes devantures de Prada, prendre quelques pâtisseries chez Marchesi, se rendre à la Scala pour écouter Verdi. Nous reste à admirer l'austère château Sforza et l'éblouissant Dôme de Milan qui pointe vers le ciel cent trente cinq flèches de marbre.",
-  province: lombardie,
-  coordinates: "https://goo.gl/maps/PwxzZtBFjSq",
-  heraldic: "/assets/blaz_milan.png")
-
 bergame =   City.create(
   name:"Bergame",
   geocoding: "45° 42′ 00″ NORD 9° 39′ 58″ EST",
@@ -4613,8 +4605,533 @@ florence =  City.create(
   geocoding: "43° 46′ 18′ NORD 11° 15′ 13′ EST",
   description: "Berceau de la Renaissance, la ville de Florence possède un patrimoine culturel et artistique extraordinaire où se succèdent églises, monuments et palais d’une beauté magnanime. En redécouvrant la notion de 'perspective' sous l'impulsion des banquiers Médicis, elle fut le lieu d'un foisonnement intellectuel et artistique sans précédent, donnant à l'Italie ses plus grands artistes et penseurs, voyant se succéder parmi tant d'autres Brunelleschi, Botticelli, Michel-Ange, Léonard, Machiavel et encore Dante et Boccace.",
   province: toscane,
-  coordinates: "https://goo.gl/maps/sZJUBztHrg82",
+  coordinates: "https://www.franceculture.fr/emissions/carnet-nomade/je-vous-ecris-de-florence",
   heraldic: "/assets/blaz_florence.png")
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_1",
+  position: 1,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_2",
+  position: 2,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_3",
+  position: 3,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_4",
+  position: 4,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_5",
+  position: 5,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_6",
+  position: 6,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_7",
+  position: 7,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_8",
+  position: 8,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_9",
+  position: 9,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_10",
+  position: 10,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_11",
+  position: 11,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_12",
+  position: 12,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_13",
+  position: 13,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_14",
+  position: 14,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_15",
+  position: 15,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_16",
+  position: 16,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_17",
+  position: 17,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_18",
+  position: 18,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_19",
+  position: 19,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_20",
+  position: 20,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21",
+  position: 21,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.1",
+  position: 22,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.2",
+  position: 23,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.3",
+  position: 24,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.4",
+  position: 25,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.5",
+  position: 26,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.6",
+  position: 27,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.7",
+  position: 28,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.8",
+  position: 29,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.9",
+  position: 30,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.91",
+  position: 31,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.92",
+  position: 32,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.93",
+  position: 33,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.94",
+  position: 34,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.95",
+  position: 35,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.96",
+  position: 36,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_22",
+  position: 37,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_23",
+  position: 38,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_24",
+  position: 39,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_25",
+  position: 40,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_26",
+  position: 41,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_27",
+  position: 42,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_28",
+  position: 43,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_29",
+  position: 44,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_30",
+  position: 45,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_31",
+  position: 46,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_32",
+  position: 47,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_33",
+  position: 48,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_34",
+  position: 49,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_50",
+  position: 51,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_51",
+  position: 52,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_52",
+  position: 53,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_53",
+  position: 54,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_54",
+  position: 55,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_55",
+  position: 56,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_56",
+  position: 57,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_57",
+  position: 58,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_58",
+  position: 59,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_59",
+  position: 60,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_60",
+  position: 61,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_61",
+  position: 62,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_62",
+  position: 63,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_63",
+  position: 64,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_64",
+  position: 65,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_65",
+  position: 66,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_66",
+  position: 67,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_67",
+  position: 68,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_68",
+  position: 69,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_69",
+  position: 70,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_70",
+  position: 71,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_71",
+  position: 72,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_72",
+  position: 73,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_73",
+  position: 74,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_74",
+  position: 75,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_75",
+  position: 76,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_76",
+  position: 77,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_77",
+  position: 78,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_78",
+  position: 79,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_79",
+  position: 80,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_80",
+  position: 81,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_81",
+  position: 82,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_82",
+  position: 83,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_83",
+  position: 84,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_84",
+  position: 85,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_85",
+  position: 86,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_86",
+  position: 87,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_87",
+  position: 88,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_88",
+  position: 89,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_89",
+  position: 90,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_90.0",
+  position: 91,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_90.1",
+  position: 92,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_90.2",
+  position: 93,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_90.3",
+  position: 94,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_91",
+  position: 95,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_92",
+  position: 96,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_93",
+  position: 95,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_94",
+  position: 97,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_95",
+  position: 98,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_96",
+  position: 99,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_97",
+  position: 100,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_98",
+  position: 101,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_99",
+  position: 102,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_101",
+  position: 104,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546790230/Florence/flo_102.jpg",
+  position: 105,
+  city: florence
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_103",
+  position: 106,
+  city: florence
+)
 
  sienne =   City.create(
   name:"Sienne",
