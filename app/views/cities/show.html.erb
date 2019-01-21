@@ -17,14 +17,14 @@
     </div>
   </div>
 
-<div class="gallery">
-      <% @city.pictures.order(:position).each do |picture| %>
-   <div class="column">
-          <%= image_tag picture.url, alt: "alttext" %>
+  <div class="gallery-layout">
+        <% @city.pictures.order(:position).each do |picture| %>
+      <div class="gallery-layout__panel ">
+        <div class ="gallery-layout__panel_content">
+            <%= image_tag picture.url, alt: "alttext" %>
+        </div>
+      </div>
+        <% end %>
   </div>
-      <% end %>
 </div>
-</div>
-
-
 

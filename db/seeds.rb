@@ -10,7 +10,7 @@ turin =   City.create(
   geocoding: "45° 04′ 00″ NORD 7° 42′ 00″ EST",
   description:"Turin semble répondre à une quête de grandeur classiciste, de solennité grave. Elle se rapporche en cela des villes françaises. Derrière elle se dressent les Alpes, dont les monts eneigés entourent la ville d'une blancheur intacte. Son Palazzo Reale renferme dans ses hauts murs des trésors baroques. La flèche de la Mole Antonelliana s'élance vers le ciel comme pour le défier. Des cavaliers en statue se cabrent au milieu de ses longues places majestueuses. Avec ses rues droites, ses avenues larges et ses angles parfaits, Turin une ville élégante, sérieuse et ingénieuse. Mais elle sait aussi se montrer chaleureuse, en proposant dans ses vieux cafés d'excellents chocolats chaud à la noisette.",
   province: piemont,
-  coordinates: "https://goo.gl/maps/TqJf3La3Dmo",
+  coordinates: "https://goo.gl/maps/6G6XQSSDz7T2",
   heraldic: "/assets/blaz_turin.png")
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_1",
@@ -2017,7 +2017,7 @@ venise =  City.create(
   Veni etiam, reviens encore.”
   – Luigi Groto",
   province: venetie,
-  coordinates: "https://goo.gl/maps/eyGwojdbeDT2",
+  coordinates: "https://www.youtube.com/watch?v=jGliBO7p7no",
   heraldic: "/assets/blaz_venise.png")
 Picture.create(
   url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_1",
