@@ -1361,9 +1361,9 @@ Picture.create(
   city: come
 )
 majeur =  City.create(
-  name:"Lac Majeure",
+  name:"Lac Majeur",
   geocoding: "45° 54′ 18″ NORD 8° 34′ 57″ EST",
-  description:"Sur le rivage du lac Majeure, des bateaux en bois vernis attendent les promeneurs pour les emmener sur les trois ilots perdus au milieu du lac, qui constituent 'les îles Borromées'. Sur l'île Isola Madre, des allées mènent vers des jardin luxuriant aux fleurs colorés, où les palmiers côtoient des statues d'une blancheur éclatante. Sur l'Isola dei Pescatori, on trouve un village pittoresque avec son clocher blanc, ses toits rouges et ses filets de pêcheurs accrochés aux portes rustiques. Enfin, sur Isola Bella, un somptueux palais baroque semblent flotter sur les eaux, tandis que dans ses magnifiques jardins en cascade, des paons blancs se baladent en grand seigneur dans des allées rosies par les azalées et les rhododendrons.",
+  description:"Sur le rivage du lac Majeur, des bateaux en bois vernis attendent les promeneurs pour les emmener sur les trois ilots perdus au milieu du lac, qui constituent 'les îles Borromées'. Sur l'île Isola Madre, des allées mènent vers des jardin luxuriant aux fleurs colorés, où les palmiers côtoient des statues d'une blancheur éclatante. Sur l'Isola dei Pescatori, on trouve un village pittoresque avec son clocher blanc, ses toits rouges et ses filets de pêcheurs accrochés aux portes rustiques. Enfin, sur Isola Bella, un somptueux palais baroque semblent flotter sur les eaux, tandis que dans ses magnifiques jardins en cascade, des paons blancs se baladent en grand seigneur dans des allées rosies par les azalées et les rhododendrons.",
   province: lacs,
   coordinates: "https://goo.gl/maps/UhoNC994VF42",
   heraldic: "blaz_stressa.png")
@@ -2017,7 +2017,7 @@ venise =  City.create(
   Veni etiam, reviens encore.”
   – Luigi Groto",
   province: venetie,
-  coordinates: "https://www.youtube.com/watch?v=jGliBO7p7no",
+  coordinates: "https://www.youtube.com/watch?v=GQnip2alfAM",
   heraldic: "blaz_venise.png")
 Picture.create(
   url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_1",
@@ -3439,7 +3439,7 @@ Picture.create(
 )
 
 emilieromagne = Province.create(
-  name: "Emilie-romagne",
+  name: "Emilie-Romagne",
   description:"L'Émiligne-Romagne est une contrée d'aventure, où tout rappelle encore les centurions et les frasques de l'empire romain. Elle doit d'ailleurs son nom à la construction de la 'voie Emilienne' par le consul romain Marcus Aemilius Lepidus au IIe siècle A.D. Aventuresques, les villes de Bologne et de Ferrare nous entrainent dans des rues rougeoyantes, sous des arcades et des voutes, sur des places bordée de tavernes, à l'intérieur de châteaux qui ont encore des pont levis. On y ripaille excellemment, tant la région est connue pour sa bonne viande, ses saucissons et son vin goutu.")
 bologne =   City.create(
   name:"Bologne",
