@@ -28,7 +28,7 @@
            <% province.cities.each do |city| %>
               <!--  pour toutes les villes des provinces  -->
               <ul class="villes">
-
+                <%= link_to city.name, province_city_path(city)  %>
                 <!--  mettre le nom de la ville + redirection URL page -->
               </ul>
             <% end %>
