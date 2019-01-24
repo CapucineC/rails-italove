@@ -63,6 +63,20 @@
 }
 
 @media only screen and (max-width: 700px) {
+
+
+/* The navbar color */
+
+
+.navbar {
+    background-color: white;
+    box-shadow: 0 0 0;
+}
+
+.navbar ul {
+ float: left;
+}
+
 /* The sidepanel menu */
 .sidepanel {
   //height: 250px; /* Specify a height */
@@ -73,7 +87,7 @@
   left: 0;
   background-color: #eeeeee; /* Black*/
   overflow-x: hidden; /* Disable horizontal scroll */
-  padding-top: 60px; /* Place content 60px from the top */
+  padding-top: 40px; /* Place content 60px from the top */
   transition: 0.5s; /* 0.5 second transition effect to slide in the sidepanel */
 }
 
@@ -107,15 +121,17 @@
   display: unset;
   font-size: 20px;
   cursor: pointer;
-  background-color: #111;
+  background-color: lightgrey;
   color: white;
   padding: 10px 15px;
   border: none;
+  margin-top: 10px
 }
 
 .openbtn:hover {
   background-color: #444;
 }
+
 }
 
 
