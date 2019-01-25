@@ -8,7 +8,7 @@ piemont = Province.create(
 turin =   City.create(
   name:"Turin",
   geocoding: "45° 04′ 00″ NORD 7° 42′ 00″ EST",
-  description:"Turin semble répondre à une quête de grandeur classiciste, de solennité grave. Elle se rapporche en cela des villes françaises. Derrière elle se dressent les Alpes, dont les monts eneigés entourent la ville d'une blancheur intacte. Son Palazzo Reale renferme dans ses hauts murs des trésors baroques. La flèche de la Mole Antonelliana s'élance vers le ciel comme pour le défier. Des cavaliers en statue se cabrent au milieu de ses longues places majestueuses. Avec ses rues droites, ses avenues larges et ses angles parfaits, Turin une ville élégante, sérieuse et ingénieuse. Mais elle sait aussi se montrer chaleureuse, en proposant dans ses vieux cafés d'excellents chocolats chaud à la noisette.",
+  description:"Ville qui dégage une solennité grave, à la beauté rigide d'une grandeur classiciste. Avec ses rues droites, ses avenues larges et ses angles parfaits, Turin une ville sérieuse, laborieuse et ingénieuse. Au centre trône son Palazzo Reale qui renferme derrière ses hauts murs les splendeurs du passé. Au milieu de ses longues places majestueuses, on voit des cavaliers de statue qui se cabrent. Plus loin, la flèche de la Mole Antonelliana s'élance vers le ciel comme pour le défier. Derrière elle se dressent les Alpes, qui entourent la ville d'une blancheur sereine.",
   province: piemont,
   coordinates: "https://goo.gl/maps/6G6XQSSDz7T2",
   heraldic: "blaz_turin.png")
@@ -2012,7 +2012,7 @@ venise =  City.create(
   Veni etiam, reviens encore.”
   – Luigi Groto",
   province: venetie,
-  coordinates: "https://www.youtube.com/watch?v=GQnip2alfAM",
+  coordinates: "https://www.youtube.com/watch?v=JPOfJcb-wqA",
   heraldic: "blaz_venise.png")
 Picture.create(
   url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_1",
