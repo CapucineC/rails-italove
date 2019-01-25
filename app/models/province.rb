@@ -1,7 +1,10 @@
 class Province < ApplicationRecord
   has_many :cities
 
-  def to_param
-    [id, name.parameterize].join("-")
-  end
+  extend FriendlyId
+  friendly_id :name, use: :slugged
+
+  # def to_param
+  #   [id, name.parameterize].join("-")
+  # end
 end

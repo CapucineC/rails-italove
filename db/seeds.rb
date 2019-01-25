@@ -961,11 +961,6 @@ come =  City.create(
   coordinates: "https://goo.gl/maps/iNpSnhvPHom",
   heraldic: "blaz_varese.png")
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545070901/Capture_d_e%CC%81cran_2018-12-15_a%CC%80_16.17.38_kqj0x9.png",
-  position: 4,
-  city: come
-  )
-Picture.create(
   url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_01",
   position: 1,
   city: come
