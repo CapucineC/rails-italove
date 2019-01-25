@@ -15,7 +15,7 @@
         <!--<%= image_tag ("/assets/blaz_florence.png")%>-->
         <%=link_to image_tag(city.heraldic), province_city_path(city)  %>
          <!-- How to make this an href clickable -->
-        <%=link_to city.name, province_city_path(city) %>
+        <%= link_to city.name, province_city_path(@province, city)  %>
 
       </div>
     <!--  mettre le nom de la ville + redirection URL page dans son nom -->

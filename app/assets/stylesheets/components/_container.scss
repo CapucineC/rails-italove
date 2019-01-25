@@ -4,6 +4,7 @@
   background-size: cover;
   margin: 10px;
   filter: grayscale(10%);
+  position: relative;
 }
 
 .box {
@@ -34,13 +35,15 @@
 
 
 
-.intro-note{
-  max-width: 370px;
+.note{
+  max-width: 180px;
   text-align: justify;
-  margin: auto auto auto 77px;
   color: white;
   font-size: 14px;
   font-family: 'Libre Baskerville', serif;
+  position: absolute;
+  right: 40px;
+  top: 520px;
 
   //margin: 0 auto;
   // vertical-align: middle;
