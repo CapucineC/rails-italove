@@ -1,6 +1,6 @@
 
 .container {
-  background: image-url('jardin1.png') no-repeat;
+  background: image-url('chevaux.png') no-repeat;
   background-size: cover;
   margin: 10px;
   filter: grayscale(10%);
@@ -63,13 +63,19 @@
   font-size: 80px;
   //display: flex;
   // justify-content:center;
-  //margin: auto;
+  margin: auto;
   margin: 29px auto;
-  width: 319px;
-   //font-family: 'Gravitas One', cursive;
-  font-family: 'Libre Baskerville', serif;
+  width: 470px;
+  //font-family: 'Gravitas One', cursive;
+  //font-family: 'Libre Baskerville', serif;
   //font-style: oblique;
- // text-decoration: underline overline;
+  //text-decoration: underline;
+ //how to center a div horizontally and vertically
+  font-family: 'Major Mono Display', monospace;
+  // position:absolute;
+  // top:50%;
+  // left:50%;
+  // transform:translate(-50%,-50%);
 }
 
 
