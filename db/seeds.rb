@@ -4,14 +4,15 @@ Province.destroy_all
 
 piemont = Province.create(
   name: "Piémont",
-  description:"Le Piémont fut unifié au fil des siècle par la maison de Savoie. Ces seigneurs alpins ont su conquérir villages, vallées et seigneuries dans les alpes françaises et italiennes, pour finalement se concentrer en Italie du Nord, jusqu'à mener le pays à son unification avec une autre famille de piémontais, les Cavours. Ici, la nature y est sereine. En arrière fond, les Alpes sont blanches et majestueuses. Devant elles, les vallées du Pô gorgée d'eau produisent un riz perlé admirable. Enfin, des vignes plantées à coteaux de valons assurent à la région d'excellent vins. Ville haute et fière, son chef lieu Turin a gardé la dignité royale des Savoie.")
+  description:"Situé au pied des Alpes, le Piémont s'étend sur la vaste plaine du Pô. C'est de cette géographie qu'il prend son nom, qu'il tire du latin 'Ad Pedem Montium'. Longtemps disputé entre la France et l'Italie, il fut unifié au fil des siècles par la maison de Savoie. Ces princes des Alpes ont su conquérir villages, vallées et seigneuries locales pour finalement se concentrer en Italie du Nord. Ils ont ensuite conduit le pays vers son unification, notamment avec les Cavours, une autre famille piémontaise. Ici, la nature est sereine. En arrière-fond, les Alpes sont blanches et majestueuses. Devant elles, des vallées gorgées d'eau produisent un riz perlé admirable. Enfin, les vignes plantées à coteaux de valons produisent d'excellent vins. Ville solennelle, son chef-lieu Turin a gardé la dignité royale des Savoie.")
 turin =   City.create(
   name:"Turin",
   geocoding: "45° 04′ 00″ NORD 7° 42′ 00″ EST",
-  description:"Ville sérieuse, à la beauté classique. Ville grise quand le temps est lourd, ville aux milles reflets d'argent quand le soleil descend sur le fleuve Pô. Avec ses rues droites, ses avenues larges et ses angles parfaits, Turin une ville laborieuse et ingénieuse. Son centre historique est flamboyant. Il compte le Palazzo Reale, des rues traversées par des arcades et des cafés historiques, de vastes places royales, où l'on voit des cavaliers de statue. En arrière-fond se dressent les Alpes, qui entourent la ville d'une blancheur enneigée pendant l'hiver. Ville aristocratique et ouvrière, Turin a toujours travaillé à quelque chose de grand. Mais à quoi rêve Turin ? Au passé ou au futur ? A la pluie ou au soleil ? A la gloire ou à la quiétude ? Au romantisme ou au réalisme ? On sent dans cette ville une passion sous-jacente, mais on ne la voit jamais pense-t-on.",
+  description: "Ville haute et fière, à la beauté classique. Ville grise par temps lourd, ville aux milles reflets d'argent quand le soleil descend sur le fleuve Pô. Avec ses rues droites, ses avenues larges et ses angles parfaits, Turin une ville ingénieuse, sérieuse et laborieuse. Son centre historique est flamboyant. Il compte le Palazzo Reale, des arcades et des cafés historiques, de vastes places royales où trônent fièrement des cavaliers de statues. Au loin, les Alpes se dessinent. Ville aristocratique des Comtes de Savoie ou ville ouvrière pour les usines FIAT, Turin a toujours travaillé à quelque chose de grand. Mais à quoi rêve Turin ? Au passé ou au futur ? A la gloire ou à la quiétude ? Au romantisme ou au réalisme ? On sent ici une passion sous-jacente, mais on ne la voit jamais pense-t-on.",
   province: piemont,
   coordinates: "https://goo.gl/maps/6G6XQSSDz7T2",
   heraldic: "blaz_turin.png")
+
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_1",
   position: 1,
@@ -335,7 +336,7 @@ Picture.create(
 
 lombardie = Province.create(
   name: "Lombardie",
-  description:"Située sous les Alpes et serties par les lacs, la Lombardie est une région à la nature bleutée et rafraichissante. On le voit dans l'esthétique des peintres de la renaissance lombarde comme Luini, dont les tableaux ont des tons plus sobres et glacés que ses condisciples florentins. Région prospère du Nord de l'Italie, la Lombardie possède des villes très actives qui se parent de prestigieux monuments: Dômes, palais de marbres et forteresses se dressent élégamment vers le ciel, tandis que les piétons affairés marchent d'un pas rapide dans des rues rectilignes.")
+  description:"La Lombardie doit son nom au peuple des Lombards, une tribu germanique qui a envahi le nord de l'Italie à la chute de l'empire romain. Située non loin des Alpes et sertie par les lacs, c'est une région rigide et belle, à la nature froide et bleutée. On le voit dans l'esthétique des peintres de la renaissance lombarde qui ont utilisé dans leurs oeuvres des tons plus sobres et glacés que nulle par ailleurs en Italie. Région prospère du Nord, la Lombardie possède des villes qui se parent de prestigieux monuments: Dômes, palais de marbres et forteresses se dressent élégamment vers le ciel, tandis que les piétons affairés marchent d'un pas rapide dans des rues rectilignes.")
 bergame =   City.create(
   name:"Bergame",
   geocoding: "45° 42′ 00″ NORD 9° 39′ 58″ EST",
@@ -952,7 +953,7 @@ Picture.create(
 )
 lacs = Province.create(
   name: "Lacs Italiens",
-  description:"La beauté des lacs de l'Italie du Nord fascine. Dans la brume des montages bleutée, on les voit se dessiner avec leurs bateaux de pêche, leurs criques, leur villages authentiques, leur somptueuses villas bordées par des jardins remplis de lauriers et de roses et leurs palais magnifiques construits au fil des siècles par les grandes familles de la noblesse lombarde. Le voyageur est arlos attrapé par des couleurs méditerranées et des saveurs italiennes, et par ces lacs au bleu majestueux et profond qui présage déjà la sérénité des paysages suisses.")
+  description:"La beauté des lacs de l'Italie du Nord fascine. Dans la brume des montages bleutées, on les voit se dessiner avec leurs bateaux de pêche, leurs criques, leurs villages authentiques, leurs somptueuses villas bordées par des jardins remplis de lauriers, et leurs palais magnifiques. On y trouve un rythme, la quintessence de l'élégance, la sublime profondeur d'un bleu majestueux et profond qui présagent déjà la sérénité des paysages suisses.")
 come =  City.create(
   name:"Lac de Come",
   geocoding: "45° 59′ 40″ NORD 9° 15′ 58″ EST",
@@ -3435,7 +3436,7 @@ Picture.create(
 
 emilieromagne = Province.create(
   name: "Emilie-Romagne",
-  description:"L'Émiligne-Romagne est une contrée d'aventure, où tout rappelle encore les centurions et les frasques de l'empire romain. Elle doit d'ailleurs son nom à la construction de la 'voie Emilienne' par le consul romain Marcus Aemilius Lepidus au IIe siècle A.D. Aventuresques, les villes de Bologne et de Ferrare nous entrainent dans des rues rougeoyantes, sous des arcades et des voutes, sur des places bordée de tavernes, à l'intérieur de châteaux qui ont encore des pont levis. On y ripaille excellemment, tant la région est connue pour sa bonne viande, ses saucissons et son vin goutu.")
+  description:"L'Émiligne-Romagne est une contrée d'aventure, où tout rappelle encore les centurions et les frasques de l'empire romain. Elle doit d'ailleurs son nom à la construction de la 'voie Emilienne' par le consul Marcus Aemilius Lepidus au IIe siècle A.D. Aventuresques, les villes de Bologne et de Ferrare nous entrainent dans des rues rougeoyantes, sous des arcades et des voutes, sur des places bordées de tavernes, à l'intérieur de châteaux qui ont encore des pont levis. On y ripaille excellemment, tant la région est connue pour sa bonne viande, ses saucissons et son vin goûtu.")
 bologne =   City.create(
   name:"Bologne",
   geocoding: "44° 30′ 00″ NORD 11° 21′ 00″ EST",
@@ -4594,11 +4595,11 @@ Picture.create(
 
 toscane = Province.create(
   name: "Toscane",
-  description:"Splendeur du paysage toscan, si finement ciselée dans ses contours qu'on dirait qu'il fut dessiné par les peintres pour continuer l'art hors des villes. Au creux de ses vallons bleutés s'accrochent les vignes du Chianti qui produisent les meilleurs vins. C'est ici qu'a débuté la Renaissance dont l'histoire et l'héritage artistique eurent une influence considérable sur la culture européenne. Rivales éternelles, les villes de Toscane ont été un véritable laboratoire du politique. Deux modèles s'y sont opposés dans une rivalité historique : la bourgeoisie de Sienne contre le principat médicéen de Florence.")
+  description:"Splendeur du paysage toscan, si finement ciselée dans ses contours qu'on dirait qu'il fut dessiné par les peintres pour continuer l'art hors des villes. Au creux de ses vallons s'accrochent les divines vignes du Chianti qui produisent les meilleurs vins. C'est ici qu'a débuté la Renaissance dont l'histoire et l'héritage artistique eurent une influence considérable sur la culture européenne. Rivales éternelles, les villes de Toscane ont été un véritable laboratoire du politique. Deux modèles s'y sont opposés dans une rivalité historique : la bourgeoisie de Sienne contre le principat médicéen de Florence. De la Toscane, on retient cette invention magistrale de l'art de vivre, de la vie comme un art, de l'art comme ville.")
 florence =  City.create(
   name:"Florence",
   geocoding: "43° 46′ 18′ NORD 11° 15′ 13′ EST",
-  description: "Berceau de la Renaissance, la ville de Florence possède un patrimoine culturel et artistique extraordinaire où se succèdent églises, monuments et palais d’une beauté magnanime. En redécouvrant la notion de 'perspective' sous l'impulsion des banquiers Médicis, elle fut le lieu d'un foisonnement intellectuel et artistique sans précédent, donnant à l'Italie ses plus grands artistes et penseurs, voyant se succéder parmi tant d'autres Brunelleschi, Botticelli, Michel-Ange, Léonard, Machiavel et encore Dante et Boccace.",
+  description: "La ville de Florence fut le berceau de la Renaissance. Elle possède un patrimoine culturel et artistique extraordinaire où se succèdent églises, monuments et palais d’une beauté magnanime. En redécouvrant la notion de 'perspective' sous l'impulsion des banquiers Médicis, elle fut le lieu d'un foisonnement intellectuel et artistique sans précédent, donnant à l'Italie ses plus grands artistes et penseurs, voyant se succéder parmi tant d'autres Brunelleschi, Botticelli, Michel-Ange, Léonard, Machiavel et encore Dante et Boccace.",
   province: toscane,
   coordinates: "https://www.franceculture.fr/emissions/carnet-nomade/je-vous-ecris-de-florence",
   heraldic: "blaz_florence.png")
