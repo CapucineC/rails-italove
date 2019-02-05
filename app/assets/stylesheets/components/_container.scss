@@ -43,7 +43,23 @@
   font-family: 'Libre Baskerville', serif;
   position: absolute;
   right: 40px;
+  bottom: 30px;
+  //margin: 0 auto;
+  // vertical-align: middle;
+  //margin: auto;
+
+}
+
+.source{
+  max-width: 120px;
+  text-align: justify;
+  color: white;
+  font-size: 14px;
+  font-family: 'Libre Baskerville', serif;
+  position: absolute;
+  left: 40px;
   top: 520px;
+  font-style: oblique;
 
   //margin: 0 auto;
   // vertical-align: middle;

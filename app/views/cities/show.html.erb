@@ -17,14 +17,36 @@
     </div>
   </div>
 
-  <div class="gallery-layout">
+  <div class="wrapper">
         <% @city.pictures.order(:position).each do |picture| %>
       <div class="gallery-layout__panel ">
         <div class ="gallery-layout__panel_content">
-            <%= image_tag picture.url, alt: "alttext" %>
+            <li><%= image_tag picture.url, alt: "alttext" %></li>
         </div>
       </div>
         <% end %>
   </div>
-</div>
+
+<!-- <ul class="wrapper">
+  <li><%=image_tag("image_1")%></li>
+  <li class="paysage"><%=image_tag("image_2")%></li>
+  <li><%=image_tag("image_3")%></li>
+  <li class="paysage"><%=image_tag("image_4")%></li>
+  <li><%=image_tag("image_5")%></li>
+  <li><%=image_tag("image_6")%></li>
+  <li class="paysage"><%=image_tag("image_7")%></li>
+  <li class="paysage"><%=image_tag("image_8")%></li>
+  <li class="paysage"><%=image_tag("image_9")%></li>
+  <li class="paysage"><%=image_tag("image_10")%></li>
+  <li><%=image_tag("image_1")%></li>
+  <li class="paysage"><%=image_tag("image_2")%></li>
+  <li><%=image_tag("image_3")%></li>
+  <li class="paysage"><%=image_tag("image_4")%></li>
+  <li><%=image_tag("image_5")%></li>
+  <li><%=image_tag("image_6")%></li>
+  <li class="paysage"><%=image_tag("image_7")%></li>
+  <li class="paysage"><%=image_tag("image_8")%></li>
+  <li class="paysage"><%=image_tag("image_9")%></li>
+  <li class="paysage"><%=image_tag("image_10")%></li>
+</ul> -->
 

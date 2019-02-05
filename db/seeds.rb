@@ -337,6 +337,13 @@ Picture.create(
 lombardie = Province.create(
   name: "Lombardie",
   description:"La Lombardie doit son nom au peuple des Lombards, une tribu germanique qui a envahi le nord de l'Italie à la chute de l'empire romain. Située non loin des Alpes et sertie par les lacs, c'est une région rigide et belle, à la nature froide et bleutée. On le voit dans l'esthétique des peintres de la renaissance lombarde qui ont utilisé dans leurs oeuvres des tons plus sobres et glacés que nulle par ailleurs en Italie. Région prospère du Nord, la Lombardie possède des villes qui se parent de prestigieux monuments: Dômes, palais de marbres et forteresses se dressent élégamment vers le ciel, tandis que les piétons affairés marchent d'un pas rapide dans des rues rectilignes.")
+milan =   City.create(
+  name:"Milan",
+  geocoding: "45° 28′ 00″ NORD 9° 10′ 00″ EST",
+  description:"Fief des familles Sforza et Visconti, capitale de la mode et de la finance, la divine Milan étale son succès aux quatre coins de la ville. Mais ce n'est pas dans ses rues qu'il faut cherche sa beauté car elle n'y est pas. Elle se cache dans les arrières cours des Palazzi, se revèle par a-coups au grés des balades dans le quartier de Brera, devant ses monuments et dans ses institutions. Il faut regarder vivre les milanais : on les voit déguster un risotto dans une trattoria fine, se promener dans la Galleria Vittorio Emmanuelle pour regarder les sublimes devantures de Prada, prendre quelques pâtisseries chez Marchesi, se rendre à la Scala pour écouter Verdi. Nous reste à admirer l'austère château Sforza et l'éblouissant Dôme de Milan qui pointe vers le ciel cent trente cinq flèches de marbre.",
+  province: lombardie,
+  coordinates: "https://goo.gl/maps/PwxzZtBFjSq",
+  heraldic: "/assets/blaz_milan.png")
 bergame =   City.create(
   name:"Bergame",
   geocoding: "45° 42′ 00″ NORD 9° 39′ 58″ EST",
