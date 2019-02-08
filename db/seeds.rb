@@ -16,7 +16,8 @@ turin =   City.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_1",
   position: 1,
-  city: turin
+  city: turin,
+  css_class: "zoom"
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_2",
@@ -31,7 +32,8 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_4",
   position: 4,
-  city: turin
+  city: turin,
+  css_class: "portrait"
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_5",
