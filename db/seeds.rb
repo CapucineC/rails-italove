@@ -982,400 +982,428 @@ come =  City.create(
   coordinates: "https://goo.gl/maps/iNpSnhvPHom",
   heraldic: "blaz_varese.png")
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_01",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_01",
   position: 1,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_02",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_02",
   position: 2,
+  css_class:"zoom",
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_03",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_03",
   position: 3,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_04",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_04",
   position: 4,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_05",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_05",
   position: 5,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_06",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_06",
   position: 6,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_07",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_11",
   position: 7,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_08",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_08",
   position: 8,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_09",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_09",
   position: 9,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_10",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_10",
   position: 10,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_11",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_07",
   position: 11,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_12",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_12",
   position: 12,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_13",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_15",
   position: 13,
+  css_class:"portrait",
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_14",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_14",
   position: 14,
+  css_class:"portrait",
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_15",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_13",
   position: 15,
+  css_class:"portrait",
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_16",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_16",
   position: 16,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_17",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_17",
   position: 17,
+  css_class:"portrait",
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_18",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_18",
   position: 18,
+  css_class:"portrait",
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_19",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_61",
   position: 19,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_20",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_35",
   position: 20,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_21",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_34",
   position: 21,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_22",
-  position: 22,
-  city: come
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_23",
-  position: 23,
-  city: come
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_24",
-  position: 24,
-  city: come
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_25",
-  position: 25,
-  city: come
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_26",
-  position: 26,
-  city: come
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_27",
-  position: 27,
-  city: come
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_28",
-  position: 28,
-  city: come
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_29",
-  position: 29,
-  city: come
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_30",
-  position: 30,
-  city: come
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_31",
-  position: 31,
-  city: come
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_32",
-  position: 32,
-  city: come
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_33",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_33",
   position: 33,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_34",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_58",
+  position: 22,
+  city: come
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_59",
+  position: 24,
+  city: come
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_60",
+  position: 25,
+  city: come
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_19",
+  position: 26,
+  city: come
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_21",
+  position: 27,
+  city: come
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_22",
+  position: 28,
+  city: come
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_23",
+  position: 28.5,
+  city: come
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_26",
+  position: 29,
+  city: come
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_25",
+  position: 30,
+  city: come
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_24",
+  position: 31,
+  city: come
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_27",
+  position: 32,
+  city: come
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_29",
+  position: 33,
+  city: come
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_30",
   position: 34,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_35",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_28",
   position: 35,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_36",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_31",
   position: 36,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_37",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_32",
   position: 37,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_38",
-  position: 38,
-  city: come
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_39",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_36",
   position: 39,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_40",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_38",
   position: 40,
+  css_class:"portrait",
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_41",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_39",
   position: 41,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_42",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_41",
   position: 42,
+  css_class:"portrait",
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_43",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_42",
   position: 43,
+  css_class:"portrait",
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_44",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_43",
   position: 44,
+  css_class:"portrait",
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_45",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_44",
   position: 45,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_46",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_45",
   position: 46,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_47",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_46",
   position: 47,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_48",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_47",
   position: 48,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_50",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_50",
+  position: 49,
+  city: come
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_51",
   position: 50,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_51",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_52",
   position: 51,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_52",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_62",
   position: 52,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_58",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_63",
+  position: 53,
+  city: come
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_64",
+  position: 54,
+  city: come
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_65",
+  position: 55,
+  city: come
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_66",
+  position: 56,
+  city: come
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_67",
+  position: 57,
+  city: come
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_68",
   position: 58,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_59",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_69",
   position: 59,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_60",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_70",
   position: 60,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_61",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_71",
   position: 61,
+  css_class:"portrait",
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_62",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_72",
   position: 62,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_63",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_73",
   position: 63,
+  css_class:"zoom",
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_64",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_74",
   position: 64,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_65",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_75",
   position: 65,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_66",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_76",
   position: 66,
+  css_class:"portrait",
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_67",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_77",
   position: 67,
+  css_class:"portrait",
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_68",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_78",
   position: 68,
+  css_class:"portrait",
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_69",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_79",
   position: 69,
+  css_class:"portrait",
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_70",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_80",
   position: 70,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_71",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_82",
   position: 71,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_72",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_84",
   position: 72,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_73",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_85",
   position: 73,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_74",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_86",
   position: 74,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_75",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_87",
   position: 75,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_76",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_88",
   position: 76,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_77",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_89",
   position: 77,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_78",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_90",
   position: 78,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_79",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_91",
   position: 79,
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_80",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_92",
   position: 80,
+  css_class:"zoom",
   city: come
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_82",
-  position: 82,
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_93",
+  position: 81,
   city: come
 )
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_83",
-  position: 83,
-  city: come
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_84",
-  position: 84,
-  city: come
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_85",
-  position: 85,
-  city: come
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_86",
-  position: 86,
-  city: come
-)
+
 majeur =  City.create(
   name:"Lac Majeur",
   geocoding: "45° 54′ 18″ NORD 8° 34′ 57″ EST",
@@ -1459,16 +1487,6 @@ Picture.create(
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_16",
-  position: 16,
-  city: majeur
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_17",
-  position: 17,
-  city: majeur
-)
-Picture.create(
   url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_18",
   position: 18,
   city: majeur
@@ -1476,11 +1494,6 @@ Picture.create(
 Picture.create(
   url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_19",
   position: 19,
-  city: majeur
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_20",
-  position: 20,
   city: majeur
 )
 Picture.create(
@@ -4200,6 +4213,7 @@ ferrare =   City.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_1",
   position: 1,
+  css_class: "zoom",
   city: ferrare
 )
 Picture.create(
@@ -4680,19 +4694,16 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_10",
   position: 10,
-  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_11",
   position: 11,
-  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_12",
   position: 12,
-  css_class: "portrait",
   city: florence
 )
 Picture.create(
@@ -4731,136 +4742,163 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_19",
   position: 19,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_20",
   position: 20,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21",
   position: 21,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.1",
   position: 22,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.2",
   position: 23,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.3",
   position: 24,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.4",
   position: 25,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.5",
   position: 26,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.6",
   position: 27,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.7",
   position: 28,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.8",
   position: 29,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.9",
   position: 30,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.91",
   position: 31,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.92",
   position: 32,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.93",
   position: 33,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.94",
   position: 34,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.95",
   position: 35,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.96",
   position: 36,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_22",
   position: 37,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_23",
   position: 38,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_24",
   position: 39,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_25",
   position: 40,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_26",
   position: 41,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_27",
   position: 42,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_28",
   position: 43,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_29",
   position: 44,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_30",
   position: 45,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
@@ -4871,16 +4909,19 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_32",
   position: 47,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_33",
   position: 48,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_34",
   position: 49,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
@@ -4921,16 +4962,19 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_57",
   position: 58,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_58",
   position: 59,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_59",
   position: 60,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
@@ -4941,6 +4985,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_61",
   position: 62,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
@@ -4950,6 +4995,7 @@ Picture.create(
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_63",
+  css_class: "portrait",
   position: 64,
   city: florence
 )
@@ -4961,11 +5007,13 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_65",
   position: 66,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_66",
   position: 67,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
@@ -4986,31 +5034,37 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_70",
   position: 71,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_71",
   position: 72,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_72",
   position: 73,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_73",
   position: 74,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_74",
   position: 75,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_75",
   position: 76,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
@@ -5026,16 +5080,19 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_78",
   position: 79,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_79",
   position: 80,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_80",
   position: 81,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
@@ -5056,16 +5113,19 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_84",
   position: 85,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_85",
   position: 86,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_86",
   position: 87,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
@@ -5101,16 +5161,19 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_90.3",
   position: 94,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_91",
   position: 95,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_92",
   position: 96,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
@@ -5146,21 +5209,25 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_99",
   position: 102,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_101",
   position: 104,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546790230/Florence/flo_102.jpg",
   position: 105,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_103",
   position: 106,
+  css_class: "portrait",
   city: florence
 )
 
@@ -5660,6 +5727,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_8.0",
   position: 8,
+  css_class: "zoom",
   city: rome
 )
 Picture.create(
@@ -5675,6 +5743,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_10",
   position: 11,
+  css_class: "zoom",
   city: rome
 )
 Picture.create(
@@ -5795,6 +5864,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_34",
   position: 35,
+  css_class: "zoom",
   city: rome
 )
 Picture.create(
@@ -5840,6 +5910,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_42",
   position: 44,
+   css_class: "zoom",
   city: rome
 )
 Picture.create(
@@ -5915,6 +5986,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_57",
   position: 59,
+  css_class: "zoom",
   city: rome
 )
 Picture.create(
@@ -6015,6 +6087,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_76",
   position: 79,
+  css_class: "zoom",
   city: rome
 )
 Picture.create(
@@ -6559,6 +6632,7 @@ Picture.create(
 Picture.create(
   url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_17',
   position: 17,
+  css_class:"zoom",
   city: polignano
 )
 Picture.create(
