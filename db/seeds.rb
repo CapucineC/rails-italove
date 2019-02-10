@@ -4,11 +4,11 @@ Province.destroy_all
 
 piemont = Province.create(
   name: "Piémont",
-  description:"Situé au pied des Alpes, le Piémont s'étend sur la vaste plaine du Pô. C'est de cette géographie qu'il prend son nom, qu'il tire du latin 'Ad Pedem Montium'. Longtemps disputé entre la France et l'Italie, il fut unifié au fil des siècles par la maison de Savoie. Ces princes des Alpes ont su conquérir villages, vallées et seigneuries locales pour finalement se concentrer en Italie du Nord. Ils ont ensuite conduit le pays vers son unification, notamment avec les Cavours, une autre famille piémontaise. Ici, la nature est sereine. En arrière-fond, les Alpes sont blanches et majestueuses. Devant elles, des vallées gorgées d'eau donnent un riz perlé admirable. Enfin, les vignes plantées à coteaux de valons produisent d'excellent vins. Ville solennelle, son chef-lieu Turin a gardé la dignité royale des Savoie.")
+  description:"Situé au pied des Alpes, le Piémont s'étend sur la vaste plaine du Pô. C'est de cette géographie qu'il prend son nom, qu'il tire du latin 'Ad Pedem Montium'. Longtemps disputé entre la France et l'Italie, il fut unifié au fil des siècles par la maison de Savoie. Ces princes alpins ont su conquérir villages, vallées et seigneuries locales pour finalement se concentrer en Italie du Nord. Ils ont ensuite conduit le pays vers son unification, notamment avec les Cavours, une autre famille piémontaise. Ici, la nature est sereine. En arrière-fond, les Alpes sont blanches et majestueuses. Devant elles, des vallées gorgées d'eau donnent un riz perlé admirable. Enfin, les vignes plantées à coteaux de valons produisent d'excellent vins. Ville solennelle, son chef-lieu Turin a gardé la dignité royale des Savoie.")
 turin =   City.create(
   name:"Turin",
   geocoding: "45° 04′ 00″ NORD 7° 42′ 00″ EST",
-  description: "Ville haute et fière, à la beauté classique. Ville grise par temps lourd, ville aux milles reflets d'argent quand le soleil descend sur le fleuve Pô. Avec ses rues droites, ses avenues larges et ses angles parfaits, Turin une ville ingénieuse, sérieuse et laborieuse. Son centre historique est flamboyant. Il compte le Palazzo Reale, des arcades et des cafés historiques, de vastes places royales où trônent fièrement des cavaliers de statues. Au loin, les Alpes se dessinent. Ville aristocratique des Comtes de Savoie ou ville ouvrière pour les usines FIAT, Turin a toujours travaillé à quelque chose de grand. Mais à quoi rêve Turin ? Au passé ou au futur ? A la gloire ou à la quiétude ? Au romantisme ou au réalisme ? On sent ici une passion sous-jacente, mais on ne la voit jamais pense-t-on.",
+  description: "Ville haute et fière, à la beauté classique. Ville grise par temps lourd, ville aux mille reflets d'argent quand le soleil descend sur le fleuve Pô. Avec ses rues droites, ses avenues larges et ses angles parfaits, Turin une ville ingénieuse, sérieuse et laborieuse. Son centre historique est flamboyant. Il compte le Palazzo Reale, des arcades et des cafés historiques, de vastes places royales où trônent fièrement des cavaliers de statues. Au loin, les Alpes se dessinent. Ville aristocratique des Comtes de Savoie ou ville ouvrière pour les usines FIAT, Turin a toujours travaillé à quelque chose de grand. Mais à quoi rêve Turin ? Au passé ou au futur ? A la gloire ou à la quiétude ? Au romantisme ou au réalisme ? On sent ici une passion sous-jacente, mais on ne la voit jamais pense-t-on.",
   province: piemont,
   coordinates: "https://goo.gl/maps/6G6XQSSDz7T2",
   heraldic: "blaz_turin.png")
@@ -20,34 +20,40 @@ Picture.create(
   css_class: "portrait"
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_2",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_5",
   position: 2,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_3",
   position: 3,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_4",
   position: 4,
   city: turin,
-  css_class: "portrait"
+  css_class: "portrait",
 )
+
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_5",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_2",
   position: 5,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_6",
   position: 6,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_7",
   position: 7,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
@@ -71,38 +77,45 @@ Picture.create(
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_12",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_15",
   position: 12,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_13",
   position: 13,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_14",
   position: 14,
+  css_class: "portrait",
   city: turin
 )
+
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_15",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_12",
   position: 15,
   city: turin
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_16",
   position: 16,
+  css_class: "zoom",
   city: turin
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_17",
   position: 17,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_18",
   position: 18,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
@@ -123,26 +136,31 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_22",
   position: 22,
+  css_class: "zoom",
   city: turin
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_23",
   position: 23,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_24",
   position: 24,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_25",
   position: 25,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_26",
   position: 26,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
@@ -153,26 +171,19 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_28",
   position: 28,
-  city: turin
-)
-Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_29",
-  position: 29,
-  city: turin
-)
-Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_30",
-  position: 30,
+  css_class: "zoom",
   city: turin
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_31",
   position: 31,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_32",
   position: 32,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
@@ -213,26 +224,31 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_40",
   position: 40,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_41",
   position: 41,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_42",
   position: 42,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_43",
   position: 43,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_44",
   position: 44,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
@@ -273,11 +289,13 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_52",
   position: 52,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_53",
   position: 53,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
@@ -293,31 +311,37 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_56",
   position: 56,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_57",
   position: 57,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_58",
   position: 58,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_59",
   position: 59,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_60",
   position: 60,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_61",
   position: 61,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
@@ -328,6 +352,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_63",
   position: 63,
+  css_class: "zoom",
   city: turin
 )
 Picture.create(
@@ -397,6 +422,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_9",
   position: 9,
+  css_class:"zoom",
   city: bergame
 )
 Picture.create(
@@ -428,6 +454,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_15",
   position: 15,
+  css_class:"zoom",
   city: bergame
 )
 Picture.create(
@@ -547,6 +574,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_37",
   position: 37,
+  css_class:"zoom",
   city: bergame
 )
 Picture.create(
@@ -577,13 +605,14 @@ Picture.create(
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_3",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_4",
   position: 3,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_4",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_3",
   position: 4,
+    css_class:"zoom",
   city: mantoue
 )
 Picture.create(
@@ -614,21 +643,25 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_10",
   position: 10,
+  css_class:"portrait",
   city: mantoue
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_11",
   position: 11,
+  css_class:"portrait",
   city: mantoue
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_12",
   position: 12,
+  css_class:"portrait",
   city: mantoue
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_13",
   position: 13,
+  css_class:"portrait",
   city: mantoue
 )
 Picture.create(
@@ -714,6 +747,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_30",
   position: 30,
+  css_class:"zoom",
   city: mantoue
 )
 Picture.create(
@@ -747,28 +781,27 @@ Picture.create(
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_37",
-  position: 37,
-  city: mantoue
-)
-Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_38",
   position: 38,
+  css_class:"portrait",
   city: mantoue
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_39",
   position: 39,
+  css_class:"portrait",
   city: mantoue
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_40",
   position: 40,
+  css_class:"portrait",
   city: mantoue
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_41",
   position: 41,
+  css_class:"portrait",
   city: mantoue
 )
 Picture.create(
@@ -779,11 +812,6 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_43",
   position: 43,
-  city: mantoue
-)
-Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_44",
-  position: 44,
   city: mantoue
 )
 Picture.create(
@@ -809,16 +837,19 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_49",
   position: 49,
+  css_class:"portrait",
   city: mantoue
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_50",
   position: 50,
+  css_class:"portrait",
   city: mantoue
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_51",
   position: 51,
+  css_class:"zoom",
   city: mantoue
 )
 Picture.create(
@@ -839,6 +870,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_55",
   position: 55,
+  css_class:"zoom",
   city: mantoue
 )
 Picture.create(
@@ -854,16 +886,19 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_58",
   position: 58,
+  css_class:"portrait",
   city: mantoue
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_59",
   position: 59,
+  css_class:"portrait",
   city: mantoue
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_60",
   position: 60,
+  css_class:"portrait",
   city: mantoue
 )
 Picture.create(
@@ -964,6 +999,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_80",
   position: 80,
+  css_class:"zoom",
   city: mantoue
 )
 Picture.create(
@@ -1043,19 +1079,19 @@ Picture.create(
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_15",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_44",
   position: 13,
   css_class:"portrait",
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_14",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_43",
   position: 14,
   css_class:"portrait",
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_13",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_14",
   position: 15,
   css_class:"portrait",
   city: come
@@ -1150,6 +1186,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_27",
   position: 32,
+  css_class:"zoom",
   city: come
 )
 Picture.create(
@@ -1206,14 +1243,15 @@ Picture.create(
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_43",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_13",
   position: 44,
   css_class:"portrait",
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_44",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_15",
   position: 45,
+  css_class:"portrait",
   city: come
 )
 Picture.create(
@@ -4360,16 +4398,19 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_30",
   position: 30,
+  css_class: "portrait",
   city: ferrare
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_31",
   position: 31,
+  css_class: "portrait",
   city: ferrare
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_32",
   position: 32,
+  css_class: "portrait",
   city: ferrare
 )
 Picture.create(
@@ -4395,11 +4436,13 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_37",
   position: 37,
+  css_class: "zoom",
   city: ferrare
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_38",
   position: 38,
+  css_class: "portrait",
   city: ferrare
 )
 Picture.create(
@@ -4410,11 +4453,13 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_40",
   position: 40,
+  css_class: "portrait",
   city: ferrare
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_41",
   position: 41,
+  css_class: "portrait",
   city: ferrare
 )
 Picture.create(
@@ -4425,6 +4470,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_43",
   position: 43,
+  css_class: "portrait",
   city: ferrare
 )
 Picture.create(
@@ -4435,6 +4481,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_45",
   position: 45,
+  css_class: "portrait",
   city: ferrare
 )
 Picture.create(
@@ -4455,11 +4502,13 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_49",
   position: 49,
+  css_class: "portrait",
   city: ferrare
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_50",
   position: 50,
+  css_class: "portrait",
   city: ferrare
 )
 Picture.create(
@@ -4500,11 +4549,13 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_57",
   position: 58,
+  css_class: "portrait",
   city: ferrare
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_58",
   position: 59,
+  css_class: "portrait",
   city: ferrare
 )
 Picture.create(
@@ -4530,6 +4581,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_63",
   position: 64,
+  css_class: "zoom",
   city: ferrare
 )
 Picture.create(
@@ -4540,6 +4592,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_65",
   position: 66,
+  css_class: "portrait",
   city: ferrare
 )
 Picture.create(
@@ -4550,6 +4603,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_67",
   position: 68,
+  css_class: "portrait",
   city: ferrare
 )
 Picture.create(
@@ -4580,6 +4634,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_73",
   position: 74,
+  css_class: "portrait",
   city: ferrare
 )
 Picture.create(
@@ -5081,7 +5136,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_78",
   position: 79,
-  css_class: "portrait",
+  css_class: "zoom",
   city: florence
 )
 Picture.create(
@@ -5099,6 +5154,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_81",
   position: 82,
+  css_class:"portrait",
   city: florence
 )
 Picture.create(
@@ -5114,7 +5170,6 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_84",
   position: 85,
-  css_class: "portrait",
   city: florence
 )
 Picture.create(
@@ -5132,6 +5187,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_87",
   position: 88,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
@@ -5162,7 +5218,6 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_90.3",
   position: 94,
-  css_class: "portrait",
   city: florence
 )
 Picture.create(
@@ -5185,6 +5240,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_94",
   position: 97,
+  css_class: "portrait",
   city: florence
 )
 Picture.create(
@@ -5231,7 +5287,6 @@ Picture.create(
   css_class: "portrait",
   city: florence
 )
-
  sienne =   City.create(
   name:"Sienne",
   geocoding: "43° 20′ 00″ NORD 11° 20′ 00″ EST",
@@ -6259,6 +6314,7 @@ bari =  City.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_1",
   position: 1,
+  css_class:"zoom",
   city: bari
 )
 Picture.create(
@@ -6269,16 +6325,19 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_3",
   position: 3,
+  css_class:"portrait",
   city: bari
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_4",
   position: 4,
+  css_class:"zoom",
   city: bari
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_5",
   position: 5,
+  css_class:"portrait",
   city: bari
 )
 Picture.create(
@@ -6289,16 +6348,19 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_7",
   position: 7,
+  css_class:"portrait",
   city: bari
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_8",
   position: 8,
+  css_class:"portrait",
   city: bari
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_9",
   position: 9,
+  css_class:"portrait",
   city: bari
 )
 Picture.create(
@@ -6314,6 +6376,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_12",
   position: 12,
+  css_class: "portrait",
   city: bari
 )
 Picture.create(
@@ -6334,16 +6397,19 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_16",
   position: 16,
+  css_class:"portrait",
   city: bari
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_17",
   position: 17,
+  css_class:"portrait",
   city: bari
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_18",
   position: 18,
+  css_class:"portrait",
   city: bari
 )
 Picture.create(
@@ -6364,51 +6430,61 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_22",
   position: 22,
+  css_class:"portrait",
   city: bari
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_23",
   position: 23,
+  css_class:"portrait",
   city: bari
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_24",
   position: 24,
+  css_class:"portrait",
   city: bari
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_25",
   position: 25,
+    css_class:"portrait",
   city: bari
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_26",
   position: 26,
+  css_class:"portrait",
   city: bari
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_27",
   position: 27,
+  css_class:"portrait",
   city: bari
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_28",
   position: 28,
+  css_class:"portrait",
   city: bari
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_29",
   position: 29,
+  css_class:"portrait",
   city: bari
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_30",
   position: 30,
+  css_class:"portrait",
   city: bari
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_31",
   position: 31,
+  css_class:"portrait",
   city: bari
 )
 Picture.create(
@@ -6434,6 +6510,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_36",
   position: 36,
+  css_class: "portrait",
   city: bari
 )
 Picture.create(
@@ -6444,6 +6521,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_38",
   position: 38,
+  css_class: "portrait",
   city: bari
 )
 Picture.create(
@@ -6454,11 +6532,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_40",
   position: 40,
-  city: bari
-)
-Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_41",
-  position: 41,
+  css_class:"portrait",
   city: bari
 )
 Picture.create(
@@ -6469,6 +6543,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_43",
   position: 43,
+  css_class:"portrait",
   city: bari
 )
 Picture.create(
@@ -6494,41 +6569,47 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_48",
   position: 48,
+  css_class:"zoom",
   city: bari
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_49",
   position: 49,
+  css_class:"portrait",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_50",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_52",
   position: 50,
+  css_class: "portrait",
   city: bari
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_51",
   position: 51,
-  city: bari
-)
-Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_52",
-  position: 52,
+  css_class: "zoom",
   city: bari
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_53",
   position: 53,
+  css_class:"portrait",
   city: bari
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_54",
   position: 54,
+  css_class:"portrait",
   city: bari
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_55",
-  position: 55,
+  position: 55.1,
+  city: bari
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_50",
+  position: 55.2,
   city: bari
 )
 Picture.create(
@@ -6562,13 +6643,9 @@ Picture.create(
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_62",
-  position: 62,
-  city: bari
-)
-Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_63",
   position: 63,
+  css_class: "zoom",
   city: bari
 )
 polignano =   City.create(
@@ -6678,23 +6755,27 @@ monopoli =  City.create(
   coordinates: "https://goo.gl/maps/iSCYZKeXgPk",
   heraldic: "blaz_monopoli.png")
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_1",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_2",
   position: 1,
+  css_class:"portrait",
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_2",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_1",
   position: 2,
+  css_class:"zoom",
   city: monopoli
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_3",
   position: 3,
+  css_class:"portrait",
   city: monopoli
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_4",
   position: 4,
+  css_class:"portrait",
   city: monopoli
 )
 Picture.create(
@@ -6705,31 +6786,37 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_6",
   position: 6,
+  css_class:"portrait",
   city: monopoli
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_7",
   position: 7,
+  css_class:"portrait",
   city: monopoli
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_8",
   position: 8,
+  css_class:"portrait",
   city: monopoli
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_9",
   position: 9,
+  css_class:"portrait",
   city: monopoli
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_10",
   position: 10,
+  css_class:"portrait",
   city: monopoli
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_11",
   position: 11,
+  css_class:"portrait",
   city: monopoli
 )
 Picture.create(
@@ -6740,21 +6827,25 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_13",
   position: 13,
+  css_class:"zoom",
   city: monopoli
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_14",
   position: 14,
+  css_class:"portrait",
   city: monopoli
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_15",
   position: 15,
+  css_class:"portrait",
   city: monopoli
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_16",
   position: 16,
+  css_class:"portrait",
   city: monopoli
 )
 Picture.create(
@@ -6780,31 +6871,37 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_21",
   position: 21,
+  css_class:"portrait",
   city: monopoli
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_22",
   position: 22,
+  css_class:"portrait",
   city: monopoli
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_23",
   position: 23,
+  css_class:"portrait",
   city: monopoli
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_24",
   position: 24,
+  css_class:"zoom",
   city: monopoli
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_25",
   position: 25,
+  css_class:"portrait",
   city: monopoli
 )
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_26",
   position: 26,
+  css_class:"portrait",
   city: monopoli
 )
 Picture.create(
@@ -6825,6 +6922,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_30",
   position: 30,
+  css_class:"portrait",
   city: monopoli
 )
 Picture.create(
@@ -6850,6 +6948,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_35",
   position: 35,
+  css_class:"portrait",
   city: monopoli
 )
 lecce =   City.create(
