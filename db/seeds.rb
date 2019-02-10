@@ -6121,7 +6121,6 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_78",
   position: 81,
-  css_class:"portrait",
   city: rome
 )
 Picture.create(
