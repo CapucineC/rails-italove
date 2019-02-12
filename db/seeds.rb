@@ -3512,733 +3512,542 @@ emilieromagne = Province.create(
 bologne =   City.create(
   name:"Bologne",
   geocoding: "44° 30′ 00″ NORD 11° 21′ 00″ EST",
-  description:"Par l'atmosphère si sympathique qu'elle dégage et la beauté de ses rues médiévales, Bologne est une ville heureuse. On s'y promène par tout temps, grâce aux portiques infinis qui recouvrent ses rues et qui devaient être assez hauts, dit-on, pour laisser passer un homme à cheval. Très pittoresque, le centre ville est hérissé d'une dizaine de hautes tours. Au Moyen-Age, on en comptait plus de deux cents, qui servaient de poste de guet pour prévenir les attaques. Et puis le pouvoir fut confisqué par les Bentivoglio, qui firent entrer la Renaissance dans la ville. En témoigne la très belle façade de la basilique San Petronio réalisé par Jacopo della Quercia. Bologne est connue pour abriter la plus vieille université d'Europe, qui fut fréquentée par les illustres Dante, Boccace et Pétrarque.",
+  description:"Bologne des arcades rouges, des étudiants engagés et des saucissons goutûs, ville heureuse aux rues médiévales. On s'y promène par tout temps, grâce aux portiques infinis qui recouvrent ses rues et qui devaient être assez hauts, dit-on, pour laisser passer un homme à cheval. Très pittoresque, le centre ville est hérissé d'une dizaine de hautes tours. Au Moyen-Age, on en comptait plus de deux cents, qui servaient de poste de guet pour prévenir les attaques. A la Renaissance, le pouvoir fut confisqué par la famille Bentivoglio, qui commendère à Jacopo della Quercia la très belle façade de la basilique San Petronio. Bologne est connue pour abriter la plus vieille université d'Europe, qui fut fréquentée par les illustres Dante, Boccace et Pétrarque.",
   province: emilieromagne,
   coordinates: "https://goo.gl/maps/SikWUfv8ZAP2",
   heraldic: "blaz_bologne.png")
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_1",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_1",
   position: 1,
+  css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_2",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_2",
   position: 2,
+  css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_3",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_3",
   position: 3,
+  css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_4",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_4",
   position: 4,
+  css_class: "mini",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_5",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_5",
   position: 5,
+  css_class: "mini",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_6",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_8",
   position: 6,
+  css_class: "mini",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_7",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_6",
   position: 7,
+  css_class: "mini",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_8",
-  position: 8,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_9",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_7",
   position: 9,
+  css_class: "mini",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_10",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_9",
+  position: 9,
+  css_class: "mini",
+  city: bologne
+)
+Picture.create(
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_10",
   position: 10,
+  css_class: "zoom",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_11",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_11",
   position: 11,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_12",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_12",
   position: 12,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_13",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_13",
   position: 13,
+  css_class: "zoom",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_14",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_14",
   position: 14,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_15",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_15",
   position: 15,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_16",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_16",
   position: 16,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_17",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_17",
   position: 17,
+  css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_18",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_18",
   position: 18,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_19",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_19",
   position: 19,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_20",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_20",
   position: 20,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_21",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_21",
   position: 21,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_22",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_22",
   position: 22,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_23",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_23",
   position: 23,
+  css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_24",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_24",
   position: 24,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_25",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_25",
   position: 25,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_26",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_26",
   position: 26,
+  css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_27",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_27",
   position: 27,
+  css_class: "zoom",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_28",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_28",
   position: 28,
+  css_class: "zoom",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_29",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_29",
   position: 29,
+  css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_30",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_30",
   position: 30,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_31",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_31",
   position: 31,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_32",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_32",
   position: 32,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_33",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_33",
   position: 33,
+  css_class: "zoom",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_34",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_34",
   position: 34,
+  css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_35",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_35",
   position: 35,
+  css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_36",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_41",
   position: 36,
+  css_class: "zoom",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_37",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_37",
   position: 37,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_38",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_38",
   position: 38,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_39",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_39",
   position: 39,
+  css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_40",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_40",
   position: 40,
+  css_class: "zoom",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_41",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_44",
   position: 41,
   city: bologne
 )
+
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_42",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_42",
   position: 42,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_43",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_36",
   position: 43,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_44",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_43",
   position: 44,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_45",
-  position: 45,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_46",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_46",
   position: 46,
+  css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_47",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_47",
   position: 47,
+  css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_48",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_48",
   position: 48,
+  css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_49",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_49",
   position: 49,
+  css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_50",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_50",
   position: 50,
+  css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_51",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_53",
   position: 51,
+  css_class: "mini",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_52",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_52",
   position: 52,
+  css_class: "mini",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_53",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_51",
   position: 53,
+  css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_54",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_54",
   position: 54,
+  css_class: "mini",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_55",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_55",
   position: 55,
+  css_class: "mini",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_56",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_56",
   position: 56,
+  css_class: "mini",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_57",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_92",
   position: 57,
+  css_class: "mini",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_58",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_58",
   position: 58,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_59",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_59",
   position: 59,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_60",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_60",
   position: 60,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_61",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_61",
   position: 61,
+  css_class: "landscape",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_62",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_62",
   position: 62,
+  css_class: "landscape",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_63",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_63",
   position: 63,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_64",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_64",
   position: 64,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_65",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_65",
   position: 65,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_66",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_66",
   position: 66,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_67",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_67",
   position: 67,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_68",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_68",
   position: 68,
+  css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_69",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_69",
   position: 69,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_70",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_70",
   position: 70,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_71",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_71",
   position: 71,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_72",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_72",
   position: 72,
+  css_class: "zoom",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_73",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_73",
   position: 73,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_74",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_74",
   position: 74,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_75",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_75",
   position: 75,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_76",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_76",
   position: 76,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_77",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_77",
   position: 77,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_78",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_78",
   position: 78,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_79",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_79",
   position: 79,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_80",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_80",
   position: 80,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_81",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_81",
   position: 81,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_82",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_82",
   position: 82,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_83",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_83",
   position: 83,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_84",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_84",
   position: 84,
+  css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_85",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_85",
   position: 85,
+  css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_86",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_86",
   position: 86,
+  css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_87",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_87",
   position: 87,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_88",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_88",
   position: 88,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_89",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_89",
   position: 89,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_90",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_90",
   position: 90,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_91",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_93",
   position: 91,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_92",
-  position: 92,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_93",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_91",
   position: 93,
+  css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_94",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_94",
   position: 94,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_95",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_95",
   position: 95,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_96",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_96",
   position: 96,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_97",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_97",
   position: 97,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_98",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_98",
   position: 98,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_99",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_99",
   position: 99,
   city: bologne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_100",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_100",
   position: 100,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_101",
-  position: 101,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_102",
-  position: 102,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_103",
-  position: 103,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_104",
-  position: 104,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_105",
-  position: 105,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_106",
-  position: 106,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_107",
-  position: 107,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_108",
-  position: 108,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_109",
-  position: 109,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_110",
-  position: 110,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_111",
-  position: 111,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_112",
-  position: 112,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_113",
-  position: 113,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_114",
-  position: 114,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_115",
-  position: 115,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_116",
-  position: 116,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_117",
-  position: 117,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_118",
-  position: 118,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_119",
-  position: 119,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_120",
-  position: 120,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_121",
-  position: 121,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_122",
-  position: 122,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_123",
-  position: 123,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_124",
-  position: 124,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_125",
-  position: 125,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_126",
-  position: 126,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_127",
-  position: 127,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_128",
-  position: 128,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_129",
-  position: 129,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_130",
-  position: 130,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_131",
-  position: 131,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_132",
-  position: 132,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_133",
-  position: 133,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_134",
-  position: 134,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_135",
-  position: 135,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_136",
-  position: 136,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_137",
-  position: 137,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_138",
-  position: 138,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_139",
-  position: 139,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_140",
-  position: 140,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_141",
-  position: 141,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_142",
-  position: 142,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_143",
-  position: 143,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_144",
-  position: 144,
-  city: bologne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545507257/Bologne/bolo_145",
-  position: 145,
   city: bologne
 )
 
@@ -4502,7 +4311,6 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_49",
   position: 49,
-  css_class: "portrait",
   city: ferrare
 )
 Picture.create(
@@ -4529,6 +4337,7 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_53.2",
   position: 54,
+  css_class:"portrait",
   city: ferrare
 )
 Picture.create(
@@ -4675,11 +4484,6 @@ Picture.create(
 Picture.create(
   url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_81",
   position: 82,
-  city: ferrare
-)
-Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_82",
-  position: 83,
   city: ferrare
 )
 
