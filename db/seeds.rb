@@ -12,351 +12,350 @@ turin =   City.create(
   province: piemont,
   coordinates: "https://goo.gl/maps/6G6XQSSDz7T2",
   heraldic: "blaz_turin.png")
-
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_1",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_1.jpg",
   position: 1,
   city: turin,
   css_class: "portrait"
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_5",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_5.jpg",
   position: 2,
   css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_3",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_3.jpg",
   position: 3,
   css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_4",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_4.jpg",
   position: 4,
   city: turin,
   css_class: "portrait",
 )
 
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_2",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_2.jpg",
   position: 5,
   css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_6",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_6.jpg",
   position: 6,
   css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_7",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_7.jpg",
   position: 7,
   css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_8",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_8.jpg",
   position: 8,
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_9",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_9.jpg",
   position: 9,
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_10",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_10.jpg",
   position: 10,
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_11",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_11.jpg",
   position: 11,
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_15",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_15.jpg",
   position: 12,
   css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_13",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_13.jpg",
   position: 13,
   css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_14",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_14.jpg",
   position: 14,
   css_class: "portrait",
   city: turin
 )
 
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_12",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_12.jpg",
   position: 15,
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_16",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_16.jpg",
   position: 16,
   css_class: "zoom",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_17",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_17.jpg",
   position: 17,
   css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_18",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_18.jpg",
   position: 18,
   css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_19",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_19.jpg",
   position: 19,
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_20",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_20.jpg",
   position: 20,
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_21",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_21.jpg",
   position: 21,
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_22",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_22.jpg",
   position: 22,
   css_class: "zoom",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_23",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_23.jpg",
   position: 23,
   css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_24",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_24.jpg",
   position: 24,
   css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_25",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_25.jpg",
   position: 25,
   css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_26",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_26.jpg",
   position: 26,
   css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_27",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_27.jpg",
   position: 27,
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_28",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_28.jpg",
   position: 28,
   css_class: "zoom",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_31",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_31.jpg",
   position: 31,
   css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_32",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_32.jpg",
   position: 32,
   css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_33",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_33.jpg",
   position: 33,
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_34",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_34.jpg",
   position: 34,
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_35",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_35.jpg",
   position: 35,
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_36",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_36.jpg",
   position: 36,
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_37",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_37.jpg",
   position: 37,
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_38",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_38.jpg",
   position: 38,
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_39",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_39.jpg",
   position: 39,
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_40",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_40.jpg",
   position: 40,
   css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_41",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_41.jpg",
   position: 41,
   css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_42",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_42.jpg",
   position: 42,
   css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_43",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_43.jpg",
   position: 43,
   css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_44",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_44.jpg",
   position: 44,
   css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_45",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_45.jpg",
   position: 45,
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_46",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_46.jpg",
   position: 46,
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_47",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_47.jpg",
   position: 47,
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_48",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_48.jpg",
   position: 48,
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_49",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_49.jpg",
   position: 49,
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_50",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_50.jpg",
   position: 50,
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_51",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_51.jpg",
   position: 51,
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_52",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_52.jpg",
   position: 52,
   css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_53",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_53.jpg",
   position: 53,
   css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_54",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_54.jpg",
   position: 54,
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_55",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_55.jpg",
   position: 55,
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_56",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_56.jpg",
   position: 56,
   css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_57",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_57.jpg",
   position: 57,
   css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_58",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_58.jpg",
   position: 58,
   css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_59",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_59.jpg",
   position: 59,
   css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_60",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_60.jpg",
   position: 60,
   css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_61",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_61.jpg",
   position: 61,
   css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_62",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_62.jpg",
   position: 62,
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_63",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_63.jpg",
   position: 63,
   css_class: "zoom",
   city: turin
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546700669/Turin/tor_64",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/tor_64.jpg",
   position: 64,
   city: turin
 )
@@ -379,211 +378,211 @@ bergame =   City.create(
   coordinates: "https://goo.gl/maps/EVKRgQvA6jK2",
   heraldic: "blaz_bergame.png")
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_1",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_1.jpg",
   position: 1,
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_2",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_2.jpg",
   position: 2,
   css_class: "portrait",
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_3",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_3.jpg",
   position: 3,
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_4",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_4.jpg",
   position: 4,
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_5",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_5.jpg",
   position: 5,
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_6",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_6.jpg",
   position: 6,
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_7",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_7.jpg",
   position: 7,
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_8",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_8.jpg",
   position: 8,
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_9",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_9.jpg",
   position: 9,
   css_class:"zoom",
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_10",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_10.jpg",
   position: 10,
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_11",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_11.jpg",
   position: 11,
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_12",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_12.jpg",
   position: 12,
   css_class: "portrait",
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_13",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_13.jpg",
   position: 13,
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_14",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_14.jpg",
   position: 14,
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_15",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_15.jpg",
   position: 15,
   css_class:"zoom",
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_16",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_16.jpg",
   position: 16,
   css_class: "portrait",
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_17",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_17.jpg",
   position: 17,
   css_class: "portrait",
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_18",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_18.jpg",
   position: 18,
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_19",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_19.jpg",
   position: 19,
   css_class: "portrait",
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_20",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_20.jpg",
   position: 20,
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_21",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_21.jpg",
   position: 21,
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_22",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_22.jpg",
   position: 22,
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_23",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_23.jpg",
   position: 23,
   css_class: "portrait",
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_24",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_24.jpg",
   position: 24,
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_25",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_25.jpg",
   position: 25,
   css_class: "portrait",
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_26",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_26.jpg",
   position: 26,
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_27",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_27.jpg",
   position: 27,
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_28",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_28.jpg",
   position: 28,
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_29",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_29.jpg",
   position: 29,
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_30",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_30.jpg",
   position: 30,
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_31",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_31.jpg",
   position: 31,
   css_class: "portrait",
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_32",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_32.jpg",
   position: 32,
   css_class: "portrait",
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_33",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_33.jpg",
   position: 33,
   css_class: "portrait",
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_34",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_34.jpg",
   position: 34,
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_35",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_35.jpg",
   position: 35,
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_36",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_36.jpg",
   position: 36,
   css_class: "portrait",
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_37",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_37.jpg",
   position: 37,
   css_class:"zoom",
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_38",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_38.jpg",
   position: 38,
   city: bergame
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546532466/Bergame/be_39",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_39.jpg",
   position: 39,
   city: bergame
 )
@@ -595,418 +594,419 @@ mantoue =   City.create(
   coordinates: "https://goo.gl/maps/wMK3qnSbNVn",
   heraldic: "blaz_mantoue.png",)
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_1",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_1.jpg",
   position: 1,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_2",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_2.jpg",
   position: 2,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_4",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_4.jpg",
   position: 3,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_3",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_3.jpg",
   position: 4,
     css_class:"zoom",
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_5",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_5.jpg",
   position: 5,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_6",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_6.jpg",
   position: 6,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_7",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_7.jpg",
   position: 7,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_8",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_8.jpg",
   position: 8,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_9",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_9.jpg",
   position: 9,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_10",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_10.jpg",
   position: 10,
   css_class:"portrait",
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_11",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_11.jpg",
   position: 11,
   css_class:"portrait",
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_12",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_12.jpg",
   position: 12,
   css_class:"portrait",
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_13",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_13.jpg",
   position: 13,
   css_class:"portrait",
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_14",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_14.jpg",
   position: 14,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_15",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_15.jpg",
   position: 15,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_16",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_16.jpg",
   position: 16,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_17",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_17.jpg",
   position: 17,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_18",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_18.jpg",
   position: 18,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_19",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_19.jpg",
   position: 19,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_20",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_20.jpg",
   position: 20,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_21",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_21.jpg",
   position: 21,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_22",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_22.jpg",
   position: 22,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_23",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_23.jpg",
   position: 23,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_24",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_24.jpg",
   position: 24,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_25",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_25.jpg",
   position: 25,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_26",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_26.jpg",
   position: 26,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_27",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_27.jpg",
   position: 27,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_28",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_28.jpg",
   position: 28,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_29",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_29.jpg",
   position: 29,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_30",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_30.jpg",
   position: 30,
   css_class:"zoom",
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_31",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_31.jpg",
   position: 31,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_32",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_32.jpg",
   position: 32,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_33",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_33.jpg",
   position: 33,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_34",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_34.jpg",
   position: 34,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_35",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_35.jpg",
   position: 35,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_36",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_36.jpg",
   position: 36,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_38",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_38.jpg",
   position: 38,
   css_class:"portrait",
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_39",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_39.jpg",
   position: 39,
   css_class:"portrait",
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_40",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_40.jpg",
   position: 40,
   css_class:"portrait",
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_41",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_41.jpg",
   position: 41,
   css_class:"portrait",
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_42",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_42.jpg",
   position: 42,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_43",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_43.jpg",
   position: 43,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_45",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_45.jpg",
   position: 45,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_46",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_46.jpg",
   position: 46,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_47",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_47.jpg",
   position: 47,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_48",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_48.jpg",
   position: 48,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_49",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_49.jpg",
   position: 49,
   css_class:"portrait",
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_50",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_50.jpg",
   position: 50,
   css_class:"portrait",
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_51",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_51.jpg",
   position: 51,
   css_class:"zoom",
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_52",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_52.jpg",
   position: 52,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_53",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_53.jpg",
   position: 53,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_54",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_54.jpg",
   position: 54,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_55",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_55.jpg",
   position: 55,
   css_class:"zoom",
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_56",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_56.jpg",
   position: 56,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_57",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_57.jpg",
   position: 57,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_58",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_58.jpg",
   position: 58,
   css_class:"portrait",
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_59",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_59.jpg",
   position: 59,
   css_class:"portrait",
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_60",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_60.jpg",
   position: 60,
   css_class:"portrait",
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_61",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_61.jpg",
   position: 61,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_62",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_62.jpg",
   position: 62,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_63",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_63.jpg",
   position: 63,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_64",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_64.jpg",
   position: 64,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_65",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_65.jpg",
   position: 65,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_66",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_66.jpg",
   position: 66,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_67",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_67.jpg",
   position: 67,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_68",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_68.jpg",
   position: 68,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_69",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_69.jpg",
   position: 69,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_70",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_70.jpg",
   position: 70,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_71",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_71.jpg",
   position: 71,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_72",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_72.jpg",
   position: 72,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_73",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_73.jpg",
   position: 73,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_74",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_74.jpg",
   position: 74,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_75",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_75.jpg",
   position: 75,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_76",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_76.jpg",
   position: 76,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_77",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_77.jpg",
   position: 77,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_78",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_78.jpg",
   position: 78,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_79",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_79.jpg",
   position: 79,
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_80",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_80.jpg",
   position: 80,
   css_class:"zoom",
   city: mantoue
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546689688/Mantoue/man_81",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_81.jpg",
   position: 81,
   city: mantoue
 )
+
 lacs = Province.create(
   name: "Lacs Italiens",
   description:"La beauté des lacs de l'Italie du Nord fascine. Dans la brume des montages bleutées, on les voit se dessiner avec leurs bateaux de pêche, leurs criques, leurs villages authentiques, leurs somptueuses villas bordées par des jardins remplis de lauriers, et leurs palais magnifiques. On y trouve un rythme, la quintessence de l'élégance, la sublime profondeur d'un bleu majestueux et profond qui présagent déjà la sérénité des paysages suisses.")
@@ -1018,427 +1018,427 @@ come =  City.create(
   coordinates: "https://goo.gl/maps/iNpSnhvPHom",
   heraldic: "blaz_varese.png")
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_01",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_01.jpg",
   position: 1,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_02",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_02.jpg",
   position: 2,
   css_class:"zoom",
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_03",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_03.jpg",
   position: 3,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_04",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_04.jpg",
   position: 4,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_05",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_05.jpg",
   position: 5,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_06",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_06.jpg",
   position: 6,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_11",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_11.jpg",
   position: 7,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_08",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_08.jpg",
   position: 8,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_09",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_09.jpg",
   position: 9,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_10",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_10.jpg",
   position: 10,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_07",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_07.jpg",
   position: 11,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_12",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_12.jpg",
   position: 12,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_44",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_44.jpg",
   position: 13,
   css_class:"portrait",
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_43",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_43.jpg",
   position: 14,
   css_class:"portrait",
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_14",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_14.jpg",
   position: 15,
   css_class:"portrait",
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_16",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_16.jpg",
   position: 16,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_17",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_17.jpg",
   position: 17,
   css_class:"portrait",
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_18",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_18.jpg",
   position: 18,
   css_class:"portrait",
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_61",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_61.jpg",
   position: 19,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_35",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_35.jpg",
   position: 20,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_34",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_34.jpg",
   position: 21,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_33",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_33.jpg",
   position: 33,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_58",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_58.jpg",
   position: 22,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_59",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_59.jpg",
   position: 24,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_60",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_60.jpg",
   position: 25,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_19",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_19.jpg",
   position: 26,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_21",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_21.jpg",
   position: 27,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_22",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_22.jpg",
   position: 28,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_23",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_23.jpg",
   position: 28.5,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_26",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_26.jpg",
   position: 29,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_25",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_25.jpg",
   position: 30,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_24",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_24.jpg",
   position: 31,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_27",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_27.jpg",
   position: 32,
   css_class:"zoom",
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_29",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_29.jpg",
   position: 33,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_30",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_30.jpg",
   position: 34,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_28",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_28.jpg",
   position: 35,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_31",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_31.jpg",
   position: 36,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_32",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_32.jpg",
   position: 37,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_36",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_36.jpg",
   position: 39,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_38",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_38.jpg",
   position: 40,
   css_class:"portrait",
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_39",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_39.jpg",
   position: 41,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_41",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_41.jpg",
   position: 42,
   css_class:"portrait",
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_42",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_42.jpg",
   position: 43,
   css_class:"portrait",
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_13",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_13.jpg",
   position: 44,
   css_class:"portrait",
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_15",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_15.jpg",
   position: 45,
   css_class:"portrait",
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_45",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_45.jpg",
   position: 46,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_46",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_46.jpg",
   position: 47,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_47",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_47.jpg",
   position: 48,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_50",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_50.jpg",
   position: 49,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_51",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_51.jpg",
   position: 50,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_52",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_52.jpg",
   position: 51,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_62",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_62.jpg",
   position: 52,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_63",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_63.jpg",
   position: 53,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_64",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_64.jpg",
   position: 54,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_65",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_65.jpg",
   position: 55,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_66",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_66.jpg",
   position: 56,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_67",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_67.jpg",
   position: 57,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_68",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_68.jpg",
   position: 58,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_69",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_69.jpg",
   position: 59,
   css_class:"portrait",
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_70",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_70.jpg",
   position: 60,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_71",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_71.jpg",
   position: 61,
   css_class:"portrait",
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_72",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_72.jpg",
   position: 62,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_73",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_73.jpg",
   position: 63,
   css_class:"zoom",
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_74",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_74.jpg",
   position: 64,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_75",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_75.jpg",
   position: 65,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_76",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_76.jpg",
   position: 66,
   css_class:"portrait",
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_77",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_77.jpg",
   position: 67,
   css_class:"portrait",
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_78",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_78.jpg",
   position: 68,
   css_class:"portrait",
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_79",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_79.jpg",
   position: 69,
   css_class:"portrait",
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_80",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_80.jpg",
   position: 70,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_82",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_82.jpg",
   position: 71,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_84",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_84.jpg",
   position: 72,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_85",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_85.jpg",
   position: 73,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_86",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_86.jpg",
   position: 74,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_87",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_87.jpg",
   position: 75,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_88",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_88.jpg",
   position: 76,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_89",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_89.jpg",
   position: 77,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_90",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_90.jpg",
   position: 78,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_91",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_91.jpg",
   position: 79,
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_92",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_92.jpg",
   position: 80,
   css_class:"zoom",
   city: come
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545649717/Lac%20de%20Come/co_93",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_93.jpg",
   position: 81,
   city: come
 )
@@ -1451,628 +1451,646 @@ majeur =  City.create(
   coordinates: "https://goo.gl/maps/UhoNC994VF42",
   heraldic: "blaz_stressa.png")
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_1",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_1.jpg",
   position: 1,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_2",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_3.jpg",
   position: 2,
+  css_class: "zoom",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_3",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_2.jpg",
   position: 3,
   city: majeur
 )
+
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_4",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_4.jpg",
   position: 4,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_5",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_5.jpg",
   position: 5,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_6",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_6.jpg",
   position: 6,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_7",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_7.jpg",
   position: 7,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_8",
-  position: 8,
-  city: majeur
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_9",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_9.jpg",
   position: 9,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_10",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_10.jpg",
   position: 10,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_11",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_11.jpg",
   position: 11,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_12",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_12.jpg",
   position: 12,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_13",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_13.jpg",
   position: 13,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_14",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_14.jpg",
   position: 14,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_15",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_15.jpg",
   position: 15,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_18",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_18.jpg",
   position: 18,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_19",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_19.jpg",
   position: 19,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_21",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_21.jpg",
   position: 21,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_22",
-  position: 22,
-  city: majeur
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_23",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_23.jpg",
   position: 23,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_24",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_24.jpg",
   position: 24,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_25",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_25.jpg",
   position: 25,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_26",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_26.jpg",
   position: 26,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_27",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_27.jpg",
   position: 27,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_28",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_28.jpg",
   position: 28,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_29",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_29.jpg",
   position: 29,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_30",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_30.jpg",
   position: 30,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_31",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_31.jpg",
   position: 31,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_32",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_32.jpg",
   position: 32,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_33",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_33.jpg",
   position: 33,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_34",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_34.jpg",
   position: 34,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_35",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_35.jpg",
   position: 35,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_36",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_36.jpg",
   position: 36,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_37",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_37.jpg",
   position: 37,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_38",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_38.jpg",
   position: 38,
+  css_class: "zoom",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_39",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_39.jpg",
   position: 39,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_40",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_40.jpg",
   position: 40,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_41",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_41.jpg",
   position: 41,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_42",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_42.jpg",
   position: 42,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_43",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_43.jpg",
   position: 43,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_44",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_44.jpg",
   position: 44,
+  css_class: "zoom",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_45",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_45.jpg",
   position: 45,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_46",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_46.jpg",
   position: 46,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_47",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_47.jpg",
   position: 47,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_48",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_48.jpg",
   position: 48,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_49",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_49.jpg",
   position: 49,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_50",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_50.jpg",
   position: 50,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_51",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_51.jpg",
   position: 51,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_52",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_52.jpg",
   position: 52,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_53",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_53.jpg",
   position: 53,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_54",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_54.jpg",
   position: 54,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_55",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_55.jpg",
   position: 55,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_56",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_56.jpg",
   position: 56,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_57",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_57.jpg",
   position: 57,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_58",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_58.jpg",
   position: 58,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_59",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_59.jpg",
   position: 59,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_60",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_60.jpg",
   position: 60,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_61",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_61.jpg",
   position: 61,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_62",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_62.jpg",
   position: 62,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_63",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_63.jpg",
   position: 63,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_64",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_64.jpg",
   position: 64,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_65",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_65.jpg",
   position: 65,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_66",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_66.jpg",
   position: 66,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_67",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_67.jpg",
   position: 67,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_68",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_68.jpg",
   position: 68,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_69",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_69.jpg",
   position: 69,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_70",
-  position: 70,
-  city: majeur
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_71",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_71.jpg",
   position: 71,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_72",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_72.jpg",
   position: 72,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_73",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_73.jpg",
   position: 73,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_74",
-  position: 74,
-  city: majeur
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_75",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_74.jpg",
   position: 75,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_76",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_75.jpg",
+  position: 75,
+  city: majeur
+)
+Picture.create(
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_76.jpg",
   position: 76,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_77",
-  position: 77,
-  city: majeur
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_78",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_78.jpg",
   position: 78,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_79",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_82.jpg",
   position: 79,
+  css_class: "zoom",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_80",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_80.jpg",
   position: 80,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_81",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_81.jpg",
   position: 81,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_82",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_77.jpg",
   position: 82,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_83",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_83.jpg",
   position: 83,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_84",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_84.jpg",
   position: 84,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_85",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_85.jpg",
   position: 85,
+  css_class: "zoom",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_86",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_86.jpg",
   position: 86,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_87",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_87.jpg",
   position: 87,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_88",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_88.jpg",
   position: 88,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_89",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_89.jpg",
   position: 89,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_90",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_90.jpg",
   position: 90,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_91",
-  position: 91,
-  city: majeur
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_92",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_92.jpg",
   position: 92,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_93",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_93.jpg",
   position: 93,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_94",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_94.jpg",
   position: 94,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_95",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_95.jpg",
   position: 95,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_96",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_96.jpg",
   position: 96,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_97",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_97.jpg",
   position: 97,
+  css_class: "zoom",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_98",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_98.jpg",
   position: 98,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_99",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_99.jpg",
   position: 99,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_100",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_100.jpg",
   position: 100,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_101",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_101.jpg",
   position: 101,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_102",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_102.jpg",
   position: 102,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_103",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_103.jpg",
   position: 103,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_104",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_104.jpg",
   position: 104,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_105",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_105.jpg",
   position: 105,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_106",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_106.jpg",
   position: 106,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_107",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_107.jpg",
   position: 107,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_108",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_108.jpg",
   position: 108,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_109",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_109.jpg",
   position: 109,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_110",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_110.jpg",
   position: 110,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_111",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_111.jpg",
   position: 111,
+  css_class: "zoom",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_112",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_112.jpg",
   position: 112,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_113",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_113.jpg",
   position: 113,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_114",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_114.jpg",
   position: 114,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_115",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_115.jpg",
   position: 115,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_116",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_116.jpg",
   position: 116,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_117",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_117.jpg",
   position: 117,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_118",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_118.jpg",
   position: 118,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_119",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_119.jpg",
   position: 119,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_120",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_120.jpg",
   position: 120,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_121",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_121.jpg",
   position: 121,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_122",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_122.jpg",
   position: 122,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_123",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_123.jpg",
   position: 123,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_124",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_124.jpg",
   position: 124,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_125",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_125.jpg",
   position: 125,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_126",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_126.jpg",
   position: 126,
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_127",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_127.jpg",
   position: 127,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545561739/Lac%20Majeur/ma_128",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_128.jpg",
   position: 128,
+  css_class: "zoom",
   city: majeur
 )
 venetie = Province.create(
@@ -2088,1420 +2106,1374 @@ venise =  City.create(
   coordinates: "https://www.youtube.com/watch?v=JPOfJcb-wqA",
   heraldic: "blaz_venise.png")
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_1",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_1.jpg",
   position: 1,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_2",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_2.jpg",
   position: 2,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_3",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_3.jpg",
   position: 3,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_4",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_4.jpg",
   position: 4,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_5",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_5.jpg",
   position: 5,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_6",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_6.jpg",
   position: 6,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_7",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_7.jpg",
   position: 7,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_8",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_8.jpg",
   position: 8,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_9",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_9.jpg",
   position: 9,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_10",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_10.jpg",
   position: 10,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_11",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_11.jpg",
   position: 11,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_12",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_12.jpg",
   position: 12,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_13",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_13.jpg",
   position: 13,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_14",
-  position: 14,
-  city: venise
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_15",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_15.jpg",
   position: 15,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_16",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_16.jpg",
   position: 16,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_17",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_17.jpg",
   position: 17,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_18",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_18.jpg",
   position: 18,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_19",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_19.jpg",
   position: 19,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_20",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_20.jpg",
   position: 20,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_21",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_21.jpg",
   position: 21,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_22",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_22.jpg",
   position: 22,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_23",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_23.jpg",
   position: 23,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_24",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_24.jpg",
   position: 24,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_25",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_25.jpg",
   position: 25,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_26",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_26.jpg",
   position: 26,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_27",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_27.jpg",
   position: 27,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_28",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_28.jpg",
   position: 28,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_29",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_29.jpg",
   position: 29,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_30",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_30.jpg",
   position: 30,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_31",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_31.jpg",
   position: 31,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_32",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_32.jpg",
   position: 32,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_33",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_33.jpg",
   position: 33,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_34",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_34.jpg",
   position: 34,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_35",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_35.jpg",
   position: 35,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_36",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_36.jpg",
   position: 36,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_37",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_37.jpg",
   position: 37,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_38",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_38.jpg",
   position: 38,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_39",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_39.jpg",
   position: 39,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_40",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_40.jpg",
   position: 40,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_41",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_41.jpg",
   position: 41,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_42",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_42.jpg",
   position: 42,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_43",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_43.jpg",
   position: 43,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_44",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_44.jpg",
   position: 44,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_45",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_45.jpg",
   position: 45,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_46",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_46.jpg",
   position: 46,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_47",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_47.jpg",
   position: 47,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_48",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_48.jpg",
   position: 48,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_49",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_49.jpg",
   position: 49,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_50",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_50.jpg",
   position: 50,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_51",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_51.jpg",
   position: 51,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_52",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_52.jpg",
   position: 52,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_53",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_53.jpg",
   position: 53,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_54",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_54.jpg",
   position: 54,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_55",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_55.jpg",
   position: 55,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_56",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_56.jpg",
   position: 56,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_57",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_57.jpg",
   position: 57,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_58",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_58.jpg",
   position: 58,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_59",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_59.jpg",
   position: 59,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_60",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_60.jpg",
   position: 60,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_61",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_61.jpg",
   position: 61,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_62",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_62.jpg",
   position: 62,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_63",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_63.jpg",
   position: 63,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_64",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_64.jpg",
   position: 64,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_65",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_65.jpg",
   position: 65,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_66",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_66.jpg",
   position: 66,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_67",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_67.jpg",
   position: 67,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_68",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_68.jpg",
   position: 68,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_69",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_69.jpg",
   position: 69,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_70",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_70.jpg",
   position: 70,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_71",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_71.jpg",
   position: 71,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_72",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_72.jpg",
   position: 72,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_73",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_73.jpg",
   position: 73,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_74",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_74.jpg",
   position: 74,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_75",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_75.jpg",
   position: 75,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_76",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_76.jpg",
   position: 76,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_77",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_77.jpg",
   position: 77,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_78",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_78.jpg",
   position: 78,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_79",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_79.jpg",
   position: 79,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_80",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_80.jpg",
   position: 80,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_81",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_81.jpg",
   position: 81,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_82",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_82.jpg",
   position: 82,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_83",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_83.jpg",
   position: 83,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_84",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_84.jpg",
   position: 84,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_85",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_85.jpg",
   position: 85,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_86",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_86.jpg",
   position: 86,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_87",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_87.jpg",
   position: 87,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_88",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_88.jpg",
   position: 88,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_89",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_89.jpg",
   position: 89,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_90",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_90.jpg",
   position: 90,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_91",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_91.jpg",
   position: 91,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_92",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_92.jpg",
   position: 92,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_93",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_93.jpg",
   position: 93,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_94",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_94.jpg",
   position: 94,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_95",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_95.jpg",
   position: 95,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_96",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_96.jpg",
   position: 96,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_97",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_97.jpg",
   position: 97,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_98",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_98.jpg",
   position: 98,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_99",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_99.jpg",
   position: 99,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_100",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_100.jpg",
   position: 100,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_101",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_101.jpg",
   position: 101,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_102",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_102.jpg",
   position: 102,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_103",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_103.jpg",
   position: 103,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_104",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_104.jpg",
   position: 104,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_105",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_105.jpg",
   position: 105,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_106",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_106.jpg",
   position: 106,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_107",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_107.jpg",
   position: 107,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_108",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_108.jpg",
   position: 108,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_109",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_109.jpg",
   position: 109,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_110",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_110.jpg",
   position: 110,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_111",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_111.jpg",
   position: 111,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_112",
-  position: 112,
-  city: venise
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_113",
-  position: 113,
-  city: venise
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_114",
-  position: 114,
-  city: venise
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_115",
-  position: 115,
-  city: venise
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_116",
-  position: 116,
-  city: venise
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_117",
-  position: 117,
-  city: venise
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_118",
-  position: 118,
-  city: venise
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_119",
-  position: 119,
-  city: venise
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_120",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_120.jpg",
   position: 120,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_121",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_121.jpg",
   position: 121,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_122",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_122.jpg",
   position: 122,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_123",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_123.jpg",
   position: 123,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_124",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_124.jpg",
   position: 124,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_125",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_125.jpg",
   position: 125,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_126",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_126.jpg",
   position: 126,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_127",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_127.jpg",
   position: 127,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_128",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_128.jpg",
   position: 128,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_129",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_129.jpg",
   position: 129,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_130",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_130.jpg",
   position: 130,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_131",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_131.jpg",
   position: 131,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_132",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_132.jpg",
   position: 132,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_133",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_133.jpg",
   position: 133,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_134",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_134.jpg",
   position: 134,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_135",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_135.jpg",
   position: 135,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_136",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_136.jpg",
   position: 136,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_137",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_137.jpg",
   position: 137,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_138",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_138.jpg",
   position: 138,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_139",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_139.jpg",
   position: 139,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_140",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_140.jpg",
   position: 140,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_141",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_141.jpg",
   position: 141,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_142",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_142.jpg",
   position: 142,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_143",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_143.jpg",
   position: 143,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_144",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_144.jpg",
   position: 144,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_145",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_145.jpg",
   position: 145,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_146",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_146.jpg",
   position: 146,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_147",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_147.jpg",
   position: 147,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_148",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_148.jpg",
   position: 148,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_149",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_149.jpg",
   position: 149,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_150",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_150.jpg",
   position: 150,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_151",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_151.jpg",
   position: 151,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_152",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_152.jpg",
   position: 152,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_153",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_153.jpg",
   position: 153,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_154",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_154.jpg",
   position: 154,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_155",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_155.jpg",
   position: 155,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_156",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_156.jpg",
   position: 156,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_157",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_157.jpg",
   position: 157,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_158",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_158.jpg",
   position: 158,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_159",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_159.jpg",
   position: 159,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_160",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_160.jpg",
   position: 160,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_161",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_161.jpg",
   position: 161,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_162",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_162.jpg",
   position: 162,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_163",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_163.jpg",
   position: 163,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_164",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_164.jpg",
   position: 164,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_165",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_165.jpg",
   position: 165,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_166",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_166.jpg",
   position: 166,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_167",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_167.jpg",
   position: 167,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_168",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_168.jpg",
   position: 168,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_169",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_169.jpg",
   position: 169,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_170",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_170.jpg",
   position: 170,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_171",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_171.jpg",
   position: 171,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_172",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_172.jpg",
   position: 172,
   city: venise
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545596790/Venise/ve_173",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_173.jpg",
   position: 173,
   city: venise
 )
 verone =  City.create(
   name:"Verone",
   geocoding: "45° 26′ 00″ NORD 10° 59′ 00″ EST",
-  description:"On parcoure Vérone comme on marcherait dans les allées d'un jardin antique. Ici, on rencontre la nature au milieu de la ville. En haut des palais, on voit les fenêtres bordées par un cadre de lier grimpant. Les rues sont peintes et prennent ombrage des toits. Partout les fleurs ornent les balcons comme des joyaux dans leur écrin. La Piazza delle Erbe est recouverte de splendides fresques dont on devine l'éclat d'antan. On ne sait plus qui de l'art ou de la nature s'imite. Alors, songeur, on s'éloigne des sentiers battus. On déambule jusqu'au jardin Giusti, un jardin classique paré de tous les verts. Le jardin, cet idéal de beauté qui transforme la nature en oeuvre d'art, qui élève l'esprit, où le corps soudain flotte, bercé de toutes les sensations et de tous parfums : 'Selve amiche, ombrose piante,
-fido albergo del mio core'...",
+  description:"On parcoure Vérone comme on marcherait dans les allées d'un jardin antique. Ici, on rencontre la nature au milieu de la ville. En haut des palais, on voit les fenêtres bordées par un cadre de lier grimpant. Les rues sont peintes et prennent ombrage des toits. Partout les fleurs ornent les balcons comme des joyaux dans leur écrin. La Piazza delle Erbe est recouverte de splendides fresques dont on devine l'éclat d'antan. On ne sait plus qui de l'art ou de la nature s'imite. Alors, songeur, on s'éloigne des sentiers battus. On déambule jusqu'au jardin Giusti, un jardin classique paré de tous les verts. Le jardin, cet idéal de beauté qui transforme la nature en oeuvre d'art, qui élève l'esprit, où le corps soudain flotte, bercé de toutes les sensations et de tous parfums : 'Selve amiche, ombrose piante, fido albergo del mio core'...",
   province: venetie,
   coordinates: "https://www.youtube.com/watch?v=zp3hnBt9TqM",
   heraldic: "blaz_verone.png")
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_1",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_1.jpg",
   position: 1,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_2",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_2.jpg",
   position: 2,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_3",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_3.jpg",
   position: 3,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_4",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_4.jpg",
   position: 4,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_5",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_5.jpg",
   position: 5,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_6",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_6.jpg",
   position: 6,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_7",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_7.jpg",
   position: 7,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_8",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_8.jpg",
   position: 8,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_9",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_9.jpg",
   position: 9,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_10",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_10.jpg",
   position: 10,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_11",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_11.jpg",
   position: 11,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_12",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_12.jpg",
   position: 12,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_13",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_13.jpg",
   position: 13,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_14",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_14.jpg",
   position: 14,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_15",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_15.jpg",
   position: 15,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_16",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_16.jpg",
   position: 16,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_17",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_17.jpg",
   position: 17,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_18",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_18.jpg",
   position: 18,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_19",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_19.jpg",
   position: 19,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_20",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_20.jpg",
   position: 20,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_21",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_21.jpg",
   position: 21,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_22",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_22.jpg",
   position: 22,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_23",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_23.jpg",
   position: 23,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_24",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_24.jpg",
   position: 24,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_25",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_25.jpg",
   position: 25,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_26",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_26.jpg",
   position: 26,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_27",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_27.jpg",
   position: 27,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_28",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_28.jpg",
   position: 28,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_29",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_29.jpg",
   position: 29,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_30",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_30.jpg",
   position: 30,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_31",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_31.jpg",
   position: 31,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_32",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_32.jpg",
   position: 32,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_33",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_33.jpg",
   position: 33,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_34",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_34.jpg",
   position: 34,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_35",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_35.jpg",
   position: 35,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_36",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_36.jpg",
   position: 36,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_37",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_37.jpg",
   position: 37,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_38",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_38.jpg",
   position: 38,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_39",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_39.jpg",
   position: 39,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_40",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_40.jpg",
   position: 40,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_41",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_41.jpg",
   position: 41,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_42",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_42.jpg",
   position: 42,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_43",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_43.jpg",
   position: 43,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_44",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_44.jpg",
   position: 44,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_45",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_45.jpg",
   position: 45,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_46",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_46.jpg",
   position: 46,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_47",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_47.jpg",
   position: 47,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_48",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_48.jpg",
   position: 48,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_49",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_49.jpg",
   position: 49,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_50",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_50.jpg",
   position: 50,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_51",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_51.jpg",
   position: 51,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_52",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_52.jpg",
   position: 52,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_53",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_53.jpg",
   position: 53,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_54",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_54.jpg",
   position: 54,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_55",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_55.jpg",
   position: 55,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_56",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_56.jpg",
   position: 56,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_57",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_57.jpg",
   position: 57,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_58",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_58.jpg",
   position: 58,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_59",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_59.jpg",
   position: 59,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_60",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_60.jpg",
   position: 60,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_61",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_61.jpg",
   position: 61,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_62",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_62.jpg",
   position: 62,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_63",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_63.jpg",
   position: 63,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_64",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_64.jpg",
   position: 64,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_65",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_65.jpg",
   position: 65,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_66",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_66.jpg",
   position: 66,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_67",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_67.jpg",
   position: 67,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_68",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_68.jpg",
   position: 68,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_69",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_69.jpg",
   position: 69,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_70",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_70.jpg",
   position: 70,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_71",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_71.jpg",
   position: 71,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_72",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_72.jpg",
   position: 72,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_73",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_73.jpg",
   position: 73,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_74",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_74.jpg",
   position: 74,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_75",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_75.jpg",
   position: 75,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_76",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_76.jpg",
   position: 76,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_77",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_77.jpg",
   position: 77,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_78",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_78.jpg",
   position: 78,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_79",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_79.jpg",
   position: 79,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_80",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_80.jpg",
   position: 80,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_81",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_81.jpg",
   position: 81,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_82",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_82.jpg",
   position: 82,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_83",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_83.jpg",
   position: 83,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_84",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_84.jpg",
   position: 84,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_85",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_85.jpg",
   position: 85,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_86",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_86.jpg",
   position: 86,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_87",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_87.jpg",
   position: 87,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_88",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_88.jpg",
   position: 88,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_89",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_89.jpg",
   position: 89,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_90",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_90.jpg",
   position: 90,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_91",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_91.jpg",
   position: 91,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_92",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_92.jpg",
   position: 92,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_93",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_93.jpg",
   position: 93,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_94",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_94.jpg",
   position: 94,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_95",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_95.jpg",
   position: 95,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_96",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_96.jpg",
   position: 96,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_97",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_97.jpg",
   position: 97,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_98",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_98.jpg",
   position: 98,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_99",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_99.jpg",
   position: 99,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_100",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_100.jpg",
   position: 100,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_101",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_101.jpg",
   position: 101,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_102",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_102.jpg",
   position: 102,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_103",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_103.jpg",
   position: 103,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_104",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_104.jpg",
   position: 104,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_105",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_105.jpg",
   position: 105,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_106",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_106.jpg",
   position: 106,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_107",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_107.jpg",
   position: 107,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_108",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_108.jpg",
   position: 108,
   city: verone
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546353352/Verone/ver_109",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_109.jpg",
   position: 109,
   city: verone
 )
@@ -3517,537 +3489,507 @@ bologne =   City.create(
   coordinates: "https://goo.gl/maps/SikWUfv8ZAP2",
   heraldic: "blaz_bologne.png")
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_1",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_1.jpg",
   position: 1,
   css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_2",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_2.jpg",
   position: 2,
   css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_3",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_3.jpg",
   position: 3,
   css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_4",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_4.jpg",
   position: 4,
   css_class: "mini",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_5",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_5.jpg",
   position: 5,
   css_class: "mini",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_8",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_8.jpg",
   position: 6,
   css_class: "mini",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_6",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_6.jpg",
   position: 7,
   css_class: "mini",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_7",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_7.jpg",
   position: 9,
   css_class: "mini",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_9",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_9.jpg",
   position: 9,
   css_class: "mini",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_10",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_10.jpg",
   position: 10,
   css_class: "zoom",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_11",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_11.jpg",
   position: 11,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_12",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_12.jpg",
   position: 12,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_13",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_13.jpg",
   position: 13,
   css_class: "zoom",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_14",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_14.jpg",
   position: 14,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_15",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_15.jpg",
   position: 15,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_16",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_16.jpg",
   position: 16,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_17",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_17.jpg",
   position: 17,
   css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_18",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_18.jpg",
   position: 18,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_19",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_19.jpg",
   position: 19,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_20",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_20.jpg",
   position: 20,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_21",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_21.jpg",
   position: 21,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_22",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_22.jpg",
   position: 22,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_23",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_23.jpg",
   position: 23,
   css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_24",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_24.jpg",
   position: 24,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_25",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_25.jpg",
   position: 25,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_26",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_26.jpg",
   position: 26,
   css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_27",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_27.jpg",
   position: 27,
   css_class: "zoom",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_28",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_28.jpg",
   position: 28,
   css_class: "zoom",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_29",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_29.jpg",
   position: 29,
   css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_30",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_30.jpg",
   position: 30,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_31",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_31.jpg",
   position: 31,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_32",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_32.jpg",
   position: 32,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_33",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_33.jpg",
   position: 33,
   css_class: "zoom",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_34",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_34.jpg",
   position: 34,
   css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_35",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_35.jpg",
   position: 35,
   css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_41",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_41.jpg",
   position: 36,
   css_class: "zoom",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_37",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_37.jpg",
   position: 37,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_38",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_38.jpg",
   position: 38,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_39",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_39.jpg",
   position: 39,
   css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_40",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_40.jpg",
   position: 40,
   css_class: "zoom",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_44",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_44.jpg",
   position: 41,
   city: bologne
 )
 
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_42",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_42.jpg",
   position: 42,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_36",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_36.jpg",
   position: 43,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_43",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_43.jpg",
   position: 44,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_46",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_46.jpg",
   position: 46,
   css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_47",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_47.jpg",
   position: 47,
   css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_48",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_48.jpg",
   position: 48,
   css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_49",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_49.jpg",
   position: 49,
   css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_50",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_50.jpg",
   position: 50,
   css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_53",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_53.jpg",
   position: 51,
   css_class: "mini",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_52",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_52.jpg",
   position: 52,
   css_class: "mini",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_51",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_51.jpg",
   position: 53,
   css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_54",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_54.jpg",
   position: 54,
   css_class: "mini",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_55",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_55.jpg",
   position: 55,
   css_class: "mini",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_56",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_56.jpg",
   position: 56,
   css_class: "mini",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_92",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_92.jpg",
   position: 57,
   css_class: "mini",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_58",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_58.jpg",
   position: 58,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_59",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_59.jpg",
   position: 59,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_60",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_60.jpg",
   position: 60,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_61",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_61.jpg",
   position: 61,
   css_class: "landscape",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_62",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_62.jpg",
   position: 62,
   css_class: "landscape",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_63",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_63.jpg",
   position: 63,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_64",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_64.jpg",
   position: 64,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_65",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_65.jpg",
   position: 65,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_66",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_66.jpg",
   position: 66,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_67",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_67.jpg",
   position: 67,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_68",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_68.jpg",
   position: 68,
   css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_69",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_69.jpg",
   position: 69,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_70",
-  position: 70,
-  city: bologne
-)
-Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_71",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_71.jpg",
   position: 71,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_72",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_72.jpg",
   position: 72,
   css_class: "zoom",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_73",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_73.jpg",
   position: 73,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_74",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_74.jpg",
   position: 74,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_75",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_75.jpg",
   position: 75,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_76",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_76.jpg",
   position: 76,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_77",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_77.jpg",
   position: 77,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_78",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_78.jpg",
   position: 78,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_79",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_79.jpg",
   position: 79,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_80",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_80.jpg",
   position: 80,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_81",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_81.jpg",
   position: 81,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_82",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_82.jpg",
   position: 82,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_83",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_83.jpg",
   position: 83,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_84",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_84.jpg",
   position: 84,
   css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_85",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_85.jpg",
   position: 85,
   css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_86",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_86.jpg",
   position: 86,
   css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_87",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_87.jpg",
   position: 87,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_88",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_88.jpg",
   position: 88,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_89",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_89.jpg",
   position: 89,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_90",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_90.jpg",
   position: 90,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_93",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_93.jpg",
   position: 91,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_91",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_91.jpg",
   position: 93,
   css_class: "portrait",
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_94",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_94.jpg",
   position: 94,
   city: bologne
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_95",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_95.jpg",
   position: 95,
-  city: bologne
-)
-Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_96",
-  position: 96,
-  city: bologne
-)
-Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_97",
-  position: 97,
-  city: bologne
-)
-Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_98",
-  position: 98,
-  city: bologne
-)
-Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_99",
-  position: 99,
-  city: bologne
-)
-Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1549995690/Bologne/bolo_100",
-  position: 100,
   city: bologne
 )
 
@@ -4059,430 +4001,430 @@ ferrare =   City.create(
   coordinates: "https://goo.gl/maps/dRXnKnRM3BM2",
   heraldic: "blaz_ferrare.png")
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_1",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_1.jpg",
   position: 1,
   css_class: "zoom",
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_2",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_2.jpg",
   position: 2,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_3",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_3.jpg",
   position: 3,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_4",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_4.jpg",
   position: 4,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_5",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_5.jpg",
   position: 5,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_6",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_6.jpg",
   position: 6,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_7",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_7.jpg",
   position: 7,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_8",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_8.jpg",
   position: 8,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_9",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_9.jpg",
   position: 9,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_10",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_10.jpg",
   position: 10,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_11",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_11.jpg",
   position: 11,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_12",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_12.jpg",
   position: 12,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_13",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_13.jpg",
   position: 13,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_14",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_14.jpg",
   position: 14,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_15",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_15.jpg",
   position: 15,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_16",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_16.jpg",
   position: 16,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_17",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_17.jpg",
   position: 17,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_18",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_18.jpg",
   position: 18,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_19",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_19.jpg",
   position: 19,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_20",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_20.jpg",
   position: 20,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_21",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_21.jpg",
   position: 21,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_22",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_22.jpg",
   position: 22,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_23",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_23.jpg",
   position: 23,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_24",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_24.jpg",
   position: 24,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_25",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_25.jpg",
   position: 25,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_26",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_26.jpg",
   position: 26,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_27",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_27.jpg",
   position: 27,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_28",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_28.jpg",
   position: 28,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_29",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_29.jpg",
   position: 29,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_30",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_30.jpg",
   position: 30,
   css_class: "portrait",
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_31",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_31.jpg",
   position: 31,
   css_class: "portrait",
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_32",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_32.jpg",
   position: 32,
   css_class: "portrait",
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_33",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_33.jpg",
   position: 33,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_34",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_34.jpg",
   position: 34,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_35",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_35.jpg",
   position: 35,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_36",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_36.jpg",
   position: 36,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_37",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_37.jpg",
   position: 37,
   css_class: "zoom",
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_38",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_38.jpg",
   position: 38,
   css_class: "portrait",
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_39",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_39.jpg",
   position: 39,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_40",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_40.jpg",
   position: 40,
   css_class: "portrait",
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_41",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_41.jpg",
   position: 41,
   css_class: "portrait",
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_42",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_42.jpg",
   position: 42,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_43",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_43.jpg",
   position: 43,
   css_class: "portrait",
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_44",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_44.jpg",
   position: 44,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_45",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_45.jpg",
   position: 45,
   css_class: "portrait",
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_46",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_46.jpg",
   position: 46,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_47",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_47.jpg",
   position: 47,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_48",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_48.jpg",
   position: 48,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_49",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_49.jpg",
   position: 49,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_50",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_50.jpg",
   position: 50,
   css_class: "portrait",
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_51",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_51.jpg",
   position: 51,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_52",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_52.jpg",
   position: 52,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_53.1",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_53.1.jpg",
   position: 53,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_53.2",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_53.2.jpg",
   position: 54,
   css_class:"portrait",
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_54",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_54.jpg",
   position: 55,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_55",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_55.jpg",
   position: 56,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_56",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_56.jpg",
   position: 57,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_57",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_57.jpg",
   position: 58,
   css_class: "portrait",
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_58",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_58.jpg",
   position: 59,
   css_class: "portrait",
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_59",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_59.jpg",
   position: 60,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_60",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_60.jpg",
   position: 61,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_61",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_61.jpg",
   position: 62,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_62",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_62.jpg",
   position: 63,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_63",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_63.jpg",
   position: 64,
   css_class: "zoom",
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_64",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_64.jpg",
   position: 65,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_65",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_65.jpg",
   position: 66,
   css_class: "portrait",
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_66",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_66.jpg",
   position: 67,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_67",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_67.jpg",
   position: 68,
   css_class: "portrait",
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_68",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_68.jpg",
   position: 69,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_69",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_69.jpg",
   position: 70,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_70",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_70.jpg",
   position: 71,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_71",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_71.jpg",
   position: 72,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_72",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_72.jpg",
   position: 73,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_73",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_73.jpg",
   position: 74,
   css_class: "portrait",
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_74",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_74.jpg",
   position: 75,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_75",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_75.jpg",
   position: 76,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_76",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_76.jpg",
   position: 77,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_77",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_77.jpg",
   position: 78,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_78",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_78.jpg",
   position: 79,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_79",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_79.jpg",
   position: 80,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_80",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_80.jpg",
   position: 81,
   city: ferrare
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1545905581/Ferrare/fe_81",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_81.jpg",
   position: 82,
   city: ferrare
 )
@@ -4498,595 +4440,595 @@ florence =  City.create(
   coordinates: "https://www.franceculture.fr/emissions/carnet-nomade/je-vous-ecris-de-florence",
   heraldic: "blaz_florence.png")
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_1",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_1.jpg",
   position: 1,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_2",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_2.jpg",
   position: 2,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_3",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_3.jpg",
   position: 3,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_4",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_4.jpg",
   position: 4,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_5",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_5.jpg",
   position: 5,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_6",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_6.jpg",
   position: 6,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_7",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_7.jpg",
   position: 7,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_8",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_8.jpg",
   position: 8,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_9",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_9.jpg",
   position: 9,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_10",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_10.jpg",
   position: 10,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_11",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_11.jpg",
   position: 11,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_12",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_12.jpg",
   position: 12,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_13",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_13.jpg",
   position: 13,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_14",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_14.jpg",
   position: 14,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_15",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_15.jpg",
   position: 15,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_16",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_16.jpg",
   position: 16,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_17",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_17.jpg",
   position: 17,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_18",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_18.jpg",
   position: 18,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_19",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_19.jpg",
   position: 19,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_20",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_20.jpg",
   position: 20,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_21.jpg",
   position: 21,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.1",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_21.1.jpg",
   position: 22,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.2",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_21.2.jpg",
   position: 23,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.3",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_21.3.jpg",
   position: 24,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.4",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_21.4.jpg",
   position: 25,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.5",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_21.5.jpg",
   position: 26,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.6",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_21.6.jpg",
   position: 27,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.7",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_21.7.jpg",
   position: 28,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.8",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_21.8.jpg",
   position: 29,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.9",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_21.9.jpg",
   position: 30,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.91",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_21.91.jpg",
   position: 31,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.92",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_21.92.jpg",
   position: 32,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.93",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_21.93.jpg",
   position: 33,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.94",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_21.94.jpg",
   position: 34,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.95",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_21.95.jpg",
   position: 35,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_21.96",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_21.96.jpg",
   position: 36,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_22",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_22.jpg",
   position: 37,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_23",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_23.jpg",
   position: 38,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_24",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_24.jpg",
   position: 39,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_25",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_25.jpg",
   position: 40,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_26",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_26.jpg",
   position: 41,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_27",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_27.jpg",
   position: 42,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_28",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_28.jpg",
   position: 43,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_29",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_29.jpg",
   position: 44,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_30",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_30.jpg",
   position: 45,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_31",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_31.jpg",
   position: 46,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_32",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_32.jpg",
   position: 47,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_33",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_33.jpg",
   position: 48,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_34",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_34.jpg",
   position: 49,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_50",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_50.jpg",
   position: 51,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_51",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_51.jpg",
   position: 52,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_52",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_52.jpg",
   position: 53,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_53",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_53.jpg",
   position: 54,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_54",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_54.jpg",
   position: 55,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_55",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_55.jpg",
   position: 56,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_56",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_56.jpg",
   position: 57,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_57",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_57.jpg",
   position: 58,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_58",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_58.jpg",
   position: 59,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_59",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_59.jpg",
   position: 60,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_60",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_60.jpg",
   position: 61,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_61",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_61.jpg",
   position: 62,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_62",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_62.jpg",
   position: 63,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_63",
-  css_class: "portrait",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_63",
+  css_class: "portrait.jpg",
   position: 64,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_64",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_64.jpg",
   position: 65,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_65",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_65.jpg",
   position: 66,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_66",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_66.jpg",
   position: 67,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_67",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_67.jpg",
   position: 68,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_68",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_68.jpg",
   position: 69,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_69",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_69.jpg",
   position: 70,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_70",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_70.jpg",
   position: 71,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_71",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_71.jpg",
   position: 72,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_72",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_72.jpg",
   position: 73,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_73",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_73.jpg",
   position: 74,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_74",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_74.jpg",
   position: 75,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_75",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_75.jpg",
   position: 76,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_76",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_76.jpg",
   position: 77,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_77",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_77.jpg",
   position: 78,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_78",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_78.jpg",
   position: 79,
   css_class: "zoom",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_79",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_79.jpg",
   position: 80,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_80",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_80.jpg",
   position: 81,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_81",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_81.jpg",
   position: 82,
   css_class:"portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_82",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_82.jpg",
   position: 83,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_83",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_83.jpg",
   position: 84,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_84",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_84.jpg",
   position: 85,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_85",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_85.jpg",
   position: 86,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_86",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_86.jpg",
   position: 87,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_87",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_87.jpg",
   position: 88,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_88",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_88.jpg",
   position: 89,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_89",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_89.jpg",
   position: 90,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_90.0",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_90.0.jpg",
   position: 91,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_90.1",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_90.1.jpg",
   position: 92,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_90.2",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_90.2.jpg",
   position: 93,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_90.3",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_90.3.jpg",
   position: 94,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_91",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_91.jpg",
   position: 95,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_92",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_92.jpg",
   position: 96,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_93",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_93.jpg",
   position: 95,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_94",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_94.jpg",
   position: 97,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_95",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_95.jpg",
   position: 98,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_96",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_96.jpg",
   position: 99,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_97",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_97.jpg",
   position: 100,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_98",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_98.jpg",
   position: 101,
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_99",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_99.jpg",
   position: 102,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_101",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_101.jpg",
   position: 104,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546790230/Florence/flo_102.jpg",
+  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546790230/Florence/flo_102.jpg.jpg",
   position: 105,
   css_class: "portrait",
   city: florence
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546782439/Florence/flo_103",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_103.jpg",
   position: 106,
   css_class: "portrait",
   city: florence
@@ -5099,442 +5041,437 @@ Picture.create(
   coordinates: "https://goo.gl/maps/5n7jjEjss7K2",
   heraldic: "blaz_sienne.png")
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_01",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_01.jpg",
   position: 1,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_02",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_02.jpg",
   position: 14,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_03",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_03.jpg",
   position: 15,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_04",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_04.jpg",
   position: 4,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_05",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_05.jpg",
   position: 5,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_06",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_06.jpg",
   position: 6,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_07",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_07.jpg",
   position: 7,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_08",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_08.jpg",
   position: 8,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_O9",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_09.jpg",
   position: 9,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_10",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_10.jpg",
   position: 10,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_11",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_11.jpg",
   position: 11,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_12",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_12.jpg",
   position: 12,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_13",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_13.jpg",
   position: 13,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_14",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_14.jpg",
   position: 2,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_15",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_15.jpg",
   position: 3,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_16",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_16.jpg",
   position: 16,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_17",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_17.jpg",
   position: 17,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_18",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_18.jpg",
   position: 18,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_19",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_19.jpg",
   position: 19,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_20",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_20.jpg",
   position: 20,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_21",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_21.jpg",
   position: 21,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_22",
-  position: 22,
-  city: sienne
-)
-Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_23",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_23.jpg",
   position: 23,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_24",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_24.jpg",
   position: 24,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_25",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_25.jpg",
   position: 25,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_26",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_26.jpg",
   position: 26,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_27",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_27.jpg",
   position: 27,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_28",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_28.jpg",
   position: 28,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_29",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_29.jpg",
   position: 29,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_30",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_30.jpg",
   position: 30,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_31",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_31.jpg",
   position: 31,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_32",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_32.jpg",
   position: 32,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_33",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_33.jpg",
   position: 33,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_34",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_34.jpg",
   position: 34,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_35",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_35.jpg",
   position: 35,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_36",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_36.jpg",
   position: 36,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_37",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_37.jpg",
   position: 37,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_38",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_38.jpg",
   position: 38,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_39",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_39.jpg",
   position: 39,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_40",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_40.jpg",
   position: 40,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_41",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_41.jpg",
   position: 41,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_42",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_42.jpg",
   position: 42,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_43",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_43.jpg",
   position: 43,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_44",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_44.jpg",
   position: 44,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_45",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_45.jpg",
   position: 45,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_46",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_46.jpg",
   position: 46,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_47",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_47.jpg",
   position: 47,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_48",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_48.jpg",
   position: 48,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_49",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_49.jpg",
   position: 49,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_50",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_50.jpg",
   position: 50,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_51",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_51.jpg",
   position: 51,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_52",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_52.jpg",
   position: 52,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_53",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_53.jpg",
   position: 53,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_54",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_54.jpg",
   position: 54,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_55",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_55.jpg",
   position: 55,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_56",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_56.jpg",
   position: 56,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_57",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_57.jpg",
   position: 57,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_58",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_58.jpg",
   position: 58,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_59",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_59.jpg",
   position: 59,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_60",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_60.jpg",
   position: 60,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_61",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_61.jpg",
   position: 61,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_62",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_62.jpg",
   position: 62,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_63",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_63.jpg",
   position: 63,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_64",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_64.jpg",
   position: 64,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_65",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_65.jpg",
   position: 65,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_66",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_66.jpg",
   position: 66,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_67",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_67.jpg",
   position: 67,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_68",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_68.jpg",
   position: 68,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_69",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_69.jpg",
   position: 69,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_70",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_70.jpg",
   position: 70,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_71",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_71.jpg",
   position: 71,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_72",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_72.jpg",
   position: 72,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_73",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_73.jpg",
   position: 73,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_74",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_74.jpg",
   position: 74,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_75",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_75.jpg",
   position: 75,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_76",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_76.jpg",
   position: 76,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_77",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_77.jpg",
   position: 77,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_78",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_78.jpg",
   position: 78,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_79",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_79.jpg",
   position: 79,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_80",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_80.jpg",
   position: 80,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_81",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_81.jpg",
   position: 81,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_82",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_82.jpg",
   position: 82,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_83",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_83.jpg",
   position: 83,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_84",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_84.jpg",
   position: 84,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_85",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_85.jpg",
   position: 85,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_86",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_86.jpg",
   position: 86,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_87",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_87.jpg",
   position: 87,
   city: sienne
 )
 Picture.create(
-  url: "https://res.cloudinary.com/dhehntw3i/image/upload/v1545839575/Sienne/si_88",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_88.jpg",
   position: 88,
   city: sienne
 )
@@ -5550,558 +5487,553 @@ rome =  City.create(
   coordinates: "https://goo.gl/maps/ceRkEQgjreP2",
   heraldic: "blaz_rome.png")
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_1",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_1.jpg",
   position: 1,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_2",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_2.jpg",
   position: 2,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_3",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_3.jpg",
   position: 3,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_4",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_4.jpg",
   position: 4,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_5",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_5.jpg",
   position: 5,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_6",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_6.jpg",
   position: 6,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_7",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_7.jpg",
   position: 7,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_8.0",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_8.0.jpg",
   position: 8,
   css_class: "zoom",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_8.1",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_8.1.jpg",
   position: 9,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_9",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_9.jpg",
   position: 10,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_10",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_10.jpg",
   position: 11,
   css_class: "zoom",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_11",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_11.jpg",
   position: 12,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_12",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_12.jpg",
   position: 13,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_13",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_13.jpg",
   position: 14,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_14",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_14.jpg",
   position: 15,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_15",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_15.jpg",
   position: 16,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_16",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_16.jpg",
   position: 17,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_17",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_17.jpg",
   position: 18,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_18",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_18.jpg",
   position: 19,
   css_class:"zoom",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_19",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_19.jpg",
   position: 20,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_20",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_20.jpg",
   position: 21,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_21",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_21.jpg",
   position: 22,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_22",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_22.jpg",
   position: 23,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_23",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_23.jpg",
   position: 24,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_24",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_24.jpg",
   position: 25,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_25",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_25.jpg",
   position: 26,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_26",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_26.jpg",
   position: 27,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_27",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_27.jpg",
   position: 28,
   css_class:"zoom",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_28",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_28.jpg",
   position: 29,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_29",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_29.jpg",
   position: 30,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_30",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_30.jpg",
   position: 31,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_31",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_31.jpg",
   position: 32,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_32",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_32.jpg",
   position: 33,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_34",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_34.jpg",
   position: 35,
   css_class: "zoom",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_35.1",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_35.1.jpg",
   position: 36,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_36",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_36.jpg",
   position: 37,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_37",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_37.jpg",
   position: 38,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_38.0",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_38.0.jpg",
   position: 39,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_38.1",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_38.1.jpg",
   position: 40,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_39",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_39.jpg",
   position: 41,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_40",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_40.jpg",
   position: 42,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_41",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_41.jpg",
   position: 43,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_42",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_42.jpg",
   position: 44,
   css_class: "zoom",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_43",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_43.jpg",
   position: 45,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_44",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_44.jpg",
   position: 46,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_45",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_45.jpg",
   position: 47,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_46",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_46.jpg",
   position: 48,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_48",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_48.jpg",
   position: 49,
   css_class:"zoom",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_51",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_51.jpg",
   position: 50.1,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_52",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_52.jpg",
   position: 50.2,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_49",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_49.jpg",
   position: 51,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_47",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_47.jpg",
   position: 52.2,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_53",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_53.jpg",
   position: 53,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_54",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_54.jpg",
   position: 56,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_55.1",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_55.1.jpg",
   position: 57,
   css_class:"zoom",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_56",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_56.jpg",
   position: 58,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_57",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_57.jpg",
   position: 59,
   css_class: "zoom",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_58",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_58.jpg",
   position: 60,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_59",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_59.jpg",
   position: 61,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_60",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_60.jpg",
   position: 62,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_61",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_61.jpg",
   position: 63,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_62",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_62.jpg",
   position: 64,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_63",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_63.jpg",
   position: 65,
   css_class:"zoom",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_64",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_64.jpg",
   position: 66,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_65",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_65.jpg",
   position: 67,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_66",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_66.jpg",
   position: 68,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_67",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_67.jpg",
   position: 69,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_68",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_68.jpg",
   position: 70,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_69",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_69.jpg",
   position: 71,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_70.0",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_70.0.jpg",
   position: 72,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_70.1",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_70.1.jpg",
   position: 73,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_71",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_71.jpg",
   position: 74,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_72",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_72.jpg",
   position: 75,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_73",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_73.jpg",
   position: 76,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_74",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_74.jpg",
   position: 77,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_75",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_75.jpg",
   position: 78,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_76",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_76.jpg",
   position: 79,
   css_class: "zoom",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_77",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_77.jpg",
   position: 80,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_78",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_78.jpg",
   position: 81,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_79",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_79.jpg",
   position: 82,
   css_class:"zoom",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_80",
-  css_class:"portrait",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_80",
+  css_class:"portrait.jpg",
   position: 83,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_81",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_81.jpg",
   position: 84,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_82",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_82.jpg",
   position: 85,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_83",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_83.jpg",
   position: 88,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_98.1",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_98.1.jpg",
   position: 86.2,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_98.2",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_98.2.jpg",
   position: 87,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_84",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_84.jpg",
   position: 86.1,
   city: rome
 )
 
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_86",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_86.jpg",
   position: 89,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_87",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_87.jpg",
   position: 90,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_88",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_88.jpg",
   position: 91,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_90",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_90.jpg",
   position: 93,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_98.0",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_98.0.jpg",
   position: 94.1,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_91",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_91.jpg",
   position: 94.2,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_92",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_92.jpg",
   position: 95,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_95",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_95.jpg",
   position: 96,
   css_class:"zoom",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_96",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_96.jpg",
   position: 97,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_97",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_97.jpg",
   position: 98,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_99",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_99.jpg",
   position: 102,
   css_class:"portrait",
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_101",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_101.jpg",
   position: 103,
   city: rome
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_102",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_102.jpg",
   position: 104,
-  city: rome
-)
-Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546430517/Rome/ro_103",
-  position: 105,
   city: rome
 )
 
@@ -6116,339 +6048,339 @@ bari =  City.create(
   coordinates: "https://goo.gl/maps/EsaSJMXxuf32",
   heraldic: "blaz_bari.png")
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_1",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_1.jpg",
   position: 1,
   css_class:"zoom",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_2",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_2.jpg",
   position: 2,
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_3",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_3.jpg",
   position: 3,
   css_class:"portrait",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_4",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_4.jpg",
   position: 4,
   css_class:"zoom",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_5",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_5.jpg",
   position: 5,
   css_class:"portrait",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_6",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_6.jpg",
   position: 6,
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_7",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_7.jpg",
   position: 7,
   css_class:"portrait",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_8",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_8.jpg",
   position: 8,
   css_class:"portrait",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_9",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_9.jpg",
   position: 9,
   css_class:"portrait",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_10",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_10.jpg",
   position: 10,
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_11",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_11.jpg",
   position: 11,
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_12",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_12.jpg",
   position: 12,
   css_class: "portrait",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_13",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_13.jpg",
   position: 13,
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_14",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_14.jpg",
   position: 14,
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_15",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_15.jpg",
   position: 15,
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_16",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_16.jpg",
   position: 16,
   css_class:"portrait",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_17",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_17.jpg",
   position: 17,
   css_class:"portrait",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_18",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_18.jpg",
   position: 18,
   css_class:"portrait",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_19",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_19.jpg",
   position: 19,
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_20",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_20.jpg",
   position: 20,
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_21",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_21.jpg",
   position: 21,
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_22",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_22.jpg",
   position: 22,
   css_class:"portrait",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_23",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_23.jpg",
   position: 23,
   css_class:"portrait",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_24",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_24.jpg",
   position: 24,
   css_class:"portrait",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_25",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_25.jpg",
   position: 25,
     css_class:"portrait",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_26",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_26.jpg",
   position: 26,
   css_class:"portrait",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_27",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_27.jpg",
   position: 27,
   css_class:"portrait",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_28",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_28.jpg",
   position: 28,
   css_class:"portrait",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_29",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_29.jpg",
   position: 29,
   css_class:"portrait",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_30",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_30.jpg",
   position: 30,
   css_class:"portrait",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_31",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_31.jpg",
   position: 31,
   css_class:"portrait",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_32",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_32.jpg",
   position: 32,
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_33",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_33.jpg",
   position: 33,
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_34",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_34.jpg",
   position: 34,
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_35",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_35.jpg",
   position: 35,
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_36",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_36.jpg",
   position: 36,
   css_class: "portrait",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_37",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_37.jpg",
   position: 37,
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_38",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_38.jpg",
   position: 38,
   css_class: "portrait",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_39",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_39.jpg",
   position: 39,
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_40",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_40.jpg",
   position: 40,
   css_class:"portrait",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_42",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_42.jpg",
   position: 42,
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_43",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_43.jpg",
   position: 43,
   css_class:"portrait",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_44",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_44.jpg",
   position: 44,
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_45",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_45.jpg",
   position: 45,
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_46",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_46.jpg",
   position: 46,
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_47",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_47.jpg",
   position: 47,
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_48",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_48.jpg",
   position: 48,
   css_class:"zoom",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_49",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_49.jpg",
   position: 49,
   css_class:"portrait",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_52",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_52.jpg",
   position: 50,
   css_class: "portrait",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_51",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_51.jpg",
   position: 51,
   css_class: "zoom",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_53",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_53.jpg",
   position: 53,
   css_class:"portrait",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_54",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_54.jpg",
   position: 54,
   css_class:"portrait",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_55",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_55.jpg",
   position: 55.1,
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_50",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_50.jpg",
   position: 55.2,
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_56",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_56.jpg",
   position: 56,
   css_class: "portrait",
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_57",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_57.jpg",
   position: 57,
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_58",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_58.jpg",
   position: 58,
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_59",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_59.jpg",
   position: 59,
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_60",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_60.jpg",
   position: 60,
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_61",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_61.jpg",
   position: 61,
   city: bari
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546445893/Bari/ba_63",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_63.jpg",
   position: 63,
   css_class: "zoom",
   city: bari
@@ -6461,97 +6393,98 @@ polignano =   City.create(
   coordinates: "https://goo.gl/maps/y5jPJWArV9H2",
   heraldic: "blaz_polignano.png")
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_1',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_1.jpg',
   position: 1,
   css_class: "zoom",
   city: polignano
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_2',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_2.jpg',
   position: 2,
   city: polignano
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_3',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_3.jpg',
   position: 3,
   city: polignano
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_4',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_4.jpg',
   position: 4,
   city: polignano
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_5',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_5.jpg',
   position: 5,
   city: polignano
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_6',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_6.jpg',
   position: 6,
   city: polignano
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_7',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_7.jpg',
   position: 7,
   city: polignano
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_8',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_8.jpg',
   position: 8,
   city: polignano
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_9',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_9.jpg',
   position: 9,
   city: polignano
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_10',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_10.jpg',
   position: 10,
   city: polignano
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_12',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_12.jpg',
   position: 12,
   city: polignano
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_13',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_13.jpg',
   position: 13,
   city: polignano
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_14',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_14.jpg',
   position: 14,
   city: polignano
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_15',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_15.jpg',
   position: 15,
   city: polignano
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_16',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_16.jpg',
   position: 16,
   city: polignano
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_17',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_17.jpg',
   position: 17,
   css_class:"zoom",
   city: polignano
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_18',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_18.jpg',
   position: 18,
   city: polignano
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1546459814/Polignano/po_19',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_19.jpg',
   position: 19,
   city: polignano
 )
+
 monopoli =  City.create(
   name:"Monopoli",
   geocoding: "40° 57′ 00″ NORD 17° 18′ 00″ EST",
@@ -6560,202 +6493,203 @@ monopoli =  City.create(
   coordinates: "https://goo.gl/maps/iSCYZKeXgPk",
   heraldic: "blaz_monopoli.png")
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_2",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_2.jpg",
   position: 1,
   css_class:"portrait",
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_1",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_1.jpg",
   position: 2,
   css_class:"zoom",
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_3",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_3.jpg",
   position: 3,
   css_class:"portrait",
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_4",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_4.jpg",
   position: 4,
   css_class:"portrait",
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_5",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_5.jpg",
   position: 5,
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_6",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_6.jpg",
   position: 6,
   css_class:"portrait",
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_7",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_7.jpg",
   position: 7,
   css_class:"portrait",
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_8",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_8.jpg",
   position: 8,
   css_class:"portrait",
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_9",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_9.jpg",
   position: 9,
   css_class:"portrait",
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_10",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_10.jpg",
   position: 10,
   css_class:"portrait",
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_11",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_11.jpg",
   position: 11,
   css_class:"portrait",
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_12",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_12.jpg",
   position: 12,
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_13",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_13.jpg",
   position: 13,
   css_class:"zoom",
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_14",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_14.jpg",
   position: 14,
   css_class:"portrait",
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_15",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_15.jpg",
   position: 15,
   css_class:"portrait",
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_16",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_16.jpg",
   position: 16,
   css_class:"portrait",
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_17",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_17.jpg",
   position: 17,
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_18",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_18.jpg",
   position: 18,
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_19",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_19.jpg",
   position: 19,
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_20",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_20.jpg",
   position: 20,
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_21",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_21.jpg",
   position: 21,
   css_class:"portrait",
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_22",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_22.jpg",
   position: 22,
   css_class:"portrait",
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_23",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_23.jpg",
   position: 23,
   css_class:"portrait",
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_24",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_24.jpg",
   position: 24,
   css_class:"zoom",
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_25",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_25.jpg",
   position: 25,
   css_class:"portrait",
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_26",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_26.jpg",
   position: 26,
   css_class:"portrait",
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_27",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_27.jpg",
   position: 27,
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_28",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_28.jpg",
   position: 28,
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_29",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_29.jpg",
   position: 29,
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_30",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_30.jpg",
   position: 30,
   css_class:"portrait",
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_31",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_31.jpg",
   position: 31,
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_32",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_32.jpg",
   position: 32,
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_33",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_33.jpg",
   position: 33,
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_34",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_34.jpg",
   position: 34,
   city: monopoli
 )
 Picture.create(
-  url:"https://res.cloudinary.com/dhehntw3i/image/upload/v1546522171/Monopoli/mo_35",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_35.jpg",
   position: 35,
   css_class:"portrait",
   city: monopoli
 )
+
 lecce =   City.create(
   name:"Lecce",
   geocoding: "40° 21′ 13″ NORD 18° 10′ 32″ EST",
@@ -6764,467 +6698,467 @@ lecce =   City.create(
   coordinates: "https://goo.gl/maps/jtHhFteNxYD2",
   heraldic: "blaz_lecce.png")
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_1',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_1.jpg',
   position: 1,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_2',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_2.jpg',
   position: 2,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_3',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_3.jpg',
   position: 3,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_4',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_4.jpg',
   position: 4,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_5',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_5.jpg',
   position: 5,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_6',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_6.jpg',
   position: 6,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_7',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_7.jpg',
   position: 7,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_8',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_8.jpg',
   position: 8,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_9',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_9.jpg',
   position: 9,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_10',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_10.jpg',
   position: 10,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_11',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_11.jpg',
   position: 11,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_12.0',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_12.0.jpg',
   position: 12,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_12.1',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_12.1.jpg',
   position: 13,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_12.2',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_12.2.jpg',
   position: 14,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_12.3',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_12.3.jpg',
   position: 15,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_13',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_13.jpg',
   position: 16,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_14',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_14.jpg',
   position: 17,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_15',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_15.jpg',
   position: 18,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_16',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_16.jpg',
   position: 19,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_17',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_17.jpg',
   position: 20,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_18',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_18.jpg',
   position: 21,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_19',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_19.jpg',
   position: 22,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_20',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_20.jpg',
   position: 23,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_21',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_21.jpg',
   position: 24,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_22',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_22.jpg',
   position: 25,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_23',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_23.jpg',
   position: 26,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_24',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_24.jpg',
   position: 27,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_25',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_25.jpg',
   position: 28,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_26',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_26.jpg',
   position: 29,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_27',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_27.jpg',
   position: 30,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_28',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_28.jpg',
   position: 31,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_29',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_29.jpg',
   position: 32,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_30.0',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_30.0.jpg',
   position: 33,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_30.1',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_30.1.jpg',
   position: 34,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_30.2',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_30.2.jpg',
   position: 35,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_30.3',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_30.3.jpg',
   position: 36,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_31',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_31.jpg',
   position: 37,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_32',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_32.jpg',
   position: 38,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_33',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_33.jpg',
   position: 39,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_34',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_34.jpg',
   position: 40,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_35',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_35.jpg',
   position: 41,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_36',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_36.jpg',
   position: 42,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_37',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_37.jpg',
   position: 43,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_38',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_38.jpg',
   position: 44,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_39',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_39.jpg',
   position: 45,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_40.0',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_40.0.jpg',
   position: 46,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_40.1',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_40.1.jpg',
   position: 47,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_40.2',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_40.2.jpg',
   position: 48,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_40.3',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_40.3.jpg',
   position: 49,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_41',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_41.jpg',
   position: 50,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_42',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_42.jpg',
   position: 51,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_43',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_43.jpg',
   position: 52,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_44',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_44.jpg',
   position: 53,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_45.0',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_45.0.jpg',
   position: 54,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_45.1',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_45.1.jpg',
   position: 55,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_45.2',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_45.2.jpg',
   position: 56,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_45.3',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_45.3.jpg',
   position: 57,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_46',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_46.jpg',
   position: 58,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_47',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_47.jpg',
   position: 59,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_48',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_48.jpg',
   position: 60,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_49',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_49.jpg',
   position: 61,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_50',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_50.jpg',
   position: 62,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_51',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_51.jpg',
   position: 63,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_52',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_52.jpg',
   position: 64,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_53',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_53.jpg',
   position: 65,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_54',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_54.jpg',
   position: 66,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_55',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_55.jpg',
   position: 67,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_56',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_56.jpg',
   position: 68,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_57',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_57.jpg',
   position: 69,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_58',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_58.jpg',
   position: 70,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_59',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_59.jpg',
   position: 71,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_60',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_60.jpg',
   position: 72,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_61',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_61.jpg',
   position: 73,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_62',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_62.jpg',
   position: 74,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_63',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_63.jpg',
   position: 75,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_64',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_64.jpg',
   position: 76,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_65',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_65.jpg',
   position: 77,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_66',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_66.jpg',
   position: 78,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_67',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_67.jpg',
   position: 79,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_68',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_68.jpg',
   position: 80,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_69',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_69.jpg',
   position: 81,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_70',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_70.jpg',
   position: 82,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_71',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_71.jpg',
   position: 83,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_72',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_72.jpg',
   position: 84,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_73',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_73.jpg',
   position: 85,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_74',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_74.jpg',
   position: 86,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_75',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_75.jpg',
   position: 87,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_76',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_76.jpg',
   position: 88,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_77',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_77.jpg',
   position: 89,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_78',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_78.jpg',
   position: 90,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_79',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_79.jpg',
   position: 91,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_80',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_80.jpg',
   position: 92,
   city: lecce
 )
 Picture.create(
-  url:'https://res.cloudinary.com/dhehntw3i/image/upload/v1545490364/Lecce/lecce_81',
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_81.jpg',
   position: 93,
   city: lecce
 )

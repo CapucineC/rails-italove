@@ -17,9 +17,9 @@
     </div>
   </div>
 
-  <div class="wrapper">
+<div class="wrapper">
         <% @city.pictures.order(:position).each do |picture| %>
             <div class="<%= picture.css_class %>"><%= image_tag picture.url, alt: "alttext" %></div>
         <% end %>
-  </div>
+</div>
 
