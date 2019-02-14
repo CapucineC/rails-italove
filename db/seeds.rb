@@ -1009,11 +1009,11 @@ Picture.create(
 
 lacs = Province.create(
   name: "Lacs Italiens",
-  description:"La beauté des lacs de l'Italie du Nord fascine. Dans la brume des montages bleutées, on les voit se dessiner avec leurs bateaux de pêche, leurs criques, leurs villages authentiques, leurs somptueuses villas bordées par des jardins remplis de lauriers, et leurs palais magnifiques. On y trouve un rythme, la quintessence de l'élégance, la sublime profondeur d'un bleu majestueux et profond qui présagent déjà la sérénité des paysages suisses.")
+  description:"La beauté des lacs de l'Italie du Nord fascine. Dans la brume des montages bleutées, on les voit se dessiner avec leurs bateaux de pêche, leurs criques, leurs villages authentiques, leurs somptueuses villas bordées par des jardins remplis de lauriers, et leurs palais magnifiques. On trouve ici un rythme, la quintessence de l'élégance, la sublime profondeur d'un bleu majestueux qui présagent déjà la sérénité des paysages suisses.")
 come =  City.create(
   name:"Lac de Come",
   geocoding: "45° 59′ 40″ NORD 9° 15′ 58″ EST",
-  description:"Entouré par des montagnes encore enneigées, le lac de Come est d'un bleu profond, froid, calme. Ici les clochers des villages côtoient les cyprès. Depuis l'époque romaine, on y a construit des demeures magnifiques entre ciel et eau. Dans la villa Carlotta, des jardins à l'italienne offre une multitude d'allées dans lesquelles flâner, tandis qu'à l'intérieur, des marbres de Canova repose sous des plafonds d'or. Plus loin, la villa Monastero accueille ses promeneurs par une longue balade sur graviers blancs, avec vue sur le lac immobile et bleu, sur ce lac de Come qui scintille en milles endroits comme un diamant liquide.",
+  description:"Entouré par des montagnes vertes ou enneigées, le lac de Come est d'un bleu profond et calme. Depuis l'époque romaine, on y a construit des demeures magnifiques entre ciel et eau. Certaines sont saisissantes de beauté. Dans la villa Carlotta, des jardins à l'italienne offre une multitude d'allées dans lesquelles flâner, tandis qu'à l'intérieur, des marbres de Canova reposent sous des plafonds d'or. Plus loin, la villa Monastero accueille ses promeneurs par une longue balade sur graviers blancs, avec vue sur le lac immobile et bleu, sur ce lac de Come que le soleil fait scintiller en milles endroits, comme un diamant liquide.",
   province: lacs,
   coordinates: "https://goo.gl/maps/iNpSnhvPHom",
   heraldic: "blaz_varese.png")
@@ -1446,7 +1446,7 @@ Picture.create(
 majeur =  City.create(
   name:"Lac Majeur",
   geocoding: "45° 54′ 18″ NORD 8° 34′ 57″ EST",
-  description:"Sur le rivage du lac Majeur, des bateaux en bois vernis attendent les promeneurs pour les emmener sur les trois ilots perdus au milieu du lac, qui constituent 'les îles Borromées'. Sur l'île Isola Madre, des allées mènent vers des jardin luxuriant aux fleurs colorés, où les palmiers côtoient des statues d'une blancheur éclatante. Sur l'Isola dei Pescatori, on trouve un village pittoresque avec son clocher blanc, ses toits rouges et ses filets de pêcheurs accrochés aux portes rustiques. Enfin, sur Isola Bella, un somptueux palais baroque semblent flotter sur les eaux, tandis que dans ses magnifiques jardins en cascade, des paons blancs se baladent en grand seigneur dans des allées rosies par les azalées et les rhododendrons.",
+  description:"Sur le rivage du lac Majeur, des bateaux en bois vernis attendent les promeneurs pour les emmener sur les trois ilots perdus au milieu du lac, qui constituent 'les îles Borromées'. Sur l'île Isola Madre, des chemins dallés conduisent à des jardin luxuriants où les palmiers côtoient des roses rouges. Sur l'Isola dei Pescatori, on trouve un village pittoresque avec son clocher blanc, ses toits rouges et ses filets de pêcheurs accrochés aux portes rustiques. Enfin, sur Isola Bella, un somptueux palais baroque semblent flotter sur les eaux, tandis que dans ses magnifiques jardins en cascade, des paons blancs se baladent en grand seigneur dans des allées rosies par les azalées et les rhododendrons.",
   province: lacs,
   coordinates: "https://goo.gl/maps/UhoNC994VF42",
   heraldic: "blaz_stressa.png")
@@ -2095,7 +2095,7 @@ Picture.create(
 )
 venetie = Province.create(
   name: "Vénétie",
-  description:"La Vénétie dessine pour les voyageurs des paysages féeriques : ici les montagnes enneigée des Dolomites recouvertes d'un long manteaux blanc, par là la lagune de Venise qui pave les rues d'eau, là bas le charme Vérone qui fait éclore des fleurs sur tous les balcons à l'arrivée du printemps.")
+  description:"La Vénétie dessine pour les voyageurs des paysages féeriques : ici les montagnes enneigées des Dolomites recouvertes d'un long manteau blanc, par là la lagune de Venise qui pave les rues d'eau, là bas le charme Vérone qui fait éclore des fleurs sur chaque balcon à l'arrivée du printemps.")
 venise =  City.create(
   name: "Venise",
   geocoding: "45° 26′ 23″ NORD 12° 19′ 55″ EST",
@@ -2928,7 +2928,7 @@ Picture.create(
 verone =  City.create(
   name:"Verone",
   geocoding: "45° 26′ 00″ NORD 10° 59′ 00″ EST",
-  description:"On parcoure Vérone comme on marcherait dans les allées d'un jardin antique. Ici, on rencontre la nature au milieu de la ville. En haut des palais, on voit les fenêtres bordées par un cadre de lier grimpant. Les rues sont peintes et prennent ombrage des toits. Partout les fleurs ornent les balcons comme des joyaux dans leur écrin. La Piazza delle Erbe est recouverte de splendides fresques dont on devine l'éclat d'antan. On ne sait plus qui de l'art ou de la nature s'imite. Alors, songeur, on s'éloigne des sentiers battus. On déambule jusqu'au jardin Giusti, un jardin classique paré de tous les verts. Le jardin, cet idéal de beauté qui transforme la nature en oeuvre d'art, qui élève l'esprit, où le corps soudain flotte, bercé de toutes les sensations et de tous parfums : 'Selve amiche, ombrose piante, fido albergo del mio core'...",
+  description:"On parcourt Vérone comme on marcherait dans les allées d'un jardin antique. Ici, on rencontre la nature au milieu de la ville. En haut des palais, on voit les fenêtres bordées par un cadre de lier grimpant. Les rues sont peintes et prennent ombrage des toits. Partout les fleurs ornent les balcons comme des joyaux dans leur écrin. La Piazza delle Erbe est recouverte de splendides fresques dont on devine l'éclat d'antan. On ne sait plus qui de l'art ou de la nature s'imite. Alors, songeur, on s'éloigne des sentiers battus. On déambule jusqu'au jardin Giusti, un jardin classique paré de tous les verts. Le jardin, cet idéal de beauté qui transforme la nature en oeuvre d'art, qui élève l'esprit, où le corps soudain flotte, bercé de toutes les sensations et de tous parfums : 'Selve amiche, ombrose piante, fido albergo del mio core'...",
   province: venetie,
   coordinates: "https://www.youtube.com/watch?v=zp3hnBt9TqM",
   heraldic: "blaz_verone.png")
@@ -3484,7 +3484,7 @@ emilieromagne = Province.create(
 bologne =   City.create(
   name:"Bologne",
   geocoding: "44° 30′ 00″ NORD 11° 21′ 00″ EST",
-  description:"Bologne des arcades rouges, des étudiants engagés et des saucissons goutûs, ville heureuse aux rues médiévales. On s'y promène par tout temps, grâce aux portiques infinis qui recouvrent ses rues et qui devaient être assez hauts, dit-on, pour laisser passer un homme à cheval. Très pittoresque, le centre ville est hérissé d'une dizaine de hautes tours. Au Moyen-Age, on en comptait plus de deux cents, qui servaient de poste de guet pour prévenir les attaques. A la Renaissance, le pouvoir fut confisqué par la famille Bentivoglio, qui commendère à Jacopo della Quercia la très belle façade de la basilique San Petronio. Bologne est connue pour abriter la plus vieille université d'Europe, qui fut fréquentée par les illustres Dante, Boccace et Pétrarque.",
+  description:"Bologne des arcades rouges, des étudiants engagés et des saucissons goutûs, ville heureuse aux rues médiévales. On s'y promène par tout temps, grâce aux portiques infinis qui recouvrent ses rues et qui devaient être assez hauts, dit-on, pour laisser passer un homme à cheval. Très pittoresque, le centre ville est hérissé d'une dizaine de hautes tours. Au Moyen-Age, on en comptait plus de deux cents, qui servaient de poste de guet pour prévenir les attaques. A la Renaissance, le pouvoir fut confisqué par la famille Bentivoglio, qui commenda à Jacopo della Quercia la très belle façade de la basilique San Petronio. Bologne est connue pour abriter la plus vieille université d'Europe, qui fut fréquentée par les illustres Dante, Boccace et Pétrarque.",
   province: emilieromagne,
   coordinates: "https://goo.gl/maps/SikWUfv8ZAP2",
   heraldic: "blaz_bologne.png")
