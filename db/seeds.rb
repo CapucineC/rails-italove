@@ -2266,9 +2266,9 @@ Picture.create(
   city: venise
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_28.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_32.jpg",
   position: 28,
-  css_class: "zoom",
+  css_class: "portrait",
   city: venise
 )
 Picture.create(
@@ -2278,19 +2278,18 @@ Picture.create(
   city: venise
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_30.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_31.jpg",
   position: 30,
   css_class: "portrait",
   city: venise
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_31.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_28.jpg",
   position: 31,
-  css_class: "portrait",
   city: venise
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_32.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_30.jpg",
   position: 32,
   css_class: "portrait",
   city: venise
