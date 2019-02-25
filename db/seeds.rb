@@ -2474,17 +2474,11 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_77.jpg",
   position: 77,
-  css_class: "portrait",
   city: venise
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_78.jpg",
   position: 78,
-  city: venise
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_79.jpg",
-  position: 79,
   city: venise
 )
 Picture.create(
@@ -2501,11 +2495,7 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_82.jpg",
   position: 82,
-  city: venise
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_83.jpg",
-  position: 83,
+  css_class: "portrait",
   city: venise
 )
 Picture.create(
