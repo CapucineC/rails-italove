@@ -2584,6 +2584,7 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_61.jpg",
   position: 98.3,
+  css_class: "portrait",
   city: venise
 )
 Picture.create(
@@ -2594,7 +2595,6 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_65.jpg",
   position: 98.7,
-  css_class: "portrait",
   city: venise
 )
 Picture.create(
