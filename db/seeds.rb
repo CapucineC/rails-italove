@@ -4,18 +4,18 @@ Province.destroy_all
 
 piemont = Province.create(
   name: "Piémont",
-  description:"Comme l'indique son nom, tiré du latin 'Ad Pedem Montium', le Piémont est situé au pied des Alpes, et s'étend sur la vaste plaine du Pô. Longtemps disputé entre la France et l'Italie, il fut unifié au fil des siècles par la maison de Savoie. Ces princes alpins ont su conquérir villages, vallées et seigneuries locales pour finalement se concentrer en Italie du Nord. Ils ont ensuite conduit le pays vers son unification, notamment avec les Cavours, une autre famille piémontaise. En Piémont, la nature est sereine. En arrière-fond, les montagnes sont blanches et majestueuses. Devant elles, des vallées gorgées d'eau donnent un riz perlé admirable. Enfin, les vignes plantées à coteaux de valons produisent d'excellents vins. Ville solennelle, son chef-lieu Turin a gardé la dignité royale des Savoie.")
+  description:"Comme l'indique son nom, tiré du latin 'Ad Pedem Montium', le Piémont est situé au pied des Alpes, et s'étend sur la vaste plaine du Pô. Longtemps disputé entre la France et l'Italie, il fut unifié au fil des siècles par la maison de Savoie. Ces princes alpins ont su conquérir villages, vallées et seigneuries locales pour finalement se concentrer en Italie du Nord. Ils ont ensuite conduit le pays vers son unification, notamment avec l'aide des Cavours. En Piémont, la nature est sereine. En arrière-fond, les montagnes sont blanches et majestueuses. Devant elles, des vallées gorgées d'eau donnent un riz perlé admirable. Enfin, les vignes plantées à coteaux de valons produisent d'excellents vins. Ville solennelle, son chef-lieu Turin a gardé la dignité royale des Savoie.")
 turin =   City.create(
   name:"Turin",
   geocoding: "45° 04′ 00″ NORD 7° 42′ 00″ EST",
-  description: "Ville haute et fière, à la beauté classique. Ville grise par temps lourd, ville aux mille reflets d'argent quand le soleil descend sur le fleuve Pô. Avec ses rues droites, ses avenues larges et ses angles parfaits, Turin une ville sérieuse, ingénieuse et laborieuse. Son centre historique est flamboyant. Il compte le Palazzo Reale, des arcades et des cafés historiques, de vastes places royales où trônent des cavaliers de statue. Au loin, les Alpes se dessinent. Ville aristocratique des Comtes de Savoie ou ville ouvrière pour les usines de la FIAT, Turin a toujours travaillé à quelque chose de grand. Mais à quoi rêve Turin ? Au passé ou au futur ? A la gloire ou à la quiétude ? Au romantisme ou au réalisme ? On sent ici une passion sous-jacente, mais on ne la voit jamais pense-t-on.",
+  description: "Ville haute et fière, à la beauté classique. Ville grise par temps lourd, ville aux mille reflets d'argent quand le soleil descend sur le fleuve Pô. Avec ses rues droites, ses avenues larges et ses angles parfaits, Turin une ville sérieuse, ingénieuse et laborieuse. Son centre historique est flamboyant. Il compte le Palazzo Reale, des arcades et des beaux cafés, des longues places où trônent des statues de cavaliers. Au loin, les Alpes se dessinent. Ville aristocratique des Comtes de Savoie ou ville ouvrière pour les usines de la Fiat, Turin a toujours travaillé à quelque chose de grand. Mais à quoi rêve Turin ? Au passé ou au futur ? A la gloire ou à la quiétude ? Au romantisme ou au réalisme ? On sent ici une passion sous-jacente, mais on ne la voit jamais pense-t-on.",
   province: piemont,
   coordinates: "https://goo.gl/maps/6G6XQSSDz7T2",
   heraldic: "blaz_turin.png")
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_1.jpg",
   position: 1,
-  css_class: "portrait",
+  css_class: "zoom",
   city: turin
 )
 Picture.create(
@@ -33,7 +33,7 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_4.jpg",
   position: 4,
-  css_class: "zoom",
+  css_class: "portrait",
   city: turin,
 )
 Picture.create(
@@ -57,59 +57,89 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_8.jpg",
   position: 8,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_9.jpg",
   position: 9,
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_10.jpg",
   position: 10,
-  css_class: "landscape",
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_11.jpg",
   position: 11,
-  css_class: "landscape",
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_12.jpg",
   position: 12,
-  css_class: "landscape",
+  css_class: "zoom",
   city: turin
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_13.jpg",
   position: 13,
-  css_class: "landscape",
+  css_class: "portrait",
+  city: turin
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_14.jpg",
+  position: 14,
+  css_class: "portrait",
+  city: turin
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_15.jpg",
+  position: 15,
+  css_class: "portrait",
+  city: turin
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_16.jpg",
+  position: 16,
   city: turin
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_19.jpg",
+  position: 17,
+  city: turin
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_18.jpg",
+  position: 18,
+  css_class: "landscape",
+  city: turin
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_17.jpg",
   position: 19,
-  css_class: "zoom",
+  css_class: "landscape",
   city: turin
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_20.jpg",
   position: 20,
-  css_class: "portrait",
+  css_class: "landscape",
   city: turin
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_21.jpg",
   position: 21,
-  css_class: "portrait",
+  css_class: "landscape",
   city: turin
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_22.jpg",
   position: 22,
-  css_class: "portrait",
+  css_class: "zoom",
   city: turin
 )
 Picture.create(
@@ -121,70 +151,37 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_24.jpg",
   position: 24,
-  css_class: "portrait",
+  css_class: "zoom",
   city: turin
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_25.jpg",
-  position: 25.1,
+  position: 25,
   css_class: "portrait",
   city: turin
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_26.jpg",
-  position: 25.2,
-  css_class: "portrait",
-  city: turin
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_14.jpg",
-  position: 26.1,
-  city: turin
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_15.jpg",
-  position: 26.2,
-  city: turin
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_16.jpg",
-  position: 26.3,
-  city: turin
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_17.jpg",
-  position: 26.4,
-  css_class: "landscape",
-  city: turin
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_18.jpg",
-  position: 26.5,
+  position: 26,
   css_class: "landscape",
   city: turin
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_27.jpg",
   position: 27,
-  css_class: "zoom",
+  css_class: "landscape",
   city: turin
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_28.jpg",
   position: 28,
-  css_class: "portrait",
+  css_class: "landscape",
   city: turin
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_30.jpg",
-  position: 30,
-  css_class: "zoom",
-  city: turin
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_31.jpg",
-  position: 31,
-  css_class: "portrait",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_29.jpg",
+  position: 29,
+  css_class: "landscape",
   city: turin
 )
 Picture.create(
@@ -218,7 +215,23 @@ Picture.create(
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_37.jpg",
-  position: 37,
+  position: 37.1,
+  city: turin
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_46.jpg",
+  position: 37.4,
+  css_class: "zoom",
+  city: turin
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_47.1.jpg",
+  position: 37.2,
+  city: turin
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_47.2.jpg",
+  position: 37.3,
   city: turin
 )
 Picture.create(
@@ -256,24 +269,6 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_44.jpg",
   position: 44,
-  city: turin
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_45.jpg",
-  position: 45,
-  css_class: "portrait",
-  city: turin
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_46.jpg",
-  position: 46,
-  css_class: "portrait",
-  city: turin
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_47.jpg",
-  position: 47,
-  css_class: "portrait",
   city: turin
 )
 Picture.create(
