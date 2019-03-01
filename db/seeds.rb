@@ -125,19 +125,19 @@ Picture.create(
   city: turin
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_20.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_21.jpg",
   position: 20,
   css_class: "landscape",
   city: turin
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_21.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_22.jpg",
   position: 21,
   css_class: "landscape",
   city: turin
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_22.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_20.jpg",
   position: 22,
   css_class: "zoom",
   city: turin
@@ -302,21 +302,763 @@ Picture.create(
   city: turin
 )
 
-
 lombardie = Province.create(
   name: "Lombardie",
-  description:"La Lombardie doit son nom au peuple des Lombards, une tribu germanique qui a envahi le nord de l'Italie à la chute de l'empire romain. Située non loin des Alpes et sertie par les lacs, c'est une région rigide et belle, à la nature froide et bleutée. On le voit dans l'esthétique des peintres de la renaissance lombarde qui ont utilisé dans leurs oeuvres des tons plus sobres et glacés que nulle par ailleurs en Italie. Région prospère du Nord, la Lombardie possède des villes qui se parent de prestigieux monuments: Dômes, palais de marbres et forteresses se dressent élégamment vers le ciel, tandis que les piétons affairés marchent d'un pas rapide dans des rues rectilignes.")
+  description:"La Lombardie doit son nom au peuple des Lombards, une tribu germanique qui a envahi le nord de l'Italie à la chute de l'empire romain. Située non loin des Alpes et sertie par les lacs, c'est une région à la nature froide et bleutée. On le voit d'ailleurs dans l'esthétique des peintres de la renaissance lombarde qui ont utilisé dans leurs paysages des tons plus sobres et glacés que nulle par ailleurs en Italie. Région prospère du Nord, la Lombardie possède des villes qui se parent de prestigieux monuments: dômes, palais de marbres et forteresses se dressent élégamment vers le ciel, tandis que dans  les rues, des piétons affairés marchent d'un pas rapide et sûr.")
 milan =   City.create(
   name:"Milan",
   geocoding: "45° 28′ 00″ NORD 9° 10′ 00″ EST",
-  description:"Fief des familles Sforza et Visconti, capitale de la mode et de la finance, la divine Milan étale son succès aux quatre coins de la ville. Mais ce n'est pas dans ses rues qu'il faut cherche sa beauté car elle n'y est pas. Elle se cache dans les arrières cours des Palazzi, se revèle par a-coups au grés des balades dans le quartier de Brera, devant ses monuments et dans ses institutions. Il faut regarder vivre les milanais : on les voit déguster un risotto dans une trattoria fine, se promener dans la Galleria Vittorio Emmanuelle pour regarder les sublimes devantures de Prada, prendre quelques pâtisseries chez Marchesi, se rendre à la Scala pour écouter Verdi. Nous reste à admirer l'austère château Sforza et l'éblouissant Dôme de Milan qui pointe vers le ciel cent trente cinq flèches de marbre.",
+  description:"Fief des familles Sforza et Visconti, capitale de la mode et de la finance, la divine Milan étale son succès avec fierté. Ce n'est pas dans ses rues qu'il faut cherche sa beauté car elle n'y est pas. Elle se cache dans les arrière-cours des palazzi, se révèle par a-coups au gré des balades dans le quartier de Brera, devant ses monuments et dans ses institutions. Il faut regarder vivre les milanais : on les voit déguster un risotto dans une trattoria fine, se promener dans la Galleria Vittorio Emmanuelle pour regarder les sublimes devantures de Prada, prendre quelques pâtisseries chez Marchesi, se rendre à la Scala pour écouter Verdi. Nous reste à admirer l'austère château Sforza et l'éblouissant Dôme de Milan qui pointe vers le ciel cent trente cinq flèches de marbre.",
   province: lombardie,
   coordinates: "https://goo.gl/maps/PwxzZtBFjSq",
   heraldic: "/assets/blaz_milan.png")
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_1.jpg",
+  position: 1,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_2.jpg",
+  position: 2,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_3.jpg",
+  position: 3,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_4.jpg",
+  position: 4,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_5.jpg",
+  position: 5,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_6.jpg",
+  position: 6,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_7.jpg",
+  position: 7.1,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_7.1.jpg",
+  position: 7.2,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_7.2.jpg",
+  position: 7.3,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_8.jpg",
+  position: 8,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_9.jpg",
+  position: 9,
+  css_class: "zoom",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_10.jpg",
+  position: 10,
+  css_class: "zoom",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_11.jpg",
+  position: 11,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_12.jpg",
+  position: 14,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_13.jpg",
+  position: 13,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_14.jpg",
+  position: 12,
+  css_class: "zoom",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_15.jpg",
+  position: 15,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_16.jpg",
+  position: 16,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_17.jpg",
+  position: 17,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_18.jpg",
+  position: 18,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_19.jpg",
+  position: 19,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_20.jpg",
+  position: 20,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_21.jpg",
+  position: 21,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_22.jpg",
+  position: 22,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_23.jpg",
+  position: 23,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_24.jpg",
+  position: 24,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_25.jpg",
+  position: 25,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_26.jpg",
+  position: 26,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_27.jpg",
+  position: 27,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_28.jpg",
+  position: 28,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_29.jpg",
+  position: 29,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_30.1.jpg",
+  position: 30.1,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_30.2.jpg",
+  position: 30.2,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_31.jpg",
+  position: 31,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_32.jpg",
+  position: 32,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_33.jpg",
+  position: 33,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_34.jpg",
+  position: 34,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_35.jpg",
+  position: 35,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_36.jpg",
+  position: 36,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_37.jpg",
+  position: 37,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_39.jpg",
+  position: 42,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_41.jpg",
+  position: 41,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_42.jpg",
+  position: 39,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_43.jpg",
+  position: 43,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_44.jpg",
+  position: 44,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_45.jpg",
+  position: 45,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_46.jpg",
+  position: 46,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_47.jpg",
+  position: 47,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_48.jpg",
+  position: 48,
+  css_class: "zoom",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_49.jpg",
+  position: 49,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_50.jpg",
+  position: 50,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_51.jpg",
+  position: 51,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_52.jpg",
+  position: 52,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_53.jpg",
+  position: 53,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_56.1.jpg",
+  position: 54,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_55.jpg",
+  position: 55,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_54.jpg",
+  position: 56,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_57.jpg",
+  position: 57,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_58.jpg",
+  position: 58,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_59.jpg",
+  position: 59,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_60.jpg",
+  position: 60,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_61.jpg",
+  position: 61.1,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_62.jpg",
+  position: 61.2,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_66.jpg",
+  position: 62,
+  css_class: "zoom",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_63.jpg",
+  position: 63,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_64.jpg",
+  position: 64,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_65.jpg",
+  position: 65,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_67.jpg",
+  position: 67,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_71.jpg",
+  position: 68,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_69.jpg",
+  position: 69,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_68.jpg",
+  position: 71,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_70.jpg",
+  position: 70,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_72.jpg",
+  position: 72,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_73.jpg",
+  position: 73,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_74.jpg",
+  position: 74,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_75.jpg",
+  position: 75,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_76.jpg",
+  position: 76,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_77.jpg",
+  position: 77,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_80.jpg",
+  position: 78,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_79.jpg",
+  position: 79,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_78.jpg",
+  position: 80,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_81.jpg",
+  position: 81,
+  css_class: "zoom",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_82.jpg",
+  position: 82,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_83.jpg",
+  position: 83,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_84.jpg",
+  position: 84.1,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_85.jpg",
+  position: 84.2,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_91.jpg",
+  position: 85.2,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_92.jpg",
+  position: 85.3,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_86.jpg",
+  position: 86,
+  css_class: "zoom",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_87.jpg",
+  position: 87,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_88.jpg",
+  position: 88,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_89.jpg",
+  position: 89,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_90.jpg",
+  position: 90,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_93.jpg",
+  position: 93,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_94.jpg",
+  position: 94,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_98.jpg",
+  position: 95,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_96.jpg",
+  position: 96,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_97.jpg",
+  position: 97,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_95.jpg",
+  position: 99,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_99.jpg",
+  position: 98,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_100.jpg",
+  position: 100,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_101.jpg",
+  position: 101,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_102.jpg",
+  position: 102,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_103.jpg",
+  position: 103,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_106.jpg",
+  position: 106,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_107.jpg",
+  position: 107,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_108.jpg",
+  position: 108,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_109.jpg",
+  position: 104,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_110.jpg",
+  position: 110,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_111.jpg",
+  position: 111,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_112.jpg",
+  position: 112,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_113.jpg",
+  position: 113,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_114.jpg",
+  position: 114,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_115.jpg",
+  position: 115,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_116.jpg",
+  position: 116,
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_117.jpg",
+  position: 117,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_118.jpg",
+  position: 118,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_119.jpg",
+  position: 119,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_120.jpg",
+  position: 120,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_121.jpg",
+  position: 121,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_122.jpg",
+  position: 122,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_123.jpg",
+  position: 123,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_124.jpg",
+  position: 124,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_125.jpg",
+  position: 125,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_126.jpg",
+  position: 126,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_127.jpg",
+  position: 127,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_128.jpg",
+  position: 128,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_130.jpg",
+  position: 130,
+  css_class: "zoom",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_132.jpg",
+  position: 132,
+  css_class: "portrait",
+  city: milan
+)
+
 bergame =   City.create(
   name:"Bergame",
   geocoding: "45° 42′ 00″ NORD 9° 39′ 58″ EST",
-  description:"Bergame altà est un village lombard perché en haut une colline, au pied des Alpes bergamasques. Il est entouré par ses vieilles murailles d'enceinte, consolidées au XVIe siècle par la domination vénitienne. A l’intérieur du bastion, on trouve une ville miniature : sur le sol quadrillé de longue Piazza Vecchia se regroupent des bâtiments publiques aux façades de marbre et le palais du gouvernement. Au centre, la Fontaine Contarini est gardée par des lions sculptés qui toisent les habitants attablés dans les cafés. Plus loin, la Basilica di Santa Maria Maggiore présente une extraordinaire façade rose et blanche, structurées en fin motifs géométriques.",
+  description:"Bergame altà est un village lombard perché en haut une colline, au pied des Alpes bergamasques. Il est entouré par ses vieilles murailles d'enceinte consolidées au XVIe siècle par la domination vénitienne. A l’intérieur du bastion, on trouve une ville miniature : sur le sol quadrillé de longue Piazza Vecchia se regroupent des bâtiments publiques aux façades de marbre. Au centre, la Fontaine Contarini est gardée par des lions sculptés qui toisent les habitants attablés dans les cafés. Plus loin, la Basilica di Santa Maria Maggiore présente une extraordinaire façade rose et blanche, structurées en fin motifs géométriques.",
   province: lombardie,
   coordinates: "https://goo.gl/maps/EVKRgQvA6jK2",
   heraldic: "blaz_bergame.png")
@@ -532,7 +1274,7 @@ Picture.create(
 mantoue =   City.create(
   name:"Mantoue",
   geocoding: "45° 10′ NORD 10° 48′ EST",
-  description:"C'est d'éclat qu'il faut parler pour décrire Mantoue, cette éboulissante perle de la Renaissance dont les Gonzagues firent la richesse et la gloire. Il semble que le Palazzo Ducal ait été uniquement fait pour l'art et les plaisirs tant ses couloirs d'or, ses loggias et ses jardins promènent le voyageur dans un rêve. Au fond du palais, dans la camera degli Sposi, Andrea Mantegna raconte dans ses fresques l'histoire du règne des Gonzagues, tandis qu'au plafond, des anges nous regardent depuis un ciel majestueux. Aux portes de la ville, dans le Palazzo Te, le peintre maniériste Giulio Romano renverse les perspectives et les ordres de grandeur nous entrainant à sa suite, dans le monde des géants et des dieux.",
+  description:"C'est d'éclat qu'il faut parler pour décrire Mantoue, cette éblouissante perle de la Renaissance dont la famille Gonzague fit la richesse et la gloire. Il semble que le Palazzo Ducal ait été uniquement fait pour l'art et les plaisirs tant ses couloirs d'or, ses loggias et ses jardins promènent le voyageur dans un rêve. Au fond du palais, dans la Camera degli Sposi, Andrea Mantegna raconte dans ses fresques le règne des Gonzague, tandis qu'au plafond, des anges nous regardent depuis un ciel majestueux. Aux portes de la ville, dans le Palazzo Te, le peintre maniériste Giulio Romano renverse les perspectives et les ordres de grandeur, nous entrainant à sa suite dans le monde des géants et des dieux.",
   province: lombardie,
   coordinates: "https://goo.gl/maps/wMK3qnSbNVn",
   heraldic: "blaz_mantoue.png",)
@@ -1370,14 +2112,14 @@ Picture.create(
   city: come
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_91.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_92.jpg",
   position: 79,
+  css_class:"zoom",
   city: come
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_92.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_91.jpg",
   position: 80,
-  css_class:"zoom",
   city: come
 )
 Picture.create(
@@ -1385,7 +2127,6 @@ Picture.create(
   position: 81,
   city: come
 )
-
 majeur =  City.create(
   name:"Lac Majeur",
   geocoding: "45° 54′ 18″ NORD 8° 34′ 57″ EST",
