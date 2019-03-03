@@ -4,7 +4,7 @@ Province.destroy_all
 
 piemont = Province.create(
   name: "Piémont",
-  description:"Comme l'indique son nom, tiré du latin 'Ad Pedem Montium', le Piémont est situé au pied des Alpes, et s'étend sur la vaste plaine du Pô. Longtemps disputé entre la France et l'Italie, il fut unifié au fil des siècles par la maison de Savoie. Ces princes alpins ont su conquérir villages, vallées et seigneuries locales pour finalement se concentrer en Italie du Nord. Ils ont ensuite conduit le pays vers son unification, notamment avec l'aide des Cavours. En Piémont, la nature est sereine. En arrière-fond, les montagnes sont blanches et majestueuses. Devant elles, des vallées gorgées d'eau donnent un riz perlé admirable. Enfin, les vignes plantées à coteaux de valons produisent d'excellents vins. Ville solennelle, son chef-lieu Turin a gardé la dignité royale des Savoie.")
+  description:"C'est de sa géographie que le Piémont tire son nom, puisqu'il est situé au pied des Alpes, et s'étend sur la vaste plaine du Pô. Longtemps disputé entre la France et l'Italie, il fut unifié au fil des siècles par la maison de Savoie. Ces princes alpins ont su conquérir villages, vallées et seigneuries locales pour finalement se concentrer en Italie du Nord. Ils ont ensuite conduit le pays vers son unification, notamment avec l'aide des Cavours. En Piémont, la nature est sereine. En arrière-fond, les montagnes sont blanches et majestueuses. Devant elles, des vallées gorgées d'eau donnent un riz perlé admirable. Enfin, les vignes plantées à coteaux de valons produisent d'excellents vins. Ville solennelle, son chef-lieu Turin a gardé la dignité royale des Savoie.")
 turin =   City.create(
   name:"Turin",
   geocoding: "45° 04′ 00″ NORD 7° 42′ 00″ EST",
@@ -304,14 +304,14 @@ Picture.create(
 
 lombardie = Province.create(
   name: "Lombardie",
-  description:"La Lombardie doit son nom au peuple des Lombards, une tribu germanique qui a envahi le nord de l'Italie à la chute de l'empire romain. Située non loin des Alpes et sertie par les lacs, c'est une région à la nature froide et bleutée. On le voit d'ailleurs dans l'esthétique des peintres de la renaissance lombarde qui ont utilisé dans leurs paysages des tons plus sobres et glacés que nulle par ailleurs en Italie. Région prospère du Nord, la Lombardie possède des villes qui se parent de prestigieux monuments: dômes, palais de marbres et forteresses se dressent élégamment vers le ciel, tandis que dans  les rues, des piétons affairés marchent d'un pas rapide et sûr.")
+  description:"La Lombardie doit son nom au peuple des Lombards, une tribu germanique qui a envahi le nord de l'Italie à la chute de l'empire romain. Située non loin des Alpes, la région est aussi sertie par les lacs. Ce paysage froid et bleuté a donné à l'art lombard sa propre tonalité, puisque ses peintres de la Renaissance ont utilisé dans leurs paysages des tons plus sobres et glacés que nulle par ailleurs en Italie. Région prospère du Nord, la Lombardie possède des villes qui se parent de prestigieux monuments: dômes, palais de marbres et forteresses se dressent élégamment vers le ciel, tandis que dans les rues, des piétons affairés marchent d'un pas rapide et sûr.")
 milan =   City.create(
   name:"Milan",
   geocoding: "45° 28′ 00″ NORD 9° 10′ 00″ EST",
-  description:"Fief des familles Sforza et Visconti, capitale de la mode et de la finance, la divine Milan étale son succès avec fierté. Ce n'est pas dans ses rues qu'il faut cherche sa beauté car elle n'y est pas. Elle se cache dans les arrière-cours des palazzi, se révèle par a-coups au gré des balades dans le quartier de Brera, devant ses monuments et dans ses institutions. Il faut regarder vivre les milanais : on les voit déguster un risotto dans une trattoria fine, se promener dans la Galleria Vittorio Emmanuelle pour regarder les sublimes devantures de Prada, prendre quelques pâtisseries chez Marchesi, se rendre à la Scala pour écouter Verdi. Nous reste à admirer l'austère château Sforza et l'éblouissant Dôme de Milan qui pointe vers le ciel cent trente cinq flèches de marbre.",
+  description:"Fief des familles Sforza et Visconti, capitale de la mode et de la finance, lieu du design par excellence, la divine Milan étale son succès avec fierté. Mais ce n'est pas dans ses rues qu'il faut cherche sa beauté car elle n'y est pas. Elle se cache dans les arrière-cours des palazzi, se révèle par a-coups au gré des balades dans le quartier de Brera, devant ses monuments et dans ses institutions. Il faut regarder vivre les milanais : on les voit déguster un risotto dans une trattoria fine, se promener dans la Galleria Vittorio Emmanuelle pour regarder les sublimes devantures de Prada, prendre quelques pâtisseries chez Marchesi, se rendre à la Scala pour écouter Verdi. Nous reste à admirer l'austère château Sforza et l'éblouissant Dôme de Milan qui pointe vers le ciel cent trente cinq flèches de marbre.",
   province: lombardie,
   coordinates: "https://goo.gl/maps/PwxzZtBFjSq",
-  heraldic: "/assets/blaz_milan.png")
+  heraldic: "blaz_milan.png")
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_1.jpg",
   position: 1,
@@ -702,7 +702,7 @@ Picture.create(
   city: milan
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_67.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_80.jpg",
   position: 67,
   css_class: "landscape",
   city: milan
@@ -745,19 +745,32 @@ Picture.create(
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_74.jpg",
-  position: 74,
+  position: 74.1,
   css_class: "landscape",
   city: milan
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_75.jpg",
-  position: 75,
+  position: 74.2,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_79.jpg",
+  position: 75.1,
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_78.jpg",
+  position: 75.2,
   css_class: "landscape",
   city: milan
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_76.jpg",
   position: 76,
+  css_class: "zoom",
   city: milan
 )
 Picture.create(
@@ -766,20 +779,8 @@ Picture.create(
   city: milan
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_80.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_67.jpg",
   position: 78,
-  city: milan
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_79.jpg",
-  position: 79,
-  css_class: "landscape",
-  city: milan
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_78.jpg",
-  position: 80,
-  css_class: "landscape",
   city: milan
 )
 Picture.create(
@@ -958,6 +959,7 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_114.jpg",
   position: 114,
+  css_class: "zoom",
   city: milan
 )
 Picture.create(
