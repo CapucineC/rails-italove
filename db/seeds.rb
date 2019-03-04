@@ -865,9 +865,8 @@ Picture.create(
   city: milan
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_98.jpg",
-  position: 95,
-  css_class: "portrait",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_101.jpg",
+  position: 98,
   city: milan
 )
 Picture.create(
@@ -888,7 +887,7 @@ Picture.create(
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_99.jpg",
-  position: 98,
+  position: 95.1,
   css_class: "portrait",
   city: milan
 )
@@ -898,8 +897,9 @@ Picture.create(
   city: milan
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_101.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_98.jpg",
   position: 101,
+  css_class: "portrait",
   city: milan
 )
 Picture.create(
@@ -933,27 +933,12 @@ Picture.create(
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_109.jpg",
-  position: 104,
+  position: 95.2,
   city: milan
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_110.jpg",
   position: 110,
-  city: milan
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_111.jpg",
-  position: 111,
-  city: milan
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_112.jpg",
-  position: 112,
-  city: milan
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_113.jpg",
-  position: 113,
   city: milan
 )
 Picture.create(
