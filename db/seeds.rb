@@ -442,19 +442,19 @@ Picture.create(
   city: milan
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_21.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_23.jpg",
   position: 21,
   css_class: "portrait",
   city: milan
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_22.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_21.jpg",
   position: 22,
   css_class: "portrait",
   city: milan
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_23.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_22.jpg",
   position: 23,
   css_class: "portrait",
   city: milan
