@@ -4,11 +4,11 @@ Province.destroy_all
 
 piemont = Province.create(
   name: "Piémont",
-  description:"C'est de sa géographie que le Piémont tire son nom, puisqu'il est situé au pied des Alpes, et s'étend sur la vaste plaine du Pô. Longtemps disputé entre la France et l'Italie, il fut unifié au fil des siècles par la maison de Savoie. Ces princes alpins ont su conquérir villages, vallées et seigneuries locales pour finalement se concentrer en Italie du Nord. Ils ont ensuite conduit le pays vers son unification, notamment avec l'aide des Cavours. En Piémont, la nature est sereine. En arrière-fond, les montagnes sont blanches et majestueuses. Devant elles, des vallées gorgées d'eau donnent un riz perlé admirable. Enfin, les vignes plantées à coteaux de valons produisent d'excellents vins. Ville solennelle, son chef-lieu Turin a gardé la dignité royale des Savoie.")
+  description:"Le Piémont est entouré par le massif des Alpes et s'étend sur la vaste plaine du Pô. C'est de sa géographie qu'il tire son nom, dont l'origine latine signifie 'au pied des montagnes'. Longtemps disputé entre la France et l'Italie, il fut unifié au fil des siècles par la maison de Savoie. Ces princes alpins ont su conquérir villages, vallées et seigneuries locales pour finalement se concentrer en Italie du Nord. Ils ont ensuite joué un grand rôle dans l'unification du pays, notamment avec l'aide des Cavours. En Piémont, la nature est sereine. Les montagnes sont blanches et majestueuses. Devant elles, des vallées gorgées d'eau donnent un riz perlé admirable. Enfin, les vignes plantées à coteaux de valons produisent d'excellents vins. Ville solennelle, son chef-lieu Turin a gardé la dignité royale des Savoie.")
 turin =   City.create(
   name:"Turin",
   geocoding: "45° 04′ 00″ NORD 7° 42′ 00″ EST",
-  description: "Ville haute et fière, à la beauté classique. Ville grise par temps lourd, ville aux mille reflets d'argent quand le soleil descend sur le fleuve Pô. Avec ses rues droites, ses avenues larges et ses angles parfaits, Turin une ville sérieuse, ingénieuse et laborieuse. Son centre historique est flamboyant. Il compte le Palazzo Reale, des arcades et des beaux cafés, des longues places où trônent des statues de cavaliers. Au loin, les Alpes se dessinent. Ville aristocratique des Comtes de Savoie ou ville ouvrière pour les usines de la Fiat, Turin a toujours travaillé à quelque chose de grand. Mais à quoi rêve Turin ? Au passé ou au futur ? A la gloire ou à la quiétude ? Au romantisme ou au réalisme ? On sent ici une passion sous-jacente, mais on ne la voit jamais pense-t-on.",
+  description: "Ville haute et fière, à la beauté classique. Ville grise par temps lourd, ville aux mille reflets d'argent quand le soleil descend sur le fleuve Pô. Avec ses rues droites, ses avenues larges et ses angles parfaits, Turin une ville sérieuse, ingénieuse et laborieuse. Son centre historique est flamboyant. Il compte le Palazzo Reale, des arcades et des beaux cafés, de longues places royales sur lesquelles se cabrent des statues de cavaliers. Au loin, les Alpes se dessinent. Ville aristocratique des Comtes de Savoie ou ville ouvrière pour les usines de la Fiat, Turin a toujours travaillé à quelque chose de grand. Mais à quoi rêve Turin ? Au passé ou au futur ? A la gloire ou à la quiétude ? Au romantisme ou au réalisme ? On sent ici une passion sous-jacente, mais on ne la voit jamais pense-t-on.",
   province: piemont,
   coordinates: "https://goo.gl/maps/6G6XQSSDz7T2",
   heraldic: "blaz_turin.png")
@@ -103,7 +103,7 @@ Picture.create(
   city: turin
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_16.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_18.jpg",
   position: 16,
   city: turin
 )
@@ -113,7 +113,7 @@ Picture.create(
   city: turin
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_18.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_16.jpg",
   position: 18,
   css_class: "landscape",
   city: turin
@@ -161,13 +161,13 @@ Picture.create(
   city: turin
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_26.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_27.jpg",
   position: 26,
   css_class: "landscape",
   city: turin
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_27.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_26.jpg",
   position: 27,
   css_class: "landscape",
   city: turin
@@ -214,7 +214,7 @@ Picture.create(
   city: turin
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_37.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_47.1.jpg",
   position: 37.1,
   city: turin
 )
@@ -225,7 +225,7 @@ Picture.create(
   city: turin
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_47.1.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_37.jpg",
   position: 37.2,
   city: turin
 )
