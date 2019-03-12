@@ -4774,7 +4774,7 @@ toscane = Province.create(
 florence =  City.create(
   name:"Florence",
   geocoding: "43° 46′ 18′ NORD 11° 15′ 13′ EST",
-  description: "Florence est binaire, géométrique, sans compromis. Tantôt orageuse, avec un ciel bas et de hautes bâtisses austères qui rappelle son passé politique dangereux, tantôt lumineuse, aérienne, saupoudrée d'or, et qui vous entraine avec elle dans le silence de la lumière divine. En redécouvrant la notion de 'perspective' sous l'impulsion des banquiers Médicis, elle fut le lieu d'un foisonnement intellectuel et artistique sans précédent que l'on nomma 'Renaissance' et qui donna à l'Italie ses plus grands artistes et penseurs. Parmi tant d'autres Fra Angelico, Brunelleschi, Donatello, Botticelli et Michel-Ange travaillèrent sans relâche à l'embellir. La ville possède donc un patrimoine artistique extraordinaire où se succèdent églises, monuments et palais d’une beauté magnanime. Florence est capitale. Au centre de l’Italie, de la Toscane, de la Renaissance, par 3 fois admirable.",
+  description: "Florence est binaire, géométrique, sans compromis. Tantôt orageuse, avec un ciel bas et des bâtisses hautes et austères qui rappelle son passé politique dangereux, tantôt lumineuse, aérienne, saupoudrée d'or, et qui vous entraine avec elle vers la lumière. En redécouvrant la notion de 'perspective' sous l'impulsion des banquiers Médicis, elle fut le lieu d'un foisonnement intellectuel et artistique sans précédent que l'on nomma 'Renaissance' et qui donna à l'Italie ses plus grands artistes et penseurs. Parmi tant d'autres Fra Angelico, Brunelleschi, Donatello, Botticelli et Michel-Ange travaillèrent sans relâche à l'embellir. La ville possède donc un patrimoine artistique extraordinaire où se succèdent églises, monuments et palais d’une beauté magnanime. Florence est capitale. Au centre de l’Italie, de la Toscane, de la Renaissance, par 3 fois admirable.",
   province: toscane,
   coordinates: "https://www.franceculture.fr/emissions/carnet-nomade/je-vous-ecris-de-florence",
   heraldic: "blaz_florence.png")
@@ -5255,12 +5255,6 @@ Picture.create(
   city: florence
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_89.jpg",
-  position: 89,
-  css_class: "zoom",
-  city: florence
-)
-Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_89.1.jpg",
   position: 89.1,
   css_class: "portrait",
@@ -5269,17 +5263,23 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_89.2.jpg",
   position: 89.2,
+  css_class: "zoom",
+  city: florence
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_89.3.jpg",
+  position: 89.3,
   css_class: "landscape",
   city: florence
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_90.2.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_89.4.jpg",
   position: 90.2,
   css_class: "landscape",
   city: florence
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_90.1.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_90.jpg",
   position: 90.1,
   css_class: "landscape",
   city: florence
