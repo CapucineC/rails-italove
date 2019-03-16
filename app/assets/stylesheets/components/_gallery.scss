@@ -37,6 +37,11 @@
     grid-column-end: span 1;
     grid-row-end: span 2;
 }
+.wrapper div.all {
+    grid-column-end: span 6;
+    grid-row-end: span 6;
+}
+
 
 img {
   width: 100%;
