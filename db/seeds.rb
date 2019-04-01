@@ -5820,565 +5820,506 @@ latium = Province.create(
 rome =  City.create(
   name:"Rome",
   geocoding: "41° 53′ 19″ NORD 12° 29′ 12″ EST",
-  description:"On dit qu'elle est caput mundis, Urbs, ville entre les ville, la ville éternelle. Rome, dont la gloire renaît sans cesse et ne s'éteint jamais. Dans l'Antiquité, elle donna son nom à l'empire romain, le plus puissant du monde, prodigieusement étendu par de-là la mer Méditerranée. Au Moyen Âge, elle est devenue le siège du pouvoir catholique et le lieu de résidence des Papes. À la Renaissance, son règne fut disputé par les grandes familles romaines : les Orsini, les Farnese, les Borghese et les Barberini. Au dix-septième siècle, elle devient un haut lieu de l'art baroque. Elle est aujourd'hui la capitale politique italienne et le lieu de prédilection des promeneurs amoureux. ROMA, ville fascinante qui se renverse en AMOR pour nous parler de passion au milieu des peintures du Carravage, des églises baroques et des palais somptueux.",
+  description:"On dit qu'elle est caput mundis, Urbs, ville entre les villes, la ville éternelle. Rome, dont la gloire renaît sans cesse et ne s'éteint jamais. Dans l'Antiquité, elle donna son nom à l'empire romain, le plus puissant du monde, prodigieusement étendu par de-là la mer Méditerranée. Au Moyen Âge, elle est devenue le siège du pouvoir catholique et le lieu de résidence des Papes. À la Renaissance, son règne fut disputé par les grandes familles romaines : les Orsini, les Farnese, les Borghese et les Barberini. Au dix-septième siècle, elle devient un haut lieu de l'art baroque. Elle est aujourd'hui la capitale politique italienne et le lieu de prédilection des promeneurs amoureux. ROMA, ville fascinante qui se renverse en AMOR pour nous parler de passion au milieu des peintures du Carravage, des églises baroques et des palais somptueux.",
   province: latium,
   coordinates: "https://goo.gl/maps/ceRkEQgjreP2",
   heraldic: "blaz_rome.png")
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_1.jpg",
-  position: 1,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_1.jpg",
+    position: 1,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_2.jpg",
-  position: 2,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_2.jpg",
+    position: 2,
+    css_class: "portrait",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_3.jpg",
-  position: 3,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_3.jpg",
+    position: 3,
+  css_class: "portrait",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_4.jpg",
-  position: 4,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_4.jpg",
+    position: 4,
+  css_class: "portrait",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_5.jpg",
-  position: 5,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_5.jpg",
+    position: 5,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_6.jpg",
-  position: 6,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_6.jpg",
+    position: 6,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_7.jpg",
-  position: 7,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_7.jpg",
+    position: 7,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_8.0.jpg",
-  position: 8,
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_8.jpg",
+    position: 8,
   css_class: "zoom",
-  city: rome
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_8.1.jpg",
-  position: 9,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_9.jpg",
+    position: 9,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_9.jpg",
-  position: 10,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_10.jpg",
+    position: 10,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_10.jpg",
-  position: 11,
-  css_class: "zoom",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_11.jpg",
+    position: 11,
+    css_class: "zoom",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_11.jpg",
-  position: 12,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_12.jpg",
+    position: 12,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_12.jpg",
-  position: 13,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_13.jpg",
+    position: 13,
+    css_class: "zoom",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_13.jpg",
-  position: 14,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_14.jpg",
+    position: 14,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_14.jpg",
-  position: 15,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_15.jpg",
+    position: 15,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_15.jpg",
-  position: 16,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_16.1.jpg",
+    position: 16.1,
+    css_class: "zoom",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_16.jpg",
-  position: 17,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_16.2.jpg",
+    position: 16.2,
+    css_class: "portrait",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_17.jpg",
-  position: 18,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_16.3.jpg",
+    position: 16.3,
+    css_class: "portrait",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_18.jpg",
-  position: 19,
-  css_class:"zoom",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_17.jpg",
+    position: 17,
+    css_class: "portrait",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_19.jpg",
-  position: 20,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_18.jpg",
+    position: 18,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_20.jpg",
-  position: 21,
-  css_class:"mini",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_19.jpg",
+    position: 19,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_21.jpg",
-  position: 22,
-  css_class:"mini",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_20.jpg",
+    position: 20,
+    css_class: "mini",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_22.jpg",
-  position: 23,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_21.jpg",
+    position: 21,
+    css_class: "mini",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_23.jpg",
-  position: 24,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_22.jpg",
+    position: 22,
+    css_class: "portrait",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_24.jpg",
-  position: 25,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_23.jpg",
+    position: 23,
+    css_class: "portrait",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_25.jpg",
-  position: 26,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_24.jpg",
+    position: 24,
+    css_class: "portrait",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_26.jpg",
-  position: 27,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_25.jpg",
+    position: 25,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_27.jpg",
-  position: 28,
-  css_class:"zoom",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_26.jpg",
+    position: 26,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_28.jpg",
-  position: 29,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_27.jpg",
+    position: 27,
+    css_class: "zoom",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_29.jpg",
-  position: 30,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_28.jpg",
+    position: 28,
+    css_class: "portrait",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_30.jpg",
-  position: 31,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_29.jpg",
+    position: 29,
+    css_class: "zoom",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_31.jpg",
-  position: 32,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_30.jpg",
+    position: 30,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_32.jpg",
-  position: 33,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_31.jpg",
+    position: 31,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_34.jpg",
-  position: 35,
-  css_class: "zoom",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_33.jpg",
+    position: 33,
+    css_class: "portrait",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_35.1.jpg",
-  position: 36,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_34.jpg",
+    position: 34,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_36.jpg",
-  position: 37,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_35.jpg",
+    position: 35,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_37.jpg",
-  position: 38,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_36.jpg",
+    position: 36,
+    css_class: "zoom",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_38.0.jpg",
-  position: 39,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_37.jpg",
+    position: 37,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_38.1.jpg",
-  position: 40,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_38.jpg",
+    position: 38,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_39.jpg",
-  position: 41,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_39.jpg",
+    position: 39,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_40.jpg",
-  position: 42,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_40.jpg",
+    position: 40,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_41.jpg",
-  position: 43,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_41.jpg",
+    position: 41,
+    css_class: "portrait",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_42.jpg",
-  position: 44,
-  css_class: "zoom",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_42.jpg",
+    position: 42,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_43.jpg",
-  position: 45,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_43.jpg",
+    position: 43,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_44.jpg",
-  position: 46,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_44.jpg",
+    position: 44,
+    css_class: "zoom",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_45.jpg",
-  position: 47,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_45.jpg",
+    position: 45,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_46.jpg",
-  position: 48,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_74.jpg",
+    position: 47,
+    css_class: "landscape",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_48.jpg",
-  position: 49,
-  css_class:"zoom",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_47.jpg",
+    position: 46,
+    css_class: "landscape",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_51.jpg",
-  position: 50.1,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_48.jpg",
+    position: 48,
+    css_class: "portrait",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_52.jpg",
-  position: 50.2,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_49.jpg",
+    position: 49,
+    css_class: "zoom",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_49.jpg",
-  position: 51,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_50.jpg",
+    position: 50,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_47.jpg",
-  position: 52.2,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_51.jpg",
+    position: 51,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_53.jpg",
-  position: 53,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_52.jpg",
+    position: 52,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_54.jpg",
-  position: 56,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_53.jpg",
+    position: 53,
+    css_class: "zoom",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_55.1.jpg",
-  position: 57,
-  css_class:"zoom",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_54.jpg",
+    position: 54,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_56.jpg",
-  position: 58,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_55.jpg",
+    position: 55,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_57.jpg",
-  position: 59,
-  css_class: "zoom",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_56.jpg",
+    position: 56,
+    css_class: "zoom",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_58.jpg",
-  position: 60,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_57.jpg",
+    position: 57,
+    css_class: "portrait",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_59.jpg",
-  position: 61,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_58.jpg",
+    position: 58,
+    css_class: "portrait",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_60.jpg",
-  position: 62,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_59.jpg",
+    position: 60,
+    css_class: "portrait",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_61.jpg",
-  position: 63,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_60.jpg",
+    position: 59,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_62.jpg",
-  position: 64,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_61.jpg",
+    position: 61,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_63.jpg",
-  position: 65,
-  css_class:"zoom",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_62.jpg",
+    position: 62,
+    css_class: "all",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_64.jpg",
-  position: 66,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_63.jpg",
+    position: 63,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_65.jpg",
-  position: 67,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_64.jpg",
+    position: 64,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_66.jpg",
-  position: 68,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_65.jpg",
+    position: 65,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_67.jpg",
-  position: 69,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_66.jpg",
+    position: 66,
+    css_class: "portrait",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_68_bis.jpg",
-  position: 70.1,
-  css_class:"zoom",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_67.jpg",
+    position: 67,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_68.jpg",
-  position: 70.2,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_68.jpg",
+    position: 68,
+    css_class: "portrait",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_69.jpg",
-  position: 71,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_69.jpg",
+    position: 69,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_70.0.jpg",
-  position: 72,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_70.jpg",
+    position: 70,
+    css_class: "portrait",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_70.1.jpg",
-  position: 73,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_71.jpg",
+    position: 71,
+    css_class: "portrait",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_71.jpg",
-  position: 74,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_72.jpg",
+    position: 72,
+    css_class: "portrait",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_72.jpg",
-  position: 75,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_75.jpg",
+    position: 75,
+    css_class: "landscape",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_73.jpg",
-  position: 76,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_76.jpg",
+    position: 76,
+    css_class: "landscape",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_74.jpg",
-  position: 77,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_77.jpg",
+    position: 77,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_75.jpg",
-  position: 78,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_78.jpg",
+    position: 78,
+    css_class: "zoom",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_76.jpg",
-  position: 79,
-  css_class: "zoom",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_79.jpg",
+    position: 79,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_77.jpg",
-  position: 80,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_80.jpg",
+    position: 80,
+    css_class: "portrait",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_78.jpg",
-  position: 81,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_81.jpg",
+    position: 81,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_79.jpg",
-  position: 82,
-  css_class:"zoom",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_82.jpg",
+    position: 82,
+    css_class: "portrait",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_80",
-  css_class:"portrait.jpg",
-  position: 83,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_83.jpg",
+    position: 83,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_81.jpg",
-  position: 84,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_84.jpg",
+    position: 84,
+    css_class: "portrait",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_82.jpg",
-  position: 85,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_85.jpg",
+    position: 87,
+    css_class: "portrait",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_83.jpg",
-  position: 88,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_86.jpg",
+    position: 86,
+    css_class: "portrait",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_98.1.jpg",
-  position: 86.2,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_87.jpg",
+    position: 88,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_98.2.jpg",
-  position: 87,
-  css_class:"portrait",
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_88.jpg",
+    position: 85,
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_84.jpg",
-  position: 86.1,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_89.jpg",
+    position: 89,
+    city: rome
 )
-
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_86.jpg",
-  position: 89,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_90.jpg",
+    position: 90,
+    css_class: "landscape",
+    city: rome
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_87.jpg",
-  position: 90,
-  city: rome
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_88.jpg",
-  position: 91,
-  city: rome
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_90.jpg",
-  position: 93,
-  css_class:"portrait",
-  city: rome
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_98.0.jpg",
-  position: 94.1,
-  css_class:"portrait",
-  city: rome
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_91.jpg",
-  position: 94.2,
-  city: rome
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_92.jpg",
-  position: 95,
-  city: rome
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_95.jpg",
-  position: 96,
-  css_class:"zoom",
-  city: rome
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_96.jpg",
-  position: 97,
-  city: rome
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_97.jpg",
-  position: 98,
-  city: rome
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_99.jpg",
-  position: 102,
-  css_class:"portrait",
-  city: rome
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_101.jpg",
-  position: 103,
-  city: rome
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_102.jpg",
-  position: 104,
-  city: rome
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_91.jpg",
+    position: 91,
+    css_class: "landscape",
+    city: rome
 )
 
 pouilles = Province.create(
