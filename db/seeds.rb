@@ -11,7 +11,9 @@ turin =   City.create(
   description: "Ville haute et fière, à la beauté classique. Ville grise par temps lourd, ville aux mille reflets d'argent quand le soleil descend sur le fleuve Pô. Avec ses rues droites, ses avenues larges et ses angles parfaits, Turin une ville sérieuse, ingénieuse et laborieuse. Son centre historique est flamboyant. Il compte le Palazzo Reale, des arcades et des beaux cafés, de longues places royales sur lesquelles se cabrent des statues de cavaliers. Au loin, les Alpes se dessinent. Ville aristocratique des Comtes de Savoie ou ville ouvrière pour les usines de la Fiat, Turin a toujours travaillé à quelque chose de grand. Mais à quoi rêve Turin ? Au passé ou au futur ? A la gloire ou à la quiétude ? Au romantisme ou au réalisme ? On sent ici une passion sous-jacente, mais on ne la voit jamais pense-t-on.",
   province: piemont,
   coordinates: "https://goo.gl/maps/6G6XQSSDz7T2",
-  heraldic: "blaz_turin.png")
+  heraldic: "blaz_turin.png",
+  picture: "tu_00.jpg")
+
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_1.jpg",
   position: 1,
@@ -311,7 +313,8 @@ milan =   City.create(
   description:"Fief des familles Sforza et Visconti, capitale de la mode et de la finance, lieu du design par excellence, la divine Milan étale son succès avec fierté. Mais ce n'est pas dans ses rues qu'il faut cherche sa beauté car elle n'y est pas. Elle se cache dans les arrière-cours des palazzi, se révèle par a-coups au gré des balades dans le quartier de Brera, devant ses monuments et dans ses institutions. Il faut regarder vivre les milanais : on les voit déguster un risotto dans une trattoria fine, se promener dans la Galleria Vittorio Emmanuelle pour regarder les sublimes devantures de Prada, prendre quelques pâtisseries chez Marchesi, se rendre à la Scala pour écouter Verdi. Nous reste à admirer l'austère château Sforza et l'éblouissant Dôme de Milan qui pointe vers le ciel cent trente cinq flèches de marbre.",
   province: lombardie,
   coordinates: "https://goo.gl/maps/PwxzZtBFjSq",
-  heraldic: "blaz_milan.png")
+  heraldic: "blaz_milan.png",
+  picture: "mi_00.jpg")
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/mi_1.jpg",
   position: 1,
@@ -1048,7 +1051,8 @@ bergame =   City.create(
   description:"Bergame altà est un village lombard perché en haut une colline, au pied des Alpes bergamasques. Il est entouré par ses vieilles murailles d'enceinte consolidées au XVIe siècle par la domination vénitienne. A l’intérieur du bastion, on trouve une ville miniature : sur le sol quadrillé de longue Piazza Vecchia se regroupent des bâtiments publiques aux façades de marbre. Au centre, la Fontaine Contarini est gardée par des lions sculptés qui toisent les habitants attablés dans les cafés. Plus loin, la Basilica di Santa Maria Maggiore présente une extraordinaire façade rose et blanche, structurées en fin motifs géométriques.",
   province: lombardie,
   coordinates: "https://goo.gl/maps/EVKRgQvA6jK2",
-  heraldic: "blaz_bergame.png")
+  heraldic: "blaz_bergame.png",
+  picture: "be_00.jpg")
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_1.jpg",
   position: 1,
@@ -1218,7 +1222,8 @@ mantoue =   City.create(
   description:"C'est d'éclat qu'il faut parler pour décrire Mantoue, cette éblouissante perle de la Renaissance dont la famille Gonzague fit la richesse et la gloire. Il semble que le Palazzo Ducal ait été uniquement fait pour l'art et les plaisirs tant ses couloirs d'or, ses loggias et ses jardins promènent le voyageur dans un rêve. Au fond du palais, dans la Camera degli Sposi, Andrea Mantegna raconte dans ses fresques le règne des Gonzague, tandis qu'au plafond, des anges nous regardent depuis un ciel majestueux. Aux portes de la ville, dans le Palazzo Te, le peintre maniériste Giulio Romano renverse les perspectives et les ordres de grandeur, nous entrainant à sa suite dans le monde des géants et des dieux.",
   province: lombardie,
   coordinates: "https://goo.gl/maps/wMK3qnSbNVn",
-  heraldic: "blaz_mantoue.png",)
+  heraldic: "blaz_mantoue.png",
+  picture: "man_00.jpg")
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_1.jpg",
   position: 1,
@@ -1567,7 +1572,8 @@ come =  City.create(
   description:"Entouré par des montagnes vertes ou enneigées, le lac de Come est d'un bleu profond et calme. Depuis l'époque romaine, on y a construit des demeures magnifiques entre ciel et eau. Certaines sont saisissantes de beauté. Dans la villa Carlotta, des jardins à l'italienne offre une multitude d'allées dans lesquelles flâner, tandis qu'à l'intérieur, des marbres de Canova reposent sous des plafonds d'or. Plus loin, la villa Monastero accueille ses promeneurs par une longue balade sur graviers blancs, avec vue sur le lac immobile et bleu, sur ce lac de Come que le soleil fait scintiller en milles endroits, comme un diamant liquide.",
   province: lacs,
   coordinates: "https://goo.gl/maps/iNpSnhvPHom",
-  heraldic: "blaz_varese.png")
+  heraldic: "blaz_varese.png",
+  picture: "co_00.jpg")
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_01.jpg",
   position: 1,
@@ -1999,7 +2005,8 @@ majeur =  City.create(
   description:"Sur le rivage du lac Majeur, des bateaux en bois vernis attendent les promeneurs pour les emmener sur les trois ilots perdus au milieu du lac, qui constituent 'les îles Borromées'. Sur l'île Isola Madre, des chemins dallés conduisent à des jardin luxuriants où les palmiers côtoient des roses rouges. Sur l'Isola dei Pescatori, on trouve un village pittoresque avec son clocher blanc, ses toits rouges et ses filets de pêcheurs accrochés aux portes rustiques. Enfin, sur Isola Bella, un somptueux palais baroque semblent flotter sur les eaux, tandis que dans ses magnifiques jardins en cascade, des paons blancs se baladent en grand seigneur dans des allées rosies par les azalées et les rhododendrons.",
   province: lacs,
   coordinates: "https://goo.gl/maps/UhoNC994VF42",
-  heraldic: "blaz_stressa.png")
+  heraldic: "blaz_stressa.png",
+  picture: "maj_00.jpg")
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_1.jpg",
   position: 1,
@@ -2654,7 +2661,8 @@ venise =  City.create(
   – Luigi Groto",
   province: venetie,
   coordinates: "https://www.youtube.com/watch?v=JPOfJcb-wqA",
-  heraldic: "blaz_venise.png")
+  heraldic: "blaz_venise.png",
+  picture: "ve_1.png")
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_1.jpg",
   position: 1,
@@ -3184,13 +3192,14 @@ verone =  City.create(
   description:"On parcourt Vérone comme on marcherait dans les allées d'un jardin antique. Ici, on rencontre la nature au milieu de la ville. En haut des palais, les fenêtres sont bordées par un cadre de lier grimpant. Les rues sont peintes et prennent ombrage des toits. La Piazza delle Erbe est recouverte de splendides fresques dont on devine l'éclat d'antan. Partout les fleurs ornent les balcons comme des joyaux dans leur écrin. On ne sait plus qui de l'art ou de la nature s'imite. Alors, songeur, on s'éloigne des sentiers battus. On déambule jusqu'au jardin Giusti, un jardin classique qui décline le vert dans des nuances infimes. Le jardin, cet idéal de beauté qui fait de la nature une oeuvre, qui transporte l'esprit, où le corps soudain flotte, bercé de toutes les sensations et de tous les parfums : 'Selve amiche, ombrose piante, fido albergo del mio core'...",
   province: venetie,
   coordinates: "https://www.youtube.com/watch?v=zp3hnBt9TqM",
-  heraldic: "blaz_verone.png")
+  heraldic: "blaz_verone.png",
+  picture: "ver_00.jpg")
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_1.jpg",
   position: 1,
   css_class: "zoom",
   city: verone
-)
+  )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_2.jpg",
   position: 2,
@@ -3677,7 +3686,8 @@ bologne =   City.create(
   description:"Bologne des arcades rouges, des étudiants engagés et des saucissons goutûs, ville heureuse aux rues médiévales. On s'y promène par tout temps, grâce aux portiques infinis qui recouvrent ses rues et qui devaient être assez hauts, dit-on, pour laisser passer un homme à cheval. Très pittoresque, le centre ville est hérissé d'une dizaine de hautes tours. Au Moyen-Age, on en comptait plus de deux cents, qui servaient de poste de guet pour prévenir les attaques. A la Renaissance, le pouvoir fut confisqué par la famille Bentivoglio, qui commenda à Jacopo della Quercia la très belle façade de la basilique San Petronio. Bologne est connue pour abriter la plus vieille université d'Europe, qui fut fréquentée par les illustres Dante, Boccace et Pétrarque.",
   province: emilieromagne,
   coordinates: "https://goo.gl/maps/SikWUfv8ZAP2",
-  heraldic: "blaz_bologne.png")
+  heraldic: "blaz_bologne.png",
+  picture: "bo_00.jpg")
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_1.jpg",
   position: 1,
@@ -4042,7 +4052,8 @@ ferrare =   City.create(
   description:"Le destin de Ferrare est intimement lié à la dynastie des Ducs d'Este qui la gouvernèrent pendant plus de quatre siècles. Au centre de la vieille ville trône le majestueux mais terrifiant château d'Este, séparé du reste du monde par des douves remplis d'eau verte. Visionnaires et tyranniques, ces princes ont remodelé la ville à la Renaissance, redessinant ses rues pour en faire une citadelle idéale. Ferrare était alors une des cours les plus prestigieuses d'Europe : s'y réunissait tout ce que l'on comptait d'esprits fins et cultivés. Les fresques du Palazzo Schifanoia témoignent encore des fastes de la vie à la cour des Estes.",
   province: emilieromagne,
   coordinates: "https://goo.gl/maps/dRXnKnRM3BM2",
-  heraldic: "blaz_ferrare.png")
+  heraldic: "blaz_ferrare.png",
+  picture: "fe_00.jpg")
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_1.jpg",
   position: 1,
@@ -4461,7 +4472,8 @@ florence =  City.create(
   description: "Ville binaire, géométrique, sans demi-mesure. Elle est tantôt sombre, avec un ciel bas et des bâtisses austères qui rappellent son passé politique sulfureux fait de luttes et de dangers : les Guelfes contre les Gibelins, les Franciscains contre les Dominicains, les Medicis contre les Pazzi, Savenarole contre Laurent le Magnifique. Tantôt légère, aérienne, saupoudrée d'or, et qui vous entraine dans la lumière divine. En redécouvrant la notion de 'perspective' au quinzième siècle, Florence fut le lieu d'un foisonnement intellectuel et artistique sans précédent que l'on nomma 'Renaissance' et qui donna à l'Italie ses plus grands artistes et penseurs. Parmi tant d'autres Fra Angelico, Brunelleschi, Donatello, Botticelli et Michel-Ange travaillèrent sans relâche à l'embellir. La ville possède donc un patrimoine culturel extraordinaire où se succèdent églises, monuments et palais d’une beauté magnanime.",
   province: toscane,
   coordinates: "https://www.franceculture.fr/emissions/carnet-nomade/je-vous-ecris-de-florence",
-  heraldic: "blaz_florence.png")
+  heraldic: "blaz_florence.png",
+  picture: "flo_00.jpg")
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/fl_1.jpg",
   position: 1,
@@ -5085,7 +5097,8 @@ Picture.create(
   description: "Dans la brume glacée d'une matinée d'hiver, apercevoir Sienne au loin, perchée en haut d'une colline comme une forteresse médiévale. Parcourir ses rues hautes, pavées, moyenâgeuses. Aller voir la Piazza del Campo, cette grande place connue pour sa forme de coquillage. Chaque année s'y déroule la course équestre du Palio, durant laquelle s'affrontent les 17 contrades (quartiers de la ville). Dépasser les hautes façade du Palazzo Publico pour y voir les fresques peintes par Ambrogio Lorenzetti au quatorzième siècle, lorsque Sienne est en plein doute sur l'efficacité de son gouvernement communal. Et puis enfin, monter jusqu'à l'impressionnant Douomo, rayé de marbre blanc et noir, qui renferme jalousement des madones d'or. Marcher, rêver, se perdre dans Sienne.",
   province: toscane,
   coordinates: "https://www.franceculture.fr/emissions/questions-dethique-13-14/bon-gouvernement-et-mauvais-gouvernement-sienne-1338-avec-patrick",
-  heraldic: "blaz_sienne.png")
+  heraldic: "blaz_sienne.png",
+  picture: "si_00.jpg")
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_1.jpg",
   position: 1,
@@ -5425,7 +5438,8 @@ rome =  City.create(
   description:"On dit qu'elle est caput mundis, Urbs, ville entre les villes, la ville éternelle. Rome, dont la gloire renaît sans cesse et ne s'éteint jamais. Dans l'Antiquité, elle donna son nom à l'empire romain, le plus puissant du monde, prodigieusement étendu par de-là la mer Méditerranée. Au Moyen Âge, elle est devenue le siège du pouvoir catholique et le lieu de résidence des Papes. À la Renaissance, son règne fut disputé par les grandes familles romaines : les Orsini, les Farnese, les Borghese et les Barberini. Au dix-septième siècle, elle devient un haut lieu de l'art baroque. Elle est aujourd'hui la capitale politique italienne et le lieu de prédilection des promeneurs amoureux. ROMA, ville fascinante qui se renverse en AMOR pour nous parler de passion au milieu des peintures du Carravage, des églises baroques et des palais somptueux.",
   province: latium,
   coordinates: "https://goo.gl/maps/ceRkEQgjreP2",
-  heraldic: "blaz_rome.png")
+  heraldic: "blaz_rome.png",
+  picture: "ro_2.jpg")
 Picture.create(
     url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_1.jpg",
     position: 1,
@@ -5934,7 +5948,8 @@ bari =  City.create(
   description:"À l'intérieur de Bari, le quartier de Barivecchia est un labyrinthe de vieilles rues secrètes et mystérieuses. Dès l'aube, les femmes pendent le linge propre à leurs fenêtre, préparent manuellement des orecchiettes dans leur cuisine et s'en vont s'assoir sur le pas de leur porte. D'autres habitants passent, empruntent des ruelles étroites, sorte de rue-couloirs ou s'égrènent les effigies de la Madone. Ils parlent un dialecte que l'on comprend à peine. La-bas les enfants jouent au ballon et les hommes boivent le café entre eux. Enfin, la promenade emmène devant les très blanches cathédrales romanes, et puis en haut des remparts, face à la mer adriatique, où les pécheurs nettoient le poisson tout juste péché.",
   province: pouilles,
   coordinates: "https://goo.gl/maps/EsaSJMXxuf32",
-  heraldic: "blaz_bari.png")
+  heraldic: "blaz_bari.png",
+  picture: "ba_00.jpg")
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_1.jpg",
   position: 1,
@@ -6264,7 +6279,8 @@ polignano =   City.create(
   description:"C'est un village tout blanc perché en haut de ses falaises, qui s'avance dans la mer. C'est l'un des plus beaux village des Pouilles, au profil antique et grec. Au gré de ses rues pavées réchauffées par le soleil, Polignago laisse voir et revoir la mer par différents points de perspectives. En bas des falaises, une crique aux eaux limpides rassemble entre ses deux rochers des nageurs colorés, plantés dans l'eau et sur le sable dans un tourbillon de couleurs.",
   province: pouilles,
   coordinates: "https://goo.gl/maps/y5jPJWArV9H2",
-  heraldic: "blaz_polignano.png")
+  heraldic: "blaz_polignano.png",
+  picture: "po_00.jpg")
 Picture.create(
   url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_1.jpg',
   position: 1,
@@ -6364,7 +6380,8 @@ monopoli =  City.create(
   description:"Le charme de Monopoli vient de son petit port rempli de barques bleues et rouges. Avec certains balcons qui ont des loggias blanches, sa place faite d'eau et des Dômes en arrière fond, ce port possède un charme vénitien. Viennent s'y retrouver les promeneurs, avant de continuer leur balade dans les ruelles historiques pour terminer devant le château de Charles V, une impressionnante fortification défensive édifiée pendant l'occupation aragonaise. La ville a donc eu plusieurs influences, mais son nom hérité du grec 'monos-polis' l'affirme, elle est 'la ville unique'.",
   province: pouilles,
   coordinates: "https://goo.gl/maps/iSCYZKeXgPk",
-  heraldic: "blaz_monopoli.png")
+  heraldic: "blaz_monopoli.png",
+  picture: "monop_00.jpg")
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_2.jpg",
   position: 1,
@@ -6580,7 +6597,8 @@ lecce =   City.create(
   description:"La beauté de Lecce s'explique par sa pierre si particulière, dont la souplesse et la luminosité ont permis l'invention du 'Barocco leccese', un style architectural qui orne les façades de multiples sculptures d'anges, de fleurs, de colonnades torsadées et de blasons. Pierre blanche, beige ou ocre à mesure que le soleil l'éclaire pendant la journée. Pierre crayeuse, lisse, lumineuse, douce, montée en crème, sculptée toute en rondeur avec une facilité déconcertante, qui confère à la ville une harmonie et une douceur : “Dolce di Lecce”.",
   province: pouilles,
   coordinates: "https://goo.gl/maps/jtHhFteNxYD2",
-  heraldic: "blaz_lecce.png")
+  heraldic: "blaz_lecce.png",
+  picture: "le_00.jpg")
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_1.jpg",
   position: 1,

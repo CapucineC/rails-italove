@@ -1,25 +1,30 @@
 <div class="content-city">
   <div class="cadre">
-    <div class="description-city">
-      <div class="top-info">
+    <div class="top-info">
+        <h1><span><%= @city.name %></span></h1>
         <div class="heraldic">
         <%= image_tag (@city.heraldic)%>
         </div>
-        <div class= "position">
-        <a target="_blank" href=<%= @city.coordinates  %>><%= @city.geocoding %></a>
+    </div>
+    <div class= "sous-cadre">
+      <div class="sideblock">
+        <div class="description-city">
+          <%= @city.description %>
+          <p>Par ici ↓</p>
         </div>
       </div>
-
-      <h1><span><%= @city.name %></span></h1>
-      <br>
-      <%= @city.description %>
-      <p>Par ici ↓</p>
+    <div class="sideblock">
+    <div class="map">
+      <img class="map-image"
+        <%= image_tag (@city.picture)%>
+      <p>Description</p>
+      </div>
     </div>
   </div>
-
+</div>
 <div class="wrapper">
         <% @city.pictures.order(:position).each do |picture| %>
             <div class="<%= picture.css_class %>"><%= image_tag picture.url, alt: "alttext" %></div>
         <% end %>
 </div>
-
+</div>

@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20190208133119) do
+ActiveRecord::Schema.define(version: 20190526200650) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -27,6 +27,7 @@ ActiveRecord::Schema.define(version: 20190208133119) do
     t.string "coordinates"
     t.json "pictures"
     t.string "slug"
+    t.string "caption"
     t.index ["slug"], name: "index_cities_on_slug", unique: true
   end
 

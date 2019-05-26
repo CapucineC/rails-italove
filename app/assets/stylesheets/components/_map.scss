@@ -1,14 +1,14 @@
 .map {
-  display: flex;
-  margin: 0;
+  //display: flex;
+  margin: 30px;
   flex-grow: 1;
   //background: #F4F4F4;
 }
 
 .map-image {
   margin: auto;
-  max-width: 70%;
+  max-width: 50%;
   height: auto;
   max-height: 100vh;
-  //border: 2px solid #F4F4F4;
+  border: 4px solid #F4F4F4;
 }

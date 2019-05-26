@@ -8,37 +8,70 @@
   font-size: 18px;
 
   & .cadre {
-  min-height: 100vh;
-  display: flex;
+  min-height: 90vh;
+ // display: flex;
+  align-items: stretch;
+  margin-left: 150px;
+  margin-right: 150px;
+  }
+
+  & .sous-cadre{
+    display: flex;
+    margin-top: 20px;
+  }
+
+  & .sideblock {
+      align-content: space-around;
+      //display: flex;
+      justify: center;
+      align-items: center;
+      flex: 0 0 50%;
+      margin: 10px;
+     // padding: 6%;
   }
 
   & h1 {
-    text-align: center;
+   //text-align: center;
     font-family: 'Cinzel Decorative', cursive;
     //font-family: 'Cabin Sketch', cursive;
     font-weight: bold;
-    font-size: 38px;
-    margin-top: 30px;
+    font-size: 80px;
+    //margin-top: 50px;
   }
 
   & .description-city{
-    max-width: 574px;
-    padding: 40px 60px 20px 60px;
-    margin: auto;
+   max-width: 440px;
+
+    //padding: 40px 60px 20px 60px;
+    //margin: auto;
     text-align: justify;
+    margin: auto;
+    margin-top: 20px;
+   // margin-top: 30px;
    // border: 1px solid #F4F4F4;
     //padding-top: 10px;
     //box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2)
+    //margin-right: 14%;
   }
 
+  & .title-city{
+    margin: auto;
+    display: flex;
+  }
+
+
  & .top-info{
-  max-width: 508px;
+  //max-width: 508px;
   //padding: 64px 38px 0 38px;
-  display: flex;
-  justify-content: space-between;
+//  display: flex;
+  justify-content: center;
   text-align: center;
   align-items: center;
+  //padding: 20%;
   margin: auto;
+  display: flex;
+ // max-width: 440px;
+  margin-top: 10px;
   //padding-bottom: 21px;
   //justify-content: space-between;
   //margin-right: 250px;
@@ -47,7 +80,9 @@
 
 & .heraldic {
  & > img {
-    width: 60px;
+    width: 80px;
+    position: center;
+    margin-left: 50px;
     //filter: grayscale(20%);
 
 
@@ -119,10 +154,6 @@
   font-size: 17px;
 }
 
-.photo{
-  //width: 200px;
-  //height: 120px;
-}
 
 .photo img {
   width: 130px;
@@ -143,7 +174,7 @@ img {
   //height: 100%;
   width: 100%;
   object-fit: cover;
-  display: inline-block;
+ // display: inline-block;
   pointer-events: none;
 }
 
