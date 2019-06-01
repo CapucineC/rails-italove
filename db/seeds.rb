@@ -207,33 +207,13 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_35.jpg",
   position: 35,
-  css_class: "zoom",
-  city: turin
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_36.jpg",
-  position: 36,
-  city: turin
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_47.1.jpg",
-  position: 37.1,
+  css_class: "landscape",
   city: turin
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_46.jpg",
-  position: 37.4,
-  css_class: "zoom",
-  city: turin
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_37.jpg",
-  position: 37.2,
-  city: turin
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_47.2.jpg",
-  position: 37.3,
+  position: 36,
+  css_class: "landscape",
   city: turin
 )
 Picture.create(
@@ -1934,13 +1914,13 @@ Picture.create(
   city: majeur
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_3.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_2.jpg",
   position: 2,
   css_class: "zoom",
   city: majeur
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_2.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_3.jpg",
   position: 3,
   city: majeur
 )
@@ -2018,7 +1998,7 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_16.jpg",
   position: 16,
-  css_class: "landscape",
+  css_class: "zoom",
   city: majeur
 )
 Picture.create(
@@ -2080,7 +2060,7 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_27.jpg",
   position: 27,
-  css_class: "portrait",
+  css_class: "zoom",
   city: majeur
 )
 Picture.create(
@@ -2098,12 +2078,24 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_30.jpg",
   position: 30,
-  css_class: "zoom",
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_31.jpg",
   position: 31,
+  css_class: "portrait",
+  city: majeur
+)
+Picture.create(
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_32.jpg",
+  position: 32,
+  css_class: "zoom",
+  city: majeur
+)
+Picture.create(
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_33.jpg",
+  position: 33,
   css_class: "landscape",
   city: majeur
 )
@@ -2127,7 +2119,6 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_37.jpg",
   position: 37,
-  css_class: "portrait",
   city: majeur
 )
 Picture.create(
@@ -2143,6 +2134,7 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_40.jpg",
   position: 40,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
@@ -2158,6 +2150,7 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_43.jpg",
   position: 43,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
@@ -2175,13 +2168,11 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_46.jpg",
   position: 46,
-  css_class: "portrait",
   city: majeur
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_47.jpg",
   position: 47,
-  css_class: "portrait",
   city: majeur
 )
 Picture.create(
@@ -2192,28 +2183,29 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_49.jpg",
   position: 49,
+  css_class: "landscape",
   city: majeur
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_50.jpg",
   position: 50,
+  css_class: "landscape",
   city: majeur
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_51.jpg",
   position: 51,
+  css_class: "zoom",
   city: majeur
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_52.jpg",
   position: 52,
-  css_class: "landscape",
   city: majeur
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_53.jpg",
   position: 53,
-  css_class: "landscape",
   city: majeur
 )
 Picture.create(
@@ -2225,57 +2217,46 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_55.jpg",
   position: 55,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_56.jpg",
   position: 56,
+  css_class: "landscape",
   city: majeur
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_57.jpg",
   position: 57,
-  css_class: "zoom",
+  css_class: "landscape",
   city: majeur
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_58.jpg",
   position: 58,
-  css_class: "portrait",
+  css_class: "all",
   city: majeur
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_59.jpg",
   position: 59,
-  css_class: "landscape",
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_60.jpg",
   position: 60,
-  css_class: "landscape",
   city: majeur
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_61.jpg",
   position: 61,
-  css_class: "all",
   city: majeur
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_62.jpg",
   position: 62,
-  css_class: "portrait",
-  city: majeur
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_63.jpg",
-  position: 63,
-  city: majeur
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_64.jpg",
-  position: 64,
   city: majeur
 )
 Picture.create(
@@ -2286,12 +2267,13 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_66.jpg",
   position: 66,
+  css_class: "zoom",
   city: majeur
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_67.jpg",
   position: 67,
-  css_class: "landscape",
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
@@ -2303,64 +2285,55 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_69.jpg",
   position: 69,
-  css_class: "zoom",
+  css_class: "landscape",
   city: majeur
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_70.0.jpg",
-  position: 70.0,
-  css_class: "portrait",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_70.jpg",
+  position: 70,
+  css_class: "landscape",
   city: majeur
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_70.1.jpg",
-  position: 70.1,
-  css_class: "portrait",
-  city: majeur
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_70.2.jpg",
-  position: 70.2,
-  css_class: "portrait",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_71.jpg",
+  position: 71,
+  css_class: "landscape",
   city: majeur
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_72.jpg",
   position: 72,
-  css_class: "landscape",
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_73.jpg",
   position: 73,
-  css_class: "landscape",
+  css_class: "zoom",
   city: majeur
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_74.jpg",
   position: 74,
-  css_class: "portrait",
+  css_class: "landscape",
   city: majeur
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_74.jpg",
-  position: 75,
-  city: majeur
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_76.jpg",
-  position: 76,
-  css_class: "portrait",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_77.jpg",
+  position: 77,
+  css_class: "landscape",
   city: majeur
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_78.jpg",
   position: 78,
+  css_class: "zoom",
   city: majeur
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_82.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_79.jpg",
   position: 79,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
@@ -2381,6 +2354,7 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_83.jpg",
   position: 83,
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
@@ -2392,36 +2366,18 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_85.jpg",
   position: 85,
-  css_class: "zoom",
+  css_class: "portrait",
   city: majeur
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_86.jpg",
   position: 86,
-  css_class: "portrait",
+  css_class: "zoom",
   city: majeur
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_87.jpg",
   position: 87,
-  css_class: "portrait",
-  city: majeur
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_88.jpg",
-  position: 88,
-  css_class: "portrait",
-  city: majeur
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_89.jpg",
-  position: 89,
-  css_class: "zoom",
-  city: majeur
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/ma_90.jpg",
-  position: 90,
   css_class: "portrait",
   city: majeur
 )
@@ -2470,13 +2426,13 @@ Picture.create(
   city: venise
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_6.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_7.jpg",
   position: 6,
   css_class: "portrait",
   city: venise
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_7.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_6.jpg",
   position: 7,
   css_class: "portrait",
   city: venise
