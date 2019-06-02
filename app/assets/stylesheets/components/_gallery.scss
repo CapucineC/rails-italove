@@ -55,41 +55,53 @@ img {
   //border: 1px solid black;
 }
 
+ img {
+  width: 100%;
+  display: block;
+  -o-object-fit: cover;
+  object-fit: cover;
+  border-top: 10px solid white;
+  //border-right: 5px solid white;
+ // border-left: 5px solid white;
+  //height: 100%;
+  //border: 1px solid black;
+}
 
- /* re-define your grid for tablet */
+
+ /* re-define your grid for tablet / Ipad */
 @media(max-width: 1024px) {
 .wrapper {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     margin: 1em auto;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
     grid-auto-flow: dense;
     grid-auto-rows: 60px;
 }
 .wrapper div {
     grid-column-end: span 2;
-    grid-row-end: span 3;
+    grid-row-end: span 4;
   }
 
   .wrapper div.zoom {
     grid-column-end: span 4;
-    grid-row-end: span 6;
+    grid-row-end: span 8;
   }
 
   .wrapper div.portrait {
     grid-column-end: span 2;
-    grid-row-end: span 6;
+    grid-row-end: span 8;
   }
 
   .wrapper div.landscape {
     grid-column-end: span 2;
-    grid-row-end: span 3;
+    grid-row-end: span 4;
   }
 
   .wrapper div.mini {
     grid-column-end: span 1;
-    grid-row-end: span 3;
+    grid-row-end: span 4;
   }
 
   img {
@@ -103,7 +115,6 @@ img {
   //height: 100%;
   //border: 1px solid black;
 }
-
 }
  /* re-define your grid for mobile */
 @media(max-width: 767px) {
@@ -115,32 +126,32 @@ img {
     padding-left: 10px;
     padding-right: 10px;
     grid-auto-flow: dense;
-    grid-auto-rows: 67px;
+    grid-auto-rows: 60px;
   }
 
   .wrapper div {
     grid-column-end: span 2;
-    grid-row-end: span 3;
+    grid-row-end: span 4;
   }
 
   .wrapper div.zoom {
     grid-column-end: span 2;
-    grid-row-end: span 3;
+    grid-row-end: span 4;
   }
 
   .wrapper div.portrait {
     grid-column-end: span 2;
-    grid-row-end: span 5;
+    grid-row-end: span 7;
   }
 
   .wrapper div.landscape {
     grid-column-end: span 2;
-    grid-row-end: span 3;
+    grid-row-end: span 4;
   }
 
   .wrapper div.mini {
     grid-column-end: span 1;
-    grid-row-end: span 2;
+    grid-row-end: span 4;
   }
 }
 

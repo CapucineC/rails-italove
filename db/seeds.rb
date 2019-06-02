@@ -2394,7 +2394,8 @@ venise =  City.create(
   province: venetie,
   coordinates: "https://www.youtube.com/watch?v=JPOfJcb-wqA",
   heraldic: "blaz_venise.png",
-  picture: "ve_00.jpg")
+  picture: "ve_00.jpg",
+  caption: "Piazza San Marco")
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_1.jpg",
   position: 1,
