@@ -1,12 +1,24 @@
 .navbar {
-    //position: fixed;
-    top: 0;
-    z-index: 1000;
-    height: 40px;
-    width: 100%;
-    background-color: #F5F5F5;
-    font-size: 13px;
-    margin-bottom: 0px;
+  top: 0;
+  z-index: 1000;
+  height: 40px;
+  width: 100%;
+  background-color: #F5F5F5;
+  font-size: 13px;
+  margin-bottom: 0px;
+}
+
+
+/* The sidepanel menu */
+.sidepanel {
+  position: fixed; /* Stay in place, why not relative ? */
+  z-index: 1; /* Stay on top */
+  top: 0;
+  left: 0;
+  background-color: #F5F5F5; /* Grey*/
+  //overflow-x: hidden; /* Disable horizontal scroll */
+  //padding-top: 40px; /* Place content 60px from the top */
+  transition: 0.5s; /* 0.5 second transition effect to slide in the sidepanel */
 }
 
 .navbar ul {
@@ -113,11 +125,7 @@
 }
 
 @media only screen and (max-width: 700px) {
-
-
 /* The navbar color */
-
-
 .navbar {
     background-color: white;
     box-shadow: 0 0 0;
@@ -132,7 +140,7 @@
   z-index: 1; /* Stay on top */
   top: 0;
   left: 0;
-  background-color: #eeeeee; /* Black*/
+  background-color: #F5F5F5; /* Black*/
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 40px; /* Place content 60px from the top */
   transition: 0.5s; /* 0.5 second transition effect to slide in the sidepanel */

@@ -2,5 +2,10 @@
 .body {
  // display: flex;
   background: white;
+  height: 100%;
+}
+
+.body, html {
+  height: 100%;
 }
 

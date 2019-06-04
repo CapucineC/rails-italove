@@ -1651,26 +1651,8 @@ Picture.create(
   city: come
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_17.jpg",
-  position: 17,
-  css_class:"portrait",
-  city: come
-)
-Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_18.jpg",
   position: 18,
-  css_class:"portrait",
-  city: come
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_19.jpg",
-  position: 19,
-  css_class:"portrait",
-  city: come
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/co_20.jpg",
-  position: 20,
   css_class:"portrait",
   city: come
 )
@@ -4480,7 +4462,7 @@ Picture.create(
     city: florence
 )
 Picture.create(
-    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_77.jpg",position: 76,
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_77.jpg",
     position: 77,
     css_class: "mini",
     city: florence
@@ -4877,7 +4859,7 @@ latium = Province.create(
 rome =  City.create(
   name:"Rome",
   geocoding: "41° 53′ 19″ NORD 12° 29′ 12″ EST",
-  description:"Si Rome est la ville éternelle, c'est parce que la gloire de Rome ne s'est jamais éteinte. A chaque siècle, elle a brillé. Dans l'Antiquité, Rome donna son nom à l'empire romain, le plus puissant du monde, prodigieusement étendu par de-là la mer Méditerranée. Au Moyen Âge, le pouvoir catholique en a fait son siège, et les Papes leur résidence. À la Renaissance, les Orsini, les Farnese, les Borghese et les Barberini y ont construit des palais somptueux. Au dix-septième siècle, elle est devenu baroque. ROMA, alors, s'est renversé en AMOR pour nous parler de passion au milieu des peintures du Carravage, des églises de Borromini et des sculptures du Bernin. Puis, ce fut la Rome des mauvais garçons des films Bolognini et Pasolini. Enfin, la Rome d'aujourd'hui, capitale politique italienne et lieu de prédilection des promeneurs amoureux.",
+  description:"Elle est Urbs, Caput Mundis, la ville éternelle. La gloire de Rome, au fils de siècle, ne s'est jamais éteinte. Dans l'Antiquité, elle donna son nom à l'empire romain, le plus puissant du monde, prodigieusement étendu par de-là la mer Méditerranée. Au Moyen Âge, le pouvoir catholique en a fait son siège, et les Papes leur résidence. À la Renaissance, les Orsini, les Farnese, les Borghese et les Barberini y ont construit des palais somptueux. Au dix-septième siècle, elle est devenu baroque. ROMA, alors, s'est renversé en AMOR pour nous parler de passion au milieu des peintures du Carravage, des églises de Borromini et des sculptures du Bernin. Puis, ce fut la Rome des mauvais garçons des films Bolognini et Pasolini. Enfin, la Rome d'aujourd'hui, capitale politique italienne et lieu de prédilection des promeneurs amoureux.",
   province: latium,
   coordinates: "https://goo.gl/maps/ceRkEQgjreP2",
   heraldic: "blaz_rome.png",
