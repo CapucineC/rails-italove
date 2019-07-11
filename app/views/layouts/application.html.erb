@@ -26,41 +26,17 @@
 
   <body class="body">
 
-  <div class="navbar">
-<!-- Mobile Navigation -->
-    <button class="openbtn" onclick="openNav()">&#9776;</button>
-    <div id="mySidepanel" class="sidepanel">
-       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-          <% Province.all.each do |province| %>
-          <!--  pour toutes les provinces  -->
-            <ul>
-              <li class="region" >
-                 <!--  mettre le nom de la province + redirection URL page -->
-              <div class="dropdown">
-                <button class="dropbtn"><%= link_to province.name, province_path(province)  %>
-                </button>
-                <div class="dropdown-content">
-                <% province.cities.each do |city| %>
-                <ul class="villes">
-                  <a href="#"><%= link_to city.name, province_city_path(province, city)%></a>
-                    <!--  mettre le nom de la ville + redirection URL page -->
-                </ul>
-                 <a href="#">Link 1</a>
-                <% end %>
-                </div>
-              </div>
+  <div class="new-nav">
+    <% Province.all.each do |province| %>
+      <%= link_to province.name, province_path(province)  %>
+    <% end %>
+  </div>
 
-              </li>
-            </ul>
-          <% end %>
-    </div>
-              <!--  pour toutes les villes des provinces  -->
-</div>
-    <%= yield %>
+  <%= yield %>
 
 
-    <%= javascript_include_tag 'application' %>
-    <%= javascript_pack_tag 'application' %>
+  <%= javascript_include_tag 'application' %>
+  <%= javascript_pack_tag 'application' %>
 
   </body>
 </html>

@@ -1,5 +1,10 @@
 .content-province {
-  flex-grow: 1;
+  height: calc(100vh - 40px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  // flex-grow: 1;
   margin: auto;
   max-width: 540px;
   padding: 40px;
