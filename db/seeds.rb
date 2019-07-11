@@ -5261,6 +5261,245 @@ Picture.create(
     css_class: "portrait",
     city: rome
 )
+campanie = Province.create(
+  name: "Campanie",
+  description:"Grande Région")
+naples =  City.create(
+  name:"Naples",
+  description:"Le pavé dans la rue, les murs décrépis, la lumière des vespas dans l'étroitesse des rues : Jaune de Naples. On dit que cette couleur est l'étendard des Dieux. Jaune du soleil et de la force, qui emplissait les décors à fresque des maisons des patriciens romains. Jaune du festoiement et de l'humeur heureuse, de l'or et de la richesse. Mais, si d'aventure son éclat passe, alors il prend la teinte du souffre : couleur des flammes de l'enfer, jaune des parias, danger. Rire jaune, rire pour échapper aux situations, ainsi font les napolitains. Naples est assurément la ville la plus fascinante d'Italie, par la puissance des contradictions qu'elle est capable d'encaisser. Cette ville qu'on dit dangereuse, où l'argent est sali et méprisé est une ville aristocrate qui traite ses habitants en princes. Les palais, les oeuvres d'art et les plus beaux opéras leurs sont donnés, offerts dans les rues aussi gracieusement que la l'air et le soleil.",
+  province: campanie,
+  heraldic: "blaz_naples.png",
+  picture: "na_00.jpg",
+  caption: "Via Sant'Anna dei Lombardi")
+capri =  City.create(
+  name:"Capri",
+  description:"Capri commence là où s'arrête Naples. Elle offre un contraste saisissant et permet une escapade nécessaire à l'intensité baroque.  Ici, changement de paradigme. Le paysage brute est fait de grottes et de roches qui se jettent dans une eau pure oscillant entre le bleu foncé et le vert émeraude. Dans les rues blanches, une abondance de fleurs aux couleurs chatoyantes embaument l'air et ravissent les promeneurs, tandis que la clientèle richissime envahit les boutiques de luxe qui vendent parfums, limoncello et scandales d'exception. A Capri, perdu dans la mer Tyrrhénienne au large de la baie de Naples, le voyageur retrouve pour quelques heures une respiration, une légèreté, voir même quelquefois le sens du superflus.",
+  province: campanie,
+  heraldic: "blaz_capri.png",
+  picture: "ca_00.jpg",
+  caption: "Giardini di Augusto")
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_01",
+    position: 1,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_02",
+    position: 2,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_03",
+    position: 3,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_04",
+    position: 4,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_05",
+    position: 5,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_06",
+    position: 6,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_07",
+    position: 7,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_08",
+    position: 8,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_09",
+    position: 9,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_10",
+    position: 10,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_11",
+    position: 11,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_12",
+    position: 12,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_13",
+    position: 13,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_14",
+    position: 14,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_15",
+    position: 15,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_16",
+    position: 16,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_17",
+    position: 17,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_18",
+    position: 18,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_19",
+    position: 19,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_20",
+    position: 20,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_21",
+    position: 21,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_22",
+    position: 22,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_23",
+    position: 23,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_24",
+    position: 24,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_25",
+    position: 25,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_26",
+    position: 26,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_27",
+    position: 27,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_28",
+    position: 28,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_29",
+    position: 29,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_30",
+    position: 30,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_31",
+    position: 31,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_32",
+    position: 32,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_33",
+    position: 33,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_34",
+    position: 34,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_35",
+    position: 35,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_36",
+    position: 36,
+    css_class:"",
+    city: capri
+)
+Picture.create(
+    url:"https://github.com/CapucineC/iMages/master/Capri/ca_37",
+    position: 37,
+    css_class:"",
+    city: capri
+)
 
 pouilles = Province.create(
   name: "Pouilles",

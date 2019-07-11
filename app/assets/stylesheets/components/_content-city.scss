@@ -179,3 +179,19 @@ img {
 }
 
 }
+
+@media (max-width: 500px) {
+  .content-city .cadre {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  .content-city .sous-cadre {
+    display: block;
+  }
+  h1 {
+    font-family: 20px;
+    text-align: center;
+  }
+}
+
+
