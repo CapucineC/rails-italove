@@ -5266,11 +5266,783 @@ campanie = Province.create(
   description:"Grande Région")
 naples =  City.create(
   name:"Naples",
-  description:"Le pavé dans la rue, les murs décrépis, la lumière des vespas dans l'étroitesse des rues : Jaune de Naples. On dit que cette couleur est l'étendard des Dieux. Jaune du soleil et de la force, qui emplissait les décors à fresque des maisons des patriciens romains. Jaune du festoiement et de l'humeur heureuse, de l'or et de la richesse. Mais, si d'aventure son éclat passe, alors il prend la teinte du souffre : couleur des flammes de l'enfer, jaune des parias, danger. Rire jaune, rire pour échapper aux situations, ainsi font les napolitains. Naples est assurément la ville la plus fascinante d'Italie, par la puissance des contradictions qu'elle est capable d'encaisser. Cette ville qu'on dit dangereuse, où l'argent est sali et méprisé est une ville aristocrate qui traite ses habitants en princes. Les palais, les oeuvres d'art et les plus beaux opéras leurs sont donnés, offerts dans les rues aussi gracieusement que la l'air et le soleil.",
+  description:"Le pavé sur le sol, les murs décrépis, la lumière des vespas dans l'étroitesse des rues : Jaune de Naples. On dit que cette couleur est l'étendard des Dieux. Jaune du soleil et de la force, qui emplissait les décors à fresque des maisons des patriciens romains. Jaune du festoiement et de l'humeur heureuse, de l'or et de la richesse. Mais, si d'aventure son éclat passe, alors il prend la teinte du souffre : couleur des flammes de l'enfer, jaune des parias, danger. Rire jaune, rire pour échapper aux situations, ainsi font les napolitains. Naples est assurément la ville la plus fascinante d'Italie, par la puissance des contradictions qu'elle est capable d'encaisser. Cette ville qu'on dit dangereuse, où l'argent est sali et méprisé est une ville aristocrate qui traite ses habitants en princes. Les palais, les oeuvres d'art et les plus beaux opéras leurs sont donnés, offerts dans les rues aussi gracieusement que la l'air et le soleil.",
   province: campanie,
   heraldic: "blaz_naples.png",
   picture: "na_00.jpg",
   caption: "Via Sant'Anna dei Lombardi")
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_01.jpg",
+  position: 1,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_02.jpg",
+  position: 2,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_03.jpg",
+  position: 3,
+  css_class: "all",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_04.jpg",
+  position: 4,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_05.jpg",
+  position: 5,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_06.jpg",
+  position: 6,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_07.jpg",
+  position: 7,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_08.jpg",
+  position: 8,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_09.jpg",
+  position: 9,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_10.jpg",
+  position: 10,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_11.jpg",
+  position: 11,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_12.jpg",
+  position: 12,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_13.jpg",
+  position: 13,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_14.jpg",
+  position: 14,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_15.jpg",
+  position: 15,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_16.jpg",
+  position: 16,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_17.jpg",
+  position: 17,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_18.jpg",
+  position: 18,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_19.jpg",
+  position: 19,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_20.jpg",
+  position: 20,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_21.jpg",
+  position: 21,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_22.jpg",
+  position: 22,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_23.jpg",
+  position: 23,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_24.jpg",
+  position: 24,
+  css_class: "all",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_25.jpg",
+  position: 25,
+  css_class: "zoom",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_26.jpg",
+  position: 26,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_27.jpg",
+  position: 27,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_28.jpg",
+  position: 28,
+  css_class: "zoom",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_29.jpg",
+  position: 29,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_30.jpg",
+  position: 30,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_31.jpg",
+  position: 31,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_32.jpg",
+  position: 32,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_33.jpg",
+  position: 33,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_34.jpg",
+  position: 34,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_35.jpg",
+  position: 35,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_36.jpg",
+  position: 36,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_37.jpg",
+  position: 37,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_38.jpg",
+  position: 38,
+  css_class: "zoom",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_39.jpg",
+  position: 39,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_40.jpg",
+  position: 40,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_41.jpg",
+  position: 41,
+  css_class: "all",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_42.jpg",
+  position: 42,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_43.jpg",
+  position: 43,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_44.jpg",
+  position: 44,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_45.jpg",
+  position: 45,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_46.jpg",
+  position: 46,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_47.jpg",
+  position: 47,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_48.jpg",
+  position: 48,
+  css_class: "zoom",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_49.jpg",
+  position: 49,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_50.jpg",
+  position: 50,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_51.jpg",
+  position: 51,
+  css_class: "zoom",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_52.jpg",
+  position: 52,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_53.jpg",
+  position: 53,
+  css_class: "zoom",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_54.jpg",
+  position: 54,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_55.jpg",
+  position: 55,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_56.jpg",
+  position: 56,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_57.jpg",
+  position: 57,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_58.jpg",
+  position: 58,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_59.jpg",
+  position: 59,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_60.jpg",
+  position: 60,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_61.jpg",
+  position: 61,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_62.jpg",
+  position: 62,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_63.jpg",
+  position: 63,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_64.jpg",
+  position: 64,
+  css_class: "zoom",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_65.jpg",
+  position: 65,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_66.jpg",
+  position: 66,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_67.jpg",
+  position: 67,
+  css_class: "mini",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_68.jpg",
+  position: 68,
+  css_class: "mini",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_69.jpg",
+  position: 69,
+  css_class: "mini",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_70.jpg",
+  position: 70,
+  css_class: "mini",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_71.jpg",
+  position: 71,
+  css_class: "mini",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_72.jpg",
+  position: 72,
+  css_class: "mini",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_73.jpg",
+  position: 73,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_74.jpg",
+  position: 74,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_75.jpg",
+  position: 75,
+  css_class: "zoom",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_76.jpg",
+  position: 76,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_77.jpg",
+  position: 77,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_78.jpg",
+  position: 78,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_79.jpg",
+  position: 79,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_80.jpg",
+  position: 80,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_81.jpg",
+  position: 81,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_82.jpg",
+  position: 82,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_83.jpg",
+  position: 83,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_84.jpg",
+  position: 84,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_85.jpg",
+  position: 85,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_86.jpg",
+  position: 86,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_87.jpg",
+  position: 87,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_88.jpg",
+  position: 88,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_89.jpg",
+  position: 89,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_90.jpg",
+  position: 90,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_91.jpg",
+  position: 91,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_92.jpg",
+  position: 92,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_93.jpg",
+  position: 93,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_94.jpg",
+  position: 94,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_95.jpg",
+  position: 95,
+  css_class: "zoom",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_96.jpg",
+  position: 96,
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_97.jpg",
+  position: 97,
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_98.jpg",
+  position: 98,
+  css_class: "zoom",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_99.jpg",
+  position: 99,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_100.jpg",
+  position: 100,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_101.jpg",
+  position: 101,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_102.jpg",
+  position: 102,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_103.jpg",
+  position: 103,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_104.jpg",
+  position: 104,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_105.jpg",
+  position: 105,
+  css_class: "all",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_106.jpg",
+  position: 106,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_107.jpg",
+  position: 107,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_108.jpg",
+  position: 108,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_109.jpg",
+  position: 109,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_110.jpg",
+  position: 110,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_111.jpg",
+  position: 111,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_112.jpg",
+  position: 112,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_113.jpg",
+  position: 113,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_114.jpg",
+  position: 114,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_115.jpg",
+  position: 115,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_116.jpg",
+  position: 116,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_117.jpg",
+  position: 117,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_118.jpg",
+  position: 118,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_119.jpg",
+  position: 119,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_120.jpg",
+  position: 120,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_121.jpg",
+  position: 121,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_122.jpg",
+  position: 122,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_123.jpg",
+  position: 123,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_124.jpg",
+  position: 124,
+  css_class: "portrait",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_125.jpg",
+  position: 125,
+  css_class: "zoom",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_126.jpg",
+  position: 126,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_127.jpg",
+  position: 127,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_128.jpg",
+  position: 128,
+  css_class: "landscape",
+  city: naples
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_129.jpg",
+  position: 129,
+  css_class: "landscape",
+  city: naples
+)
 capri =  City.create(
   name:"Capri",
   description:"Capri commence là où s'arrête Naples. Elle offre un contraste saisissant et permet une escapade nécessaire à l'intensité baroque.  Ici, changement de paradigme. Le paysage brute est fait de grottes et de roches qui se jettent dans une eau pure oscillant entre le bleu foncé et le vert émeraude. Dans les rues blanches, une abondance de fleurs aux couleurs chatoyantes embaument l'air et ravissent les promeneurs, tandis que la clientèle richissime envahit les boutiques de luxe qui vendent parfums, limoncello et scandales d'exception. A Capri, perdu dans la mer Tyrrhénienne au large de la baie de Naples, le voyageur retrouve pour quelques heures une respiration, une légèreté, voir même quelquefois le sens du superflus.",
@@ -5279,225 +6051,210 @@ capri =  City.create(
   picture: "ca_00.jpg",
   caption: "Giardini di Augusto")
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_01",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_01.jpg",
     position: 1,
-    css_class:"",
+    css_class:"landscape",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_02",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_02.jpg",
     position: 2,
-    css_class:"",
+    css_class:"landscape",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_03",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_03.JPG",
     position: 3,
-    css_class:"",
+    css_class:"landscape",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_04",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_04.jpg",
     position: 4,
-    css_class:"",
+    css_class:"landscape",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_05",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_05.jpg",
     position: 5,
-    css_class:"",
+    css_class:"landscape",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_06",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_06.jpg",
     position: 6,
-    css_class:"",
+    css_class:"landscape",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_07",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_07.jpg",
     position: 7,
-    css_class:"",
+    css_class:"landscape",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_08",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_08.jpg",
     position: 8,
-    css_class:"",
+    css_class:"landscape",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_09",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_09.jpg",
     position: 9,
-    css_class:"",
+    css_class:"landscape",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_10",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_10.jpg",
     position: 10,
-    css_class:"",
+    css_class:"landscape",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_11",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_11.jpg",
     position: 11,
-    css_class:"",
+    css_class:"portrait",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_12",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_12.jpg",
     position: 12,
-    css_class:"",
+    css_class:"zoom",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_13",
-    position: 13,
-    css_class:"",
-    city: capri
-)
-Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_14",
-    position: 14,
-    css_class:"",
-    city: capri
-)
-Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_15",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_15.jpg",
     position: 15,
-    css_class:"",
+    css_class:"zoom",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_16",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_16.jpg",
     position: 16,
-    css_class:"",
+    css_class:"portrait",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_17",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_17.jpg",
     position: 17,
-    css_class:"",
+    css_class:"portrait",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_18",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_18.jpg",
     position: 18,
-    css_class:"",
+    css_class:"zoom",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_19",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_19.jpg",
     position: 19,
-    css_class:"",
+    css_class:"landscape",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_20",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_20.jpg",
     position: 20,
-    css_class:"",
+    css_class:"landscape",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_21",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_21.jpg",
     position: 21,
-    css_class:"",
+    css_class:"all",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_22",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_22.jpg",
     position: 22,
-    css_class:"",
+    css_class:"landscape",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_23",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_23.jpg",
     position: 23,
-    css_class:"",
+    css_class:"landscape",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_24",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_24.jpg",
     position: 24,
-    css_class:"",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_25",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_25.jpg",
     position: 25,
-    css_class:"",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_26",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_26.jpg",
     position: 26,
-    css_class:"",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_27",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_27.jpg",
     position: 27,
-    css_class:"",
+    css_class:"zoom",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_28",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_28.jpg",
     position: 28,
-    css_class:"",
+    css_class:"portrait",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_29",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_29.jpg",
     position: 29,
-    css_class:"",
+    css_class:"landscape",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_30",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_30.jpg",
     position: 30,
-    css_class:"",
+    css_class:"landscape",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_31",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_31.jpg",
     position: 31,
-    css_class:"",
+    css_class:"portrait",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_32",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_32.jpg",
     position: 32,
-    css_class:"",
+    css_class:"portrait",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_33",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_33.jpg",
     position: 33,
-    css_class:"",
+    css_class:"portrait",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_34",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_34.jpg",
     position: 34,
-    css_class:"",
+    css_class:"landscape",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_35",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_35.jpg",
     position: 35,
-    css_class:"",
+    css_class:"landscape",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_36",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_36.jpg",
     position: 36,
-    css_class:"",
+    css_class:"landscape",
     city: capri
 )
 Picture.create(
-    url:"https://github.com/CapucineC/iMages/master/Capri/ca_37",
+    url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_37.jpg",
     position: 37,
-    css_class:"",
+    css_class:"landscape",
     city: capri
 )
 
