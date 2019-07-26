@@ -211,6 +211,12 @@
   background-color: #444;
 }
 
+@media (max-width: 500px) {
+  .new-nav {
+  height: 140px;
+  }
+}
+
 }
 
 
