@@ -5,32 +5,19 @@
   background-color: #F5F5F5;
   height: 40px;
   flex-wrap: wrap;
+
   a {
     color: black;
     text-decoration: none;
     padding: 10px;
     font-size: 14px;
+
     &:hover {
       color: red;
-
     }
   }
 }
 
-.nav-capu {
-  display: flex;
-  justify-content: space-around;
-}
-
-.navbar {
-  top: 0;
-  z-index: 1000;
-  height: 40px;
-  width: 100%;
-  background-color: #F5F5F5;
-  font-size: 13px;
-  margin-bottom: 0px;
-}
 
 
 /* The sidepanel menu */
@@ -120,33 +107,16 @@
 
 .region {
   margin: 10px 5px 14px;
-  //font-family: 'Cabin Sketch', cursive;
   font-family: 'Cinzel Decorative', cursive;
-  //font-family: 'Major Mono Display', monospace;
-  //font-family: 'Cinzel Decorative', cursive;
+
 }
 
-.region > a {
-  //font-family: 'Montserrat', sans-serif;
- // font-family: 'Cinzel Decorative', cursive;
-}
+
 
 .villes {
-  //font-family: 'Josefin Sans', cursive;
   font-family: 'Cormorant Infant', serif;
 }
 
-// .openbtn {
-//   display:none;
-// }
-
-.openbtn {
-    display: none;
-}
-
-.sidepanel .closebtn {
-   display: none;
-}
 
 @media only screen and (max-width: 700px) {
 /* The navbar color */

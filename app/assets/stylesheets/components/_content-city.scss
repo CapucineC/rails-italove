@@ -34,18 +34,10 @@
   }
 
   & .description-city{
-   max-width: 440px;
-
-    //padding: 40px 60px 20px 60px;
-    //margin: auto;
+    max-width: 440px;
     text-align: justify;
     margin: auto;
     margin-top: 20px;
-   // margin-top: 30px;
-   // border: 1px solid #F4F4F4;
-    //padding-top: 10px;
-    //box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2)
-    //margin-right: 14%;
   }
 
   & .title-city{
@@ -107,19 +99,9 @@
   padding-bottom: 7px;
 }
 
-//.photo {
- //& > img {
-   // width: 200px;
-    //border: 8px solid #F4F4F4;
-    //   width: 10px;
-    //   height: auto;
-//}
-
 img {
-  //height: 100%;
   width: 100%;
   object-fit: cover;
- // display: inline-block;
   pointer-events: none;
 }
 

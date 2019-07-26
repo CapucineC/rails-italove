@@ -4,7 +4,6 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  // flex-grow: 1;
   margin: auto;
   max-width: 540px;
   padding: 40px;
@@ -14,7 +13,6 @@
     text-align: center;
     margin-bottom: 20px;
     font-weight: 700;
-    //font-family: 'Cinzel Decorative', cursive;
     font-family: 'Cabin Sketch', cursive;
     font-size: 40px;
 
@@ -24,7 +22,6 @@
       vertical-align: top;
       max-width: 100%;
       padding: 0 20px;
-      //border-bottom: 2px solid #C4C4C4;
       border-bottom: double;
     }
   }
@@ -35,8 +32,6 @@
     list-style-type: none;
     padding: 0;
     text-align: center;
-    //font-family: 'Crimson Text', serif;
-    //font-weight: bold;
     margin-right: 35px;
   }
 
@@ -49,32 +44,32 @@
 
   & .town-list a {
     display: block;
-    //padding: 20px;
 
-    &:not(:hover) {
+     &:not(:hover) {
       color: inherit;
       text-decoration: none;
-    }
+     }
 
-    &:hover {
+     &:hover {
       color: black;
       font-weight: bolder;
       text-decoration: none;
+     }
+
+     & > img {
+      width: 60px;
+     }
     }
 
-    & > img {
-      width: 60px;
-    //   width: 10px;
-    //   height: auto;
-  }
-  }
-    // & > img {
-    //   display: block;
-    //   width: 10px;
-    //   height: auto;
 
 @media (max-width: 500px) {
-}
+  .content-province {
+    height: none;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 20px;
+  }
+ }
 
 }
 
