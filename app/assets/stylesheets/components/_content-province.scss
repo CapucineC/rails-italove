@@ -5,8 +5,7 @@
   justify-content: center;
   align-items: center;
   margin: auto;
-  max-width: 540px;
-  padding: 40px;
+  padding: 80px;
   text-align: justify;
 
   & h1 {
@@ -24,6 +23,34 @@
       padding: 0 20px;
       border-bottom: double;
     }
+  }
+
+  & .sous-cadre{
+    display: flex;
+  }
+
+  & .sideblock {
+      align-content: space-around;
+      justify: center;
+      align-items: center;
+      flex: 0 0 50%;
+      margin: 10px;
+  }
+
+  & .sideblock-map {
+      align-content: space-around;
+      justify: center;
+      align-items: center;
+      flex: 0 0 50%;
+      margin: 10px;
+      padding:80px;
+  }
+  img {
+     width: 80%;
+  }
+
+  & .province-box {
+    max-width: 550px;
   }
 
   & .town-list {
