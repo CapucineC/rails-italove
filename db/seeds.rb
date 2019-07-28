@@ -4,6 +4,7 @@ Province.destroy_all
 
 pouilles = Province.create(
   name: "Pouilles",
+  map: "puglia-map.png",
   description:"La région des Pouilles forme le talon de la botte italienne. Elle offre aux promeneurs des paysages d'une grande beauté : une côte capricieusement découpée, la mer d'un bleu cristallin, des criques secrètes, des plages au sable infiniment fin et des plateaux agricoles couleur cuivre semés d'oliviers centenaires. Bordée par les mers adriatique et ionienne, parsemée d'églises romanes, de palais baroques et de châteaux normands, souabes et aragonais, il fallait bien que les Pouilles s'accordent au pluriel. Sur la route de Bari à Otrante se succèdent petits ports et villes blanchies à la chaux, simples et nues, de moins en moins italiennes et presque déjà grecques...")
 bari =  City.create(
   name:"Bari",
@@ -952,6 +953,7 @@ Picture.create(
 
 piemont = Province.create(
   name: "Piémont",
+  map: "puglia-map.png",
   description:"Le Piémont est entouré par le massif des Alpes et s'étend sur la vaste plaine du Pô. C'est de sa géographie qu'il tire son nom, dont l'origine latine signifie 'au pied des montagnes'. Longtemps disputé entre la France et l'Italie, il fut unifié au fil des siècles par la maison de Savoie. Ces princes alpins ont su conquérir villages, vallées et seigneuries locales pour finalement se concentrer en Italie du Nord. Ils ont ensuite joué un grand rôle dans l'unification du pays, notamment avec l'aide des Cavours. En Piémont, la nature est sereine. Les montagnes sont blanches et majestueuses. Devant elles, des vallées gorgées d'eau donnent un riz perlé admirable. Enfin, les vignes plantées à coteaux de valons produisent d'excellents vins. Ville solennelle, son chef-lieu Turin a gardé la dignité royale des Savoie.")
 turin =   City.create(
   name:"Turin",
@@ -1234,6 +1236,7 @@ Picture.create(
 
 lombardie = Province.create(
   name: "Lombardie",
+  map: "puglia-map.png",
   description:"La Lombardie doit son nom au peuple des Lombards, une tribu germanique qui a envahi le nord de l'Italie à la chute de l'empire romain. Située non loin des Alpes, la région est sertie par les lacs. Cette nature froide et bleutée a donné à l'art lombard sa propre tonalité, puisque ses peintres de la Renaissance ont utilisé dans leurs paysages des tons plus sobres et glacés que nulle par ailleurs en Italie. Région prospère du Nord, la Lombardie possède des villes qui se parent de prestigieux monuments: dômes, palais de marbres et forteresses se dressent élégamment vers le ciel, tandis que dans les rues, des piétons affairés marchent d'un pas rapide et sûr.")
 milan =   City.create(
   name:"Milan",
@@ -2494,6 +2497,7 @@ Picture.create(
 
 lacs = Province.create(
   name: "Lacs Italiens",
+  map: "puglia-map.png",
   description:"La beauté des lacs de l'Italie du Nord fascine. Dans la brume des montages bleutées, on les voit se dessiner avec leurs bateaux de pêche, leurs criques, leurs villages authentiques, leurs somptueuses villas bordées par des jardins remplis de lauriers, et leurs palais magnifiques. On trouve ici un rythme, la quintessence de l'élégance, la sublime profondeur d'un bleu majestueux qui présagent déjà la sérénité des paysages suisses.")
 come =  City.create(
   name:"Lac de Come",
@@ -3314,6 +3318,7 @@ Picture.create(
 
 venetie = Province.create(
   name: "Vénétie",
+  map: "puglia-map.png",
   description:"La Vénétie dessine pour les voyageurs des paysages féeriques : ici les montagnes enneigées des Dolomites recouvertes d'un long manteau blanc, par là la lagune de Venise qui pave les rues d'eau, là bas le charme Vérone qui fait éclore des fleurs sur chaque balcon à l'arrivée du printemps.")
 venise =  City.create(
   name: "Venise",
@@ -4342,6 +4347,7 @@ Picture.create(
 
 emilieromagne = Province.create(
   name: "Emilie-Romagne",
+  map: "puglia-map.png",
   description:"L'Émiligne-Romagne est une contrée d'aventure, où tout rappelle encore les centurions et les frasques de l'empire romain. Elle doit d'ailleurs son nom à la construction de la 'voie Emilienne' par le consul Marcus Aemilius Lepidus au IIe siècle A.D. Aventuresques, les villes de Bologne et de Ferrare nous entrainent dans des rues rougeoyantes, sous des arcades et des voutes, sur des places bordées de tavernes, à l'intérieur de châteaux qui ont encore des pont levis. On y ripaille excellemment, tant la région est connue pour sa bonne viande, ses saucissons et son vin goûtu.")
 bologne =   City.create(
   name:"Bologne",
@@ -4981,6 +4987,7 @@ Picture.create(
 
 toscane = Province.create(
   name: "Toscane",
+  map: "toscana-map.png",
   description:"Splendeur du paysage toscan, si finement ciselée dans ses contours qu'on dirait qu'il fut dessiné par les peintres pour continuer l'art hors des villes. Au creux de ses vallons s'accrochent les divines vignes du Chianti qui produisent les meilleurs vins. C'est ici qu'a débuté la Renaissance dont l'histoire et l'héritage artistique eurent une influence considérable sur la culture européenne. Rivales éternelles, les villes de Toscane ont été un véritable laboratoire du politique. Deux modèles s'y sont opposés dans une rivalité historique : la bourgeoisie de Sienne contre le principat médicéen de Florence. De la Toscane, on retient cette invention magistrale de l'art de vivre, de la vie comme un art, de l'art comme ville.")
 florence =  City.create(
   name:"Florence",
@@ -5803,6 +5810,7 @@ Picture.create(
 
 latium = Province.create(
   name: "Latium",
+  map: "lazio-map.png",
   description:"Pareil à la louve romaine, le Latium est, depuis l'époque antique, une terre nourricière. C'est une succession de champs cultivés, de paysages blondis par les épis dorés, et d'étendues verdoyantes courant des montagnes de l'Apennins à la mer Tyrrhénienne. La région doit son nom au roi Latinus et à ses sujets les Latini, implantés ici après les étrusques et qui parlaient une langue ancêtre du latin archaïque. Le Latium ne compte pas beaucoup de grandes villes il est vrai, mais le Latium a construit Rome, capitale de l'Empire romain, ville la plus chargée d'histoire de toute l'Italie. Au milieux de ses terres, on trouve encore aujourd'hui des ruines de l'empire. Parmi les plus connues, le Colisée de Rome ou les théâtres d'Ostie.")
 rome =  City.create(
   name:"Rome",
@@ -6211,6 +6219,7 @@ Picture.create(
 )
 campanie = Province.create(
   name: "Campanie",
+  map: "campania-map.png",
   description:"Grande Région")
 naples =  City.create(
   name:"Naples",
