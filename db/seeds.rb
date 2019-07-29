@@ -953,7 +953,7 @@ Picture.create(
 
 piemont = Province.create(
   name: "Piémont",
-  map: "puglia-map.png",
+  map: "piemonte-map.png",
   description:"Le Piémont est entouré par le massif des Alpes et s'étend sur la vaste plaine du Pô. C'est de sa géographie qu'il tire son nom, dont l'origine latine signifie 'au pied des montagnes'. Longtemps disputé entre la France et l'Italie, il fut unifié au fil des siècles par la maison de Savoie. Ces princes alpins ont su conquérir villages, vallées et seigneuries locales pour finalement se concentrer en Italie du Nord. Ils ont ensuite joué un grand rôle dans l'unification du pays, notamment avec l'aide des Cavours. En Piémont, la nature est sereine. Les montagnes sont blanches et majestueuses. Devant elles, des vallées gorgées d'eau donnent un riz perlé admirable. Enfin, les vignes plantées à coteaux de valons produisent d'excellents vins. Ville solennelle, son chef-lieu Turin a gardé la dignité royale des Savoie.")
 turin =   City.create(
   name:"Turin",
@@ -1236,7 +1236,7 @@ Picture.create(
 
 lombardie = Province.create(
   name: "Lombardie",
-  map: "puglia-map.png",
+  map: "lombardia-map.png",
   description:"La Lombardie doit son nom au peuple des Lombards, une tribu germanique qui a envahi le nord de l'Italie à la chute de l'empire romain. Située non loin des Alpes, la région est sertie par les lacs. Cette nature froide et bleutée a donné à l'art lombard sa propre tonalité, puisque ses peintres de la Renaissance ont utilisé dans leurs paysages des tons plus sobres et glacés que nulle par ailleurs en Italie. Région prospère du Nord, la Lombardie possède des villes qui se parent de prestigieux monuments: dômes, palais de marbres et forteresses se dressent élégamment vers le ciel, tandis que dans les rues, des piétons affairés marchent d'un pas rapide et sûr.")
 milan =   City.create(
   name:"Milan",
@@ -2497,7 +2497,7 @@ Picture.create(
 
 lacs = Province.create(
   name: "Lacs Italiens",
-  map: "puglia-map.png",
+  map: "laghi-italiani-map.png",
   description:"La beauté des lacs de l'Italie du Nord fascine. Dans la brume des montages bleutées, on les voit se dessiner avec leurs bateaux de pêche, leurs criques, leurs villages authentiques, leurs somptueuses villas bordées par des jardins remplis de lauriers, et leurs palais magnifiques. On trouve ici un rythme, la quintessence de l'élégance, la sublime profondeur d'un bleu majestueux qui présagent déjà la sérénité des paysages suisses.")
 come =  City.create(
   name:"Lac de Come",
@@ -3318,7 +3318,7 @@ Picture.create(
 
 venetie = Province.create(
   name: "Vénétie",
-  map: "puglia-map.png",
+  map: "veneto-map.png",
   description:"La Vénétie dessine pour les voyageurs des paysages féeriques : ici les montagnes enneigées des Dolomites recouvertes d'un long manteau blanc, par là la lagune de Venise qui pave les rues d'eau, là bas le charme Vérone qui fait éclore des fleurs sur chaque balcon à l'arrivée du printemps.")
 venise =  City.create(
   name: "Venise",
@@ -4347,7 +4347,7 @@ Picture.create(
 
 emilieromagne = Province.create(
   name: "Emilie-Romagne",
-  map: "puglia-map.png",
+  map: "emilia-romagna-map.png",
   description:"L'Émiligne-Romagne est une contrée d'aventure, où tout rappelle encore les centurions et les frasques de l'empire romain. Elle doit d'ailleurs son nom à la construction de la 'voie Emilienne' par le consul Marcus Aemilius Lepidus au IIe siècle A.D. Aventuresques, les villes de Bologne et de Ferrare nous entrainent dans des rues rougeoyantes, sous des arcades et des voutes, sur des places bordées de tavernes, à l'intérieur de châteaux qui ont encore des pont levis. On y ripaille excellemment, tant la région est connue pour sa bonne viande, ses saucissons et son vin goûtu.")
 bologne =   City.create(
   name:"Bologne",
@@ -6220,10 +6220,10 @@ Picture.create(
 campanie = Province.create(
   name: "Campanie",
   map: "campania-map.png",
-  description:"Grande Région")
+  description:"Arrivée en terre méridionale, changement complet de paradigme, voici le Grand Sud. Si la Campanie est aussi célébrée, c'est pour la beauté de ses couleurs. On trouve les teintes les plus douces d'Italie dans les marbres de Naples et les fresques des sites archéologiques de Pompéi et d'Herculanum mais aussi des couleurs explosives sur les îles de Capri et Ravello, et dans tous les villages colorés qui parsèment la côte amalfitaine. La Campanie est une terre profonde et mystérieuse. Ici, le passé ne s'est jamais effacé et imprègne les caractères d'une vitalité immuable. Ici, la nature confond la beauté et le danger, dichotomie fondamentale renfermée dans le Vésuve, qui fait et défait les fortunes au large de la baie de Naples.")
 naples =  City.create(
   name:"Naples",
-  description:"Le pavé sur le sol, les murs décrépis, la lumière des vespas dans l'étroitesse des rues : Jaune de Naples. On dit que cette couleur est l'étendard des Dieux. Jaune du soleil et de la force, qui emplissait les décors à fresque des maisons des patriciens romains. Jaune du festoiement et de l'humeur heureuse, de l'or et de la richesse. Mais, si d'aventure son éclat passe, alors il prend la teinte du souffre : couleur des flammes de l'enfer, jaune des parias, danger. Rire jaune, rire pour échapper aux situations, ainsi font les napolitains. Naples est assurément la ville la plus fascinante d'Italie, par la puissance des contradictions qu'elle est capable d'encaisser. Cette ville qu'on dit dangereuse, où l'argent est sali et méprisé est une ville aristocrate qui traite ses habitants en princes. Les palais, les oeuvres d'art et les plus beaux opéras leurs sont donnés, offerts dans les rues aussi gracieusement que la l'air et le soleil.",
+  description:"Le pavé sur le sol, les murs décrépis, la lumière des vespas dans l'étroitesse des rues : jaune de naples. On dit que cette couleur est l'étendard des Dieux. Jaune du soleil et de la force, qui emplissait les décors à fresque des maisons des patriciens romains. Jaune du festoiement, de l'humeur heureuse, de l'or, de la grande richesse. Mais, si d'aventure son éclat passe, alors il prend la teinte du souffre : couleur des flammes de l'enfer, jaune des parias, danger. Rire jaune, rire pour échapper aux situations, ainsi font les napolitains. Naples est assurément la ville la plus fascinante d'Italie, par la puissance des contradictions qu'elle est capable d'accepter. Cette ville qu'on dit dangereuse, où l'argent est sali et méprisé est une ville aristocrate qui traite ses habitants en princes. Les palais, les oeuvres d'art et les plus beaux opéras leurs sont donnés, offerts dans les rues aussi nécessairement que l'air et le soleil.",
   province: campanie,
   heraldic: "blaz_naples.png",
   picture: "na_00.jpg",
