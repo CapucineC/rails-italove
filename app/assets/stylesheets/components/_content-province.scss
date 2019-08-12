@@ -12,8 +12,9 @@
     text-align: center;
     margin-bottom: 20px;
     font-weight: 700;
-    font-family: 'Cabin Sketch', cursive;
-    font-size: 40px;
+    font-family: 'Cormorant Infant', serif;
+    font-weight: bold;
+    font-size: 61px;
 
 
     & > span {
@@ -88,7 +89,7 @@
       width: 60px;
      }
     }
-
+}
 
 @media (max-width: 500px) {
   .content-province {
@@ -99,5 +100,23 @@
   }
  }
 
+@media(min-width: 2790px) {
+  .content-province {
+
+    & h1 {
+     font-size: 130px;
+    }
+
+    & .province-box {
+     max-width: 909px;
+   }
+
+   & img {
+    width: 75%;
+   }
+  }
 }
+
+
+
 
