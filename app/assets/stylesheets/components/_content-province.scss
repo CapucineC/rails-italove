@@ -93,12 +93,25 @@
 
 @media (max-width: 500px) {
   .content-province {
-    height: none;
+    height: auto;
     margin-left: 0px;
     margin-right: 0px;
     padding: 20px;
+
+  & .sous-cadre {
+    display: block;
   }
- }
+
+  & .province-box {
+      margin-left: 0px;
+   }
+
+  & .sideblock-map {
+    visibility: hidden;
+    }
+  }
+}
+
 
 @media(min-width: 2790px) {
   .content-province {

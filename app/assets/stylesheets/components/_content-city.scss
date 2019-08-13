@@ -126,6 +126,15 @@ img {
   .content-city .description-city {
     padding: 10px;
   }
+
+  .content-city .heraldic {
+    & > img {
+      text-align: center;
+      margin: auto;
+      width: 63px;
+    }
+  }
+
 }
 
 
