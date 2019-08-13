@@ -97,6 +97,7 @@
     margin-left: 0px;
     margin-right: 0px;
     padding: 20px;
+    display: block;
 
   & .sous-cadre {
     display: block;
@@ -105,11 +106,12 @@
   & .province-box {
       margin-left: 0px;
    }
-
-  & .sideblock-map {
-    visibility: hidden;
-    }
   }
+
+  .content-province .sideblock-map {
+    display: none;
+    }
+
 }
 
 

@@ -108,7 +108,7 @@ img {
 
   .wrapper div {
     grid-column-end: span 6;
-    grid-row-end: span 6;
+    grid-row-end: span 7;
   }
 
   .wrapper div.zoom {
@@ -118,12 +118,12 @@ img {
 
   .wrapper div.portrait {
     grid-column-end: span 3;
-    grid-row-end: span 7;
+    grid-row-end: span 6;
   }
 
   .wrapper div.landscape {
     grid-column-end: span 6;
-    grid-row-end: span 6;
+    grid-row-end: span 7;
   }
 
   .wrapper div.mini {
