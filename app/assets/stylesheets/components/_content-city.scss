@@ -134,7 +134,21 @@ img {
       width: 63px;
     }
   }
-
 }
+
+@media(min-width: 2790px) {
+  .content-city {
+
+    & h1 {
+     font-size: 130px;
+    }
+
+    & .description-city {
+     max-width: 1000px;
+     font-size: 40px;
+   }
+  }
+}
+
 
 

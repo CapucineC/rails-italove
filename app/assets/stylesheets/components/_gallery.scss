@@ -3,8 +3,8 @@
   display: grid;
   grid-template-columns: repeat(6, 1fr);
   margin: 1em auto;
-  padding-left: 10vh;
-  padding-right: 10vh;
+  padding-left: 19vh;
+  padding-right: 19vh;
   grid-auto-rows: 17vh;
 }
 
@@ -19,6 +19,11 @@
 }
 
 .wrapper div.portrait {
+    grid-column-end: span 2;
+    grid-row-end: span 4;
+  }
+
+.wrapper div.triple-portrait {
     grid-column-end: span 2;
     grid-row-end: span 4;
   }
@@ -49,61 +54,16 @@ img {
 }
 
 
- /* re-define your grid for tablet / Ipad */
-@media(max-width: 1024px) {
-.wrapper {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    margin: 1em auto;
-    padding-left: 20px;
-    padding-right: 20px;
-    grid-auto-flow: dense;
-    grid-auto-rows: 60px;
-}
-.wrapper div {
-    grid-column-end: span 2;
-    grid-row-end: span 4;
-  }
-
-  .wrapper div.zoom {
-    grid-column-end: span 4;
-    grid-row-end: span 8;
-  }
-
-  .wrapper div.portrait {
-    grid-column-end: span 2;
-    grid-row-end: span 8;
-  }
-
-  .wrapper div.landscape {
-    grid-column-end: span 2;
-    grid-row-end: span 4;
-  }
-
-  .wrapper div.mini {
-    grid-column-end: span 1;
-    grid-row-end: span 4;
-  }
-
-  img {
-  width: 100%;
-  display: block;
-  -o-object-fit: cover;
-  object-fit: cover;
-  border-top: 10px solid white;
-  }
-}
  /* re-define your grid for mobile */
-@media(max-width: 767px) {
+@media(max-width: 500px) {
   .wrapper {
-    /* re-define your grid for mobile and tablet */
     display: grid;
     grid-template-columns: repeat(6, 1fr);
     margin: 1em auto;
     padding-left: 20px;
     padding-right: 20px;
     grid-auto-flow: dense;
-    grid-auto-rows: 36px;
+    grid-auto-rows: 35px;
   }
 
   .wrapper div {
@@ -113,12 +73,16 @@ img {
 
   .wrapper div.zoom {
     grid-column-end: span 6;
-    grid-row-end: span 6;
+    grid-row-end: span 7;
   }
 
   .wrapper div.portrait {
     grid-column-end: span 3;
-    grid-row-end: span 6;
+    grid-row-end: span 7;
+  }
+  .wrapper div.long-portrait {
+    grid-column-end: span 3;
+    grid-row-end: span 7;
   }
 
   .wrapper div.landscape {
@@ -128,15 +92,81 @@ img {
 
   .wrapper div.mini {
     grid-column-end: span 3;
-    grid-row-end: span 6;
+    grid-row-end: span 7;
   }
 
    .wrapper div.all {
     grid-column-end: span 6;
-    grid-row-end: span 6;
+    grid-row-end: span 7;
   }
 }
 
+
+
+/* re-define your grid for iPads */
+@media(max-width: 768px) {
+  .wrapper {
+    grid-auto-rows: 5vh;
+    padding-left: 10vh;
+    padding-right: 10vh;
+    grid-auto-flow: dense;
+
+  }
+  .wrapper div {
+    grid-column-end: span 6;
+    grid-row-end: span 7;
+  }
+
+  .wrapper div.zoom {
+    grid-column-end: span 6;
+    grid-row-end: span 7;
+  }
+
+  .wrapper div.portrait {
+    grid-column-end: span 3;
+    grid-row-end: span 7;
+  }
+
+  .wrapper div.landscape {
+    grid-column-end: span 6;
+    grid-row-end: span 7;
+  }
+
+  .wrapper div.mini {
+    grid-column-end: span 3;
+    grid-row-end: span 7;
+  }
+
+   .wrapper div.all {
+    grid-column-end: span 6;
+    grid-row-end: span 7;
+  }
+
+}
+
+/* re-define your grid for small screens */
+@media(min-width: 1380px) {
+  .wrapper {
+  grid-auto-rows: 13vh;
+  padding-left: 25vh;
+  padding-right: 25vh;
+  }
+}
+
+@media(min-width: 1400px) {
+   .wrapper {
+    grid-auto-rows: 13vh;
+    }
+}
+
+@media(min-width: 2300px) {
+   .wrapper {
+    grid-auto-rows: 13vh;
+    }
+}
+
+
+/* re-define your grid big screens */
 @media(min-width: 2560px) {
    .wrapper {
     padding-left: 12vh;
@@ -147,7 +177,20 @@ img {
 
 @media(min-width: 2790px) {
    .wrapper {
-    grid-auto-rows: 17vh;
+    grid-auto-rows: 14vh;
   }
 }
-
+@media(min-width: 4000px) {
+   .wrapper {
+    grid-auto-rows: 16vh;
+    padding-left: 16vh;
+    padding-right: 16vh;
+  }
+}
+@media(min-width: 5000px) {
+   .wrapper {
+    grid-auto-rows: 20vh;
+    padding-left: 20vh;
+    padding-right: 20vh;
+  }
+}

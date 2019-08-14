@@ -2,954 +2,6 @@ Picture.destroy_all
 City.destroy_all
 Province.destroy_all
 
-pouilles = Province.create(
-  name: "Pouilles",
-  map: "puglia-map.png",
-  description:"La région des Pouilles forme le talon de la botte italienne. Elle offre aux promeneurs des paysages d'une grande beauté : une côte capricieusement découpée, la mer d'un bleu cristallin, des criques secrètes, des plages au sable infiniment fin et des plateaux agricoles couleur cuivre semés d'oliviers centenaires. Bordée par les mers adriatique et ionienne, parsemée d'églises romanes, de palais baroques et de châteaux normands, souabes et aragonais, il fallait bien que les Pouilles s'accordent au pluriel. Sur la route de Bari à Otrante se succèdent petits ports et villes blanchies à la chaux, simples et nues, de moins en moins italiennes et presque déjà grecques...")
-bari =  City.create(
-  name:"Bari",
-  geocoding: "41° 08′ 00″ NORD, 16° 52′ 00″ EST",
-  description:"À l'intérieur de Bari, le quartier de Barivecchia est un labyrinthe de vieilles rues secrètes et mystérieuses. Dès l'aube, les femmes pendent le linge propre à leurs fenêtre, préparent manuellement des orecchiettes dans leur cuisine et s'en vont s'assoir sur le pas de leur porte. D'autres habitants passent, empruntent des ruelles étroites, sorte de rue-couloirs ou s'égrènent les effigies de la Madone. Ils parlent un dialecte que l'on comprend à peine. La-bas les enfants jouent au ballon et les hommes boivent le café entre eux. Enfin, la promenade emmène devant les très blanches cathédrales romanes, et puis en haut des remparts, face à la mer adriatique, où les pécheurs nettoient le poisson tout juste péché.",
-  province: pouilles,
-  coordinates: "https://goo.gl/maps/EsaSJMXxuf32",
-  heraldic: "blaz_bari.png",
-  picture: "ba_00.jpg",
-  caption: "Cattedrale di San Sabino")
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_1.jpg",
-  position: 1,
-  css_class:"landscape",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_2.jpg",
-  position: 2,
-  css_class:"landscape",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_3.jpg",
-  position: 3,
-  css_class:"zoom",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_4.jpg",
-  position: 4,
-  css_class:"portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_6.jpg",
-  position: 6,
-  css_class:"portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_7.jpg",
-  position: 7,
-  css_class:"zoom",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_8.jpg",
-  position: 8,
-  css_class:"portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_9.jpg",
-  position: 9,
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_10.jpg",
-  position: 10,
-  css_class:"portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_11.jpg",
-  position: 11,
-  css_class:"portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_12.jpg",
-  position: 12,
-  css_class: "portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_13.jpg",
-  position: 13,
-  css_class: "portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_14.jpg",
-  position: 14,
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_15.jpg",
-  position: 15,
-  css_class:"landscape",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_16.jpg",
-  position: 16,
-  css_class:"landscape",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_17.jpg",
-  position: 17,
-  css_class:"zoom",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_18.jpg",
-  position: 18,
-  css_class:"portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_19.jpg",
-  position: 19,
-  css_class:"portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_20.jpg",
-  position: 20,
-  css_class:"portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_21.jpg",
-  position: 21,
-  css_class:"portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_22.jpg",
-  position: 22,
-  css_class:"portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_23.jpg",
-  position: 23,
-  css_class:"portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_24.jpg",
-  position: 24,
-  css_class:"portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_25.jpg",
-  position: 27,
-    css_class:"portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_26.jpg",
-  position: 26,
-  css_class:"portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_27.jpg",
-  position: 25,
-  css_class:"portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_28.jpg",
-  position: 28,
-  css_class:"portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_29.jpg",
-  position: 29,
-  css_class:"portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_30.jpg",
-  position: 30,
-  css_class:"portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_31.jpg",
-  position: 31,
-  css_class:"portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_32.jpg",
-  position: 32,
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_33.jpg",
-  position: 33,
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_34.jpg",
-  position: 34,
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_35.jpg",
-  position: 35,
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_36.jpg",
-  position: 36,
-  css_class: "portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_37.jpg",
-  position: 37,
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_38.jpg",
-  position: 38,
-  css_class: "portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_39.jpg",
-  position: 39,
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_40.jpg",
-  position: 40,
-  css_class:"portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_42.jpg",
-  position: 42,
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_43.jpg",
-  position: 43,
-  css_class:"portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_44.jpg",
-  position: 44,
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_45.jpg",
-  position: 45,
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_46.jpg",
-  position: 46,
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_47.jpg",
-  position: 47,
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_48.jpg",
-  position: 48,
-  css_class:"zoom",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_49.jpg",
-  position: 49,
-  css_class:"portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_54.jpg",
-  position: 50,
-  css_class: "portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_51.jpg",
-  position: 51,
-  css_class: "zoom",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_52.jpg",
-  position: 55,
-  css_class:"portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_50.jpg",
-  position: 54,
-  css_class:"zoom",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_56.jpg",
-  position: 56,
-  css_class: "landscape",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_57.jpg",
-  position: 57,
-  css_class: "landscape",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_58.jpg",
-  position: 58,
-  css_class: "portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_59.jpg",
-  position: 59,
-  css_class: "zoom",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_61.jpg",
-  position: 61,
-  css_class: "portrait",
-  city: bari
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_63.jpg",
-  position: 62,
-  css_class: "zoom",
-  city: bari
-)
-polignano =   City.create(
-  name:"Polignano a Mare",
-  geocoding: "41° 00′ 00″ NORD 17° 13′ 00″ EST",
-  description:"C'est un village tout blanc perché en haut de ses falaises, qui s'avance dans la mer. C'est l'un des plus beaux village des Pouilles, au profil antique et grec. Au gré de ses rues pavées réchauffées par le soleil, Polignago laisse voir et revoir la mer par différents points de perspectives. En bas des falaises, une crique aux eaux limpides rassemble entre ses deux rochers des nageurs colorés, plantés dans l'eau et sur le sable dans un tourbillon de couleurs.",
-  province: pouilles,
-  coordinates: "https://goo.gl/maps/y5jPJWArV9H2",
-  heraldic: "blaz_polignano.png",
-  picture: "po_00.jpg",
-  caption:"Spiaggia Cala Porto")
-Picture.create(
-  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_1.jpg',
-  position: 1,
-  css_class: "landscape",
-  city: polignano
-)
-Picture.create(
-  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_2.jpg',
-  position: 2,
-  css_class: "landscape",
-  city: polignano
-)
-Picture.create(
-  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_3.jpg',
-  position: 3,
-  css_class: "portrait",
-  city: polignano
-)
-Picture.create(
-  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_4.jpg',
-  position: 4,
-  css_class: "zoom",
-  city: polignano
-)
-Picture.create(
-  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_5.jpg',
-  position: 5,
-  css_class: "zoom",
-  city: polignano
-)
-Picture.create(
-  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_6.jpg',
-  position: 6,
-  css_class: "portrait",
-  city: polignano
-)
-Picture.create(
-  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_7.jpg',
-  position: 7,
-  css_class: "landscape",
-  city: polignano
-)
-Picture.create(
-  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_8.jpg',
-  position: 8,
-  css_class: "landscape",
-  city: polignano
-)
-Picture.create(
-  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_9.jpg',
-  position: 9,
-  css_class: "zoom",
-  city: polignano
-)
-Picture.create(
-  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_10.jpg',
-  position: 10,
-  css_class: "portrait",
-  city: polignano
-)
-Picture.create(
-  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_11.jpg',
-  position: 11,
-  css_class: "portrait",
-  city: polignano
-)
-Picture.create(
-  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_12.jpg',
-  position: 12,
-  css_class: "zoom",
-  city: polignano
-)
-Picture.create(
-  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_13.jpg',
-  position: 13,
-  css_class: "landscape",
-  city: polignano
-)
-Picture.create(
-  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_14.jpg',
-  position: 14,
-  css_class: "landscape",
-  city: polignano
-)
-
-
-monopoli =  City.create(
-  name:"Monopoli",
-  geocoding: "40° 57′ 00″ NORD 17° 18′ 00″ EST",
-  description:"Le charme de Monopoli vient de son petit port rempli de barques bleues et rouges. Avec certains balcons qui ont des loggias blanches, sa place faite d'eau et des Dômes en arrière fond, ce port possède un charme vénitien. Viennent s'y retrouver les promeneurs, avant de continuer leur balade dans les ruelles historiques pour terminer devant le château de Charles V, une impressionnante fortification défensive édifiée pendant l'occupation aragonaise. La ville a donc eu plusieurs influences, mais son nom hérité du grec 'monos-polis' l'affirme, elle est 'la ville unique'.",
-  province: pouilles,
-  coordinates: "https://goo.gl/maps/iSCYZKeXgPk",
-  heraldic: "blaz_monopoli.png",
-  picture: "monop_00.jpg",
-  caption:"Porto di Monopoli")
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_2.jpg",
-  position: 1,
-  css_class:"portrait",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_1.jpg",
-  position: 2,
-  css_class:"zoom",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_3.jpg",
-  position: 3,
-  css_class:"portrait",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_4.jpg",
-  position: 4,
-  css_class:"portrait",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_5.jpg",
-  position: 5,
-  css_class:"portrait",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_6.jpg",
-  position: 6,
-  css_class:"zoom",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_7.jpg",
-  position: 7,
-  css_class:"portrait",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_8.jpg",
-  position: 8,
-  css_class:"portrait",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_9.jpg",
-  position: 9,
-  css_class:"zoom",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_10.jpg",
-  position: 10,
-  css_class:"portrait",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_11.jpg",
-  position: 11,
-  css_class:"portrait",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_12.jpg",
-  position: 12,
-  css_class:"portrait",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_13.jpg",
-  position: 13,
-  css_class:"zoom",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_14.jpg",
-  position: 14,
-  css_class:"portrait",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_15.jpg",
-  position: 15,
-  css_class:"portrait",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_16.jpg",
-  position: 16,
-  css_class:"portrait",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_17.jpg",
-  position: 17,
-  css_class:"portrait",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_18.jpg",
-  position: 18,
-  css_class:"landscape",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_19.jpg",
-  position: 19,
-  css_class:"landscape",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_20.jpg",
-  position: 20,
-  css_class:"landscape",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_21.jpg",
-  position: 21,
-  css_class:"landscape",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_22.jpg",
-  position: 22,
-  css_class:"portrait",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_23.jpg",
-  position: 23,
-  css_class:"portrait",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_24.jpg",
-  position: 24,
-  css_class:"portrait",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_25.jpg",
-  position: 25,
-  css_class:"portrait",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_26.jpg",
-  position: 26,
-  css_class:"portrait",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_27.jpg",
-  position: 27,
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_28.jpg",
-  position: 28,
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_29.jpg",
-  position: 29,
-  css_class:"landscape",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_30.jpg",
-  position: 30,
-  css_class:"landscape",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_31.jpg",
-  position: 31,
-  css_class:"landscape",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_32.jpg",
-  position: 32,
-  css_class:"landscape",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_33.jpg",
-  position: 33,
-  css_class:"portrait",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_34.jpg",
-  position: 34,
-  css_class:"portrait",
-  city: monopoli
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_35.jpg",
-  position: 35,
-  css_class:"portrait",
-  city: monopoli
-)
-
-lecce =   City.create(
-  name:"Lecce",
-  geocoding: "40° 21′ 13″ NORD 18° 10′ 32″ EST",
-  description:"La beauté de Lecce s'explique par sa pierre si particulière, dont la souplesse et la luminosité ont permis l'invention du 'Barocco leccese', un style architectural qui orne les façades de multiples sculptures d'anges, de fleurs, de colonnades torsadées et de blasons. Pierre blanche, beige ou ocre à mesure que le soleil l'éclaire pendant la journée. Pierre crayeuse, lisse, lumineuse, douce, montée en crème, sculptée toute en rondeur avec une facilité déconcertante, qui confère à la ville une harmonie et une douceur : “Dolce di Lecce”.",
-  province: pouilles,
-  coordinates: "https://goo.gl/maps/jtHhFteNxYD2",
-  heraldic: "blaz_lecce.png",
-  picture: "le_00.jpg")
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_1.jpg",
-  position: 1,
-  css_class: "portrait",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_2.jpg",
-  position: 2,
-  css_class: "portrait",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_3.jpg",
-  position: 3.1,
-  css_class: "portrait",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_46.jpg",
-  position: 3.2,
-  css_class:"landscape",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_45.jpg",
-  position: 3.3,
-  css_class:"landscape",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_4.jpg",
-  position: 4,
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_5.jpg",
-  position: 5,
-  css_class: "portrait",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_6.jpg",
-  position: 6,
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_7.jpg",
-  position: 7,
-  css_class: "portrait",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_8.jpg",
-  position: 8,
-  css_class: "portrait",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_9.jpg",
-  position: 9,
-  css_class: "portrait",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_10.jpg",
-  position: 10,
-  css_class: "portrait",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_11.jpg",
-  position: 12,
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_12.jpg",
-  position: 11,
-  css_class: "portrait",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_13.jpg",
-  position: 13,
-  css_class: "landscape",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_14.jpg",
-  position: 14,
-  css_class: "landscape",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_15.jpg",
-  position: 15,
-  css_class: "landscape",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_16.jpg",
-  position: 16,
-  css_class: "landscape",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_17.jpg",
-  position: 17,
-  css_class: "portrait",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_18.jpg",
-  position: 18,
-  css_class: "portrait",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_19.jpg",
-  position: 19,
-  css_class: "portrait",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_20.jpg",
-  position: 20,
-  css_class: "landscape",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_21.jpg",
-  position: 21,
-  css_class: "landscape",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_22.jpg",
-  position: 22,
-  css_class: "portrait",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_23.jpg",
-  position: 23,
-  css_class: "portrait",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_24.jpg",
-  position: 24,
-  css_class: "portrait",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_26.jpg",
-  position: 26,
-  css_class: "portrait",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_27.jpg",
-  position: 27,
-  css_class: "portrait",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_28.jpg",
-  position: 28,
-  css_class: "portrait",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_29.jpg",
-  position: 29,
-  css_class: "zoom",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_30.jpg",
-  position: 30,
-  css_class: "mini",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_31.jpg",
-  position: 31,
-  css_class: "mini",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_32.jpg",
-  position: 32,
-  css_class: "mini",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_33.jpg",
-  position: 33,
-  css_class: "mini",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_34.jpg",
-  position: 34,
-  css_class: "landscape",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_35.jpg",
-  position: 35,
-  css_class: "landscape",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_36.jpg",
-  position: 36,
-  css_class: "landscape",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_37.jpg",
-  position: 37,
-  css_class: "landscape",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_38.jpg",
-  position: 38,
-  css_class: "landscape",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_39.jpg",
-  position: 39,
-  css_class: "landscape",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_42.jpg",
-  position: 42,
-  css_class: "all",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_43.jpg",
-  position: 43,
-  css_class:"landscape",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_44.jpg",
-  position: 46,
-  css_class:"landscape",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_47.jpg",
-  position: 47,
-  css_class:"zoom",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_48.jpg",
-  position: 48,
-  css_class:"portrait",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_49.jpg",
-  position: 49,
-  css_class:"portrait",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_50.jpg",
-  position: 50,
-  css_class: "portrait",
-  city: lecce
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_51.jpg",
-  position: 51,
-  css_class:"portrait",
-  city: lecce
-)
 
 piemont = Province.create(
   name: "Piémont",
@@ -1033,65 +85,67 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_12.jpg",
   position: 12,
-  css_class: "zoom",
+  css_class: "all",
   city: turin
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_13.jpg",
   position: 13,
-  css_class: "portrait",
+  css_class: "landscape",
   city: turin
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_14.jpg",
   position: 14,
-  css_class: "portrait",
+  css_class: "landscape",
   city: turin
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_15.jpg",
   position: 15,
-  css_class: "portrait",
-  city: turin
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_18.jpg",
-  position: 16,
-  city: turin
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_19.jpg",
-  position: 17,
+  css_class: "all",
   city: turin
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_16.jpg",
-  position: 18,
+  position: 16,
   css_class: "landscape",
   city: turin
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_17.jpg",
+  position: 17,
+  css_class: "landscape",
+  city: turin
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_18.jpg",
+  position: 18,
+  css_class: "portrait",
+  city: turin
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_19.jpg",
   position: 19,
-  css_class: "landscape",
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_21.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_20.jpg",
   position: 20,
-  css_class: "landscape",
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_22.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_21.JPG",
   position: 21,
   css_class: "landscape",
   city: turin
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_20.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_22.jpg",
   position: 22,
-  css_class: "zoom",
+  css_class: "landscape",
   city: turin
 )
 Picture.create(
@@ -1103,7 +157,7 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_24.jpg",
   position: 24,
-  css_class: "zoom",
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
@@ -1113,33 +167,31 @@ Picture.create(
   city: turin
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_27.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_26.jpg",
   position: 26,
-  css_class: "landscape",
+  css_class: "all",
   city: turin
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_26.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_27.jpg",
   position: 27,
-  css_class: "landscape",
+  css_class: "all",
   city: turin
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_28.jpg",
   position: 28,
-  css_class: "landscape",
+  css_class: "zoom",
   city: turin
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_29.jpg",
   position: 29,
-  css_class: "landscape",
   city: turin
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_32.jpg",
-  position: 32,
-  css_class: "portrait",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_30.jpg",
+  position: 30,
   city: turin
 )
 Picture.create(
@@ -1157,79 +209,18 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_35.jpg",
   position: 35,
-  css_class: "landscape",
+  css_class: "portrait",
   city: turin
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_46.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_36.jpg",
   position: 36,
   css_class: "landscape",
   city: turin
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_38.jpg",
-  position: 38,
-  css_class: "portrait",
-  city: turin
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_39.jpg",
-  position: 39,
-  css_class: "portrait",
-  city: turin
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_40.jpg",
-  position: 40,
-  city: turin
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_41.jpg",
-  position: 41,
-  city: turin
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_42.jpg",
-  position: 42,
-  city: turin
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_43.jpg",
-  position: 43,
-  city: turin
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_44.jpg",
-  position: 44,
-  city: turin
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_48.jpg",
-  position: 48,
-  css_class: "portrait",
-  city: turin
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_49.jpg",
-  position: 49,
-  css_class: "portrait",
-  city: turin
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_50.jpg",
-  position: 50,
-  css_class: "portrait",
-  city: turin
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_51.jpg",
-  position: 51,
-  css_class: "landscape",
-  city: turin
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_52.jpg",
-  position: 52,
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_37.jpg",
+  position: 37,
   css_class: "landscape",
   city: turin
 )
@@ -7203,8 +6194,957 @@ Picture.create(
     city: capri
 )
 
+pouilles = Province.create(
+  name: "Pouilles",
+  map: "puglia-map.png",
+  description:"La région des Pouilles forme le talon de la botte italienne. Elle offre aux promeneurs des paysages d'une grande beauté : une côte capricieusement découpée, la mer d'un bleu cristallin, des criques secrètes, des plages au sable infiniment fin et des plateaux agricoles couleur cuivre semés d'oliviers centenaires. Bordée par les mers adriatique et ionienne, parsemée d'églises romanes, de palais baroques et de châteaux normands, souabes et aragonais, il fallait bien que les Pouilles s'accordent au pluriel. Sur la route de Bari à Otrante se succèdent petits ports et villes blanchies à la chaux, simples et nues, de moins en moins italiennes et presque déjà grecques...")
+bari =  City.create(
+  name:"Bari",
+  geocoding: "41° 08′ 00″ NORD, 16° 52′ 00″ EST",
+  description:"À l'intérieur de Bari, le quartier de Barivecchia est un labyrinthe de vieilles rues secrètes et mystérieuses. Dès l'aube, les femmes pendent le linge propre à leurs fenêtre, préparent manuellement des orecchiettes dans leur cuisine et s'en vont s'assoir sur le pas de leur porte. D'autres habitants passent, empruntent des ruelles étroites, sorte de rue-couloirs ou s'égrènent les effigies de la Madone. Ils parlent un dialecte que l'on comprend à peine. La-bas les enfants jouent au ballon et les hommes boivent le café entre eux. Enfin, la promenade emmène devant les très blanches cathédrales romanes, et puis en haut des remparts, face à la mer adriatique, où les pécheurs nettoient le poisson tout juste péché.",
+  province: pouilles,
+  coordinates: "https://goo.gl/maps/EsaSJMXxuf32",
+  heraldic: "blaz_bari.png",
+  picture: "ba_00.jpg",
+  caption: "Cattedrale di San Sabino")
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_1.jpg",
+  position: 1,
+  css_class:"landscape",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_2.jpg",
+  position: 2,
+  css_class:"landscape",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_3.jpg",
+  position: 3,
+  css_class:"zoom",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_4.jpg",
+  position: 4,
+  css_class:"portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_6.jpg",
+  position: 6,
+  css_class:"portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_7.jpg",
+  position: 7,
+  css_class:"zoom",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_8.jpg",
+  position: 8,
+  css_class:"portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_9.jpg",
+  position: 9,
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_10.jpg",
+  position: 10,
+  css_class:"portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_11.jpg",
+  position: 11,
+  css_class:"portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_12.jpg",
+  position: 12,
+  css_class: "portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_13.jpg",
+  position: 13,
+  css_class: "portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_14.jpg",
+  position: 14,
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_15.jpg",
+  position: 15,
+  css_class:"landscape",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_16.jpg",
+  position: 16,
+  css_class:"landscape",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_17.jpg",
+  position: 17,
+  css_class:"zoom",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_18.jpg",
+  position: 18,
+  css_class:"portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_19.jpg",
+  position: 19,
+  css_class:"portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_20.jpg",
+  position: 20,
+  css_class:"portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_21.jpg",
+  position: 21,
+  css_class:"portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_22.jpg",
+  position: 22,
+  css_class:"portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_23.jpg",
+  position: 23,
+  css_class:"portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_24.jpg",
+  position: 24,
+  css_class:"portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_25.jpg",
+  position: 27,
+    css_class:"portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_26.jpg",
+  position: 26,
+  css_class:"portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_27.jpg",
+  position: 25,
+  css_class:"portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_28.jpg",
+  position: 28,
+  css_class:"portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_29.jpg",
+  position: 29,
+  css_class:"portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_30.jpg",
+  position: 30,
+  css_class:"portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_31.jpg",
+  position: 31,
+  css_class:"portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_32.jpg",
+  position: 32,
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_33.jpg",
+  position: 33,
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_34.jpg",
+  position: 34,
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_35.jpg",
+  position: 35,
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_36.jpg",
+  position: 36,
+  css_class: "portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_37.jpg",
+  position: 37,
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_38.jpg",
+  position: 38,
+  css_class: "portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_39.jpg",
+  position: 39,
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_40.jpg",
+  position: 40,
+  css_class:"portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_42.jpg",
+  position: 42,
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_43.jpg",
+  position: 43,
+  css_class:"portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_44.jpg",
+  position: 44,
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_45.jpg",
+  position: 45,
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_46.jpg",
+  position: 46,
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_47.jpg",
+  position: 47,
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_48.jpg",
+  position: 48,
+  css_class:"zoom",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_49.jpg",
+  position: 49,
+  css_class:"portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_54.jpg",
+  position: 50,
+  css_class: "portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_51.jpg",
+  position: 51,
+  css_class: "zoom",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_52.jpg",
+  position: 55,
+  css_class:"portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_50.jpg",
+  position: 54,
+  css_class:"zoom",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_56.jpg",
+  position: 56,
+  css_class: "landscape",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_57.jpg",
+  position: 57,
+  css_class: "landscape",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_58.jpg",
+  position: 58,
+  css_class: "portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_59.jpg",
+  position: 59,
+  css_class: "zoom",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_61.jpg",
+  position: 61,
+  css_class: "portrait",
+  city: bari
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_63.jpg",
+  position: 62,
+  css_class: "zoom",
+  city: bari
+)
+polignano =   City.create(
+  name:"Polignano a Mare",
+  geocoding: "41° 00′ 00″ NORD 17° 13′ 00″ EST",
+  description:"C'est un village tout blanc perché en haut de ses falaises, qui s'avance dans la mer. C'est l'un des plus beaux village des Pouilles, au profil antique et grec. Au gré de ses rues pavées réchauffées par le soleil, Polignago laisse voir et revoir la mer par différents points de perspectives. En bas des falaises, une crique aux eaux limpides rassemble entre ses deux rochers des nageurs colorés, plantés dans l'eau et sur le sable dans un tourbillon de couleurs.",
+  province: pouilles,
+  coordinates: "https://goo.gl/maps/y5jPJWArV9H2",
+  heraldic: "blaz_polignano.png",
+  picture: "po_00.jpg",
+  caption:"Spiaggia Cala Porto")
+Picture.create(
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_1.jpg',
+  position: 1,
+  css_class: "landscape",
+  city: polignano
+)
+Picture.create(
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_2.jpg',
+  position: 2,
+  css_class: "landscape",
+  city: polignano
+)
+Picture.create(
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_3.jpg',
+  position: 3,
+  css_class: "portrait",
+  city: polignano
+)
+Picture.create(
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_4.jpg',
+  position: 4,
+  css_class: "zoom",
+  city: polignano
+)
+Picture.create(
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_5.jpg',
+  position: 5,
+  css_class: "zoom",
+  city: polignano
+)
+Picture.create(
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_6.jpg',
+  position: 6,
+  css_class: "portrait",
+  city: polignano
+)
+Picture.create(
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_7.jpg',
+  position: 7,
+  css_class: "landscape",
+  city: polignano
+)
+Picture.create(
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_8.jpg',
+  position: 8,
+  css_class: "landscape",
+  city: polignano
+)
+Picture.create(
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_9.jpg',
+  position: 9,
+  css_class: "zoom",
+  city: polignano
+)
+Picture.create(
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_10.jpg',
+  position: 10,
+  css_class: "portrait",
+  city: polignano
+)
+Picture.create(
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_11.jpg',
+  position: 11,
+  css_class: "portrait",
+  city: polignano
+)
+Picture.create(
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_12.jpg',
+  position: 12,
+  css_class: "zoom",
+  city: polignano
+)
+Picture.create(
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_13.jpg',
+  position: 13,
+  css_class: "landscape",
+  city: polignano
+)
+Picture.create(
+  url:'https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_14.jpg',
+  position: 14,
+  css_class: "landscape",
+  city: polignano
+)
 
-puts "All good"
+
+monopoli =  City.create(
+  name:"Monopoli",
+  geocoding: "40° 57′ 00″ NORD 17° 18′ 00″ EST",
+  description:"Le charme de Monopoli vient de son petit port rempli de barques bleues et rouges. Avec certains balcons qui ont des loggias blanches, sa place faite d'eau et des Dômes en arrière fond, ce port possède un charme vénitien. Viennent s'y retrouver les promeneurs, avant de continuer leur balade dans les ruelles historiques pour terminer devant le château de Charles V, une impressionnante fortification défensive édifiée pendant l'occupation aragonaise. La ville a donc eu plusieurs influences, mais son nom hérité du grec 'monos-polis' l'affirme, elle est 'la ville unique'.",
+  province: pouilles,
+  coordinates: "https://goo.gl/maps/iSCYZKeXgPk",
+  heraldic: "blaz_monopoli.png",
+  picture: "monop_00.jpg",
+  caption:"Porto di Monopoli")
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_2.jpg",
+  position: 1,
+  css_class:"portrait",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_1.jpg",
+  position: 2,
+  css_class:"zoom",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_3.jpg",
+  position: 3,
+  css_class:"portrait",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_4.jpg",
+  position: 4,
+  css_class:"portrait",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_5.jpg",
+  position: 5,
+  css_class:"portrait",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_6.jpg",
+  position: 6,
+  css_class:"zoom",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_7.jpg",
+  position: 7,
+  css_class:"portrait",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_8.jpg",
+  position: 8,
+  css_class:"portrait",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_9.jpg",
+  position: 9,
+  css_class:"zoom",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_10.jpg",
+  position: 10,
+  css_class:"portrait",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_11.jpg",
+  position: 11,
+  css_class:"portrait",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_12.jpg",
+  position: 12,
+  css_class:"portrait",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_13.jpg",
+  position: 13,
+  css_class:"zoom",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_14.jpg",
+  position: 14,
+  css_class:"portrait",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_15.jpg",
+  position: 15,
+  css_class:"portrait",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_16.jpg",
+  position: 16,
+  css_class:"portrait",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_17.jpg",
+  position: 17,
+  css_class:"portrait",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_18.jpg",
+  position: 18,
+  css_class:"landscape",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_19.jpg",
+  position: 19,
+  css_class:"landscape",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_20.jpg",
+  position: 20,
+  css_class:"landscape",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_21.jpg",
+  position: 21,
+  css_class:"landscape",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_22.jpg",
+  position: 22,
+  css_class:"portrait",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_23.jpg",
+  position: 23,
+  css_class:"portrait",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_24.jpg",
+  position: 24,
+  css_class:"portrait",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_25.jpg",
+  position: 25,
+  css_class:"portrait",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_26.jpg",
+  position: 26,
+  css_class:"portrait",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_27.jpg",
+  position: 27,
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_28.jpg",
+  position: 28,
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_29.jpg",
+  position: 29,
+  css_class:"landscape",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_30.jpg",
+  position: 30,
+  css_class:"landscape",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_31.jpg",
+  position: 31,
+  css_class:"landscape",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_32.jpg",
+  position: 32,
+  css_class:"landscape",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_33.jpg",
+  position: 33,
+  css_class:"portrait",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_34.jpg",
+  position: 34,
+  css_class:"portrait",
+  city: monopoli
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_35.jpg",
+  position: 35,
+  css_class:"portrait",
+  city: monopoli
+)
+
+lecce =   City.create(
+  name:"Lecce",
+  geocoding: "40° 21′ 13″ NORD 18° 10′ 32″ EST",
+  description:"La beauté de Lecce s'explique par sa pierre si particulière, dont la souplesse et la luminosité ont permis l'invention du 'Barocco leccese', un style architectural qui orne les façades de multiples sculptures d'anges, de fleurs, de colonnades torsadées et de blasons. Pierre blanche, beige ou ocre à mesure que le soleil l'éclaire pendant la journée. Pierre crayeuse, lisse, lumineuse, douce, montée en crème, sculptée toute en rondeur avec une facilité déconcertante, qui confère à la ville une harmonie et une douceur : “Dolce di Lecce”.",
+  province: pouilles,
+  coordinates: "https://goo.gl/maps/jtHhFteNxYD2",
+  heraldic: "blaz_lecce.png",
+  picture: "le_00.jpg")
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_1.jpg",
+  position: 1,
+  css_class: "portrait",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_2.jpg",
+  position: 2,
+  css_class: "portrait",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_3.jpg",
+  position: 3.1,
+  css_class: "portrait",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_46.jpg",
+  position: 3.2,
+  css_class:"landscape",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_45.jpg",
+  position: 3.3,
+  css_class:"landscape",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_4.jpg",
+  position: 4,
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_5.jpg",
+  position: 5,
+  css_class: "portrait",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_6.jpg",
+  position: 6,
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_7.jpg",
+  position: 7,
+  css_class: "portrait",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_8.jpg",
+  position: 8,
+  css_class: "portrait",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_9.jpg",
+  position: 9,
+  css_class: "portrait",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_10.jpg",
+  position: 10,
+  css_class: "portrait",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_11.jpg",
+  position: 12,
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_12.jpg",
+  position: 11,
+  css_class: "portrait",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_13.jpg",
+  position: 13,
+  css_class: "landscape",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_14.jpg",
+  position: 14,
+  css_class: "landscape",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_15.jpg",
+  position: 15,
+  css_class: "landscape",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_16.jpg",
+  position: 16,
+  css_class: "landscape",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_17.jpg",
+  position: 17,
+  css_class: "portrait",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_18.jpg",
+  position: 18,
+  css_class: "portrait",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_19.jpg",
+  position: 19,
+  css_class: "portrait",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_20.jpg",
+  position: 20,
+  css_class: "landscape",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_21.jpg",
+  position: 21,
+  css_class: "landscape",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_22.jpg",
+  position: 22,
+  css_class: "portrait",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_23.jpg",
+  position: 23,
+  css_class: "portrait",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_24.jpg",
+  position: 24,
+  css_class: "portrait",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_26.jpg",
+  position: 26,
+  css_class: "portrait",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_27.jpg",
+  position: 27,
+  css_class: "portrait",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_28.jpg",
+  position: 28,
+  css_class: "portrait",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_29.jpg",
+  position: 29,
+  css_class: "zoom",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_30.jpg",
+  position: 30,
+  css_class: "mini",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_31.jpg",
+  position: 31,
+  css_class: "mini",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_32.jpg",
+  position: 32,
+  css_class: "mini",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_33.jpg",
+  position: 33,
+  css_class: "mini",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_34.jpg",
+  position: 34,
+  css_class: "landscape",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_35.jpg",
+  position: 35,
+  css_class: "landscape",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_36.jpg",
+  position: 36,
+  css_class: "landscape",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_37.jpg",
+  position: 37,
+  css_class: "landscape",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_38.jpg",
+  position: 38,
+  css_class: "landscape",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_39.jpg",
+  position: 39,
+  css_class: "landscape",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_42.jpg",
+  position: 42,
+  css_class: "all",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_43.jpg",
+  position: 43,
+  css_class:"landscape",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_44.jpg",
+  position: 46,
+  css_class:"landscape",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_47.jpg",
+  position: 47,
+  css_class:"zoom",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_48.jpg",
+  position: 48,
+  css_class:"portrait",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_49.jpg",
+  position: 49,
+  css_class:"portrait",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_50.jpg",
+  position: 50,
+  css_class: "portrait",
+  city: lecce
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_51.jpg",
+  position: 51,
+  css_class:"portrait",
+  city: lecce
+)
+
+
+puts "All good darling, relax and get a coffee"
 
 #toscane = Province.create(name: "Toscane", description:"")
 #florence =   City.create(name:"", description:"", province: )
