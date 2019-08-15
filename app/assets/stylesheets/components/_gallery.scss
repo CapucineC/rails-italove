@@ -3,9 +3,9 @@
   display: grid;
   grid-template-columns: repeat(6, 1fr);
   margin: 1em auto;
-  padding-left: 19vh;
-  padding-right: 19vh;
-  grid-auto-rows: 17vh;
+  padding-left: 17vh;
+  padding-right: 17vh;
+  grid-auto-rows: 18vh;
 }
 
 .wrapper div {
@@ -48,7 +48,7 @@ img {
   //display: block;
   -o-object-fit: cover;
   object-fit: cover;
-  border-top: 10px solid white;
+  border-top: 30px solid white;
   border-right: 5px solid white;
   border-left: 5px solid white;
 }
@@ -147,21 +147,21 @@ img {
 /* re-define your grid for small screens */
 @media(min-width: 1380px) {
   .wrapper {
-  grid-auto-rows: 13vh;
-  padding-left: 25vh;
-  padding-right: 25vh;
+  grid-auto-rows: 15vh;
+  padding-left: 18vh;
+  padding-right: 18vh;
   }
 }
 
 @media(min-width: 1400px) {
    .wrapper {
-    grid-auto-rows: 13vh;
+    grid-auto-rows: 14vh;
     }
 }
 
 @media(min-width: 2300px) {
    .wrapper {
-    grid-auto-rows: 13vh;
+    grid-auto-rows:  14vh;
     }
 }
 
