@@ -1,5 +1,3 @@
-
-
 .content-city {
   flex-grow: 1;
   margin: auto;
@@ -103,38 +101,54 @@ img {
   width: 100%;
   object-fit: cover;
   pointer-events: none;
+  }
 }
 
-}
 
-@media (max-width: 500px) {
-  .content-city .cadre {
+@media (max-width: 750px) {
+
+.content-city {
+
+  & .cadre {
     margin-left: 0px;
     margin-right: 0px;
     padding: 20px;
   }
-  .content-city .sous-cadre {
+
+  & .sous-cadre {
     display: block;
   }
-   .content-city .top-info {
+
+  & .top-info {
     display: block;
   }
-  h1 {
-    font-size: 20px;
-    text-align: center;
+
+  & h1 {
+    font-size: 54px;
   }
-  .content-city .description-city {
+
+  & .description-city {
     padding: 10px;
   }
 
-  .content-city .heraldic {
+  & .heraldic {
     & > img {
       text-align: center;
       margin: auto;
       width: 63px;
+      }
     }
   }
 }
+
+@media (max-width: 320px) {
+  .content-city {
+    & h1 {
+    font-size: 40px;
+    }
+  }
+}
+
 
 @media(min-width: 2790px) {
   .content-city {
