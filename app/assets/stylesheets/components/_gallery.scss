@@ -147,7 +147,7 @@ img {
 /* re-define your grid for small screens */
 @media(min-width: 1280px) {
   .wrapper {
-  grid-auto-rows: 16vh;
+  grid-auto-rows: 18vh;
   padding-left: 18vh;
   padding-right: 18vh;
   }
@@ -172,7 +172,7 @@ img {
 }
 
 
-/* re-define your grid big screens */
+/* re-define your grid huge screens */
 @media(min-width: 2560px) {
    .wrapper {
     padding-left: 12vh;
