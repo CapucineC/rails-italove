@@ -640,165 +640,150 @@ bergame =   City.create(
   heraldic: "blaz_bergame.png",
   picture: "be_00.jpg")
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_1.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_1.jpg",
   position: 1,
   css_class: "landscape",
   city: bergame
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_2.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_2.jpg",
   position: 2,
   css_class: "landscape",
   city: bergame
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_3.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_3.jpg",
   position: 3,
   css_class: "zoom",
   city: bergame
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_4.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_4.jpg",
   position: 4,
   css_class: "portrait",
   city: bergame
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_5.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_5.jpg",
   position: 5,
-  css_class: "landscape",
+  css_class: "all",
   city: bergame
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_6.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_6.jpg",
   position: 6,
   css_class: "landscape",
   city: bergame
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_7.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_7.jpg",
   position: 7,
-  css_class: "zoom",
+  css_class: "landscape",
   city: bergame
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_8.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_8.jpg",
   position: 8,
+  css_class: "landscape",
   city: bergame
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_10.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_9.jpg",
+  position: 9,
+  css_class: "landscape",
+  city: bergame
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_10.jpg",
   position: 10,
+  css_class: "all",
   city: bergame
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_15.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_11.jpg",
+  position: 11,
+  css_class: "landscape",
+  city: bergame
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_12.jpg",
+  position: 12,
+  css_class: "landscape",
+  city: bergame
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_13.jpg",
+  position: 13,
+  css_class: "landscape",
+  city: bergame
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_14.jpg",
+  position: 14,
+  css_class: "landscape",
+  city: bergame
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_15.jpg",
   position: 15,
-  city: bergame
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_16.jpg",
-  position: 16,
-  city: bergame
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_17.jpg",
-  position: 17,
-  city: bergame
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_18.jpg",
-  position: 18,
   css_class: "portrait",
   city: bergame
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_19.jpg",
-  position: 19,
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_16.jpg",
+  position: 16,
+  css_class: "portrait",
   city: bergame
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_20.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_17.jpg",
+  position: 17,
+  css_class: "portrait",
+  city: bergame
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_18.jpg",
+  position: 18,
+  css_class: "landscape",
+  city: bergame
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_19.jpg",
+  position: 19,
+  css_class: "landscape",
+  city: bergame
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_20.jpg",
   position: 20,
   css_class: "portrait",
   city: bergame
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_21.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_21.jpg",
   position: 21,
+  css_class: "zoom",
   city: bergame
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_22.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_22.jpg",
   position: 22,
-  css_class: "landscape",
+  css_class: "all",
   city: bergame
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_23.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_23.jpg",
   position: 23,
-  css_class: "landscape",
   city: bergame
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_24.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_24.jpg",
   position: 24,
-  css_class: "portrait",
   city: bergame
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_25.jpg",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_25.jpg",
   position: 25,
-  city: bergame
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_26.jpg",
-  position: 26,
-  css_class: "portrait",
-  city: bergame
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_27.jpg",
-  position: 27,
-  city: bergame
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_28.jpg",
-  position: 28,
-  css_class: "landscape",
-  city: bergame
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_29.jpg",
-  position: 29,
-  css_class: "landscape",
-  city: bergame
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_30.jpg",
-  position: 30,
-  city: bergame
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_31.jpg",
-  position: 31,
-  city: bergame
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_32.jpg",
-  position: 32,
-  city: bergame
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_33.jpg",
-  position: 33,
-  css_class: "landscape",
-  city: bergame
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/be_34.jpg",
-  position: 34,
-  css_class: "landscape",
   city: bergame
 )
 
