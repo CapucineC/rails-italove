@@ -1596,1027 +1596,441 @@ venetie = Province.create(
 venise =  City.create(
   name: "Venise",
   geocoding: "45° 26′ 23″ NORD 12° 19′ 55″ EST",
-  description:"“Voici la ville qui, à tous, inspire la stupeur. Qui ne la loue est indigne de sa langue, qui ne la contemple est indigne de la lumière, qui ne l’admire est indigne de l’esprit, qui ne l’honore est indigne de l’honneur. Qui ne l’a vue ne croit point ce qu’on lui en dit et qui la voit croit à peine ce qu’il voit. Qui entend sa gloire n’a de cesse de la voir, et qui la voit n’a de cesse de la revoir. Qui la voit une fois s’en énamoure pour la vie et ne la quitte jamais plus, ou s’il la quitte c’est bientôt pour la retrouver, et s’il ne la retrouve il se désole de ne point la revoir. De ce désir d’y retourner qui pèse sur tous ceux qui la quittèrent elle prit le nom de venetia, comme pour dire à ceux qui la quittent, dans une douce prière :
-  Veni etiam, reviens encore.”
-  – Luigi Groto",
+  description:"Venise est une ville sans l'être tout à fait. Elle fut construite sur un sol inconstructible. Elle est donc réelle et irréelle, imaginaire et tangible. Venise a des rues liquides, un ciel de marbre blanc et des personnages pour  habitants. Ils déambulent dans de somptueux costumes avec leur masque pour seule vérité : et vous qui êtes-vous ?  A Venise, le plaisir est une affaire sérieuse et tout y concorde. Elle offre ainsi des ruelles labyrinthiques qui s'entremêlent sans logique, des palais en place de maisons et des plafonds qui s'enfoncent dans des boursoufflements d'or et les fresques de Tiepolo. Venise est rose et blanche comme l'intérieur nacré d'un coquillage lisse. Sa préciosité tranche avec les flots lourds. Elle est Aphrodite surgie des eaux. Venise est ville d'Amour.",
   province: venetie,
   coordinates: "https://www.youtube.com/watch?v=JPOfJcb-wqA",
   heraldic: "blaz_venise.png",
   picture: "ve_00.jpg",
   caption: "Piazza San Marco")
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_1.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_1.jpg",
   position: 1,
   css_class: "portrait",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_2.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_2.jpg",
   position: 2,
   css_class: "portrait",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_3.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_3.jpg",
   position: 3,
   css_class: "portrait",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_4.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_4.jpg",
   position: 4,
-  css_class: "portrait",
+  css_class: "all",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_5.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_5.jpg",
   position: 5,
   css_class: "portrait",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_7.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_6.jpg",
   position: 6,
   css_class: "portrait",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_6.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_7.jpg",
   position: 7,
   css_class: "portrait",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_8.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_8.jpg",
   position: 8,
+  css_class: "landscape",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_9.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_9.jpg",
   position: 9,
-  css_class: "portrait",
+  css_class: "landscape",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_10.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_10.jpg",
   position: 10,
+  css_class: "landscape",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_11.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_11.jpg",
   position: 11,
-  css_class: "zoom",
+  css_class: "landscape",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_12.jpg",
-  position: 12,
-  css_class: "portrait",
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_13.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_13.jpg",
   position: 13,
   css_class: "portrait",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_14.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_14.jpg",
   position: 14,
   css_class: "portrait",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_15.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_15.jpg",
   position: 15,
   css_class: "portrait",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_16.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_16.jpg",
   position: 16,
-  css_class: "portrait",
+  css_class: "all",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_17.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_17.jpg",
   position: 17,
   css_class: "portrait",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_18.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_18.jpg",
   position: 18,
   css_class: "portrait",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_19.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_19.jpg",
   position: 19,
   css_class: "portrait",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_20.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_20.jpg",
   position: 20,
-  css_class: "zoom",
+  css_class: "portrait",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_21.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_21.jpg",
   position: 21,
-  css_class: "zoom",
+  css_class: "portrait",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_22.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_22.jpg",
   position: 22,
   css_class: "portrait",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_23.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_23.jpg",
   position: 23,
+  css_class: "landscape",
+  city: venise
+)
+Picture.create(
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_24.jpg",
+  position: 24,
+  css_class: "landscape",
+  city: venise
+)
+Picture.create(
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_25.jpg",
+  position: 25,
   css_class: "portrait",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_24.jpg",
-  position: 24,
-  css_class: "zoom",
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_25.jpg",
-  position: 25,
-  css_class: "zoom",
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_26.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_26.jpg",
   position: 26,
   css_class: "portrait",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_30.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_27.jpg",
   position: 27,
   css_class: "portrait",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_32.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_28.jpg",
   position: 28,
   css_class: "portrait",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_29.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_29.jpg",
   position: 29,
   css_class: "portrait",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_31.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_30.jpg",
   position: 30,
   css_class: "portrait",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_28.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_31.jpg",
   position: 31,
+  css_class: "portrait",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_35.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_32.jpg",
   position: 32,
-  css_class: "portrait",
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_33.jpg",
-  position: 33,
-  css_class: "portrait",
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_34.jpg",
-  position: 34,
-  css_class: "portrait",
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_38.jpg",
-  position: 38,
-  css_class: "portrait",
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_41.jpg",
-  position: 41,
-  css_class: "portrait",
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_42.jpg",
-  position: 42,
-  css_class: "portrait",
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_43.jpg",
-  position: 43,
-  css_class: "portrait",
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_44.jpg",
-  position: 44,
-  css_class: "portrait",
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_45.jpg",
-  position: 45,
-  css_class: "portrait",
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_46.jpg",
-  position: 46,
-  css_class: "portrait",
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_53.jpg",
-  position: 47,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_48.jpg",
-  position: 48,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_47.jpg",
-  position: 50,
-  css_class: "portrait",
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_51.jpg",
-  position: 51,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_52.jpg",
-  position: 52,
-  css_class: "portrait",
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_50.jpg",
-  position: 53,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_54.jpg",
-  position: 54,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_55.jpg",
-  position: 55,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_56.jpg",
-  position: 56,
-  css_class: "landscape",
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_57.jpg",
-  position: 57,
-  css_class: "landscape",
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_58.jpg",
-  position: 58,
-  css_class: "landscape",
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_59.jpg",
-  position: 59,
-  css_class: "landscape",
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_66.jpg",
-  position: 66,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_67.jpg",
-  position: 67,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_68.jpg",
-  position: 68,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_69.jpg",
-  position: 69,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_70.jpg",
-  position: 70,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_71.jpg",
-  position: 71,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_72.jpg",
-  position: 72,
-  css_class: "portrait",
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_73.jpg",
-  position: 73,
-  css_class: "portrait",
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_74.jpg",
-  position: 74,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_75.jpg",
-  position: 75,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_76.jpg",
-  position: 76,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_77.jpg",
-  position: 77,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_78.jpg",
-  position: 78,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_80.jpg",
-  position: 80,
-  css_class: "portrait",
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_81.jpg",
-  position: 81,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_82.jpg",
-  position: 82,
-  css_class: "portrait",
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_84.jpg",
-  position: 84,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_85.jpg",
-  position: 85,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_86.jpg",
-  position: 86,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_87.jpg",
-  position: 87,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_88.jpg",
-  position: 88,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_89.jpg",
-  position: 89,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_90.jpg",
-  position: 90,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_91.jpg",
-  position: 91,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_92.jpg",
-  position: 92,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_93.jpg",
-  position: 93,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_94.jpg",
-  position: 94,
   css_class: "zoom",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_95.jpg",
-  position: 95,
-  css_class: "portrait",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_33.jpg",
+  position: 33,
+  css_class: "landscape",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_96.jpg",
-  position: 96,
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_34.jpg",
+  position: 34,
+  css_class: "landscape",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_97.jpg",
-  position: 97,
-  css_class: "portrait",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_35.jpg",
+  position: 35,
+  css_class: "landscape",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_98.jpg",
-  position: 98.1,
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_36.jpg",
+  position: 36,
+  css_class: "landscape",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_60.jpg",
-  position: 98.2,
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_37.jpg",
+  position: 37,
+  css_class: "landscape",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_61.jpg",
-  position: 98.3,
-  css_class: "portrait",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_38.jpg",
+  position: 38,
+  css_class: "landscape",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_62.jpg",
-  position: 98.4,
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_39.jpg",
+  position: 39,
+  css_class: "landscape",
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_65.jpg",
-  position: 98.7,
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_40.jpg",
+  position: 40,
+  css_class: "landscape",
   city: venise
 )
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_99.jpg",
-  position: 99,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_100.jpg",
-  position: 100,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_101.jpg",
-  position: 101,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_102.jpg",
-  position: 102,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_103.jpg",
-  position: 103,
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/ve_104.jpg",
-  position: 104,
-  city: venise
-)
+
 
 verone =  City.create(
   name:"Verone",
   geocoding: "45° 26′ 00″ NORD 10° 59′ 00″ EST",
-  description:"On parcourt Vérone comme on marcherait dans les allées d'un jardin antique. Ici, on rencontre la nature au milieu de la ville. En haut des palais, les fenêtres sont bordées par un cadre de lier grimpant. Les rues sont peintes et prennent ombrage des toits. La Piazza delle Erbe est recouverte de splendides fresques dont on devine l'éclat d'antan. Partout les fleurs ornent les balcons comme des joyaux dans leur écrin. On ne sait plus qui de l'art ou de la nature s'imite. Alors, songeur, on s'éloigne des sentiers battus. On déambule jusqu'au jardin Giusti, un jardin classique qui décline le vert dans des nuances infimes. Le jardin, cet idéal de beauté qui fait de la nature une oeuvre, qui transporte l'esprit, où le corps soudain flotte, bercé de toutes les sensations et de tous les parfums : 'Selve amiche, ombrose piante, fido albergo del mio core'...",
+  description:"On parcourt Vérone comme on marcherait dans les ées d'un jardin antique. Ici, on rencontre la nature au milieu de la ville. En haut des palais, les fenêtres sont bordées par un cadre de lier grimpant. Les rues sont peintes et prennent ombrage des toits. La Piazza delle Erbe est recouverte de splendides fresques dont on devine l'éclat d'antan. Partout les fleurs ornent les balcons comme des joyaux dans leur écrin. On ne sait plus qui de l'art ou de la nature s'imite. Alors, songeur, on s'éloigne des sentiers battus. On déambule jusqu'au jardin Giusti, un jardin classique qui décline le vert dans des nuances infimes. Le jardin, cet idéal de beauté qui fait de la nature une oeuvre, qui transporte l'esprit, où le corps soudain flotte, bercé de toutes les sensations et de tous les parfums : 'Selve amiche, ombrose piante, fido albergo del mio core'...",
   province: venetie,
   coordinates: "https://www.youtube.com/watch?v=zp3hnBt9TqM",
   heraldic: "blaz_verone.png",
   picture: "ver_00.jpg")
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_1.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_1.jpg",
   position: 1,
   css_class: "zoom",
   city: verone
   )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_2.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_2.jpg",
   position: 2,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_3.jpg",
-  position: 3,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_5.jpg",
-  position: 4,
   css_class: "portrait",
   city: verone
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_4.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_3.jpg",
+  position: 3,
+  css_class: "landscape",
+  city: verone
+)
+Picture.create(
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_4.jpg",
+  position: 4,
+  css_class: "landscape",
+  city: verone
+)
+Picture.create(
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_5.jpg",
   position: 5,
+  css_class: "landscape",
+  city: verone
+)
+Picture.create(
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_6.jpg",
+  position: 6,
+  css_class: "landscape",
+  city: verone
+)
+Picture.create(
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_7.jpg",
+  position: 7,
+  css_class: "portrait",
+  city: verone
+)
+Picture.create(
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_8.jpg",
+  position: 8,
   css_class: "zoom",
   city: verone
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_6.jpg",
-  position: 6,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_13.jpg",
-  position: 7.1,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_8.jpg",
-  position: 8,
-  css_class: "landscape",
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_9.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_9.jpg",
   position: 9,
-  css_class: "landscape",
+  css_class: "all",
   city: verone
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_10.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_10.jpg",
   position: 10,
   city: verone
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_11.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_11.jpg",
   position: 11,
   city: verone
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_12.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_12.jpg",
   position: 12,
-  css_class: "portrait",
   city: verone
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_7.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_13.jpg",
   position: 13,
-  css_class: "zoom",
+  css_class: "landscape",
   city: verone
 )
 
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_14.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_14.jpg",
   position: 14,
+  css_class: "landscape",
   city: verone
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_15.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_15.jpg",
   position: 15,
+  css_class: "landscape",
   city: verone
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_16.jpg",
-  position: 7.2,
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_16.jpg",
+  position: 16,
+  css_class: "landscape",
   city: verone
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_17.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_17.jpg",
   position: 17,
+  css_class: "all",
   city: verone
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_19.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_18.jpg",
   position: 18,
   css_class: "portrait",
   city: verone
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_18.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_19.jpg",
   position: 19,
-  css_class: "zoom",
+  css_class: "portrait",
   city: verone
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_20.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_20.jpg",
   position: 20,
   css_class: "portrait",
   city: verone
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_21.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_21.jpg",
   position: 21,
+  css_class: "landscape",
   city: verone
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_22.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_22.jpg",
   position: 22,
+   css_class: "landscape",
   city: verone
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_23.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_23.jpg",
   position: 23,
+   css_class: "all",
   city: verone
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_24.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_24.jpg",
   position: 24,
-  css_class: "zoom",
+  css_class: "portrait",
   city: verone
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_25.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_25.jpg",
   position: 25,
+  css_class: "portrait",
   city: verone
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_26.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_26.jpg",
   position: 26,
+  css_class: "portrait",
   city: verone
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_27.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_27.jpg",
   position: 27,
+  css_class: "all",
   city: verone
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_28.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_28.jpg",
   position: 28,
+  css_class: "portrait",
   city: verone
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_29.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_29.jpg",
   position: 29,
   css_class: "zoom",
   city: verone
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_30.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_30.jpg",
   position: 30,
-  css_class: "portrait",
+  css_class: "landscape",
   city: verone
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_31.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_31.jpg",
   position: 31,
-  css_class: "portrait",
+  css_class: "landscape",
   city: verone
 )
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_32.jpg",
-  position: 32,
-  css_class: "portrait",
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_33.jpg",
-  position: 33,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_34.jpg",
-  position: 34,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_35.jpg",
-  position: 35,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_36.jpg",
-  position: 36,
-  css_class: "zoom",
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_37.jpg",
-  position: 37,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_69.jpg",
-  position: 38,
-  css_class:"landscape",
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_42.jpg",
-  position: 40,
-  css_class:"landscape",
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_41.jpg",
-  position: 41,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_39.jpg",
-  position: 42,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_43.jpg",
-  position: 43,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_44.jpg",
-  position: 44,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_45.jpg",
-  position: 45,
-  css_class: "zoom",
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_46.jpg",
-  position: 46,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_47.jpg",
-  position: 47,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_48.jpg",
-  position: 48,
-  css_class: "zoom",
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_49.jpg",
-  position: 49,
-  css_class: "portrait",
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_50.jpg",
-  position: 50,
-  css_class:"zoom",
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_51.jpg",
-  position: 51,
-  css_class: "portrait",
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_52.jpg",
-  position: 52,
-  css_class: "portrait",
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_53.jpg",
-  position: 53,
-  css_class: "portrait",
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_54.jpg",
-  position: 54,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_55.jpg",
-  position: 55,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_56.jpg",
-  position: 56,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_57.jpg",
-  position: 57,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_58.jpg",
-  position: 58,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_59.jpg",
-  position: 59,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_62.jpg",
-  position: 62,
-  css_class: "portrait",
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_61.jpg",
-  position: 61,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_60.jpg",
-  position: 60,
-  css_class: "portrait",
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_63.jpg",
-  position: 63,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_68.jpg",
-  position: 64,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_70.jpg",
-  position: 65,
-  css_class: "portrait",
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_71.jpg",
-  position: 71,
-  css_class: "zoom",
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_73.jpg",
-  position: 73,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_74.jpg",
-  position: 74,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_75.jpg",
-  position: 75,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_76.jpg",
-  position: 76,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_77.jpg",
-  position: 77,
-  css_class: "zoom",
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_78.jpg",
-  position: 78,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_79.jpg",
-  position: 79,
-  css_class: "portrait",
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_80.jpg",
-  position: 80,
-  css_class: "portrait",
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_81.jpg",
-  position: 81,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_90.jpg",
-  position: 82,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_83.jpg",
-  position: 83,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_84.jpg",
-  position: 84,
-  css_class: "portrait",
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_85.jpg",
-  position: 85,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_82.jpg",
-  position: 86,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_87.jpg",
-  position: 91,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_86.jpg",
-  position: 87,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_89.jpg",
-  position: 89,
-  css_class: "portrait",
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_88.jpg",
-  position: 90,
-  css_class: "portrait",
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_91.jpg",
-  position: 88,
-  css_class: "portrait",
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_92.jpg",
-  position: 92,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_93.jpg",
-  position: 93,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_94.jpg",
-  position: 94,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_95.jpg",
-  position: 95,
-  city: verone
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/ver_96.jpg",
-  position: 96,
-  city: verone
-)
+
 
 emilieromagne = Province.create(
   name: "Emilie-Romagne",
