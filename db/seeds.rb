@@ -2078,7 +2078,7 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_6.jpg",
   position: 6,
-  css_class: "portrait",
+  css_class: "mini",
   city: bologne
 )
 Picture.create(
@@ -2096,77 +2096,79 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_9.jpg",
   position: 9,
-  css_class: "portrait",
+  css_class: "mini",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_10.jpg",
-  position: 12,
-  css_class: "mini",
+  position: 10,
+  css_class: "portrait",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_11.jpg",
   position: 11,
-  css_class: "mini",
+  css_class: "portrait",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_12.jpg",
-  position: 10,
+  position: 12,
   css_class: "portrait",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_13.jpg",
   position: 13,
-  css_class: "portrait",
+  css_class: "mini",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_14.jpg",
   position: 14,
-  css_class: "zoom",
+  css_class: "mini",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_15.jpg",
   position: 15,
-  css_class: "landscape",
+  css_class: "mini",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_16.jpg",
   position: 16,
-  css_class: "landscape",
+  css_class: "mini",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_17.jpg",
   position: 17,
-  css_class: "landscape",
+  css_class: "mini",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_18.jpg",
   position: 18,
-  css_class: "landscape",
+  css_class: "mini",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_19.jpg",
   position: 19,
+  css_class: "portrait",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_20.jpg",
   position: 20,
-  css_class: "zoom",
+  css_class: "portrait",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_21.jpg",
   position: 21,
+  css_class: "portrait",
   city: bologne
 )
 Picture.create(
@@ -2184,67 +2186,67 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_24.jpg",
   position: 24,
-  css_class: "zoom",
+  css_class: "landscape",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_25.jpg",
   position: 25,
-  css_class: "portrait",
+  css_class: "landscape",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_26.jpg",
   position: 26,
-  css_class: "portrait",
+  css_class: "landscape",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_27.jpg",
   position: 27,
-  css_class: "portrait",
+  css_class: "landscape",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_28.jpg",
   position: 28,
-  css_class: "portrait",
+  css_class: "all",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_29.jpg",
   position: 29,
-  css_class: "mini",
+  css_class: "landscape",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_30.jpg",
   position: 30,
-  css_class: "mini",
+  css_class: "landscape",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_31.jpg",
   position: 31,
-  css_class: "mini",
+  css_class: "landscape",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_32.jpg",
   position: 32,
-  css_class: "mini",
+  css_class: "landscape",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_33.jpg",
   position: 33,
-  css_class: "mini",
+  css_class: "landscape",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_34.jpg",
   position: 34,
-  css_class: "mini",
+  css_class: "landscape",
   city: bologne
 )
 Picture.create(
@@ -2277,103 +2279,54 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_40.jpg",
   position: 40,
-  css_class: "landscape",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_41.jpg",
   position: 41,
-  css_class: "landscape",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_42.jpg",
   position: 42,
-  css_class: "portrait",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_43.jpg",
   position: 43,
-  css_class: "zoom",
+  css_class: "all",
   city: bologne
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_52.jpg",
-  position: 52,
-  css_class: "zoom",
-  city: bologne
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_53.jpg",
-  position: 53,
-  city: bologne
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_54.jpg",
-  position: 54,
-  city: bologne
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_55.jpg",
-  position: 55,
-  city: bologne
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_59.jpg",
-  position: 59,
-  city: bologne
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_60.jpg",
-  position: 60,
-  city: bologne
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_61.jpg",
-  position: 61,
-  city: bologne
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_62.jpg",
-  position: 62,
-  city: bologne
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_63.jpg",
-  position: 63,
-  city: bologne
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_64.jpg",
-  position: 64,
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_44.jpg",
+  position: 44,
   css_class: "landscape",
   city: bologne
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_65.jpg",
-  position: 65,
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_45.jpg",
+  position: 45,
   css_class: "landscape",
   city: bologne
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_66.jpg",
-  position: 66,
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_46.jpg",
+  position: 46,
   city: bologne
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_67.jpg",
-  position: 67,
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_47.jpg",
+  position: 47,
   city: bologne
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_68.jpg",
-  position: 68,
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_48.jpg",
+  position: 48,
   city: bologne
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_69.jpg",
-  position: 69,
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_49.jpg",
+  position: 49,
   css_class: "all",
   city: bologne
 )
