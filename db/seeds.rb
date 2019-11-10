@@ -10,7 +10,7 @@ piemont = Province.create(
 turin =   City.create(
   name:"Turin",
   geocoding: "45° 04′ 00″ NORD 7° 42′ 00″ EST",
-  description: "Ville haute et fière, à la beauté classique. Ville grise par temps lourd, ville aux mille reflets d'argent quand le soleil descend sur le fleuve Pô. Avec ses rues droites, ses avenues larges et ses angles parfaits, Turin est une ville sérieuse marquée par l'ordre. Son centre historique est flamboyant. Il compte le Palazzo Reale, des arcades et des vieux cafés, des grandes places sur lesquelles se cabrent des statues de cavaliers. Au loin, les Alpes se dessinent dans une sérénité glacée. Ville aristocratique des comtes de Savoie ou ville ouvrière pour les usines de la Fiat, Turin a toujours travaillé à quelque chose de grand. Mais à quoi rêve Turin ? A ce qui se fera, aux projets et à la gloire ? Ou bien peut-être au passé, à la finitude des choses et à l'éclat qui disparait. On sent ici une profondeur du ressenti, mais la passion, où se cache-t-elle ?",
+  description: "Ville haute et fière, à la beauté classique. Ville grise par temps lourd, ville aux mille reflets d'argent quand le soleil descend sur le fleuve Pô. Avec ses rues droites, ses avenues larges et ses angles parfaits, Turin est une ville sérieuse marquée par l'ordre. Son centre historique est flamboyant. Il compte le Palazzo Reale, des arcades et des vieux cafés, des grandes places sur lesquelles se cabrent des statues de cavaliers. Au loin, les Alpes se dessinent dans une sérénité glacée. Ville aristocratique des comtes de Savoie ou ville ouvrière pour les usines de la Fiat, Turin a toujours travaillé à quelque chose de grand. Mais à quoi rêve Turin ? A ce qui se fera, aux projets et à la gloire ? Ou bien peut-être au passé, à la finitude des choses et à l'éclat qui disparait.",
   province: piemont,
   coordinates: "https://goo.gl/maps/6G6XQSSDz7T2",
   heraldic: "blaz_turin.png",
@@ -1588,7 +1588,6 @@ Picture.create(
 )
 
 
-
 venetie = Province.create(
   name: "Vénétie",
   map: "veneto-map.png",
@@ -1596,7 +1595,7 @@ venetie = Province.create(
 venise =  City.create(
   name: "Venise",
   geocoding: "45° 26′ 23″ NORD 12° 19′ 55″ EST",
-  description:"Venise est une ville sans l'être tout à fait. Elle fut construite sur un sol inconstructible. Elle est donc réelle et irréelle, imaginaire et tangible. Venise a des rues liquides, un ciel de marbre blanc et des personnages pour  habitants. Ils déambulent dans de somptueux costumes avec leur masque pour seule vérité : et vous qui êtes-vous ?  A Venise, le plaisir est une affaire sérieuse et tout y concorde. Elle offre ainsi des ruelles labyrinthiques qui s'entremêlent sans logique, des palais en place de maisons et des plafonds qui s'enfoncent dans des boursoufflements d'or et les fresques de Tiepolo. Venise est rose et blanche comme l'intérieur nacré d'un coquillage lisse. Sa préciosité tranche avec les flots lourds. Elle est Aphrodite surgie des eaux. Venise est ville d'Amour.",
+  description:"Venise est ville sans l'être tout à fait. Construite sur un sol qu'on jurait inconstructible, elle est imaginaire et tangible, réelle et irréelle. Venise a des rues liquides, un ciel en marbre blanc et des personnages pour habitants. Ils déambulent dans de somptueux costumes avec leur masque pour seule vérité : et vous qui êtes-vous ? A Venise, le plaisir est une affaire sérieuse et tout y concorde. On trouve des ruelles labyrinthiques qui s'entremêlent sans logique, des palais en place de maisons et des plafonds qui s'enfoncent dans des boursoufflements d'or et les fresques de Tiepolo. Loin de la pesanteur pourtant, l'architecture de Venise est subtile et délicate, rose et blanche comme l'intérieur nacré d'un coquillage lisse. Sa préciosité tranche avec les flots lourds. Elle est Aphrodite naquit des eaux. Venise est ville d'Amour.",
   province: venetie,
   coordinates: "https://www.youtube.com/watch?v=JPOfJcb-wqA",
   heraldic: "blaz_venise.png",
@@ -1803,37 +1802,7 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_35.jpg",
   position: 35,
-  css_class: "landscape",
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_36.jpg",
-  position: 36,
-  css_class: "landscape",
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_37.jpg",
-  position: 37,
-  css_class: "landscape",
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_38.jpg",
-  position: 38,
-  css_class: "landscape",
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_39.jpg",
-  position: 39,
-  css_class: "landscape",
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_40.jpg",
-  position: 40,
-  css_class: "landscape",
+  css_class: "all",
   city: venise
 )
 
@@ -2035,11 +2004,11 @@ Picture.create(
 emilieromagne = Province.create(
   name: "Emilie-Romagne",
   map: "emilia-romagna-map.png",
-  description:"L'Émiligne-Romagne est une contrée d'aventure, où tout rappelle encore les centurions et les frasques de l'empire romain. Elle doit d'ailleurs son nom à la construction de la 'voie Emilienne' par le consul Marcus Aemilius Lepidus au IIe siècle A.D. Aventuresques, les villes de Bologne et de Ferrare nous entrainent dans des rues rougeoyantes, sous des arcades et des voutes, sur des places bordées de tavernes, à l'intérieur de châteaux qui ont encore des pont levis. On y ripaille excellemment, tant la région est connue pour sa bonne viande, ses saucissons et son vin goûtu.")
+  description:"En Émiligne-Romagne, contrée heureuse et prospère, tout rappelle encore les centurions et les frasques de l'empire romain. La région doit d'ailleurs son nom à la construction de la 'voie Emilienne' par le consul Marcus Aemilius Lepidus au IIe siècle A.D. Aventuresques, les villes de Bologne et de Ferrare nous entrainent dans des rues rougeoyantes, sous des arcades et des voutes, sur des places bordées de tavernes, à l'intérieur de châteaux qui ont encore des pont levis. On y ripaille excellemment, tant la région est connue pour sa bonne viande, ses saucissons et son vin goûtu.")
 bologne =   City.create(
   name:"Bologne",
   geocoding: "44° 30′ 00″ NORD 11° 21′ 00″ EST",
-  description:"Ses rues médiévale sont propices à toutes les aventures. Elles sont recouvertes par d'innombrables portiques et arcades, construits assez haut, dit-on, pour laisser passer un homme à cheval. Très pittoresque, le centre ville est hérissé d'une dizaine de hautes tours. Au Moyen-Age, elles servaient de poste de guet pour prévenir les attaques. Qui fait la loi ici ? Où sont les clefs des portes de Bologne, aux serrures surmontées par des masques rieurs, des diablotins et des lions en bronze ? Qui règne ? Est-ce la couleur rouge des murs ? Ou celle du plaisir du bon vin ? Ou ses étudiants qui, aux heures de soleil, envahissent les places pour discuter à même le sol. C'est que Bologne abrite la plus vieille université d'Europe, fréquentée par les illustres Dante, Boccace et Pétrarque. Il n'y a pas, en Italie, de ville plus sympathique que celle ci.",
+  description:"Ses rues médiévales sont propices à toutes les aventures. Elles sont recouvertes par d'innombrables portiques et arcades, construits assez haut, dit-on, pour laisser passer un homme à cheval. Très pittoresque, le centre ville est hérissé d'une dizaine de hautes tours. Au Moyen-Age, elles servaient de poste de guet pour prévenir les attaques. Qui habite ici? Où sont les clefs des portes de Bologne, aux serrures surmontées par des masques rieurs et des lions en bronze ? Qui fait la loi ? Est-ce la couleur rouge des murs ? Ou celle du plaisir du bon vin ? Ou les étudiants qui, aux heures de soleil, envahissent les places pour discuter à même le sol. C'est que Bologne abrite la plus vieille université d'Europe, fréquentée par les illustres Dante, Boccace et Pétrarque. Il n'y a pas, en Italie, de ville plus sympathique que celle ci.",
   province: emilieromagne,
   coordinates: "https://goo.gl/maps/SikWUfv8ZAP2",
   heraldic: "blaz_bologne.png",
@@ -2334,7 +2303,7 @@ Picture.create(
 ferrare =   City.create(
   name:"Ferrare",
   geocoding: "44° 50′ 00″ NORD 11° 37′ 00″ EST",
-  description:"Ferrare est méchamment belle. Le soleil cogne sur les briques sèches des bâtiments. Les peintures des palais ont des pansements parce que la terre tremble et risque de tout fissurer. On s'ennuie ferme dans le Palazzo Schifanoia alors, il faut se risquer à une balade dans les rues voutées et ombragée. Au centre de la ville, on découvre un majestueux mais terrifiant château fort, séparé du reste du monde par des douves remplis d'eau. Ferrare fut gouvernée pendant plus de quatre siècles par la dynastie des Ducs d'Este. Visionnaires et tyranniques, ces princes ont remodelé la ville à la Renaissance, redessinant ses rues pour en faire une citadelle idéale. C'était alors une des cours les plus puissantes d'Europe : s'y réunissait tout ce que l'on comptait d'esprits ambitieux et cultivés.",
+  description:"Ferrare est méchamment belle. Ses rues étroites sont parsemées de voutes et d'arcades. Le soleil cogne sur les briques sèches des admirables bâtisses. Les peintures des palais ont des pansements parce que la terre risque de trembler et de tout fissurer. On s'ennuie ferme dans les Palazzo ducales et Schifanoia alors, il faut se risquer à une balade dans les allées ombragées. Au centre de la ville, on découvre un majestueux mais terrifiant château fort, séparé du reste du monde par des douves remplies d'eau. Ferrare fut gouvernée pendant plus de quatre siècles par la dynastie des Ducs d'Este. Visionnaires et tyranniques, ces princes ont remodelé la ville à la Renaissance, redessinant ses rues pour en faire une citadelle idéale. C'était alors une des cours les plus puissantes d'Europe : s'y réunissait tout ce que l'on comptait d'esprits ambitieux et téméraires.",
   province: emilieromagne,
   coordinates: "https://goo.gl/maps/dRXnKnRM3BM2",
   heraldic: "blaz_ferrare.png",
@@ -2343,77 +2312,62 @@ ferrare =   City.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_1.jpg",
   position: 1,
-  css_class: "zoom",
+  css_class: "landscape",
   city: ferrare
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_2.jpg",
   position: 2,
+  css_class: "landscape",
   city: ferrare
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_3.jpg",
   position: 3,
+  css_class: "portrait",
   city: ferrare
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_4.jpg",
   position: 4,
+  css_class: "portrait",
   city: ferrare
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_5.jpg",
   position: 5,
-  css_class: "zoom",
+  css_class: "portrait",
   city: ferrare
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_6.jpg",
   position: 6,
+  css_class: "landscape",
   city: ferrare
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_7.jpg",
   position: 7,
-  css_class: "zoom",
+  css_class: "landscape",
   city: ferrare
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_8.jpg",
   position: 8,
+  css_class: "all",
   city: ferrare
 )
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_9.jpg",
-  position: 9,
-  city: ferrare
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_10.jpg",
-  position: 10,
-  css_class: "landscape",
-  city: ferrare
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_11.jpg",
-  position: 11,
-  css_class: "landscape",
-  city: ferrare
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_12.jpg",
-  position: 12,
-  css_class: "zoom",
-  city: ferrare
-)
+
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_13.jpg",
   position: 13,
+  css_class: "landscape",
   city: ferrare
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_14.jpg",
   position: 14,
+  css_class: "landscape",
   city: ferrare
 )
 Picture.create(
@@ -2431,43 +2385,37 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_17.jpg",
   position: 17,
-  css_class: "portrait",
+  css_class: "all",
   city: ferrare
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_18.jpg",
   position: 18,
-  css_class: "portrait",
+  css_class: "landscape",
   city: ferrare
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_19.jpg",
   position: 19,
-  css_class: "portrait",
+  css_class: "landscape",
   city: ferrare
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_20.jpg",
   position: 20,
-  css_class: "landscape",
+  css_class: "portrait",
   city: ferrare
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_21.jpg",
   position: 21,
-  css_class: "landscape",
+  css_class: "portrait",
   city: ferrare
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_22.jpg",
   position: 22,
-  css_class: "landscape",
-  city: ferrare
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_23.jpg",
-  position: 23,
-  css_class: "landscape",
+  css_class: "portrait",
   city: ferrare
 )
 Picture.create(
@@ -2479,150 +2427,65 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_25.jpg",
   position: 25,
-  css_class: "portrait",
+  css_class: "zoom",
   city: ferrare
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_26.jpg",
   position: 26,
-  css_class: "portrait",
+  css_class: "landscape",
   city: ferrare
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_27.jpg",
   position: 27,
-  css_class: "portrait",
+  css_class: "landscape",
   city: ferrare
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_28.jpg",
   position: 28,
-  css_class: "portrait",
+  css_class: "landscape",
   city: ferrare
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_29.jpg",
   position: 29,
-  css_class: "portrait",
+  css_class: "landscape",
   city: ferrare
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_30.jpg",
   position: 30,
+  css_class: "portrait",
   city: ferrare
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_31.jpg",
   position: 31,
-  css_class: "zoom",
+  css_class: "portrait",
   city: ferrare
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_32.jpg",
   position: 32,
+  css_class: "portrait",
   city: ferrare
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_33.jpg",
   position: 33,
-  css_class: "zoom",
+  css_class: "landscape",
   city: ferrare
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_34.jpg",
-  position: 34.1,
-  city: ferrare
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_34_bis.jpg",
-  position: 34.2,
-  city: ferrare
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_35.jpg",
-  position: 35,
-  css_class: "portrait",
-  city: ferrare
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_36.jpg",
-  position: 36,
-  city: ferrare
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_38.jpg",
-  position: 37,
-  css_class: "portrait",
-  city: ferrare
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_37.jpg",
-  position: 38,
-  city: ferrare
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_39.jpg",
-  position: 39,
-  css_class: "portrait",
-  city: ferrare
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_40.jpg",
-  position: 40,
-  css_class: "portrait",
-  city: ferrare
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_41.jpg",
-  position: 41,
-  css_class: "portrait",
-  city: ferrare
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_42.jpg",
-  position: 42,
+  position: 34,
   css_class: "landscape",
   city: ferrare
 )
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_43.jpg",
-  position: 43,
-  css_class: "landscape",
-  city: ferrare
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_44.jpg",
-  position: 44,
-  css_class: "portrait",
-  city: ferrare
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_45.jpg",
-  position: 45,
-  css_class: "portrait",
-  city: ferrare
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_46.jpg",
-  position: 46,
-  css_class: "portrait",
-  city: ferrare
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_47.jpg",
-  position: 47,
-  city: ferrare
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_48.jpg",
-  position: 48,
-  city: ferrare
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_49.jpg",
-  position: 49,
-  city: ferrare
-)
+
+
 
 
 toscane = Province.create(
