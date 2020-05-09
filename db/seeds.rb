@@ -3514,175 +3514,175 @@ Picture.create(
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_10",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_10.jpg",
   position: 10,
   css_class: "portrait",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_11",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_11.jpg",
   position: 11,
   css_class: "portrait",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_12",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_12.jpg",
   position: 12,
   css_class: "portrait",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_13",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_13.jpg",
   position: 13,
   css_class: "portrait",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_14",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_14.jpg",
   position: 14,
   css_class: "portrait",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_15",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_15.jpg",
   position: 15,
   css_class: "portrait",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_16",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_16.jpg",
   position: 16,
   css_class: "portrait",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_17",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_17.jpg",
   position: 17,
   css_class: "portrait",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_18",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_18.jpg",
   position: 18,
   css_class: "landscape",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_19",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_19.jpg",
   position: 19,
   css_class: "landscape",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_20",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_20.jpg",
   position: 20,
   css_class: "portrait",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_21",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_21.jpg",
   position: 21,
   css_class: "portrait",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_22",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_22.jpg",
   position: 22,
   css_class: "portrait",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_23",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_23.jpg",
   position: 23,
   css_class: "landscape",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_24",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_24.jpg",
   position: 24,
   css_class: "landscape",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_25",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_25.jpg",
   position: 25,
   css_class: "zoom",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_26",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_26.jpg",
   position: 26,
   css_class: "portrait",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_27",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_27.jpg",
   position: 27,
   css_class: "landscape",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_28",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_28.jpg",
   position: 28,
   css_class: "landscape",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_29",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_29.jpg",
   position: 29,
   css_class: "landscape",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_30",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_30.jpg",
   position: 30,
   css_class: "landscape",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_31",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_31.jpg",
   position: 31,
   css_class: "portrait",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_32",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_32.jpg",
   position: 32,
   css_class: "portrait",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_33",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_33.jpg",
   position: 33,
   css_class: "portrait",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_34",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_34.jpg",
   position: 34,
   css_class: "landscape",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_35",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_35.jpg",
   position: 35,
   css_class: "landscape",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_36",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_36.jpg",
   position: 36,
   css_class: "portrait",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_37",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_37.jpg",
   position: 37,
   css_class: "portrait",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_38",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_38.jpg",
   position: 38,
   css_class: "portrait",
   city: gubbio
