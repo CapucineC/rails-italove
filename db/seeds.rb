@@ -3460,55 +3460,55 @@ gubbio =  City.create(
   picture: "ro_2.jpg",
   caption: "a compléter")
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_1",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_1.jp",
   position: 1,
   css_class: "landscape",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_2",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_2.jp",
   position: 2,
   css_class: "landscape",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_3",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_3.jp",
   position: 3,
   css_class: "portrait",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_4",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_4.jp",
   position: 4,
   css_class: "portrait",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_5",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_5.jp",
   position: 5,
   css_class: "portrait",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_6",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_6.jp",
   position: 6,
   css_class: "zoom",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_7",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_7.jp",
   position: 7,
   css_class: "zoom",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_8",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_8.jp",
   position: 8,
   css_class: "portrait",
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_9",
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_9.jp",
   position: 9,
   css_class: "portrait",
   city: gubbio
