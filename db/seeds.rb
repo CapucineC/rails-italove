@@ -3450,6 +3450,148 @@ Picture.create(
   city: bevagna
 )
 
+montone =  City.create(
+  name:"Montone",
+  geocoding: "none given",
+  description:"Petit village",
+  province: ombrie,
+  coordinates: "none given",
+  heraldic: "stemma_bevagna.png",
+  picture: "ro_2.jpg",
+  caption: "a compléter")
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_1.jpg",
+  position: 1,
+  css_class: "portrait",
+  city: montone
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_2.jpg",
+  position: 2,
+  css_class: "portrait",
+  city: montone
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_3.jpg",
+  position: 3,
+  css_class: "portrait",
+  city: montone
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_4.jpg",
+  position: 4,
+  css_class: "portrait",
+  city: montone
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_5.jpg",
+  position: 5,
+  css_class: "portrait",
+  city: montone
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_6.jpg",
+  position: 6,
+  css_class: "portrait",
+  city: montone
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_7.jpg",
+  position: 7,
+  css_class: "all",
+  city: montone
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_8.jpg",
+  position: 8,
+  css_class: "portrait",
+  city: montone
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_9.jpg",
+  position: 9,
+  css_class: "portrait",
+  city: montone
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_10.jpg",
+  position: 10,
+  css_class: "portrait",
+  city: montone
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_11.jpg",
+  position: 11,
+  css_class: "portrait",
+  city: montone
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_12.jpg",
+  position: 12,
+  css_class: "portrait",
+  city: montone
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_13.jpg",
+  position: 13,
+  css_class: "portrait",
+  city: montone
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_14.jpg",
+  position: 14,
+  css_class: "portrait",
+  city: montone
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_15.jpg",
+  position: 15,
+  css_class: "portrait",
+  city: montone
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_16.jpg",
+  position: 16,
+  css_class: "portrait",
+  city: montone
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_17.jpg",
+  position: 17,
+  css_class: "portrait",
+  city: montone
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_18.jpg",
+  position: 18,
+  css_class: "zoom",
+  city: montone
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_19.jpg",
+  position: 19,
+  css_class: "landscape",
+  city: montone
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_20.jpg",
+  position: 20,
+  css_class: "landscape",
+  city: montone
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_21.jpg",
+  position: 21,
+  css_class: "portrait",
+  city: montone
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_22.jpg",
+  position: 22,
+  css_class: "zoom",
+  city: montone
+)
+
 gubbio =  City.create(
   name:"Gubbio",
   geocoding: "none given",
