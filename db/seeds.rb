@@ -3830,6 +3830,169 @@ Picture.create(
   city: gubbio
 )
 
+orvieto =  City.create(
+  name:"Gubbio",
+  geocoding: "none given",
+  description:"Petit village",
+  province: ombrie,
+  coordinates: "none given",
+  heraldic: "stemma_gubbio.png",
+  picture: "ro_2.jpg",
+  caption: "a compléter")
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_1.jpg",
+  position: 1,
+  css_class: "zoom",
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_2.jpg",
+  position: 2,
+  css_class: "landscape",
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_3.jpg",
+  position: 3,
+  css_class: "landscape",
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_4.jpg",
+  position: 4,
+  css_class: "portrait",
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_5.jpg",
+  position: 5,
+  css_class: "portrait",
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_6.jpg",
+  position: 6,
+  css_class: "portrait",
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_7.jpg",
+  position: 7,
+  css_class: "portrait",
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_8.jpg",
+  position: 8,
+  css_class: "portrait",
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_9.jpg",
+  position: 9,
+  css_class: "portrait",
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_10.jpg",
+  position: 10,
+  css_class: "landscape",
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_11.jpg",
+  position: 11,
+  css_class: "landscape",
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_12.jpg",
+  position: 12,
+  css_class: "portrait",
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_13.jpg",
+  position: 13,
+  css_class: "portrait",
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_14.jpg",
+  position: 14,
+  css_class: "portrait",
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_15.jpg",
+  position: 15,
+  css_class: "portrait",
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_16.jpg",
+  position: 16,
+  css_class: "portrait",
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_17.jpg",
+  position: 17,
+  css_class: "portrait",
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_18.jpg",
+  position: 18,
+  css_class: "portrait",
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_19.jpg",
+  position: 19,
+  css_class: "zoom",
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_20.jpg",
+  position: 20,
+  css_class: "portrait",
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_21.jpg",
+  position: 21,
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_22.jpg",
+  position: 22,
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_23.jpg",
+  position: 23,
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_24.jpg",
+  position: 24,
+  css_class: "all",
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_25.jpg",
+  position: 25,
+  css_class: "zoom",
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_26.jpg",
+  position: 26,
+  css_class: "portrait",
+  city: orvieto
+)
+
 latium = Province.create(
   name: "Latium",
   map: "lazio-map.png",
