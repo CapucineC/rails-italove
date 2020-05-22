@@ -3313,7 +3313,7 @@ Picture.create(
 ombrie = Province.create(
   name: "Ombrie",
   map: "umbria-map.png",
-  description:"en construction")
+  description:"La Ombrie est la seule partie d’Italie qui soit sans frontières avec la mer. Bien repliée dans ses forêts, c’est une région totalement enclavée dont les vallées étalent un vert sombre et sérieux sur tout le paysage. La Ombrie est intérieure, profonde et secrète, propice à une introspection heureuse encouragée par le souvenir de François d’Assise et la piété des fresques de Giotto. En haut des collines, des oliveraies et des champs labourés, on voit se dresser des villages fortifiés dont la pierre historique nous rappelle au Moyen-Âge, à cette période historique totalement engageante qui envoie l’imaginaire vers de lointaines contrées.")
 bevagna =  City.create(
   name:"Bevagna",
   geocoding: "none given",
@@ -3837,7 +3837,7 @@ orvieto =  City.create(
   province: ombrie,
   coordinates: "none given",
   heraldic: "stemma_gubbio.png",
-  picture: "ro_2.jpg",
+  picture: "ro_2.jpg",-
   caption: "a compléter")
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_1.jpg",
@@ -3927,27 +3927,6 @@ Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_15.jpg",
   position: 15,
   css_class: "portrait",
-  city: orvieto
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_16.jpg",
-  position: 16,
-  city: orvieto
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_17.jpg",
-  position: 17,
-  city: orvieto
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_18.jpg",
-  position: 18,
-  city: orvieto
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_19.jpg",
-  position: 19,
-  css_class: "all",
   city: orvieto
 )
 
