@@ -3313,7 +3313,7 @@ Picture.create(
 ombrie = Province.create(
   name: "Ombrie",
   map: "umbria-map.png",
-  description:"La Ombrie est la seule partie d’Italie qui soit sans frontières avec la mer. Bien repliée dans ses forêts, c’est une région totalement enclavée dont les vallées étalent un vert sombre et sérieux sur tout le paysage. La Ombrie est intérieure, profonde et secrète, propice à une introspection heureuse encouragée par le souvenir de François d’Assise et la piété des fresques de Giotto. En haut des collines, des oliveraies et des champs labourés, on voit se dresser des villages fortifiés dont la pierre historique nous rappelle au Moyen-Âge, à cette période historique totalement engageante qui envoie l’imaginaire vers de lointaines contrées.")
+  description:"La Ombrie est la seule partie d’Italie qui soit sans frontières commune avec la mer. Bien repliée dans ses forêts, ses vallées étalent un vert sombre et sérieux sur tout le paysage. C’est une région totalement enclavée, intérieure, et secrète, propice à une introspection heureuse encouragée par le souvenir de François d’Assise et la piété des fresques de Giotto. En haut des collines, des oliveraies et des champs labourés, on voit se dresser des villages fortifiés dont la pierre historique nous rappelle au Moyen-Âge, à cette période historique totalement engageante qui renvoie l’imaginaire vers de lointaines contrées.")
 bevagna =  City.create(
   name:"Bevagna",
   geocoding: "none given",
@@ -3833,12 +3833,12 @@ Picture.create(
 orvieto =  City.create(
   name:"Orvieto",
   geocoding: "none given",
-  description:"Petit village",
+  description:"Déjà quand on l’aperçoit au loin, force est de marquer un temps d’arrêt. Orvieto est perchée sur une falaise, entourée par des murailles en pierre et devant, des arbres bien rangés s’allongent dans la campagne paisible. A l’intérieur, ses rues sont épaisses, la pierre est lourde, et on trouve par endroits des grottes sous-terraines qui remontent à l’époque étrusque. Mais Orvieto est surtout une ville aux milles couleurs, témoignage encore vivant de la flamboyance du Moyen-Âge. Sa cathédrale est extrêmement colorée : son fronton est couverte de mosaïques dorées, tandis qu’à l’intérieur d’incroyables fresques racontent des histoires divines.",
   province: ombrie,
   coordinates: "none given",
   heraldic: "stemma_gubbio.png",
-  picture: "ro_2.jpg",-
-  caption: "a compléter")
+  picture: "ro_2.jpg",
+  caption: "a ")
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_1.jpg",
   position: 1,
