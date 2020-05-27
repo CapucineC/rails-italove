@@ -3595,7 +3595,7 @@ Picture.create(
 gubbio =  City.create(
   name:"Gubbio",
   geocoding: "none given",
-  description:"Petit village",
+  description:"Gubbio est un village qui s'élève de façon spectaculaire à la verticale d'une falaise. Ses rues denses et pierreuses qui montent sans cesse plongent le promeneur dans une atmosphère médiévale captivante. Tout y semble resté en état depuis le Moyen-Age, et la ville prête à redevenir aussi glorieuse qu'autrefois. Sur la grande place en haut du village, on aperçoit le très altier Palais des Consuls, dont la beauté puriste provoque l'ébahissement. En Ombrie, la hauteur des bâtiments peut être vertigineuse. Gubbio possède une beauté pure, terrestre et raffinée.",
   province: ombrie,
   coordinates: "none given",
   heraldic: "stemma_gubbio.png",
@@ -3634,7 +3634,7 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_6.jpg",
   position: 6,
-  css_class: "zoom",
+  css_class: "all",
   city: gubbio
 )
 Picture.create(
