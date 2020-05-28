@@ -3453,7 +3453,7 @@ Picture.create(
 montone =  City.create(
   name:"Montone",
   geocoding: "none given",
-  description:"Petit village",
+  description:"C'est un tout petit village sur un rocher bruni, sur un rocher la lune, comme un point sur un i. Montone laisse lentement découvrir ses rues qui montent et qui descendent, protégées par des petites murailles toutes médiévales. On y voit des pierres et des portes, des madonnes en faïence, des feuilles, une jolie fille et des lumières qui arrivent à mesure que la nuit s'agrandit. C'est ici, dans ce petit village très caractériel que naquit Andra, surnommé Braccio da Montone, qui fut l'un des plus illustres condottières du quatorzième siècle. Derrière leur charme bucolique, les vieux pavés de Montone nous renvoient donc aux temps troubles de l'Italie communale. ",
   province: ombrie,
   coordinates: "none given",
   heraldic: "stemma_bevagna.png",
