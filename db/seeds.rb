@@ -3317,7 +3317,7 @@ ombrie = Province.create(
 bevagna =  City.create(
   name:"Bevagna",
   geocoding: "none given",
-  description:"Petit village",
+  description:"Bevagna est un petit bourg fortifié dessiné par des lignes romaines. On le voit bien en parcourant la piazza Silvestri, sorte de forum qui mêle lieux de pouvoir, de culture et de négoce. On le remarque encore en passant devant de vieilles bâtisses aux sols marquetés de mosaïques romaines ayant servi aux thermes. Et puis, chemin faisant et l'histoire suivant son court la ville prend un aspect médiéval. Elle nous montre alors ses remparts serties de grosses tours en pierre, et ses deux églises de Saint Michel Archange et de Saint Sylvestre qui sont solidement bâties et merveilleusement dépouillées. Esthétique puriste pour un tempérament vigoureux.",
   province: ombrie,
   coordinates: "none given",
   heraldic: "stemma_bevagna.png",
