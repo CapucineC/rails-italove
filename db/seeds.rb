@@ -3320,7 +3320,7 @@ bevagna =  City.create(
   description:"Bevagna est un petit bourg fortifié dessiné par des lignes romaines. On le voit bien en parcourant la piazza Silvestri, sorte de forum qui mêle lieux de pouvoir, de culture et de négoce. On le remarque encore en passant devant de vieilles bâtisses aux sols marquetés de mosaïques romaines ayant servi aux thermes. Et puis, chemin faisant et l'histoire suivant son court la ville prend un aspect médiéval. Elle nous montre alors ses remparts serties de grosses tours en pierre, et ses deux églises de Saint Michel Archange et de Saint Sylvestre qui sont solidement bâties et merveilleusement dépouillées. Esthétique puriste pour un tempérament vigoureux.",
   province: ombrie,
   coordinates: "none given",
-  heraldic: "stemma_bevagna.png",
+  heraldic: "blaz_bevagna.png",
   picture: "ro_2.jpg",
   caption: "a compléter")
 Picture.create(
@@ -3456,7 +3456,7 @@ montone =  City.create(
   description:"C'est un tout petit village sur un rocher bruni, sur un rocher la lune, comme un point sur un i. Montone laisse lentement découvrir ses rues qui montent et qui descendent, protégées par des petites murailles toutes médiévales. On y voit des pierres et des portes, des madonnes en faïence, des feuilles, une jolie fille et des lumières qui arrivent à mesure que la nuit s'agrandit. C'est ici, dans ce petit village très caractériel que naquit Andra, surnommé Braccio da Montone, qui fut l'un des plus illustres condottières du quatorzième siècle. Derrière leur charme bucolique, les vieux pavés de Montone nous renvoient donc aux temps troubles de l'Italie communale. ",
   province: ombrie,
   coordinates: "none given",
-  heraldic: "stemma_bevagna.png",
+  heraldic: "blaz_montone.png",
   picture: "ro_2.jpg",
   caption: "a compléter")
 Picture.create(
@@ -3598,7 +3598,7 @@ gubbio =  City.create(
   description:"Gubbio est un village qui s'élève de façon spectaculaire à la verticale d'une falaise. Ses rues denses et pierreuses qui montent sans cesse plongent le promeneur dans une atmosphère médiévale captivante. Tout y semble resté en état depuis le Moyen-Age, et la ville prête à redevenir aussi glorieuse qu'autrefois. Sur la grande place en haut du village, on aperçoit le très altier Palais des Consuls, dont la beauté puriste provoque l'ébahissement. En Ombrie, la hauteur des bâtiments peut être vertigineuse. Gubbio possède une beauté pure, terrestre et raffinée.",
   province: ombrie,
   coordinates: "none given",
-  heraldic: "stemma_gubbio.png",
+  heraldic: "blaz_gubbio.png",
   picture: "ro_2.jpg",
   caption: "a compléter")
 Picture.create(
@@ -3836,7 +3836,7 @@ orvieto =  City.create(
   description:"Déjà quand on l’aperçoit au loin, force est de marquer un temps d’arrêt. Orvieto est perchée sur une falaise, entourée par des murailles en pierre et devant, des arbres bien rangés s’allongent dans la campagne paisible. A l’intérieur, ses rues sont épaisses, la pierre est lourde, et on trouve par endroits des grottes sous-terraines qui remontent à l’époque étrusque. Mais Orvieto est surtout une ville aux milles couleurs, témoignage encore vivant de la flamboyance du Moyen-Âge. Sa cathédrale est extrêmement colorée : son fronton est couverte de mosaïques dorées, tandis qu’à l’intérieur d’incroyables fresques racontent des histoires divines.",
   province: ombrie,
   coordinates: "none given",
-  heraldic: "stemma_gubbio.png",
+  heraldic: "blaz_orvieto.png",
   picture: "ro_2.jpg",
   caption: "a ")
 Picture.create(
