@@ -1047,7 +1047,7 @@ lacs = Province.create(
 come =  City.create(
   name:"Lac de Come",
   geocoding: "45° 59′ 40″ NORD 9° 15′ 58″ EST",
-  description:"Escapade au lac Come. Des montagnes au loin se dessinent dans la nuée, l'eau claque contre les escaliers des Palais édifiés par la noblesse lombarde et les statues rêvent en regardant l'horizon. Depuis l'époque romaine, on y a construit des demeures merveilleuses entre ciel et eau. Parmi les plus connues, la villa Carlotta, où l'on trouve des jardins en cascade qui se jettent dans le lac, tandis qu'à l'intérieur du palais, des marbres de Canova reposent sous des plafonds d'or. Plus loin, la villa Monastero accueille ses promeneurs par une longue balade sur graviers blancs, avec vue sur le lac immobile et bleu, sur ce lac de Come que le soleil fait scintiller en milles endroits, comme un diamant liquide.",
+  description:"Escapade au lac Come. Des montagnes au loin se dessinent dans la nuée, l'eau claque contre les escaliers des palais édifiés par la noblesse lombarde et les statues rêvent en regardant l'horizon. Depuis l'époque romaine, on y a construit des demeures merveilleuses entre ciel et eau. Parmi les plus connues, la villa Carlotta, où l'on trouve des jardins en cascade qui se jettent dans le lac, tandis qu'à l'intérieur du palais, des marbres de Canova reposent sous des plafonds d'or. Plus loin, la villa Monastero accueille ses promeneurs par une longue balade sur graviers blancs, avec vue sur le lac immobile et bleu, sur ce lac de Come que le soleil fait scintiller en milles endroits, comme un diamant liquide.",
   province: lacs,
   coordinates: "https://goo.gl/maps/iNpSnhvPHom",
   heraldic: "blaz_varese.png",
@@ -1522,11 +1522,11 @@ Picture.create(
 venetie = Province.create(
   name: "Vénétie",
   map: "veneto-map.png",
-  description:"La Vénétie dessine pour les voyageurs des paysages féeriques : ici les montagnes enneigées des Dolomites recouvertes d'un long manteau blanc, par là la lagune de Venise qui pave les rues d'eau, là bas le charme Vérone qui fait éclore des fleurs sur chaque balcon à l'arrivée du printemps.")
+  description:"La Vénétie dessine pour les voyageurs des paysages féeriques : par ici les montagnes enneigées des Dolomites recouvertes d'un long manteau blanc, par là la lagune de Venise qui pave les rues d'eau, là bas le charme Vérone qui fait éclore les fleurs sur tous les balcons à l'arrivée de chaque printemps.")
 venise =  City.create(
   name: "Venise",
   geocoding: "45° 26′ 23″ NORD 12° 19′ 55″ EST",
-  description:"Venise est ville sans l'être tout à fait. Construite sur un sol qu'on jurait inconstructible, elle est imaginaire et tangible, réelle et irréelle. Venise a des rues liquides, un ciel en marbre blanc et des personnages pour habitants. Ils déambulent dans de somptueux costumes avec leur masque pour seule vérité : et vous qui êtes-vous ? A Venise, le plaisir est une affaire sérieuse et tout y concorde. On trouve des ruelles labyrinthiques qui s'entremêlent sans logique, des palais en place de maisons et des plafonds qui s'enfoncent dans des boursoufflements d'or et les fresques de Tiepolo. Loin de la pesanteur pourtant, l'architecture de Venise est subtile et délicate, rose et blanche comme l'intérieur nacré d'un coquillage lisse. Sa préciosité tranche avec les flots lourds. Elle est Aphrodite naquit des eaux. Venise est ville d'Amour.",
+  description:"Venise est ville sans l'être tout à fait. Construite sur un sol qu'on jurait inconstructible, elle est à la fois imaginaire et tangible, réelle et irréelle. Venise a des rues liquides, un ciel en marbre blanc et des personnages pour habitants. Ils déambulent dans de somptueux costumes avec leur masque pour seule vérité : et vous qui êtes-vous ? A Venise, le plaisir est une affaire sérieuse et tout doit y concorder. On trouve des ruelles labyrinthiques qui s'entremêlent sans logique, des palais en place de maisons et des plafonds qui s'enfoncent dans des boursoufflements d'or et les fresques de Tiepolo. Loin de la pesanteur pourtant, l'architecture de Venise est subtile et délicate, rose et blanche comme l'intérieur nacré d'un coquillage lisse. Sa préciosité tranche avec les flots lourds. Elle est Aphrodite naquit des eaux. Venise est ville d'Amour.",
   province: venetie,
   coordinates: "https://www.youtube.com/watch?v=JPOfJcb-wqA",
   heraldic: "blaz_venise.png",
@@ -1707,18 +1707,6 @@ Picture.create(
   city: venise
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_31.jpg",
-  position: 31,
-  css_class: "portrait",
-  city: venise
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_32.jpg",
-  position: 32,
-  css_class: "zoom",
-  city: venise
-)
-Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_33.jpg",
   position: 33,
   css_class: "landscape",
@@ -1741,7 +1729,7 @@ Picture.create(
 verone =  City.create(
   name:"Verone",
   geocoding: "45° 26′ 00″ NORD 10° 59′ 00″ EST",
-  description:"On parcourt Vérone comme on marcherait dans les ées d'un jardin antique. Ici, on rencontre la nature au milieu de la ville. En haut des palais, les fenêtres sont bordées par un cadre de lier grimpant. Les rues sont peintes et prennent ombrage des toits. La Piazza delle Erbe est recouverte de splendides fresques dont on devine l'éclat d'antan. Partout les fleurs ornent les balcons comme des joyaux dans leur écrin. On ne sait plus qui de l'art ou de la nature s'imite. Alors, songeur, on s'éloigne des sentiers battus. On déambule jusqu'au jardin Giusti, un jardin classique qui décline le vert dans des nuances infimes. Le jardin, cet idéal de beauté qui fait de la nature une oeuvre, qui transporte l'esprit, où le corps soudain flotte, bercé de toutes les sensations et de tous les parfums : 'Selve amiche, ombrose piante, fido albergo del mio core'...",
+  description:"On parcourt Vérone comme on marcherait dans les allées d'un jardin antique. Ici, on rencontre la nature au milieu de la ville. En haut des palais, les fenêtres sont bordées par un cadre de lier grimpant. Partout les fleurs ornent les balcons comme des joyaux dans leur écrin. Les rues sont peintes et prennent ombrage des toits. La Piazza delle Erbe est recouverte de splendides fresques dont on devine l'éclat d'antan. On ne sait plus qui de l'art ou de la nature s'imite. Alors, songeur, on s'éloigne des sentiers battus. On déambule jusqu'au jardin Giusti qui décline le vert dans ses nuances infimes. Le jardin, cet idéal de beauté qui fait de la nature une oeuvre, qui transporte l'esprit, où le corps soudain flotte, bercé par toutes les sensations et par tous les parfums : 'Selve amiche, ombrose piante, fido albergo del mio core' aurait écrit Caldara en passant par ici.",
   province: venetie,
   coordinates: "https://www.youtube.com/watch?v=zp3hnBt9TqM",
   heraldic: "blaz_verone.png",
@@ -1935,11 +1923,11 @@ Picture.create(
 emilieromagne = Province.create(
   name: "Emilie-Romagne",
   map: "emilia-romagna-map.png",
-  description:"En Émiligne-Romagne, contrée heureuse et prospère, tout rappelle encore les centurions et les frasques de l'empire romain. La région doit d'ailleurs son nom à la construction de la 'voie Emilienne' par le consul Marcus Aemilius Lepidus au IIe siècle A.D. Aventuresques, les villes de Bologne et de Ferrare nous entrainent dans des rues rougeoyantes, sous des arcades et des voutes, sur des places bordées de tavernes, à l'intérieur de châteaux qui ont encore des pont levis. On y ripaille excellemment, tant la région est connue pour sa bonne viande, ses saucissons et son vin goûtu.")
+  description:"En Émilie-Romagne, contrée heureuse et prospère, tout rappelle encore les centurions et les frasques de l'empire romain. La région doit d'ailleurs son nom à la construction de la 'voie Emilienne' par le consul Marcus Aemilius Lepidus au IIe siècle av. J.-C. Aventuresques, les villes de Bologne et de Ferrare nous entrainent dans des rues rougeoyantes, sous des arcades et des voutes, sur des places bordées de tavernes, à l'intérieur de châteaux qui ont encore des pont levis. On y ripaille excellemment, tant la région est connue pour sa bonne viande, ses saucissons et son vin goûtu.")
 bologne =   City.create(
   name:"Bologne",
   geocoding: "44° 30′ 00″ NORD 11° 21′ 00″ EST",
-  description:"Ses rues médiévales sont propices à toutes les aventures. Elles sont recouvertes par d'innombrables portiques et arcades, construits assez haut, dit-on, pour laisser passer un homme à cheval. Très pittoresque, le centre ville est hérissé d'une dizaine de hautes tours. Au Moyen-Age, elles servaient de poste de guet pour prévenir les attaques. Qui habite ici? Où sont les clefs des portes de Bologne, aux serrures surmontées par des masques rieurs et des lions en bronze ? Qui fait la loi ? Est-ce la couleur rouge des murs ? Ou celle du plaisir du bon vin ? Ou les étudiants qui, aux heures de soleil, envahissent les places pour discuter à même le sol. C'est que Bologne abrite la plus vieille université d'Europe, fréquentée par les illustres Dante, Boccace et Pétrarque. Il n'y a pas, en Italie, de ville plus sympathique que celle ci.",
+  description:"Ses rues médiévales sont propices à toutes les aventures. Elles sont recouvertes par d'innombrables portiques et arcades, construits assez haut, dit-on, pour laisser passer un homme à cheval. Très pittoresque, le centre ville est hérissé d'une dizaine de hautes tours, qui servaient de poste de guet pour prévenir des attaques au Moyen-Age. Et aujourd'hui, qui habite ici? Où sont les clefs des portes de Bologne, aux serrures surmontées par des masques rieurs et des lions en bronze ? Qui fait la loi ? Est-ce la couleur rouge des murs ? Ou celle du plaisir du bon vin ? Ou les étudiants qui, aux heures de soleil, envahissent les places pour discuter à même le sol ? C'est que Bologne abrite la plus vieille université d'Europe, fréquentée par les illustres Dante, Boccace et Pétrarque. Il n'y a pas, en Italie, de ville plus sympathique que celle ci.",
   province: emilieromagne,
   coordinates: "https://goo.gl/maps/SikWUfv8ZAP2",
   heraldic: "blaz_bologne.png",
