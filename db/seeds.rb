@@ -2182,19 +2182,16 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_44.jpg",
   position: 44,
-  css_class: "all",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_45.jpg",
   position: 45,
-  css_class: "landscape",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_46.jpg",
   position: 46,
-  css_class: "landscape",
   city: bologne
 )
 
