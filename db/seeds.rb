@@ -1927,7 +1927,7 @@ emilieromagne = Province.create(
 bologne =   City.create(
   name:"Bologne",
   geocoding: "44° 30′ 00″ NORD 11° 21′ 00″ EST",
-  description:"Ses rues médiévales sont propices à toutes les aventures. Elles sont recouvertes par d'innombrables portiques et arcades, construits assez haut, dit-on, pour laisser passer un homme à cheval. Très pittoresque, le centre ville est hérissé d'une dizaine de hautes tours, qui servaient de poste de guet pour prévenir des attaques au Moyen-Age. Et aujourd'hui, qui habite ici? Où sont les clefs des portes de Bologne, aux serrures surmontées par des masques rieurs et des lions en bronze ? Qui fait la loi ? Est-ce la couleur rouge des murs ? Ou celle du plaisir du bon vin ? Ou les étudiants qui, aux heures de soleil, envahissent les places pour discuter à même le sol ? C'est que Bologne abrite la plus vieille université d'Europe, fréquentée par les illustres Dante, Boccace et Pétrarque. Il n'y a pas, en Italie, de ville plus sympathique que celle ci.",
+  description:"Ses rues médiévales sont propices à toutes les aventures. Elles sont recouvertes par d'interminables portiques, construits assez haut, dit-on, pour laisser passer un homme à cheval. Très pittoresque, le centre ville est hérissé d'une dizaine de hautes tours. Au Moyen-Age, elles servaient de poste de guet pour prévenir des attaques. Mais aujourd'hui, qui habite ici? Où sont les clefs des portes de Bologne, aux serrures surmontées par des masques rieurs et des lions en bronze ? Qui fait la loi ? Est-ce la couleur rouge des murs ? Ou celle du plaisir du bon vin ? Ou les étudiants qui, aux heures de soleil, envahissent les places pour discuter à même le sol ? C'est que Bologne abrite la plus vieille université d'Europe, fréquentée par les illustres Dante, Boccace et Pétrarque. Il n'y a pas, en Italie, de ville plus sympathique que celle ci."
   province: emilieromagne,
   coordinates: "https://goo.gl/maps/SikWUfv8ZAP2",
   heraldic: "blaz_bologne.png",
@@ -2144,54 +2144,43 @@ Picture.create(
   city: bologne
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_36.jpg",
-  position: 36,
-  css_class: "landscape",
-  city: bologne
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_37.jpg",
-  position: 37,
-  css_class: "landscape",
-  city: bologne
-)
-Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_38.jpg",
-  position: 38,
+  position: 36,
   css_class: "all",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_40.jpg",
-  position: 39,
+  position: 37,
   css_class: "all",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_41.jpg",
-  position: 40,
+  position: 38,
   css_class: "landscape",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_39.jpg",
-  position: 41,
+  position: 39,
   css_class: "landscape",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_44.jpg",
-  position: 44,
+  position: 40,
+  city: bologne
+)
+Picture.create(
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_36.jpg",
+  position: 41,
+  css_class: "landscape",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_45.jpg",
-  position: 45,
-  city: bologne
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_46.jpg",
-  position: 46,
+  position: 42,
   city: bologne
 )
 
