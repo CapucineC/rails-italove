@@ -371,7 +371,7 @@ Picture.create(
   css_class: "portrait",
   city: milan
 )
-icture.create(
+Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_26.jpg",
   position: 26,
   css_class: "portrait",
