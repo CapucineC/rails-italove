@@ -416,13 +416,13 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_33.jpg",
   position: 33,
-  css_class: "all",
+  css_class: "landscape",
   city: milan
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_34.jpg",
   position: 34,
-  css_class: "all",
+  css_class: "landscape",
   city: milan
 )
 Picture.create(
@@ -467,7 +467,13 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_44.jpg",
   position: 44,
-  css_class: "all",
+  css_class: "landscape",
+  city: milan
+)
+Picture.create(
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_45.jpg",
+  position: 45,
+  css_class: "landscape",
   city: milan
 )
 Picture.create(
