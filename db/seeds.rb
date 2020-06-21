@@ -233,18 +233,6 @@ milan =   City.create(
   picture: "mi_00.jpg",
   caption: "Galleria Vittorio Emanuele")
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_1.jpg",
-  position: 1,
-  css_class: "portrait",
-  city: milan
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_2.jpg",
-  position: 2,
-  css_class: "zoom",
-  city: milan
-)
-Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_3.jpg",
   position: 3,
   css_class: "portrait",
@@ -356,7 +344,7 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_21.jpg",
   position: 21,
-  css_class: "landscape",
+  css_class: "all",
   city: milan
 )
 Picture.create(
@@ -374,25 +362,25 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_24.jpg",
   position: 24,
-  css_class: "landscape",
+  css_class: "portrait",
   city: milan
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_25.jpg",
   position: 25,
-  css_class: "landscape",
+  css_class: "portrait",
   city: milan
 )
-Picture.create(
+icture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_26.jpg",
   position: 26,
-  css_class: "landscape",
+  css_class: "portrait",
   city: milan
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_27.jpg",
   position: 27,
-  css_class: "landscape",
+  css_class: "all",
   city: milan
 )
 Picture.create(
@@ -404,19 +392,19 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_29.jpg",
   position: 29,
-  css_class: "portrait",
+  css_class: "landscape",
   city: milan
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_30.jpg",
   position: 30,
-  css_class: "portrait",
+  css_class: "landscape",
   city: milan
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_31.jpg",
   position: 31,
-  css_class: "portrait",
+  css_class: "landscape",
   city: milan
 )
 Picture.create(
@@ -434,36 +422,24 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_34.jpg",
   position: 34,
-  css_class: "landscape",
+  css_class: "all",
   city: milan
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_35.jpg",
   position: 35,
-  css_class: "landscape",
+  css_class: "portrait",
   city: milan
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_36.jpg",
   position: 36,
-  css_class: "all",
+  css_class: "portrait",
   city: milan
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_37.jpg",
   position: 37,
-  css_class: "portrait",
-  city: milan
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_38.jpg",
-  position: 38,
-  css_class: "portrait",
-  city: milan
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_39.jpg",
-  position: 39,
   css_class: "portrait",
   city: milan
 )
@@ -491,13 +467,7 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_44.jpg",
   position: 44,
-  css_class: "landscape",
-  city: milan
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_45.jpg",
-  position: 45,
-  css_class: "landscape",
+  css_class: "all",
   city: milan
 )
 Picture.create(
@@ -615,18 +585,6 @@ Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_67.jpg",
   position: 67,
   css_class: "portrait",
-  city: milan
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_69.jpg",
-  position: 68,
-  css_class: "portrait",
-  city: milan
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_68.jpg",
-  position: 69,
-  css_class: "zoom",
   city: milan
 )
 
@@ -1729,7 +1687,7 @@ Picture.create(
 verone =  City.create(
   name:"Verone",
   geocoding: "45° 26′ 00″ NORD 10° 59′ 00″ EST",
-  description:"On parcourt Vérone comme on marcherait dans les allées d'un jardin antique. Ici, on rencontre la nature au milieu de la ville. En haut des palais, les fenêtres sont bordées par un cadre de lier grimpant. Partout les fleurs ornent les balcons comme des joyaux dans leur écrin. Les rues sont peintes et prennent ombrage des toits. La Piazza delle Erbe est recouverte de splendides fresques dont on devine l'éclat d'antan. On ne sait plus qui de l'art ou de la nature s'imite. Alors, songeur, on s'éloigne des sentiers battus. On déambule jusqu'au jardin Giusti qui décline le vert dans ses nuances infimes. Le jardin, cet idéal de beauté qui fait de la nature une oeuvre, qui transporte l'esprit, où le corps soudain flotte, bercé par toutes les sensations et par tous les parfums : 'Selve amiche, ombrose piante, fido albergo del mio core' aurait écrit Caldara en passant par ici.",
+  description:"On parcourt Vérone comme on marcherait dans les allées d'un jardin antique. Ici, on rencontre la nature au milieu de la ville. En haut des palais, les fenêtres sont bordées par un cadre de lier grimpant. Partout les fleurs ornent les balcons comme des joyaux dans leur écrin. Les rues sont peintes et prennent ombrage des toits. La Piazza delle Erbe est recouverte de splendides fresques dont on devine l'éclat d'antan. On ne sait plus qui de l'art ou de la nature s'imite. Alors, songeur, on s'éloigne des sentiers battus. On déambule jusqu'au jardin Giusti qui décline le vert dans ses nuances infimes. Le jardin, cet idéal de beauté qui fait de la nature une oeuvre, qui transporte l'esprit, où le corps soudain flotte, bercé par toutes les sensations et par tous les parfums.",
   province: venetie,
   coordinates: "https://www.youtube.com/watch?v=zp3hnBt9TqM",
   heraldic: "blaz_verone.png",
@@ -1927,7 +1885,7 @@ emilieromagne = Province.create(
 bologne =   City.create(
   name:"Bologne",
   geocoding: "44° 30′ 00″ NORD 11° 21′ 00″ EST",
-  description:"Ses rues médiévales sont propices à toutes les aventures. Elles sont recouvertes par d'interminables portiques, construits assez haut, dit-on, pour laisser passer un homme à cheval. Très pittoresque, le centre ville est hérissé d'une dizaine de hautes tours. Au Moyen-Age, elles servaient de poste de guet pour prévenir des attaques. Mais aujourd'hui, qui habite ici? Où sont les clefs des portes de Bologne, aux serrures surmontées par des masques rieurs et des lions en bronze ? Qui fait la loi ? Est-ce la couleur rouge des murs ? Ou celle du plaisir du bon vin ? Ou les étudiants qui, aux heures de soleil, envahissent les places pour discuter à même le sol ? C'est que Bologne abrite la plus vieille université d'Europe, fréquentée par les illustres Dante, Boccace et Pétrarque. Il n'y a pas, en Italie, de ville plus sympathique que celle ci."
+  description:"Ses rues médiévales sont propices à toutes les aventures. Elles sont recouvertes par d'interminables portiques, construits assez haut, dit-on, pour laisser passer un homme à cheval. Très pittoresque, le centre ville est hérissé d'une dizaine de hautes tours. Au Moyen-Age, elles servaient de poste de guet pour prévenir des attaques. Mais aujourd'hui, qui habite ici? Où sont les clefs des portes de Bologne, aux serrures surmontées par des masques rieurs et des lions en bronze ? Qui fait la loi ? Est-ce la couleur rouge des murs ? Ou celle du plaisir du bon vin ? Ou les étudiants qui, aux heures de soleil, envahissent les places pour discuter à même le sol ? C'est que Bologne abrite la plus vieille université d'Europe, fréquentée par les illustres Dante, Boccace et Pétrarque. Il n'y a pas, en Italie, de ville plus sympathique que celle ci.",
   province: emilieromagne,
   coordinates: "https://goo.gl/maps/SikWUfv8ZAP2",
   heraldic: "blaz_bologne.png",
@@ -2175,7 +2133,6 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_36.jpg",
   position: 41,
-  css_class: "landscape",
   city: bologne
 )
 Picture.create(
