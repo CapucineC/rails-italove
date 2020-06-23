@@ -2349,28 +2349,28 @@ florence =  City.create(
   picture: "flo_00.jpg",
   caption: "Cappella dei Magi, Benozzo Gozzoli")
 Picture.create(
-url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_1".jpg,
+url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_1.jpg",
 position: 1,
 css_class: "portrait",
 city: florence
 )
 
 Picture.create(
-url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_2".jpg,
+url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_2.jpg",
 position: 2,
 css_class: "portrait",
 city: florence
 )
 
 Picture.create(
-url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_3".jpg,
+url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_3.jpg",
 position: 3,
 css_class: "portrait",
 city: florence
 )
 
 Picture.create(
-url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_4".jpg,
+url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_4.jpg",
 position: 4,
 css_class: "all",
 city: florence
