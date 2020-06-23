@@ -1,3 +1,4 @@
+Picture.destroy_all
 City.destroy_all
 Province.destroy_all
 
@@ -2541,7 +2542,7 @@ city: Florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_28.2",
-position: 28.2,,
+position: 28.2,
 city: Florence
 )
 
