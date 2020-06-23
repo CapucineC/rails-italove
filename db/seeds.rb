@@ -2531,7 +2531,7 @@ position: 27,
 city: florence
 )
 Picture.create(
-url:"https://raw.githubusercontent.com/CapucineC.jpg/iMages/master/Florence/flo_28.jpg",
+url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_28.jpg",
 position: 28,
 city: florence
 )
