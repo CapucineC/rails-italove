@@ -2897,12 +2897,6 @@ city: florence
   picture: "si_00.jpg",
   caption: "Annunciazione, Ambrogio Lorenzetti")
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_1.jpg",
-  position: 1,
-  css_class: "all",
-  city: sienne
-)
-Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_3.jpg",
   position: 2,
   css_class: "all",
@@ -2917,12 +2911,6 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_4.jpg",
   position: 4,
-  css_class: "all",
-  city: sienne
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_5.jpg",
-  position: 5,
   css_class: "all",
   city: sienne
 )
@@ -2953,18 +2941,13 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_10.jpg",
   position: 10,
+  css_class: "all",
   city: sienne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_11.jpg",
   position: 11,
-  css_class: "landscape",
-  city: sienne
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_12.jpg",
-  position: 12,
-  css_class: "landscape",
+  css_class: "all",
   city: sienne
 )
 Picture.create(
@@ -3080,16 +3063,19 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_32.jpg",
   position: 32,
+  css_class: "portrait",
   city: sienne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_33.jpg",
   position: 33,
+  css_class: "portrait",
   city: sienne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_34.jpg",
   position: 34,
+  css_class: "portrait",
   city: sienne
 )
 Picture.create(
@@ -3126,12 +3112,6 @@ Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_40.jpg",
   position: 40,
   css_class: "landscape",
-  city: sienne
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_41.jpg",
-  position: 41,
-  css_class: "all",
   city: sienne
 )
 Picture.create(
