@@ -2975,18 +2975,6 @@ Picture.create(
   city: sienne
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_17.jpg",
-  position: 17,
-  css_class: "portrait",
-  city: sienne
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_18.jpg",
-  position: 18,
-  css_class: "portrait",
-  city: sienne
-)
-Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_19.jpg",
   position: 19,
   css_class: "portrait",
@@ -2995,12 +2983,6 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_20.jpg",
   position: 20,
-  css_class: "portrait",
-  city: sienne
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_21.jpg",
-  position: 21,
   css_class: "portrait",
   city: sienne
 )
@@ -3100,24 +3082,6 @@ Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_38.jpg",
   position: 38,
   css_class: "portrait",
-  city: sienne
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_39.jpg",
-  position: 39,
-  css_class: "landscape",
-  city: sienne
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_40.jpg",
-  position: 40,
-  css_class: "landscape",
-  city: sienne
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_42.jpg",
-  position: 42,
-  css_class: "all",
   city: sienne
 )
 
