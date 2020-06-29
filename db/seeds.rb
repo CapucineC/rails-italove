@@ -2342,7 +2342,7 @@ toscane = Province.create(
 florence =  City.create(
   name:"Florence",
   geocoding: "43° 46′ 18′ NORD 11° 15′ 13′ EST",
-  description: "Ville binaire et géométrique, Florence est sans demi-mesure. Elle est tantôt sombre, avec un ciel bas et des bâtisses austères qui rappellent son passé politique sulfureux fait de dangers et de luttes : se sont affrontés les Guelfes contre les Gibelins, les Franciscains contre les Dominicains, les Medicis contre les Pazzi, Savenarole contre Laurent le Magnifique. Et puis, inversée comme par miracle, elle apparait alors légère, saupoudrée d'or, parsemée de chappelles et de cloîtres aux peintures les plus douces. A Florence, la Beauté est un pouvoir, depuis qu'au quinzième siècle, Cosme de Médicis demanda à Brunelleschi de construire le Dôme chargé de recouvrir Santa Maria del Fiore. Par ce moyen, le mécène Médicis avait lancé la Renaissance, qui permit un foisonnement artistique sans précédent et donna à l'Italie ses plus grands artistes et penseurs.",
+  description: "Ville binaire et géométrique, Florence est sans demi-mesure. Elle est tantôt sombre, avec un ciel bas et des bâtisses austères qui rappellent son passé politique sulfureux fait de dangers et de luttes : se sont affrontés les Guelfes contre les Gibelins, les Franciscains contre les Dominicains, les Medicis contre les Pazzi, Savenarole contre Laurent le Magnifique. Et puis, inversée comme par miracle, elle apparait soudain légère, saupoudrée d'or, parsemée de chapelles et de cloîtres aux peintures les plus douces. A Florence, la Beauté est un pouvoir, depuis qu'au quinzième siècle, Cosme de Médicis demanda à Brunelleschi de construire le Dôme chargé de recouvrir Santa Maria del Fiore. Par ce moyen, le mécène Médicis avait lancé la Renaissance, et permis un foisonnement artistique sans précédent qui donna à l'Italie ses plus grands artistes et penseurs.",
   province: toscane,
   coordinates: "https://www.franceculture.fr/emissions/carnet-nomade/je-vous-ecris-de-florence",
   heraldic: "blaz_florence.png",
@@ -2558,14 +2558,14 @@ city: florence
 )
 
 Picture.create(
-url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_32.JPG",
+url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_32.jpg",
 position: 32,
 css_class: "portrait",
 city: florence
 )
 
 Picture.create(
-url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_33.JPG",
+url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_33.jpg",
 position: 33,
 css_class: "portrait",
 city: florence
