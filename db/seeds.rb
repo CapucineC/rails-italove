@@ -6,7 +6,7 @@ Province.destroy_all
 piemont = Province.create(
   name: "Piémont",
   map: "piemonte-map.png",
-  description:"Avoisinant la France, situé aux pieds des Alpes, traversé par des bourgades montagnardes authentiques, le Piémont est une région très caractérielle. Au loin, les sommets des montagnes apparaissent blancs et majestueux et donnent aux paysages une sérénité hors temps. Aux vallons chargés de vignes qui murissent lentement sur les hauteurs répondent les vallées gorgées par l'eau du Pô, où se cultive depuis toujours un riz perlé de renom. A cheval sur deux pays, le Piémont s’entendait à l’origine sur la Savoie française. Et puis, au fil des siècles, les comtes et les ducs de Savoie ont finalement établi leur siège à Turin. Par la suite, ils ont donné l'impulsion nécessaire à l’unification des régions et à la construction de l'Italie. La ville de Turin, chef-lieu du Piémont, est une ville solennelle aux accents français qui garde en elle la dignité royale des Savoie.")
+  description:"Avoisinant la France, situé aux pieds des Alpes, traversé par des bourgades montagnardes authentiques, le Piémont est une région très caractérielle. Au loin, les sommets des montagnes apparaissent blancs et majestueux et donnent aux paysages une sérénité hors temps. Aux vallons chargés de vignes qui murissent lentement sur les hauteurs répondent les vallées gorgées par l'eau du Pô, où se cultive depuis toujours un riz perlé de renom. A cheval sur deux pays, le Piémont s’entendait à l’origine sur la Savoie française. Et puis, au fil des siècles, les comtes et les ducs de Savoie ont finalement établi leur siège à Turin. Par la suite, ils ont donné l'impulsion nécessaire à l’unification des régions et à la construction de l'Italie. La ville de Turin, chef-lieu du Piémont, est une ville solennelle aux accents français qui garde encore en elle la dignité royale des Savoie.")
 turin =   City.create(
   name:"Turin",
   geocoding: "45° 04′ 00″ NORD 7° 42′ 00″ EST",
@@ -1114,18 +1114,6 @@ Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/como_20.jpg",
   position: 20,
   css_class: "all",
-  city: come
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/como_21.jpg",
-  position: 21,
-  css_class: "landscape",
-  city: come
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/como_22.jpg",
-  position: 22,
-  css_class: "landscape",
   city: come
 )
 Picture.create(
@@ -2559,27 +2547,6 @@ city: florence
 )
 
 Picture.create(
-url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_34.jpg",
-position: 34,
-css_class: "portrait",
-city: florence
-)
-
-Picture.create(
-url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_35.jpg",
-position: 35,
-css_class: "portrait",
-city: florence
-)
-
-Picture.create(
-url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_36.jpg",
-position: 36,
-css_class: "portrait",
-city: florence
-)
-
-Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_37.jpg",
 position: 37,
 css_class: "landscape",
@@ -2680,12 +2647,14 @@ city: florence
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_51.jpg",
 position: 51,
+css_class: "landscape",
 city: florence
 )
 
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_53.jpg",
 position: 52,
+css_class: "landscape",
 city: florence
 )
 
@@ -2693,13 +2662,6 @@ Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_52.jpg",
 position: 53,
 css_class: "all",
-city: florence
-)
-
-Picture.create(
-url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_54.jpg",
-position: 54,
-css_class: "landscape",
 city: florence
 )
 
@@ -2930,12 +2892,6 @@ Picture.create(
   city: sienne
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_11.jpg",
-  position: 11,
-  css_class: "all",
-  city: sienne
-)
-Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_13.jpg",
   position: 13,
   css_class: "portrait",
@@ -3073,7 +3029,7 @@ Picture.create(
 ombrie = Province.create(
   name: "Ombrie",
   map: "umbria-map.png",
-  description:"La Ombrie est la seule partie d’Italie qui soit sans frontières commune avec la mer. Bien repliée dans ses forêts, ses vallées étalent un vert sombre et sérieux sur tout le paysage. C’est une région totalement enclavée, intérieure, et secrète, propice à une introspection heureuse encouragée par le souvenir de François d’Assise et la piété des fresques de Giotto. En haut des collines, des oliveraies et des champs labourés, on voit se dresser des villages fortifiés dont la pierre historique nous rappelle au Moyen-Âge, à cette période historique totalement engageante qui renvoie l’imaginaire vers de lointaines contrées.")
+  description:"La Ombrie est la seule partie d’Italie qui soit sans frontière commune avec la mer. Bien repliée dans ses forêts intérieures, ses vallées étalent un vert sombre et sérieux sur tout le paysage. C’est une région totalement enclavée, intérieure, et secrète, propice à une méditation heureuse encouragée par le souvenir de François d’Assise et la piété des fresques de Giotto. La Ombrie est lointainement étrusque et fortement médiévale. En haut des collines, des oliveraies et des champs labourés, on voit se dresser des villages fortifiés dont la pierre historique nous rappelle au Moyen-Âge et nous replongent dans cette époque absolue et sans concessions.")
 bevagna =  City.create(
   name:"Bevagna",
   geocoding: "none given",
