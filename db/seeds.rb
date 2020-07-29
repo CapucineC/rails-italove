@@ -3029,7 +3029,7 @@ Picture.create(
 ombrie = Province.create(
   name: "Ombrie",
   map: "umbria-map.png",
-  description:"La Ombrie est la seule partie d’Italie qui soit sans frontière commune avec la mer. Bien repliée dans ses forêts intérieures, ses vallées étalent un vert sombre et sérieux sur tout le paysage. C’est une région totalement enclavée, intérieure, et secrète, propice à une méditation heureuse encouragée par le souvenir de François d’Assise et la piété des fresques de Giotto. La Ombrie est lointainement étrusque et fortement médiévale. En haut des collines, des oliveraies et des champs labourés, on voit se dresser des villages fortifiés dont la pierre historique nous rappelle au Moyen-Âge et nous replongent dans cette époque absolue et sans concessions.")
+  description:"La Ombrie est la seule partie d’Italie qui soit sans frontière commune avec la mer. Bien repliée dans ses forêts intérieures, ses vallées étalent un vert sombre et sérieux sur tout le paysage. C’est une région totalement enclavée, intérieure, et secrète, propice à une méditation heureuse encouragée par le souvenir de François d’Assise et la piété des fresques de Giotto. La Ombrie est lointainement étrusque et fortement médiévale. En haut des collines, des oliveraies et des champs labourés, on voit se dresser des villages fortifiés dont la pierre historique nous rappelle au Moyen-Âge et nous replonge dans cette époque absolue, spirituelle et sans concessions.")
 bevagna =  City.create(
   name:"Bevagna",
   geocoding: "none given",
@@ -3042,7 +3042,7 @@ bevagna =  City.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_1.jpg",
   position: 1,
-  css_class: "landscape",
+  css_class: "all",
   city: bevagna
 )
 Picture.create(
@@ -3060,7 +3060,7 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_4.jpg",
   position: 4,
-  css_class: "landscape",
+  css_class: "all",
   city: bevagna
 )
 Picture.create(
@@ -3120,13 +3120,13 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_14.jpg",
   position: 14,
-  css_class: "portrait",
+  css_class: "landscape",
   city: bevagna
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_15.jpg",
   position: 15,
-  css_class: "portrait",
+  css_class: "landscape",
   city: bevagna
 )
 Picture.create(
@@ -3138,30 +3138,12 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_17.jpg",
   position: 17,
-  css_class: "landscape",
+  css_class: "portrait",
   city: bevagna
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_18.jpg",
   position: 18,
-  css_class: "landscape",
-  city: bevagna
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_19.jpg",
-  position: 19,
-  css_class: "portrait",
-  city: bevagna
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_20.jpg",
-  position: 20,
-  css_class: "portrait",
-  city: bevagna
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_21.jpg",
-  position: 21,
   css_class: "portrait",
   city: bevagna
 )
