@@ -3037,7 +3037,7 @@ bevagna =  City.create(
   province: ombrie,
   coordinates: "none given",
   heraldic: "blaz_bevagna.png",
-  picture: "ro_2.jpg",
+  picture: "be_00.png",
   caption: "a compléter")
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_1.jpg",
@@ -3155,7 +3155,7 @@ montone =  City.create(
   province: ombrie,
   coordinates: "none given",
   heraldic: "blaz_montone.png",
-  picture: "ro_2.jpg",
+  picture: "mon_00.png",
   caption: "a compléter")
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_1.jpg",
@@ -3293,11 +3293,11 @@ Picture.create(
 gubbio =  City.create(
   name:"Gubbio",
   geocoding: "none given",
-  description:"Le village de Gubbio possède une beauté pure, terrestre et raffinée. En bas de la vallée, il nous cueille pour nous emmener dans ses ruelles pavées. Elles sont denses et pierreuses, et se rétrécissent à mesure que notre montée se raidie pour mieux nous capturer dans son atmosphère médiévale. Sur la grande place en haut du village, on aperçoit le très altier Palais des Consuls, dont la hauteur vertigineuse provoque l'ébahissement. Il faut s'avancer sur le rebord de cette place qui est entièrement bordée par une petite muraille. Un pas ou deux, et devant nous s'étale toute la vallée ombrienne à perte de vue. Nous regardons les villages au loin enroulés sur leurs églises, les oliviers à flanc vallée et les vieilles bâtisses qui parsèment la campagne. Alors nous sourions en pensant combien tout ceci ressemble à un tableau de maître !",
+  description:"Le village de Gubbio possède une beauté pure, terrestre et raffinée. En bas de la vallée, il nous cueille pour nous emmener dans ses ruelles pavées. Elles sont denses et pierreuses, et se rétrécissent à mesure que notre montée se raidie pour mieux nous capturer dans son atmosphère médiévale. Sur la grande place en haut du village, on aperçoit le très altier Palais des Consuls, dont la hauteur vertigineuse provoque l'ébahissement. Il faut s'avancer sur le rebord de cette place qui est entièrement bordée par une petite muraille. Un pas ou deux, et devant nous s'étale toute la vallée ombrienne à perte de vue. Nous regardons les villages au loin enroulés sur leurs églises, les oliviers à flanc vallée et les vieilles bâtisses qui parsèment la campagne. Alors nous sourions en pensant combien tout ceci ressemble à un tableau de maître.",
   province: ombrie,
   coordinates: "none given",
   heraldic: "blaz_gubbio.png",
-  picture: "ro_2.jpg",
+  picture: "gu_00.png",
   caption: "a compléter")
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_1.jpg",
@@ -3507,11 +3507,11 @@ Picture.create(
 orvieto =  City.create(
   name:"Orvieto",
   geocoding: "none given",
-  description:"Déjà quand on l’aperçoit au loin, force est de marquer un temps d’arrêt. Orvieto est perchée sur une falaise, entourée par des murailles en pierre et devant, des arbres bien rangés s’allongent dans la campagne paisible. A l’intérieur, ses rues sont épaisses, la pierre est lourde, et on trouve par endroits des grottes sous-terraines qui remontent à l’époque étrusque. Mais Orvieto est surtout une ville aux milles couleurs, témoignage encore vivant de la flamboyance du Moyen-Âge. Sa cathédrale est extrêmement colorée : son fronton est couverte de mosaïques dorées, tandis qu’à l’intérieur d’incroyables fresques racontent des histoires divines.",
+  description:"Déjà quand on l’aperçoit au loin, force est de marquer un temps d’arrêt. Orvieto est majestueusement perchée sur une falaise, entourée par des murailles et devant elle  des arbres bien rangés s’allongent dans la campagne paisible. A l’intérieur, les rues sont épaisses, la pierre est lourde, et on trouve par endroits des grottes sous-terraines qui remontent à l’époque étrusque. Mais Orvieto est avant tout une ville aux milles couleurs, témoignage encore vivant de la flamboyance du Moyen-Âge. Elle possède une cathédrale prodigieusement colorée, presqu’à la manière d’une enluminure gigantesque. Ses murs sont parés de lignes de marbre rose, blanc et noir. Son fronton est couvert de mosaïques aux reliefs d’or. Et à l’intérieur de l’église, d’incroyables fresques racontent avec ferveur les plus célèbres des histoires divines.",
   province: ombrie,
   coordinates: "none given",
   heraldic: "blaz_orvieto.png",
-  picture: "ro_2.jpg",
+  picture: "or_00.png",
   caption: "a ")
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_1.jpg",
