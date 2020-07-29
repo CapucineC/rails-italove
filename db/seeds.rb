@@ -3038,7 +3038,7 @@ bevagna =  City.create(
   coordinates: "none given",
   heraldic: "blaz_bevagna.png",
   picture: "be_00.png",
-  caption: "a compléter")
+  caption: "Piazza Silvestri")
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_1.jpg",
   position: 1,
@@ -3156,7 +3156,7 @@ montone =  City.create(
   coordinates: "none given",
   heraldic: "blaz_montone.png",
   picture: "mon_00.png",
-  caption: "a compléter")
+  caption: "Convento di San Francesco")
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_1.jpg",
   position: 1,
@@ -3298,7 +3298,7 @@ gubbio =  City.create(
   coordinates: "none given",
   heraldic: "blaz_gubbio.png",
   picture: "gu_00.png",
-  caption: "a compléter")
+  caption: "Palazzo dei Consoli")
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_1.jpg",
   position: 1,
@@ -3512,7 +3512,7 @@ orvieto =  City.create(
   coordinates: "none given",
   heraldic: "blaz_orvieto.png",
   picture: "or_00.png",
-  caption: "a ")
+  caption: "Duomo di Orvieto")
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_1.jpg",
   position: 1,
