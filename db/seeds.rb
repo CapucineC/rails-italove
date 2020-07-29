@@ -3151,7 +3151,7 @@ Picture.create(
 montone =  City.create(
   name:"Montone",
   geocoding: "none given",
-  description:"C'est un tout petit village sur un rocher bruni, sur un rocher la lune, comme un point sur un i. Montone laisse lentement découvrir ses rues qui montent et qui descendent, protégées par des petites murailles toutes médiévales. On y voit des pierres et des portes, des madonnes en faïence, des feuilles, une jolie fille et des lumières qui arrivent à mesure que la nuit s'agrandit. C'est ici, dans ce petit village très caractériel que naquit Andra, surnommé Braccio da Montone, qui fut l'un des plus illustres condottières du quatorzième siècle. Derrière leur charme bucolique, les vieux pavés de Montone nous renvoient donc aux temps troubles de l'Italie communale. ",
+  description:"C'est un tout petit village sur un rocher bruni, sur un rocher perché, comme un point sur un i. Montone laisse lentement découvrir ses rues qui montent et qui descendent, protégées par des petites murailles toutes médiévales. On y voit des pierres et des portes, des madonnes en faïence, des feuilles, une jolie fille et des lumières qui arrivent à mesure que la nuit s'agrandit. C'est ici, dans ce petit village très caractériel que naquit Andrea Fortebracci, surnommé Braccio da Montone, qui fut l'un des plus illustres condottières du quatorzième siècle. Derrière leur charme bucolique, les vieux pavés de Montone nous renvoient donc aux temps troubles de l'Italie communale.",
   province: ombrie,
   coordinates: "none given",
   heraldic: "blaz_montone.png",
@@ -3293,7 +3293,7 @@ Picture.create(
 gubbio =  City.create(
   name:"Gubbio",
   geocoding: "none given",
-  description:"Gubbio est un village qui s'élève de façon spectaculaire à la verticale d'une falaise. Ses rues denses et pierreuses qui montent sans cesse plongent le promeneur dans une atmosphère médiévale captivante. Tout y semble resté en état depuis le Moyen-Age, et la ville prête à redevenir aussi glorieuse qu'autrefois. Sur la grande place en haut du village, on aperçoit le très altier Palais des Consuls, dont la beauté puriste provoque l'ébahissement. En Ombrie, la hauteur des bâtiments peut être vertigineuse. Gubbio possède une beauté pure, terrestre et raffinée.",
+  description:"Le village de Gubbio possède une beauté pure, terrestre et raffinée. En bas de la vallée, il nous cueille pour nous emmener dans ses ruelles pavées. Elles sont denses et pierreuses, et se rétrécissent à mesure que notre montée se raidie pour mieux nous capturer dans son atmosphère médiévale. Sur la grande place en haut du village, on aperçoit le très altier Palais des Consuls, dont la hauteur vertigineuse provoque l'ébahissement. Il faut alors s'avancer sur le rebord de cette place qui est entièrement bordée par une petite muraille. Un pas ou deux, et devant nous s'étale toute la vallée ombrienne à perte de vue. Nous regardons les villages au loin enroulés sur leurs églises, les oliviers à flanc vallée et les vieilles bâtisses qui parsèment la campagne. Nous pensons que tout cela ressemble à un tableau de maître, alors nous sourions.",
   province: ombrie,
   coordinates: "none given",
   heraldic: "blaz_gubbio.png",
@@ -3414,24 +3414,6 @@ Picture.create(
   city: gubbio
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_20.jpg",
-  position: 20,
-  css_class: "portrait",
-  city: gubbio
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_21.jpg",
-  position: 21,
-  css_class: "portrait",
-  city: gubbio
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_22.jpg",
-  position: 22,
-  css_class: "portrait",
-  city: gubbio
-)
-Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_23.jpg",
   position: 23,
   css_class: "landscape",
@@ -3446,13 +3428,7 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_25.jpg",
   position: 25,
-  css_class: "zoom",
-  city: gubbio
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_26.jpg",
-  position: 26,
-  css_class: "portrait",
+  css_class: "landscape",
   city: gubbio
 )
 Picture.create(
@@ -3476,7 +3452,7 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_30.jpg",
   position: 30,
-  css_class: "landscape",
+  css_class: "all",
   city: gubbio
 )
 Picture.create(
