@@ -3676,19 +3676,13 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_13.jpg",
   position: 13,
-  css_class: "all",
+  css_class: "landscape",
   city: rome
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_16.1.jpg",
   position: 14,
-  css_class: "zoom",
-  city: rome
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_16.2.jpg",
-  position: 15,
-  css_class: "portrait",
+  css_class: "landscape",
   city: rome
 )
 Picture.create(
@@ -3892,18 +3886,6 @@ Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_53.jpg",
   position: 53,
   css_class: "all",
-  city: rome
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_55.jpg",
-  position: 55,
-  css_class: "portrait",
-  city: rome
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_56.jpg",
-  position: 56,
-  css_class: "zoom",
   city: rome
 )
 Picture.create(
