@@ -3029,7 +3029,7 @@ Picture.create(
 ombrie = Province.create(
   name: "Ombrie",
   map: "umbria-map.png",
-  description:"La Ombrie est la seule partie d’Italie qui soit sans frontière commune avec la mer. Bien repliée dans ses forêts intérieures, ses vallées étalent un vert sombre et sérieux sur tout le paysage. C’est une région totalement enclavée, intérieure, et secrète, propice à une méditation heureuse encouragée par le souvenir de François d’Assise et la piété des fresques de Giotto. La Ombrie est lointainement étrusque et fortement médiévale. En haut des collines, des oliveraies et des champs labourés, on voit se dresser des villages fortifiés dont la pierre historique nous rappelle au Moyen-Âge et nous replonge dans cette époque absolue, spirituelle et sans concessions.")
+  description:"La Ombrie est la seule partie d’Italie qui soit sans frontière commune avec la mer. Bien repliée dans ses forêts intérieures, ses vallées étalent un vert sombre et sérieux sur tout le paysage. C’est une région totalement enclavée, intérieure, et secrète, propice à une méditation heureuse encouragée par le souvenir de François d’Assise et la piété des fresques de Giotto. La Ombrie est lointainement étrusque et fortement médiévale. En haut des collines, des oliveraies et des champs labourés, on voit se dresser des villages fortifiés dont la pierre historique nous rappelle au Moyen-Âge et nous replonge dans cette époque absolue, spirituelle et dangereuse qui n'avait pas encore dit non à l'Imaginaire.")
 bevagna =  City.create(
   name:"Bevagna",
   geocoding: "none given",
@@ -3477,7 +3477,7 @@ Picture.create(
 orvieto =  City.create(
   name:"Orvieto",
   geocoding: "none given",
-  description:"Déjà quand on l’aperçoit au loin, force est de marquer un temps d’arrêt. Orvieto est majestueusement perchée sur une falaise, entourée par des murailles et devant elle  des arbres bien rangés s’allongent dans la campagne paisible. A l’intérieur, les rues sont épaisses, la pierre est lourde, et on trouve par endroits des grottes sous-terraines qui remontent à l’époque étrusque. Mais Orvieto est avant tout une ville aux milles couleurs, témoignage encore vivant de la flamboyance du Moyen-Âge. Elle possède une cathédrale prodigieusement colorée, presqu’à la manière d’une enluminure gigantesque. Ses murs sont parés de lignes de marbre rose, blanc et noir. Son fronton est couvert de mosaïques aux reliefs d’or. Et à l’intérieur de l’église, d’incroyables fresques racontent avec ferveur les plus célèbres des histoires divines.",
+  description:"Déjà quand on l’aperçoit au loin, force est de marquer un temps d’arrêt. Orvieto est perchée sur une falaise, entourée par des murailles et devant elle des arbres bien rangés s’allongent dans la campagne paisible. A l’intérieur, les rues sont épaisses, la pierre est lourde, et on trouve par endroits des grottes sous-terraines qui remontent à l’époque étrusque. Mais Orvieto est avant tout une ville aux milles couleurs, témoignage encore vivant de la flamboyance du Moyen-Âge. Elle possède une cathédrale prodigieusement colorée, presqu’à la manière d’une enluminure gigantesque. Ses murs sont parés de lignes de marbre rose, blanc et noir. Son fronton est couvert de mosaïques aux reliefs d’or. Et à l’intérieur de l’église, d’incroyables fresques racontent avec ferveur le voyage des anges à travers la voute céleste.",
   province: ombrie,
   coordinates: "none given",
   heraldic: "blaz_orvieto.png",
@@ -3602,7 +3602,7 @@ latium = Province.create(
 rome =  City.create(
   name:"Rome",
   geocoding: "41° 53′ 19″ NORD 12° 29′ 12″ EST",
-  description:"Elle est Urbs, Caput Mundis, la ville éternelle. La gloire de Rome, au fils de siècle, ne s'est jamais éteinte. Dans l'Antiquité, elle donna son nom à l'empire romain, le plus puissant du monde, prodigieusement étendu par de-là la mer Méditerranée. Au Moyen Âge, le pouvoir catholique en a fait son siège, et les Papes leur résidence. À la Renaissance, les Orsini, les Farnese, les Borghese et les Barberini y ont construit des palais somptueux. Au dix-septième siècle, elle est devenu baroque. ROMA, alors, s'est renversé en AMOR pour nous parler de passion au milieu des peintures du Carravage, des églises de Borromini et des sculptures du Bernin. Puis, ce fut la Rome des mauvais garçons des films Bolognini et Pasolini. Enfin, la Rome d'aujourd'hui, capitale politique italienne et lieu de prédilection des promeneurs amoureux.",
+  description:"Elle est Urbs, Caput Mundis, la ville éternelle. Rome a toujours été une ville du Pouvoir, et sa gloire, au fils de siècle, ne s'est jamais éteinte. Dans l'Antiquité, elle donna son nom à l'empire romain, le plus puissant du monde, prodigieusement étendu par de-là la mer Méditerranée. Au Moyen-Âge, le pouvoir catholique en a fait son siège, et les Papes leur lieu de résidence. À la Renaissance, les familles Orsini, Farnese, Borghese et les Barberini y ont construit des palais somptueux. Au dix-septième siècle, elle est devenue baroque. ROMA, alors, s'est renversé en AMOR pour nous parler d'amour et de passion au milieu des peintures du Caravage, des églises de Borromini et des sculptures du Bernin. Et depuis, elle ne cesse d'attirer les amoureux d'art et les chercheurs de destin.",
   province: latium,
   coordinates: "https://goo.gl/maps/ceRkEQgjreP2",
   heraldic: "blaz_rome.png",
@@ -3676,34 +3676,24 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_13.jpg",
   position: 13,
-  css_class: "zoom",
-  city: rome
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_14.jpg",
-  position: 14,
-  city: rome
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_15.jpg",
-  position: 15,
+  css_class: "all",
   city: rome
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_16.1.jpg",
-  position: 16.1,
+  position: 14,
   css_class: "zoom",
   city: rome
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_16.2.jpg",
-  position: 16.2,
+  position: 15,
   css_class: "portrait",
   city: rome
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_16.3.jpg",
-  position: 16.3,
+  position: 16,
   css_class: "portrait",
   city: rome
 )
@@ -3810,9 +3800,8 @@ Picture.create(
   city: rome
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_35.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_37.jpg",
   position: 35,
-  css_class: "landscape",
   city: rome
 )
 Picture.create(
@@ -3822,8 +3811,9 @@ Picture.create(
   city: rome
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_37.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_35.jpg",
   position: 37,
+  css_class: "all",
   city: rome
 )
 Picture.create(
@@ -3867,7 +3857,7 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_45.jpg",
   position: 45,
-  css_class: "landscape",
+  css_class: "all",
   city: rome
 )
 Picture.create(
@@ -3913,7 +3903,7 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_53.jpg",
   position: 53,
-  css_class: "zoom",
+  css_class: "all",
   city: rome
 )
 Picture.create(
