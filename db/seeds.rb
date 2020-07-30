@@ -3048,7 +3048,7 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_2.jpg",
   position: 2,
-  css_class: "landscape",
+  css_class: "all",
   city: bevagna
 )
 Picture.create(
@@ -3060,13 +3060,13 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_4.jpg",
   position: 4,
-  css_class: "all",
+  css_class: "landscape",
   city: bevagna
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_5.jpg",
   position: 5,
-  css_class: "zoom",
+  css_class: "portrait",
   city: bevagna
 )
 Picture.create(
@@ -3078,13 +3078,13 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_7.jpg",
   position: 7,
-  css_class: "landscape",
+  css_class: "portrait",
   city: bevagna
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_8.jpg",
   position: 8,
-  css_class: "landscape",
+  css_class: "zoom",
   city: bevagna
 )
 Picture.create(
@@ -3096,7 +3096,7 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_10.jpg",
   position: 10,
-  css_class: "portrait",
+  css_class: "all",
   city: bevagna
 )
 Picture.create(
@@ -3108,42 +3108,12 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_12.jpg",
   position: 12,
-  css_class: "zoom",
+  css_class: "portrait",
   city: bevagna
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_13.jpg",
   position: 13,
-  css_class: "portrait",
-  city: bevagna
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_14.jpg",
-  position: 14,
-  css_class: "landscape",
-  city: bevagna
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_15.jpg",
-  position: 15,
-  css_class: "landscape",
-  city: bevagna
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_16.jpg",
-  position: 16,
-  css_class: "portrait",
-  city: bevagna
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_17.jpg",
-  position: 17,
-  css_class: "portrait",
-  city: bevagna
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_18.jpg",
-  position: 18,
   css_class: "portrait",
   city: bevagna
 )
