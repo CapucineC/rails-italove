@@ -3546,13 +3546,7 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_11.jpg",
   position: 11,
-  css_class: "landscape",
-  city: orvieto
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_12.jpg",
-  position: 12,
-  css_class: "landscape",
+  css_class: "all",
   city: orvieto
 )
 Picture.create(
@@ -3573,6 +3567,33 @@ Picture.create(
   css_class: "portrait",
   city: orvieto
 )
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_16.jpg",
+  position: 16,
+  css_class: "landscape",
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_17.jpg",
+  position: 17,
+  css_class: "landscape",
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_18.jpg",
+  position: 18,
+  css_class: "landscape",
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_19.jpg",
+  position: 19,
+  css_class: "landscape",
+  city: orvieto
+)
+
+
+
 
 latium = Province.create(
   name: "Latium",
@@ -3590,7 +3611,6 @@ rome =  City.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_1.jpg",
   position: 1,
-  css_class: "portrait",
   city: rome
 )
 Picture.create(
