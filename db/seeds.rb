@@ -4171,24 +4171,6 @@ Picture.create(
   city: naples
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_35.jpg",
-  position: 35,
-  css_class: "portrait",
-  city: naples
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_36.jpg",
-  position: 36,
-  css_class: "portrait",
-  city: naples
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_37.jpg",
-  position: 37,
-  css_class: "portrait",
-  city: naples
-)
-Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_38.jpg",
   position: 38,
   css_class: "landscape",
@@ -4300,12 +4282,6 @@ Picture.create(
   city: naples
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_57.jpg",
-  position: 57,
-  css_class: "portrait",
-  city: naples
-)
-Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_58.jpg",
   position: 58,
   css_class: "portrait",
@@ -4326,25 +4302,13 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_61.jpg",
   position: 61,
-  css_class: "portrait",
+  css_class: "all",
   city: naples
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_62.jpg",
   position: 62,
   css_class: "portrait",
-  city: naples
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_63.jpg",
-  position: 63,
-  css_class: "portrait",
-  city: naples
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_64.jpg",
-  position: 64,
-  css_class: "all",
   city: naples
 )
 Picture.create(
