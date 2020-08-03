@@ -4254,7 +4254,7 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_52.jpg",
   position: 52,
-  css_class: "portrait",
+  css_class: "zoom",
   city: naples
 )
 Picture.create(
@@ -4272,13 +4272,13 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_55.jpg",
   position: 55,
-  css_class: "all",
+  css_class: "portrait",
   city: naples
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_56.jpg",
   position: 56,
-  css_class: "zoom",
+  css_class: "portrait",
   city: naples
 )
 Picture.create(
@@ -4302,7 +4302,7 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_61.jpg",
   position: 61,
-  css_class: "all",
+  css_class: "zoom",
   city: naples
 )
 Picture.create(
