@@ -4326,19 +4326,19 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_67.jpg",
   position: 67,
-  css_class: "landscape",
+  css_class: "portrait",
   city: naples
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_68.jpg",
   position: 68,
-  css_class: "landscape",
+  css_class: "portrait",
   city: naples
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_69.jpg",
   position: 69,
-  css_class: "landscape",
+  css_class: "portrait",
   city: naples
 )
 Picture.create(
