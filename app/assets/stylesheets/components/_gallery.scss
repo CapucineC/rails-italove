@@ -3,9 +3,9 @@
   display: grid;
   grid-template-columns: repeat(6, 1fr);
   margin: 1em auto;
-  padding-left: 25vh;
-  padding-right: 25vh;
-  grid-auto-rows: 10vh;
+  padding-left: 19vh;
+  padding-right: 19vh;
+  grid-auto-rows: 17vh;
 }
 
 .wrapper div {
@@ -147,7 +147,7 @@ img {
 /* re-define your grid for small screens */
 @media(min-width: 1280px) {
   .wrapper {
-  grid-auto-rows: 18vh;
+  grid-auto-rows: 17vh;
   padding-left: 18vh;
   padding-right: 18vh;
   }
