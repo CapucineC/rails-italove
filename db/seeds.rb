@@ -3970,55 +3970,55 @@ naples =  City.create(
   picture: "na_00.jpg",
   caption: "Via Sant'Anna dei Lombardi")
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_01.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_1.jpg",
   position: 1,
   css_class: "portrait",
   city: naples
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_02.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_2.jpg",
   position: 2,
   css_class: "zoom",
   city: naples
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_03.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_3.jpg",
   position: 3,
   css_class: "portrait",
   city: naples
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_04.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_4.jpg",
   position: 4,
   css_class: "portrait",
   city: naples
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_05.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_5.jpg",
   position: 5,
   css_class: "portrait",
   city: naples
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_06.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_6.jpg",
   position: 6,
   css_class: "portrait",
   city: naples
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_07.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_7.jpg",
   position: 7,
   css_class: "portrait",
   city: naples
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_08.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_8.jpg",
   position: 8,
   css_class: "portrait",
   city: naples
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_09.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_9.jpg",
   position: 9,
   css_class: "portrait",
   city: naples
