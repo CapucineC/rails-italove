@@ -4282,6 +4282,12 @@ Picture.create(
   city: naples
 )
 Picture.create(
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_57.jpg",
+  position: 57,
+  css_class: "all",
+  city: naples
+)
+Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_58.jpg",
   position: 58,
   css_class: "portrait",
@@ -4446,7 +4452,7 @@ Picture.create(
 
 capri =  City.create(
   name:"Capri",
-  description:"Capri commence là où s'arrête Naples et permet une escapade nécessaire à l'intensité baroque. Dans ce paysage brute et escarpé, on trouve des grottes et des roches qui descendent vers une eau précieuse oscillant entre le bleu marin et le vert émeraude. Dans les rues des petits villages en haut de l'île, une abondance de fleurs aux couleurs chatoyantes embaument l'air et ravissent les promeneurs, tandis que la clientèle richissime envahit les boutiques de luxe. A Capri, perdu dans la mer Tyrrhénienne au large de la baie de Naples, le voyageur retrouve pour quelques heures une respiration, une légèreté, voir même quelquefois le sens du superflus. Le contraste est saisissant.",
+  description:"Capri commence là où s'arrête Naples et permet une escapade nécessaire à l'intensité baroque. Cette île brute au paysage rocheux et escarpé est entouré par de nombreuses criques aux eaux d’émeraude et de saphir. Dans les rues des petits villages postés en haut de l'île, une abondance de fleurs aux couleurs chatoyantes embaument l'air et ravissent les promeneurs, tandis qu’une clientèle richissime envahit les boutiques de luxe. A Capri, perdu dans la mer Tyrrhénienne au large de la baie de Naples, le voyageur retrouve pour quelques heures une respiration, une légèreté, voir même le sens du superflus. Le contraste est saisissant.",
   province: campanie,
   heraldic: "blaz_capri.png",
   picture: "ca_00.jpg",
