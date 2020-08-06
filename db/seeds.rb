@@ -4452,7 +4452,7 @@ Picture.create(
 
 capri =  City.create(
   name:"Capri",
-  description:"Capri commence là où s'arrête Naples et permet une escapade nécessaire à l'intensité baroque. Cette île brute au paysage rocheux et escarpé est entouré par de nombreuses criques aux eaux d’émeraude et de saphir. En haut de l’île, deux petits villages dominent. Les chemins qui les traversent révèlent une abondance de fleurs aux couleurs chatoyantes qui agrémentent la promenade et embaument le vent marin. Mais Capri n’est pas calme, elle est sans cesse envahi par une clientèle richissime qui accaparent les boutiques de luxe. Ainsi, perdu dans la mer Tyrrhénienne au large de la baie de Naples, le voyageur retrouve pour quelques heures une respiration au grand large, une légèreté, voir même quelquefois le sens du superflus. Le contraste est saisissant.",
+  description:"Capri commence là où s'arrête Naples et permet une escapade nécessaire à l'intensité baroque. Cette île brute au paysage rocheux et escarpé est entouré par de nombreuses criques aux eaux d’émeraude et de saphir. En haut de l’île, deux petits villages dominent. Les chemins qui les traversent révèlent une abondance de fleurs aux couleurs chatoyantes qui agrémentent la promenade et embaument le vent marin. Mais Capri n’est pas calme, elle est sans cesse envahie par une clientèle richissime qui accapare les boutiques de luxe. Ainsi, perdu dans la mer Tyrrhénienne au large de la baie de Naples, le voyageur retrouve pour quelques heures une respiration au grand large, une légèreté, voir même quelquefois le sens du superflus. Le contraste est saisissant.",
   province: campanie,
   heraldic: "blaz_capri.png",
   picture: "ca_00.jpg",
@@ -4660,11 +4660,11 @@ pouilles = Province.create(
 bari =  City.create(
   name:"Bari",
   geocoding: "41° 08′ 00″ NORD, 16° 52′ 00″ EST",
-  description:"À l'intérieur de Bari, le quartier de Barivecchia est un labyrinthe de vieilles rues secrètes et mystérieuses. Dès l'aube, les femmes pendent le linge propre à leurs fenêtre, préparent manuellement des orecchiettes dans leur cuisine et s'en vont s'assoir sur le pas de leur porte. D'autres habitants passent, empruntent des ruelles étroites, sorte de rue-couloirs ou s'égrènent les effigies de la Madone. Ils parlent un dialecte que l'on comprend à peine. La-bas les enfants jouent au ballon et les hommes boivent le café entre eux. Enfin, la promenade emmène devant les très blanches cathédrales romanes, et puis en haut des remparts, face à la mer adriatique, où les pécheurs nettoient le poisson tout juste péché.",
+  description:"À l'intérieur de Bari, le quartier de Barivecchia est un labyrinthe de vieilles rues secrètes et mystérieuses. Dès l'aube, les femmes préparent manuellement des orecchiettes dans leur cuisine, pendent le linge propre à leurs fenêtre et s'en vont s'assoir sur le pas de leur porte pour discuter. D'autres habitants passent devant elles en empruntent des ruelles étroites, sorte de rue-couloirs ou s'égrènent les effigies de la Madone. Ils parlent un dialecte que l'on comprend à peine. Là-bas sur les petites places, les enfants jouent au ballon et les hommes boivent le café entre eux. Enfin, nous passons devant les très belles, très blanches et très hautes cathédrales romanes, et puis nous arrivons en haut des remparts, face à la mer adriatique, où les pécheurs nettoient le poisson tout juste pris.",
   province: pouilles,
   coordinates: "https://goo.gl/maps/EsaSJMXxuf32",
   heraldic: "blaz_bari.png",
-  picture: "ba_00.jpg",
+  picture: "ba_00.png",
   caption: "Cattedrale di San Sabino")
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_1.jpg",
