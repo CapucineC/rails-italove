@@ -4759,13 +4759,13 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_18.1.jpg",
   position: 18.1,
-  css_class:"portrait",
+  css_class:"landscape",
   city: bari
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_18.2.jpg",
   position: 18.2,
-  css_class:"portrait",
+  css_class:"landscape",
   city: bari
 )
 Picture.create(
