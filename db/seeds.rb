@@ -3964,7 +3964,7 @@ campanie = Province.create(
   description:"Si la Campanie est aussi célébrée, c'est pour la beauté de ses couleurs. On trouve les teintes les plus douces d'Italie dans les marbres de Naples et les fresques des sites archéologiques de Pompéi et d'Herculanum mais aussi des couleurs vives et explosives sur les îles de Capri et Ravello, et dans tous les villages colorés qui parsèment la côte amalfitaine. La Campanie est une terre profonde et mystérieuse. Ici, le passé ne s'est jamais effacé et imprègne les caractères d'une vitalité immuable. Ici, la nature confond la beauté et le danger, dichotomie fondamentale renfermée dans le Vésuve, qui fait et défait les villes par son rugissement volcanique. Arrivée en terre méridionale, changement complet de paradigme, voici le Grand Sud.")
 naples =  City.create(
   name:"Naples",
-  description:"Le sable marin, les fresques à demi effacées, la lumière des vespas dans l'étroitesse des rues : Jaune de Naples. On dit que cette couleur est l'étendard des Dieux. Jaune du soleil et de la force, qui emplissait les décors à fresque des maisons des patriciens romains. Jaune du festoiement, de l'humeur heureuse, de l'or, de la grande richesse. Mais si d'aventure son éclat passe, alors il prend la teinte du souffre : couleur des flammes de l'enfer, jaune des parias, danger. Rire jaune, rire pour échapper aux situations, ainsi font les napolitains. Naples est assurément la ville la plus fascinante d'Italie, par la puissance des contradictions qu'elle est capable d'accepter. Cette ville qu'on dit dangereuse, où l'argent est sali et méprisé est une ville aristocrate qui traite ses habitants en princes. Les palais, les oeuvres d'art et les plus beaux opéras leurs sont donnés, offerts dans les rues aussi nécessairement que l'air et le soleil.",
+  description:"Le sable marin, les murs décrépis, la lumière des vespas dans l'étroitesse des rues : Jaune de Naples. On dit que cette couleur est l'étendard des Dieux. Jaune du soleil et de la force, qui emplissait les décors à fresque des maisons des patriciens romains. Jaune du festoiement, de l'humeur heureuse, de l'or, de la grande richesse. Mais si d'aventure son éclat passe, alors il prend la teinte du souffre : couleur des flammes de l'enfer, jaune des parias, danger. Rire jaune, rire pour échapper aux situations, ainsi font les napolitains. Naples est assurément la ville la plus fascinante d'Italie, par la puissance des contradictions qu'elle est capable d'accepter. Cette ville qu'on dit dangereuse, où l'argent est sali et méprisé est une ville aristocrate qui traite ses habitants en princes. Les palais, les oeuvres d'art et les plus beaux opéras leurs sont donnés, offerts dans les rues aussi nécessairement que l'air et le soleil.",
   province: campanie,
   heraldic: "blaz_naples.png",
   picture: "na_00.jpg",
@@ -4859,7 +4859,7 @@ Picture.create(
 polignano =   City.create(
   name:"Polignano a Mare",
   geocoding: "41° 00′ 00″ NORD 17° 13′ 00″ EST",
-  description:"C'est un village tout blanc, l'un des plus beaux villages des Pouilles, au profil antique et grec. Il est perché en haut de ses falaises qui tombent à pic et s'avance dans la mer comme un navire prêt à larguer ses amarres. Dans sa crique aux eaux limpides, entre les grottes apparentes et les rochers, des nageurs apparaissent par centaine, plantés dans l'eau et sur le sable dans un tourbillon de couleurs acidulées. Plus haut dans le village, au gré de ses rues pavées réchauffées par le soleil, Polignago laisse voir et revoir la mer par différents points de perspectives. Toujours il nous incite à prendre le large...",
+  description:"C'est un village tout blanc. C'est l'un des plus beaux villages des Pouilles, au profil antique et grec. Il est perché en haut de ses falaises qui tombent à pic et s'avance dans la mer comme un navire prêt à larguer ses amarres. Dans sa crique aux eaux limpides, entre les grottes apparentes et les rochers, des nageurs apparaissent par centaine, plantés dans l'eau et sur le sable dans un tourbillon de couleurs acidulées. Plus haut dans le village, au gré de ses rues pavées réchauffées par le soleil, Polignago laisse voir et revoir la mer par différents points de perspectives, comme une perpetuelle incitation à prendre le large.",
   province: pouilles,
   coordinates: "https://goo.gl/maps/y5jPJWArV9H2",
   heraldic: "blaz_polignano.png",
@@ -4925,13 +4925,19 @@ Picture.create(
   css_class: "landscape",
   city: polignano
 )
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_11.jpg",
+  position: 11,
+  css_class: "landscape",
+  city: polignano
+)
 
 
 
 monopoli =  City.create(
   name:"Monopoli",
   geocoding: "40° 57′ 00″ NORD 17° 18′ 00″ EST",
-  description:"Le charme de Monopoli vient de son petit port rempli de barques bleues et rouges. Avec certains balcons qui ont des loggias blanches, sa place faite d'eau et des Dômes en arrière fond, ce port possède un charme vénitien. Viennent s'y retrouver les promeneurs, avant de continuer leur balade dans les ruelles historiques pour terminer devant le château de Charles V, une impressionnante fortification défensive édifiée pendant l'occupation aragonaise. La ville a donc eu plusieurs influences, mais son nom hérité du grec 'monos-polis' l'affirme, elle est 'la ville unique'.",
+  description:"Le charme de Monopoli vient de son port miniature rempli d'authentiques barques en bois peintes en bleu et rouge. Avec certains balcons qui ont des loggias blanches, sa place faite d'eau et un Dôme en arrière-fond, l'endroit possède un charme quasiment vénitien. Les promeneurs viennent s'y retrouver  avant de continuer leur balade dans les ruelles historiques, pour terminer devant le château de Charles V, une impressionnante fortification défensive édifiée pendant l'occupation aragonaise. La ville a donc eu plusieurs influences, mais son nom hérité du grec 'monos-polis' l'affirme, elle est 'la ville unique'.",
   province: pouilles,
   coordinates: "https://goo.gl/maps/iSCYZKeXgPk",
   heraldic: "blaz_monopoli.png",
