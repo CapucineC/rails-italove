@@ -4886,19 +4886,19 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_4.jpg",
   position: 4,
-  css_class: "zoom",
+  css_class: "portrait",
   city: polignano
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_5.jpg",
   position: 5,
-  css_class: "zoom",
+  css_class: "portrait",
   city: polignano
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_6.jpg",
   position: 6,
-  css_class: "portrait",
+  css_class: "landscape",
   city: polignano
 )
 Picture.create(
