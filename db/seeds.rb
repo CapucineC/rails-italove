@@ -4786,14 +4786,14 @@ Picture.create(
   city: bari
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_21.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_22.jpg",
   position: 21,
+  css_class:"portrait",
   city: bari
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_22.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_21.jpg",
   position: 22,
-  css_class:"portrait",
   city: bari
 )
 Picture.create(
