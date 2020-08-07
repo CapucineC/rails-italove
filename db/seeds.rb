@@ -4868,13 +4868,13 @@ polignano =   City.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_1.jpg",
   position: 1,
-  css_class: "landscape",
+  css_class: "all",
   city: polignano
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_2.jpg",
   position: 2,
-  css_class: "landscape",
+  css_class: "all",
   city: polignano
 )
 Picture.create(
@@ -4916,39 +4916,16 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_9.jpg",
   position: 9,
-  css_class: "zoom",
+  css_class: "landscape",
   city: polignano
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_10.jpg",
   position: 10,
-  css_class: "portrait",
-  city: polignano
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_11.jpg",
-  position: 11,
-  css_class: "portrait",
-  city: polignano
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_12.jpg",
-  position: 12,
-  css_class: "zoom",
-  city: polignano
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_13.jpg",
-  position: 13,
   css_class: "landscape",
   city: polignano
 )
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_14.jpg",
-  position: 14,
-  css_class: "landscape",
-  city: polignano
-)
+
 
 
 monopoli =  City.create(
