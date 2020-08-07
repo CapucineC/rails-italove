@@ -3964,7 +3964,7 @@ campanie = Province.create(
   description:"Si la Campanie est aussi célébrée, c'est pour la beauté de ses couleurs. On trouve les teintes les plus douces d'Italie dans les marbres de Naples et les fresques des sites archéologiques de Pompéi et d'Herculanum mais aussi des couleurs vives et explosives sur les îles de Capri et Ravello, et dans tous les villages colorés qui parsèment la côte amalfitaine. La Campanie est une terre profonde et mystérieuse. Ici, le passé ne s'est jamais effacé et imprègne les caractères d'une vitalité immuable. Ici, la nature confond la beauté et le danger, dichotomie fondamentale renfermée dans le Vésuve, qui fait et défait les villes par son rugissement volcanique. Arrivée en terre méridionale, changement complet de paradigme, voici le Grand Sud.")
 naples =  City.create(
   name:"Naples",
-  description:"Le pavé sur le sol, les murs décrépis, la lumière des vespas dans l'étroitesse des rues : jaune de naples. On dit que cette couleur est l'étendard des Dieux. Jaune du soleil et de la force, qui emplissait les décors à fresque des maisons des patriciens romains. Jaune du festoiement, de l'humeur heureuse, de l'or, de la grande richesse. Mais si d'aventure son éclat passe, alors il prend la teinte du souffre : couleur des flammes de l'enfer, jaune des parias, danger. Rire jaune, rire pour échapper aux situations, ainsi font les napolitains. Naples est assurément la ville la plus fascinante d'Italie, par la puissance des contradictions qu'elle est capable d'accepter. Cette ville qu'on dit dangereuse, où l'argent est sali et méprisé est une ville aristocrate qui traite ses habitants en princes. Les palais, les oeuvres d'art et les plus beaux opéras leurs sont donnés, offerts dans les rues aussi nécessairement que l'air et le soleil.",
+  description:"Les fresques à demi effacés, le sable marin, la lumière des vespas dans l'étroitesse des rues : jaune de naples. On dit que cette couleur est l'étendard des Dieux. Jaune du soleil et de la force, qui emplissait les décors à fresque des maisons des patriciens romains. Jaune du festoiement, de l'humeur heureuse, de l'or, de la grande richesse. Mais si d'aventure son éclat passe, alors il prend la teinte du souffre : couleur des flammes de l'enfer, jaune des parias, danger. Rire jaune, rire pour échapper aux situations, ainsi font les napolitains. Naples est assurément la ville la plus fascinante d'Italie, par la puissance des contradictions qu'elle est capable d'accepter. Cette ville qu'on dit dangereuse, où l'argent est sali et méprisé est une ville aristocrate qui traite ses habitants en princes. Les palais, les oeuvres d'art et les plus beaux opéras leurs sont donnés, offerts dans les rues aussi nécessairement que l'air et le soleil.",
   province: campanie,
   heraldic: "blaz_naples.png",
   picture: "na_00.jpg",
@@ -4306,18 +4306,6 @@ Picture.create(
   city: naples
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_61.jpg",
-  position: 61,
-  css_class: "zoom",
-  city: naples
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_62.jpg",
-  position: 62,
-  css_class: "portrait",
-  city: naples
-)
-Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_65.jpg",
   position: 65,
   css_class: "landscape",
@@ -4452,7 +4440,7 @@ Picture.create(
 
 capri =  City.create(
   name:"Capri",
-  description:"Capri commence là où s'arrête Naples et permet une escapade nécessaire à l'intensité baroque. Cette île brute au paysage rocheux et escarpé est entouré par de nombreuses criques aux eaux d’émeraude et de saphir. En haut de l’île, deux petits villages dominent. Les chemins qui les traversent révèlent une abondance de fleurs aux couleurs chatoyantes qui agrémentent la promenade et embaument le vent marin. Mais Capri n’est pas calme, elle est sans cesse envahie par une clientèle richissime qui accapare les boutiques de luxe. Ainsi, perdu dans la mer Tyrrhénienne au large de la baie de Naples, le voyageur retrouve pour quelques heures une respiration au grand large, une légèreté, voir même quelquefois le sens du superflus. Le contraste est saisissant.",
+  description:"Capri commence là où s'arrête Naples et permet une escapade nécessaire à l'intensité baroque. C'est une île brute au paysage rocheux et escarpé, entourée par de nombreuses criques précieuses aux eaux d’émeraude et de saphir. En son fort intérieur, deux petits villages dominent. Les chemins qui les traversent révèlent une abondance de fleurs aux couleurs chatoyantes qui embaument le vent marin. Qu'il est doux de se laisser ravir, avant d'affronter la bruyante et richissime clientèle qui accapare les boutiques de luxe. Ainsi, perdu dans la mer Tyrrhénienne au large de la baie de Naples, le voyageur retrouve pour quelques heures une respiration au grand large, une légèreté, voir même quelquefois le sens du superflus. Le contraste est saisissant.",
   province: campanie,
   heraldic: "blaz_capri.png",
   picture: "ca_00.jpg",
