@@ -4681,13 +4681,19 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_3.jpg",
   position: 3,
-  css_class:"zoom",
+  css_class:"portrait",
   city: bari
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_4.jpg",
   position: 4,
-  css_class:"portrait",
+  css_class:"zoom",
+  city: bari
+)
+Picture.create(
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_5.jpg",
+  position: 5,
+  css_class:"zoom",
   city: bari
 )
 Picture.create(
@@ -4711,6 +4717,7 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_9.jpg",
   position: 9,
+  css_class:"portrait",
   city: bari
 )
 Picture.create(
@@ -4740,48 +4747,49 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_14.jpg",
   position: 14,
+  css_class: "portrait",
   city: bari
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_15.jpg",
   position: 15,
-  css_class:"landscape",
+  css_class:"portrait",
   city: bari
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_16.jpg",
   position: 16,
-  css_class:"landscape",
+  css_class:"portrait",
   city: bari
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_17.jpg",
   position: 17,
-  css_class:"zoom",
+  css_class:"portrait",
   city: bari
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_18.jpg",
   position: 18,
-  css_class:"portrait",
+  css_class:"landscape",
   city: bari
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_19.jpg",
   position: 19,
-  css_class:"portrait",
+  css_class:"landscape",
   city: bari
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_20.jpg",
   position: 20,
-  css_class:"portrait",
+  css_class:"landscape",
   city: bari
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_21.jpg",
   position: 21,
-  css_class:"portrait",
+  css_class:"landscape",
   city: bari
 )
 Picture.create(
@@ -4804,7 +4812,7 @@ Picture.create(
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_25.jpg",
-  position: 27,
+  position: 25,
   css_class:"portrait",
   city: bari
 )
@@ -4816,14 +4824,13 @@ Picture.create(
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_27.jpg",
-  position: 25,
+  position: 27,
   css_class:"portrait",
   city: bari
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_28.jpg",
   position: 28,
-  css_class:"portrait",
   city: bari
 )
 Picture.create(
@@ -4835,7 +4842,6 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_30.jpg",
   position: 30,
-  css_class:"portrait",
   city: bari
 )
 Picture.create(
@@ -4852,6 +4858,7 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_33.jpg",
   position: 33,
+  css_class:"portrait",
   city: bari
 )
 Picture.create(
@@ -4867,12 +4874,13 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_36.jpg",
   position: 36,
-  css_class: "portrait",
+  css_class: "",
   city: bari
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_37.jpg",
   position: 37,
+  css_class:"all",
   city: bari
 )
 Picture.create(
@@ -4884,117 +4892,34 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_39.jpg",
   position: 39,
+  css_class: "zoom",
   city: bari
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_40.jpg",
   position: 40,
+  css_class:"zoom",
+  city: bari
+)
+Picture.create(
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_41.jpg",
+  position: 41,
   css_class:"portrait",
   city: bari
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_42.jpg",
   position: 42,
+  css_class:"landscape",
   city: bari
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_43.jpg",
   position: 43,
-  css_class:"portrait",
+  css_class:"landscape",
   city: bari
 )
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_44.jpg",
-  position: 44,
-  city: bari
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_45.jpg",
-  position: 45,
-  city: bari
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_46.jpg",
-  position: 46,
-  city: bari
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_47.jpg",
-  position: 47,
-  city: bari
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_48.jpg",
-  position: 48,
-  css_class:"zoom",
-  city: bari
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_49.jpg",
-  position: 49,
-  css_class:"portrait",
-  city: bari
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_54.jpg",
-  position: 50,
-  css_class: "portrait",
-  city: bari
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_51.jpg",
-  position: 51,
-  css_class: "zoom",
-  city: bari
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_52.jpg",
-  position: 55,
-  css_class:"portrait",
-  city: bari
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_50.jpg",
-  position: 54,
-  css_class:"zoom",
-  city: bari
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_56.jpg",
-  position: 56,
-  css_class: "landscape",
-  city: bari
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_57.jpg",
-  position: 57,
-  css_class: "landscape",
-  city: bari
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_58.jpg",
-  position: 58,
-  css_class: "portrait",
-  city: bari
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_59.jpg",
-  position: 59,
-  css_class: "zoom",
-  city: bari
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_61.jpg",
-  position: 61,
-  css_class: "portrait",
-  city: bari
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_63.jpg",
-  position: 62,
-  css_class: "zoom",
-  city: bari
-)
+
 polignano =   City.create(
   name:"Polignano a Mare",
   geocoding: "41° 00′ 00″ NORD 17° 13′ 00″ EST",
