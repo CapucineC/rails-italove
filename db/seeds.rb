@@ -4859,7 +4859,7 @@ Picture.create(
 polignano =   City.create(
   name:"Polignano a Mare",
   geocoding: "41° 00′ 00″ NORD 17° 13′ 00″ EST",
-  description:"C'est un village tout blanc. C'est l'un des plus beaux villages des Pouilles, au profil antique et grec. Il est perché en haut de ses falaises qui tombent à pic et s'avance dans la mer comme un navire prêt à larguer ses amarres. Dans sa crique aux eaux limpides, entre les grottes apparentes et les rochers, des nageurs apparaissent par centaine, plantés dans l'eau et sur le sable dans un tourbillon de couleurs acidulées. Plus haut dans le village, au gré de ses rues pavées réchauffées par le soleil, Polignago laisse voir et revoir la mer par différents points de perspectives, comme une perpetuelle incitation à prendre le large.",
+  description:"C'est l'un des plus beaux villages des Pouilles, au profil antique et grec. C'est un village tout blanc.  Il est perché en haut de ses falaises qui tombent à pic. Il s'avance dans la mer comme un navire prêt à larguer ses amarres. Dans sa crique aux eaux limpides, des nageurs apparaissent par centaine entre les grottes apparentes et les rochers, et forment un tourbillon de couleurs vives. Plus haut, à l'intérieur même du village, Polignago laisse voir et revoir la mer par différents points de perspectives - sur les places, au travers de fenêtres, en haut d'un escalier - comme une perpetuelle incitation à prendre le large.",
   province: pouilles,
   coordinates: "https://goo.gl/maps/y5jPJWArV9H2",
   heraldic: "blaz_polignano.png",
@@ -4937,7 +4937,7 @@ Picture.create(
 monopoli =  City.create(
   name:"Monopoli",
   geocoding: "40° 57′ 00″ NORD 17° 18′ 00″ EST",
-  description:"Le charme de Monopoli vient de son port miniature rempli d'authentiques barques en bois peintes en bleu et rouge. Avec certains balcons qui ont des loggias blanches, sa place faite d'eau et un Dôme en arrière-fond, l'endroit possède un charme quasiment vénitien. Les promeneurs viennent s'y retrouver  avant de continuer leur balade dans les ruelles historiques, pour terminer devant le château de Charles V, une impressionnante fortification défensive édifiée pendant l'occupation aragonaise. La ville a donc eu plusieurs influences, mais son nom hérité du grec 'monos-polis' l'affirme, elle est 'la ville unique'.",
+  description:"Le charme de Monopoli vient de son port miniature rempli d'authentiques barques en bois qui sont peintes en bleu et rouge. Avec certains balcons qui ont des loggias blanches, sa place faite d'eau et un Dôme en arrière-fond, l'endroit possède un charme quasiment vénitien. Les promeneurs viennent s'y retrouver  avant de continuer leur balade dans les ruelles historiques, pour terminer devant le château de Charles V, une impressionnante fortification défensive édifiée pendant l'occupation aragonaise. La ville a donc eu plusieurs influences, mais son nom hérité du grec 'monos-polis' l'affirme, elle est 'la ville unique'.",
   province: pouilles,
   coordinates: "https://goo.gl/maps/iSCYZKeXgPk",
   heraldic: "blaz_monopoli.png",
@@ -5155,294 +5155,228 @@ Picture.create(
 lecce =   City.create(
   name:"Lecce",
   geocoding: "40° 21′ 13″ NORD 18° 10′ 32″ EST",
-  description:"La beauté de Lecce s'explique par sa pierre si particulière, dont la souplesse et la luminosité ont permis l'invention du 'Barocco leccese', un style architectural qui orne les façades de multiples sculptures d'anges, de fleurs, de colonnades torsadées et de blasons. Pierre blanche, beige ou ocre à mesure que le soleil l'éclaire pendant la journée. Pierre crayeuse, lisse, lumineuse, douce, montée en crème, sculptée toute en rondeur avec une facilité déconcertante, qui confère à la ville une harmonie et une douceur : “Dolce di Lecce”.",
+  description:"La beauté de Lecce s'explique par sa pierre si particulière dont la souplesse et la luminosité ont permis l'invention du style architectural nommé 'Barocco leccese'. Pierre blanche, beige ou ocre à mesure que le soleil l'éclaire pendant la journée. Pierre crayeuse, lisse, lumineuse. Pierre souple, montée en crème, sculptée toute en rondeur avec une facilité déconcertante, qui confère à toute la ville une harmonie des couleurs et une douceur des formes. En mettant à profit les qualités exceptionnellement maléables de cette pierre calcaire, les basiliques ont été ornées de multiples sculptures d'anges, de fleurs et de blasons. Aussi, toute balade dans les rues de Lecce est-elle baroque et poétique.",
   province: pouilles,
   coordinates: "https://goo.gl/maps/jtHhFteNxYD2",
   heraldic: "blaz_lecce.png",
   picture: "le_00.jpg")
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_1.jpg",
-  position: 1,
-  css_class: "portrait",
-  city: lecce
-)
-Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_2.jpg",
+  position: 1,
+  css_class:"all",
+  city: lecce
+)
+Picture.create(
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_1.jpg",
   position: 2,
-  css_class: "portrait",
-  city: lecce
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_3.jpg",
-  position: 3.1,
-  css_class: "portrait",
-  city: lecce
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_46.jpg",
-  position: 3.2,
   css_class:"landscape",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_45.jpg",
-  position: 3.3,
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_3.jpg",
+  position: 3,
   css_class:"landscape",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_4.jpg",
   position: 4,
+  css_class:"all",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_5.jpg",
   position: 5,
-  css_class: "portrait",
+  css_class:"landscape",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_6.jpg",
   position: 6,
+  css_class:"landscape",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_7.jpg",
   position: 7,
-  css_class: "portrait",
+  css_class:"portrait",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_8.jpg",
   position: 8,
-  css_class: "portrait",
+  css_class:"portrait",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_9.jpg",
   position: 9,
-  css_class: "portrait",
+  css_class:"portrait",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_10.jpg",
   position: 10,
-  css_class: "portrait",
+  css_class:"landscape",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_11.jpg",
-  position: 12,
+  position: 11,
+  css_class:"landscape",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_12.jpg",
-  position: 11,
-  css_class: "portrait",
+  position: 12,
+  css_class:"landscape",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_13.jpg",
   position: 13,
-  css_class: "landscape",
+  css_class:"landscape",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_14.jpg",
   position: 14,
-  css_class: "landscape",
+  css_class:"landscape",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_15.jpg",
   position: 15,
-  css_class: "landscape",
+  css_class:"landscape",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_16.jpg",
   position: 16,
-  css_class: "landscape",
+  css_class:"portrait",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_17.jpg",
   position: 17,
-  css_class: "portrait",
+  css_class:"portrait",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_18.jpg",
   position: 18,
-  css_class: "portrait",
+  css_class:"portrait",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_19.jpg",
   position: 19,
-  css_class: "portrait",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_20.jpg",
   position: 20,
-  css_class: "landscape",
+  css_class:"portrait",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_21.jpg",
   position: 21,
-  css_class: "landscape",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_22.jpg",
   position: 22,
-  css_class: "portrait",
+  css_class:"portrait",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_23.jpg",
   position: 23,
-  css_class: "portrait",
+  css_class:"portrait",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_24.jpg",
   position: 24,
-  css_class: "portrait",
+  css_class:"portrait",
+  city: lecce
+)
+Picture.create(
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_25.jpg",
+  position: 25,
+  css_class:"portrait",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_26.jpg",
   position: 26,
-  css_class: "portrait",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_27.jpg",
   position: 27,
-  css_class: "portrait",
+  css_class:"portrait",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_28.jpg",
   position: 28,
-  css_class: "portrait",
+  css_class:"landscape",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_29.jpg",
   position: 29,
-  css_class: "zoom",
+  css_class:"landscape",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_30.jpg",
   position: 30,
-  css_class: "mini",
+  css_class:"landscape",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_31.jpg",
   position: 31,
-  css_class: "mini",
+  css_class:"landscape",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_32.jpg",
   position: 32,
-  css_class: "mini",
+  css_class:"mini",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_33.jpg",
   position: 33,
-  css_class: "mini",
+  css_class:"mini",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_34.jpg",
   position: 34,
-  css_class: "landscape",
+  css_class:"mini",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_35.jpg",
   position: 35,
-  css_class: "landscape",
+  css_class:"mini",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_36.jpg",
   position: 36,
-  css_class: "landscape",
+  css_class:"mini",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_37.jpg",
   position: 37,
-  css_class: "landscape",
-  city: lecce
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_38.jpg",
-  position: 38,
-  css_class: "landscape",
-  city: lecce
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_39.jpg",
-  position: 39,
-  css_class: "landscape",
-  city: lecce
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_42.jpg",
-  position: 42,
-  css_class: "all",
-  city: lecce
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_43.jpg",
-  position: 43,
-  css_class:"landscape",
-  city: lecce
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_44.jpg",
-  position: 46,
-  css_class:"landscape",
-  city: lecce
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_47.jpg",
-  position: 47,
-  css_class:"zoom",
-  city: lecce
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_48.jpg",
-  position: 48,
-  css_class:"portrait",
-  city: lecce
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_49.jpg",
-  position: 49,
-  css_class:"portrait",
-  city: lecce
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_50.jpg",
-  position: 50,
-  css_class: "portrait",
-  city: lecce
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_51.jpg",
-  position: 51,
-  css_class:"portrait",
+  css_class:"mini",
   city: lecce
 )
 
