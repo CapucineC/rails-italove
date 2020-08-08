@@ -754,7 +754,7 @@ Picture.create(
 mantoue =   City.create(
   name:"Mantoue",
   geocoding: "45° 10′ NORD 10° 48′ EST",
-  description:"C'est d'éclat qu'il faut parler pour décrire Mantoue, cette éblouissante perle de la Renaissance dont la famille Gonzague a fait la richesse et la gloire. Il semble que son Palazzo Ducal ait été uniquement construit pour l'art et les plaisirs tant ses couloirs d'or, ses loggias et ses jardins promènent le voyageur dans un rêve. Dans ce palais, tout est fresque. A l'intérieur de la Chambre des Epoux, Andrea Mantegna nous raconte en peinture le règne des austères Gonzague, tandis qu'au plafond, les anges peints nous regardent en apesanteur, perchés depuis leurs nuages de crème. Continuons la promenade jusqu'aux portes de la ville, dans le Palazzo Te où le peintre maniériste Giulio Romano a renversé les perspectives et les ordres de grandeur, nous entrainant à sa suite dans le monde des géants et des dieux.",
+  description:"C'est d'éclat qu'il faut parler pour décrire Mantoue, cette perle de la Renaissance dont la famille Gonzague fit la richesse et la gloire. En embellissant sans cesse leur Palazzo Ducale, les ducs de Mantoue ont créé une oeuvre de beauté totale. Les plus belles fresques habillent les murs, les couloirs sont parsemées de mille fleurs peintes et les loggias donnent sur des jardins intérieurs remplis de roses qui viennent bercer les rêves d'amour des promeneurs solitaires. Dans la Chambre des Epoux - la plus importante pièce du palais - le peintre Mantegna a représenté ses maîtres avec beaucoup de diligence, ainsi qu'un fameux trompe l'oeil qui laisse des petits anges nous regarder depuis leur nuage de crème. Continuons la promenade jusqu'aux portes de la ville, dans le Palazzo Te où le peintre maniériste Giulio Romano a renversé les perspectives et les ordres de grandeur, nous entrainant à sa suite dans le monde des géants et des dieux.",
   province: lombardie,
   coordinates: "https://goo.gl/maps/wMK3qnSbNVn",
   heraldic: "blaz_mantoue.png",
@@ -762,16 +762,19 @@ mantoue =   City.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_1.jpg",
   position: 1,
+  css_class:"all",
   city: mantoue
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_2.jpg",
   position: 2,
+  css_class:"landscape",
   city: mantoue
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_3.jpg",
   position: 3,
+  css_class:"landscape",
   city: mantoue
 )
 Picture.create(
@@ -789,37 +792,37 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_6.jpg",
   position: 6,
-  css_class:"all",
+  css_class:"portrait",
   city: mantoue
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_7.jpg",
   position: 7,
-  css_class:"landscape",
+  css_class:"portrait",
   city: mantoue
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_8.jpg",
   position: 8,
-  css_class:"landscape",
+  css_class:"portrait",
   city: mantoue
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_9.jpg",
   position: 9,
-  css_class:"portrait",
+  css_class:"landscape",
   city: mantoue
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_10.jpg",
   position: 10,
-  css_class:"portrait",
+  css_class:"landscape",
   city: mantoue
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_11.jpg",
   position: 11,
-  css_class:"portrait",
+  css_class:"landscape",
   city: mantoue
 )
 Picture.create(
@@ -837,7 +840,7 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_14.jpg",
   position: 14,
-  css_class:"all",
+  css_class:"landscape",
   city: mantoue
 )
 Picture.create(
@@ -855,7 +858,7 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_17.jpg",
   position: 17,
-  css_class:"landscape",
+  css_class:"all",
   city: mantoue
 )
 Picture.create(
@@ -873,25 +876,25 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_20.jpg",
   position: 20,
-  css_class:"landscape",
+  css_class:"all",
   city: mantoue
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_21.jpg",
   position: 21,
-  css_class:"landscape",
+  css_class:"portrait",
   city: mantoue
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_22.jpg",
   position: 22,
-  css_class:"landscape",
+  css_class:"portrait",
   city: mantoue
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_23.jpg",
   position: 23,
-  css_class:"all",
+  css_class:"portrait",
   city: mantoue
 )
 Picture.create(
@@ -913,6 +916,18 @@ Picture.create(
   city: mantoue
 )
 Picture.create(
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_27.jpg",
+  position: 27,
+  css_class:"portrait",
+  city: mantoue
+)
+Picture.create(
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_28.jpg",
+  position: 28,
+  css_class:"portrait",
+  city: mantoue
+)
+Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_29.jpg",
   position: 29,
   css_class:"portrait",
@@ -921,19 +936,19 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_30.jpg",
   position: 30,
-  css_class:"portrait",
+  css_class:"landscape",
   city: mantoue
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_31.jpg",
   position: 31,
-  css_class:"portrait",
+  css_class:"landscape",
   city: mantoue
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_32.jpg",
   position: 32,
-  css_class:"landscape",
+  css_class:"all",
   city: mantoue
 )
 Picture.create(
@@ -945,60 +960,12 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_34.jpg",
   position: 34,
-  css_class:"all",
+  css_class:"landscape",
   city: mantoue
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_35.jpg",
   position: 35,
-  css_class:"portrait",
-  city: mantoue
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_36.jpg",
-  position: 36,
-  css_class:"portrait",
-  city: mantoue
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_37.jpg",
-  position: 37,
-  css_class:"portrait",
-  city: mantoue
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_38.jpg",
-  position: 38,
-  css_class:"landscape",
-  city: mantoue
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_39.jpg",
-  position: 39,
-  css_class:"landscape",
-  city: mantoue
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_40.jpg",
-  position: 40,
-  css_class:"all",
-  city: mantoue
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_41.jpg",
-  position: 41,
-  css_class:"landscape",
-  city: mantoue
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_42.jpg",
-  position: 42,
-  css_class:"landscape",
-  city: mantoue
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_43.jpg",
-  position: 43,
   css_class:"all",
   city: mantoue
 )
