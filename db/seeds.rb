@@ -5155,19 +5155,19 @@ Picture.create(
 lecce =   City.create(
   name:"Lecce",
   geocoding: "40° 21′ 13″ NORD 18° 10′ 32″ EST",
-  description:"La beauté de Lecce s'explique par sa pierre si particulière dont la souplesse et la luminosité ont permis l'invention du style architectural nommé 'Barocco leccese'. Pierre blanche, beige ou ocre à mesure que le soleil l'éclaire pendant la journée. Pierre crayeuse, lisse, lumineuse. Pierre souple, montée en crème, sculptée toute en rondeur avec une facilité déconcertante, qui confère à toute la ville une harmonie des couleurs et une douceur des formes. En mettant à profit les qualités exceptionnellement maléables de cette pierre calcaire, les basiliques ont été ornées de multiples sculptures d'anges, de fleurs et de blasons. Aussi, toute balade dans les rues de Lecce est-elle baroque et poétique.",
+  description:"La beauté de Lecce s'explique par sa pierre si particulière dont la souplesse et la luminosité ont permis l'invention du style architectural nommé 'Barocco leccese'. Pierre blanche, beige ou ocre à mesure que le soleil l'éclaire pendant la journée. Pierre crayeuse, lisse, lumineuse. Pierre souple, montée en crème, sculptée toute en rondeur avec une facilité déconcertante, qui confère à toute la ville une harmonie des couleurs et une douceur des formes. En mettant à profit les qualités exceptionnellement maléables de cette pierre calcaire, les basiliques ont été ornées de multiples sculptures d'anges, de fleurs et de blasons. Aussi, toute balade dans les rues de Lecce est-elle infiniment baroque et merveilleusement poétique.",
   province: pouilles,
   coordinates: "https://goo.gl/maps/jtHhFteNxYD2",
   heraldic: "blaz_lecce.png",
   picture: "le_00.jpg")
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_2.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_1.jpg",
   position: 1,
   css_class:"all",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_1.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_2.jpg",
   position: 2,
   css_class:"landscape",
   city: lecce
@@ -5309,14 +5309,14 @@ Picture.create(
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_26.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_27.jpg",
   position: 26,
+  css_class:"portrait",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_27.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_26.jpg",
   position: 27,
-  css_class:"portrait",
   city: lecce
 )
 Picture.create(
@@ -5331,18 +5331,7 @@ Picture.create(
   css_class:"landscape",
   city: lecce
 )
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_30.jpg",
-  position: 30,
-  css_class:"landscape",
-  city: lecce
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_31.jpg",
-  position: 31,
-  css_class:"landscape",
-  city: lecce
-)
+
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_32.jpg",
   position: 32,
