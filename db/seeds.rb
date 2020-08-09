@@ -599,7 +599,7 @@ Picture.create(
 bergame =   City.create(
   name:"Bergame",
   geocoding: "45° 42′ 00″ NORD 9° 39′ 58″ EST",
-  description:"Bergame altà est un village lombard perché en haut une colline, au pied des Alpes bergamasques. Il est entouré par ses vieilles murailles d'enceinte consolidées au XVIe siècle par la domination vénitienne. A l’intérieur du bastion, on trouve une ville miniature : sur le sol quadrillé de longue Piazza Vecchia se regroupent des bâtiments publiques aux façades de marbre. Au centre, la Fontaine Contarini est gardée par des lions sculptés qui toisent les habitants attablés dans les cafés. Plus loin, on ne peut manquer la Basilica di Santa Maria Maggiore qui présente une extraordinaire façade rose et blanche, structurées en fin motifs géométriques. Petit village certes, mais d'une grande.",
+  description:"Bergame altà est un village lombard perché en haut une colline, au pied des Alpes bergamasques. Il est entouré par ses vieilles murailles d'enceinte consolidées au XVIe siècle par la domination vénitienne. A l’intérieur du bastion, on trouve une ville miniature : sur le sol quadrillé de longue Piazza Vecchia se regroupent des bâtiments publiques aux façades de marbre. Au centre, la Fontaine Contarini est gardée par des lions sculptés qui toisent les habitants attablés dans les cafés. Plus loin, on ne peut manquer la Basilica di Santa Maria Maggiore qui présente une extraordinaire façade rose et blanche, structurées en fin motifs géométriques. Petit village certes, mais d'une grande beauté.",
   province: lombardie,
   coordinates: "https://goo.gl/maps/EVKRgQvA6jK2",
   heraldic: "blaz_bergame.png",
