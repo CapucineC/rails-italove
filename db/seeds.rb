@@ -3583,6 +3583,12 @@ Picture.create(
   css_class: "mini",
   city: orvieto
 )
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_25.jpg",
+  position: 25,
+  css_class: "all",
+  city: orvieto
+)
 
 latium = Province.create(
   name: "Latium",
