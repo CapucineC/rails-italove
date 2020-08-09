@@ -6,7 +6,8 @@ Province.destroy_all
 piemont = Province.create(
   name: "Piémont",
   map: "piemonte-map.png",
-  description:"Avoisinant la France, situé aux pieds des Alpes, traversé par des bourgades montagnardes authentiques, le Piémont est une région très caractérielle. Au loin, les sommets des montagnes apparaissent blancs et majestueux et donnent aux paysages une sérénité hors temps. Aux vallons chargés de vignes qui murissent lentement sur les hauteurs répondent les vallées gorgées par l'eau du Pô, où se cultive depuis toujours un riz perlé de renom. A cheval sur deux pays, le Piémont s’entendait à l’origine sur la Savoie française. Et puis, au fil des siècles, les comtes et les ducs de Savoie ont finalement établi leur siège à Turin. Par la suite, ils ont donné l'impulsion nécessaire à l’unification des régions et à la construction de l'Italie. La ville de Turin, chef-lieu du Piémont, est une ville solennelle aux accents français qui garde encore en elle la dignité royale des Savoie.")
+  description:"Situé aux pieds des Alpes, le Piémont est une région très caractérielle traversée par des bourgades montagnardes authentiques.
+Au loin, les sommets des montagnes apparaissent blancs et majestueux et donnent aux paysages une sérénité hors temps. Devant elles, il y a des vallons chargés de vignes qui murissent lentement sur les hauteurs. Plus bas, dans les plaines gorgées par l'eau du Pô on cultive depuis toujours un riz perlé de renom. Touchant la France avec qui il partage beaucoup, le Piémont s’entendait même à l’origine sur la Savoie française. C'est les princes et les ducs de Savoie qui ont finalement choisi d'établir définitivement leur siège à Turin. Par la suite, ils ont donné l'impulsion nécessaire à l’unification des régions et à la construction de l'Italie. La ville de Turin - chef-lieu du Piémont - est une ville solennelle aux accents français qui garde encore en elle la dignité royale des Savoie.")
 turin =   City.create(
   name:"Turin",
   geocoding: "45° 04′ 00″ NORD 7° 42′ 00″ EST",
@@ -222,7 +223,7 @@ Picture.create(
 lombardie = Province.create(
   name: "Lombardie",
   map: "lombardia-map.png",
-  description:"À la chute de l'empire romain, le peuple germanique des Lombards a envahi le nord de l'Italie pour se concentrer dans cette région à laquelle ils ont laissé leur nom. Avoisinant les Alpes et sertie par les grands lacs, la nature lombarde est froide et bleutée. Les villes, elles, ont été créées par des dynasties ambitieuses et belliqueuses qui les ont parées de prestigieux monuments: dômes, palais de marbres et forteresses s'y dressent élégamment vers le ciel pour côtoyer les nuages. Dans les rues de Milan, chef lieu de la région et capitale économique de l'Italie, les piétons traversent les viale, corso et rues d'un pas rapide et sûr, tout absorbés qu'ils sont par la réussite qu'ils provoqueront jusqu'à l'atteindre.")
+  description:"À la chute de l'empire romain, le peuple germanique des Lombards a envahi le nord de l'Italie pour se concentrer dans cette région à laquelle ils ont laissé leur nom. Avoisinant les Alpes et sertie par les grands lacs, la nature lombarde est froide et bleutée. Les villes, elles, ont été créées par des dynasties ambitieuses et belliqueuses qui les ont parées de prestigieux monuments: dômes, palais de marbres et forteresses s'y dressent élégamment vers le ciel pour côtoyer les nuages. Dans les rues de Milan, chef lieu de la région et capitale économique de l'Italie, les piétons traversent les viale, corso et rues d'un pas rapide et sûr, tout absorbés qu'ils sont par leur réussite dans les affaires qu'ils provoqueront jusqu'à l'atteindre.")
 milan =   City.create(
   name:"Milan",
   geocoding: "45° 28′ 00″ NORD 9° 10′ 00″ EST",
@@ -598,7 +599,7 @@ Picture.create(
 bergame =   City.create(
   name:"Bergame",
   geocoding: "45° 42′ 00″ NORD 9° 39′ 58″ EST",
-  description:"Bergame altà est un village lombard perché en haut une colline, au pied des Alpes bergamasques. Il est entouré par ses vieilles murailles d'enceinte consolidées au XVIe siècle par la domination vénitienne. A l’intérieur du bastion, on trouve une ville miniature : sur le sol quadrillé de longue Piazza Vecchia se regroupent des bâtiments publiques aux façades de marbre. Au centre, la Fontaine Contarini est gardée par des lions sculptés qui toisent les habitants attablés dans les cafés. Plus loin, on ne peut manquer la Basilica di Santa Maria Maggiore qui présente une extraordinaire façade rose et blanche, structurées en fin motifs géométriques. Petit, tout petit village d'une grande beauté.",
+  description:"Bergame altà est un village lombard perché en haut une colline, au pied des Alpes bergamasques. Il est entouré par ses vieilles murailles d'enceinte consolidées au XVIe siècle par la domination vénitienne. A l’intérieur du bastion, on trouve une ville miniature : sur le sol quadrillé de longue Piazza Vecchia se regroupent des bâtiments publiques aux façades de marbre. Au centre, la Fontaine Contarini est gardée par des lions sculptés qui toisent les habitants attablés dans les cafés. Plus loin, on ne peut manquer la Basilica di Santa Maria Maggiore qui présente une extraordinaire façade rose et blanche, structurées en fin motifs géométriques. Petit village certes, mais d'une grande.",
   province: lombardie,
   coordinates: "https://goo.gl/maps/EVKRgQvA6jK2",
   heraldic: "blaz_bergame.png",
@@ -618,18 +619,6 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_3.jpg",
   position: 3,
-  css_class: "zoom",
-  city: bergame
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_4.jpg",
-  position: 4,
-  css_class: "portrait",
-  city: bergame
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_5.jpg",
-  position: 5,
   css_class: "landscape",
   city: bergame
 )
@@ -1445,7 +1434,7 @@ venetie = Province.create(
 venise =  City.create(
   name: "Venise",
   geocoding: "45° 26′ 23″ NORD 12° 19′ 55″ EST",
-  description:"Venise est ville sans l'être tout à fait. Construite sur un sol qu'on jurait inconstructible, elle est à la fois imaginaire et tangible, réelle et irréelle. Venise a des rues liquides, un ciel en marbre blanc et des personnages pour habitants. Ils déambulent dans de somptueux costumes avec leur masque pour seule vérité : et vous qui êtes-vous ? A Venise, le plaisir est une affaire sérieuse et tout doit y concorder. On trouve des ruelles labyrinthiques qui s'entremêlent sans logique, des palais en place de maisons et des plafonds qui s'enfoncent dans des boursoufflements d'or et les fresques de Tiepolo. Loin de la pesanteur pourtant, l'architecture de Venise est subtile et délicate, rose et blanche comme l'intérieur nacré d'un coquillage lisse. Sa préciosité tranche avec les flots lourds. Elle est Aphrodite naquit des eaux. Venise est ville d'Amour.",
+  description:"Venise est ville sans l'être tout à fait. Construite sur un sol qu'on jurait inconstructible, elle est imaginaire et tangible, réelle et irréelle. Venise a des rues liquides, un ciel en marbre blanc et des personnages pour habitants. Ils déambulent dans de somptueux costumes avec leur masque pour seule vérité : et vous qui êtes-vous ? A Venise, le plaisir est une affaire sérieuse et tout doit y concorder. On trouve des ruelles labyrinthiques qui s'entremêlent sans logique, des palais en place de maisons et des plafonds qui s'enfoncent dans des boursoufflements d'or et les fresques de Tiepolo. Loin de la pesanteur pourtant, l'architecture de Venise est subtile et délicate, rose et blanche comme l'intérieur nacré d'un coquillage lisse. Sa préciosité tranche avec les flots lourds. Elle est Aphrodite naquit des eaux. Venise est ville d'Amour.",
   province: venetie,
   coordinates: "https://www.youtube.com/watch?v=JPOfJcb-wqA",
   heraldic: "blaz_venise.png",
@@ -2293,7 +2282,7 @@ Picture.create(
 toscane = Province.create(
   name: "Toscane",
   map: "toscana-map.png",
-  description:"Splendeur du paysage toscan, si finement ciselé dans ses contours qu'on dirait qu'il fut dessiné par les peintres pour continuer l'art hors des villes. La beauté de la Toscane contient un secret : elle exalte tous les sens et vous emporte dans la certitude d’un présent flamboyant. La collines vertes perdues dans la nué d’or quand le soleil se couche, les cyprès centenaires et les églises en marbre… tout ceci sépare les plus beaux villages qui ont été par le passé d’anciennes républiques autonomes. A l’heure de l’invention du politique dans l’Italie du quattrocento, la Toscane a vu s’opposer deux modèles dans une rivalité historique : le gouvernement communal de Sienne contre le principat médicéen de Florence. De la Toscane, on retient cette invention magistrale de l'art de vivre, de la vie comme un art, de l'art comme ville.")
+  description:"Splendeur du paysage toscan, si finement ciselé dans ses contours qu'on dirait qu'il fut dessiné par les peintres pour continuer l'art hors des villes. La collines vertes perdues dans la nué d’or quand le soleil se couche, les cyprès centenaires et les églises en marbre… tout ceci sépare les plus beaux villages qui ont été par le passé d’anciennes républiques autonomes. A l’heure de l’invention du politique dans l’Italie du quattrocento, la Toscane a vu s’opposer deux modèles dans une rivalité historique : le gouvernement communal de Sienne contre le principat médicéen de Florence. De la Toscane, on retient cette invention magistrale de l'art de vivre, de la vie comme un art, de l'art comme ville.")
 florence =  City.create(
   name:"Florence",
   geocoding: "43° 46′ 18′ NORD 11° 15′ 13′ EST",
@@ -2996,7 +2985,7 @@ Picture.create(
 ombrie = Province.create(
   name: "Ombrie",
   map: "umbria-map.png",
-  description:"La Ombrie est la seule partie d’Italie qui soit sans frontière commune avec la mer. Bien repliée dans ses forêts intérieures, ses vallées étalent un vert sombre et sérieux sur tout le paysage. C’est une région totalement enclavée, intérieure et secrète, propice à une méditation heureuse encouragée par le souvenir de François d’Assise et la piété des fresques de Giotto. La Ombrie est lointainement étrusque et fortement médiévale. En haut des collines et des champs labourés, on voit se dresser des villages fortifiés dont la pierre historique nous rappelle au Moyen-Âge et nous replonge dans cette époque absolue, spirituelle et dangereuse qui n'avait pas encore dit non à l'Imaginaire.")
+  description:"La Ombrie est la seule partie d’Italie qui soit sans frontière commune avec la mer. Bien repliée dans ses forêts intérieures, ses vallées étalent un vert sombre et sérieux sur tout le paysage. C’est une région totalement enclavée, intérieure et secrète, propice à une méditation heureuse encouragée par le souvenir de François d’Assise et la piété des fresques de Giotto. La Ombrie est lointainement étrusque et fortement médiévale. En haut des collines et des champs labourés, on voit se dresser des villages fortifiés dont la pierre historique nous rappelle au Moyen-Âge et nous replonge dans cette époque absolue, spirituelle et dangereuse qui n'avait pas encore dit non à la puissance de l'Imaginaire.")
 bevagna =  City.create(
   name:"Bevagna",
   geocoding: "none given",
@@ -3015,7 +3004,7 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_2.jpg",
   position: 2,
-  css_class: "all",
+  css_class: "landscape",
   city: bevagna
 )
 Picture.create(
@@ -3033,7 +3022,7 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_5.jpg",
   position: 5,
-  css_class: "portrait",
+  css_class: "landscape",
   city: bevagna
 )
 Picture.create(
@@ -3051,7 +3040,7 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_8.jpg",
   position: 8,
-  css_class: "zoom",
+  css_class: "portrait",
   city: bevagna
 )
 Picture.create(
@@ -3063,7 +3052,7 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_10.jpg",
   position: 10,
-  css_class: "all",
+  css_class: "portrait",
   city: bevagna
 )
 Picture.create(
@@ -3081,6 +3070,12 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_13.jpg",
   position: 13,
+  css_class: "portrait",
+  city: bevagna
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_14.jpg",
+  position: 14,
   css_class: "portrait",
   city: bevagna
 )
@@ -3444,7 +3439,7 @@ Picture.create(
 orvieto =  City.create(
   name:"Orvieto",
   geocoding: "none given",
-  description:"Déjà quand on l’aperçoit au loin, force est de marquer un temps d’arrêt. Orvieto est perchée sur une falaise, entourée par des murailles et devant elle des arbres bien rangés s’allongent dans la campagne paisible. A l’intérieur, les rues sont épaisses, la pierre est lourde, et on trouve par endroits des grottes sous-terraines qui remontent à l’époque étrusque. Mais Orvieto est avant tout une ville aux milles couleurs, témoignage encore vivant de la flamboyance du Moyen-Âge. Elle possède une cathédrale prodigieusement colorée, presqu’à la manière d’une enluminure gigantesque. Ses murs sont parés de lignes de marbre rose, blanc et noir. Son fronton est couvert de mosaïques aux reliefs d’or. Et à l’intérieur de l’église, d’incroyables fresques racontent avec ferveur le voyage des anges à travers la voute céleste.",
+  description:"Orvieto est une ville aux milles couleurs, témoignage encore vivant de la flamboyance du Moyen-Âge. Elle est perchée sur un éperon rochaux et de la-haut, elle domine une paisible campagne dans laquelle s'allongent des arbres bien rangés. A l’intérieur de la ville, les rues sont épaisses, la pierre est lourde, et les maisons se cachent les unes à côté des autres. Elles sont bien protégées par la muraille d'enceite défensive qui entoure toute la ville. Sur la place centrale trôrne une cathédrale prodigieusement colorée, presqu’à la manière d’une enluminure monumentale. Ses murs sont parés de lignes de marbre rose, blanc et noir et son fronton est couvert de mosaïques aux reliefs d’or. A l’intérieur de l’église, d’incroyables fresques racontent avec ferveur le voyage des anges à travers les nuées nocturnes.",
   province: ombrie,
   coordinates: "none given",
   heraldic: "blaz_orvieto.png",
@@ -3465,7 +3460,7 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_3.jpg",
   position: 3,
-  css_class: "zoom",
+  css_class: "all",
   city: orvieto
 )
 Picture.create(
@@ -3507,13 +3502,13 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_10.jpg",
   position: 10,
-  css_class: "portrait",
+  css_class: "landscape",
   city: orvieto
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_11.jpg",
   position: 11,
-  css_class: "all",
+  css_class: "landscape",
   city: orvieto
 )
 Picture.create(
@@ -3531,36 +3526,63 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_15.jpg",
   position: 15,
-  css_class: "portrait",
+  css_class: "all",
   city: orvieto
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_16.jpg",
   position: 16,
-  css_class: "landscape",
+  css_class: "portrait",
   city: orvieto
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_17.jpg",
   position: 17,
-  css_class: "landscape",
+  css_class: "portrait",
   city: orvieto
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_18.jpg",
   position: 18,
-  css_class: "landscape",
+  css_class: "portrait",
   city: orvieto
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_19.jpg",
   position: 19,
-  css_class: "landscape",
+  css_class: "mini",
   city: orvieto
 )
-
-
-
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_20.jpg",
+  position: 20,
+  css_class: "mini",
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_21.jpg",
+  position: 21,
+  css_class: "mini",
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_22.jpg",
+  position: 22,
+  css_class: "mini",
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_23.jpg",
+  position: 23,
+  css_class: "mini",
+  city: orvieto
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_24.jpg",
+  position: 24,
+  css_class: "mini",
+  city: orvieto
+)
 
 latium = Province.create(
   name: "Latium",
