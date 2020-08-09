@@ -3512,6 +3512,12 @@ Picture.create(
   city: orvieto
 )
 Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_12.jpg",
+  position: 12,
+  css_class: "portrait",
+  city: orvieto
+)
+Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_13.jpg",
   position: 13,
   css_class: "portrait",
