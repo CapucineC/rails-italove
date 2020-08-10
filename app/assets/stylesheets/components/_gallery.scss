@@ -21,12 +21,12 @@
 .wrapper div.portrait {
     grid-column-end: span 2;
     grid-row-end: span 4;
-  }
+}
 
 .wrapper div.triple-portrait {
     grid-column-end: span 2;
     grid-row-end: span 4;
-  }
+}
 
 .wrapper div.landscape {
     grid-column-end: span 3;
@@ -41,6 +41,11 @@
     grid-column-end: span 6;
     grid-row-end: span 6;
 }
+.wrapper div.bande {
+    grid-column-end: span 6;
+    grid-row-end: span 1;
+}
+
 
 
 img {
@@ -55,7 +60,8 @@ img {
 
 
  /* re-define your grid for mobile */
-@media(max-width: 500px) {
+// @media (max-width: 750px) {
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
   .wrapper {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
@@ -102,9 +108,9 @@ img {
 }
 
 
-
 /* re-define your grid for iPads */
-@media(max-width: 768px) {
+// @media(max-width: 768px) {
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
   .wrapper {
     grid-auto-rows: 5vh;
     padding-left: 5vh;
@@ -113,33 +119,33 @@ img {
 
   }
   .wrapper div {
-    grid-column-end: span 6;
-    grid-row-end: span 7;
+    grid-column-end: span 2;
+    grid-row-end: span 3;
   }
 
   .wrapper div.zoom {
-    grid-column-end: span 6;
-    grid-row-end: span 7;
+    grid-column-end: span 4;
+    grid-row-end: span 6;
   }
 
   .wrapper div.portrait {
-    grid-column-end: span 3;
-    grid-row-end: span 7;
+    grid-column-end: span 2;
+    grid-row-end: span 6;
   }
 
   .wrapper div.landscape {
-    grid-column-end: span 6;
-    grid-row-end: span 7;
+    grid-column-end: span 3;
+    grid-row-end: span 5;
   }
 
   .wrapper div.mini {
-    grid-column-end: span 3;
-    grid-row-end: span 7;
+    grid-column-end: span 1;
+    grid-row-end: span 3;
   }
 
    .wrapper div.all {
     grid-column-end: span 6;
-    grid-row-end: span 7;
+    grid-row-end: span 9;
   }
 
 }

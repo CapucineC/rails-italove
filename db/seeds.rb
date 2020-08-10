@@ -6,8 +6,7 @@ Province.destroy_all
 piemont = Province.create(
   name: "Piémont",
   map: "piemonte-map.png",
-  description:"Situé aux pieds des Alpes, le Piémont est une région très caractérielle traversée par des bourgades montagnardes authentiques.
-Au loin, les sommets des montagnes apparaissent blancs et majestueux et donnent aux paysages une sérénité hors temps. Devant elles, il y a des vallons chargés de vignes qui murissent lentement sur les hauteurs. Plus bas, dans les plaines gorgées par l'eau du Pô on cultive depuis toujours un riz perlé de renom. Touchant la France avec qui il partage beaucoup, le Piémont s’entendait même à l’origine sur la Savoie française. C'est les princes et les ducs de Savoie qui ont finalement choisi d'établir définitivement leur siège à Turin. Par la suite, ils ont donné l'impulsion nécessaire à l’unification des régions et à la construction de l'Italie. La ville de Turin - chef-lieu du Piémont - est une ville solennelle aux accents français qui garde encore en elle la dignité royale des Savoie.")
+  description:"Situé aux pieds des Alpes, le Piémont est une région très caractérielle traversée par des bourgades montagnardes authentiques. Au loin, les sommets enneigés des montagnes  donnent aux paysages une sérénité hors temps. Devant elles, il y a des vallons et des coteaux chargés de vignes qui murissent lentement. Plus bas, dans les plaines gorgées par l'eau froide du Pô, on cultive depuis toujours un riz perlé de renom. A cheval sur deux pays, le Piémont fut longtemps disputé entre la France et l'Italie, et puis, au fil des siècles, la région fut unifiée par les comtes et les ducs de Savoie. Par la suite, les Savoie aidés d'une autre famille piémontaise, les Cavour, ont donné l'impulsion nécessaire à l'unification des régions et donc à la construction de l'Italie. D'où les nombreuses "Place Cavour" que l'on trouve dans les bourgs. Chef-lieu du Piémont, la ville de Turin est une ville solennelle aux accents français. Elle garde encore en elle la dignité royale des Savoie.")
 turin =   City.create(
   name:"Turin",
   geocoding: "45° 04′ 00″ NORD 7° 42′ 00″ EST",
@@ -16,7 +15,6 @@ turin =   City.create(
   coordinates: "https://goo.gl/maps/6G6XQSSDz7T2",
   heraldic: "blaz_turin.png",
   picture: "tu_00.jpg")
-
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_1.jpg",
   position: 1,
@@ -227,7 +225,7 @@ lombardie = Province.create(
 milan =   City.create(
   name:"Milan",
   geocoding: "45° 28′ 00″ NORD 9° 10′ 00″ EST",
-  description:"Fief des familles Sforza et Visconti, capitale de la mode et de la finance, lieu du design par excellence, la divine Milan étale son succès avec fierté. Mais la beauté de cette ville ne se laisse pas regarder si facilement. Il faut patiemment la chercher. Elle se cache dans les arrière-cours des palazzi, se révèle par a-coups au gré des balades dans le quartier de Brera et derrière les vitrines de la pâtisserie Marchesi. On la retrouve aussi à l'intérieur de la Galleria Vittorio Emmanuelle, en face des grandiose devantures de Prada ou dans les couloirs de la Scala qui mènent encore aux opéras de Verdi. Nous reste à admirer l'austère château Sforza et l'éblouissant Dôme de Milan qui pointe vers le ciel cent trente cinq flèches de marbre.",
+  description:"Fief des familles Sforza et Visconti, capitale de la mode et de la finance, lieu du design par excellence, la divine Milan étale son succès avec fierté. Mais la beauté de cette ville ne se laisse pas regarder si facilement. Il faut patiemment la chercher. Elle se cache dans les arrière-cours des palazzi, se révèle par a-coups au gré des balades dans le quartier de Brera et derrière les vitrines de la pâtisserie Marchesi. On la retrouve aussi à l'intérieur de la Galleria Vittorio Emmanuelle, en face des devantures de Prada ou dans les couloirs de la Scala qui mènent encore aux opéras de Verdi. Nous reste à admirer l'austère château Sforza et l'éblouissant Dôme de Milan qui pointe vers le ciel cent trente cinq flèches de marbre.",
   province: lombardie,
   coordinates: "https://goo.gl/maps/PwxzZtBFjSq",
   heraldic: "blaz_milan.png",
@@ -1430,7 +1428,7 @@ Picture.create(
 venetie = Province.create(
   name: "Vénétie",
   map: "veneto-map.png",
-  description:"La Vénétie dessine pour les voyageurs des paysages féeriques : par ici les montagnes enneigées des Dolomites recouvertes d'un long manteau blanc, par là la lagune de Venise qui pave les rues d'eau, là bas le charme Vérone qui fait éclore les fleurs sur tous les balcons à l'arrivée de chaque printemps.")
+  description:"En Vénétie, c'est la nature qui joue le rôle d'artiste et dessine pour les voyageurs des paysages féeriques : c'est elle qui enneige les montagne des Dolomites et les recouvre d'un long manteau blanc, qui pave d'eau les rues de l'éblouissante Venise et fait éclore les fleurs des balcons de Verone à chaque printemps.")
 venise =  City.create(
   name: "Venise",
   geocoding: "45° 26′ 23″ NORD 12° 19′ 55″ EST",
