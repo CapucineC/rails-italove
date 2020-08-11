@@ -706,7 +706,7 @@ Picture.create(
 mantoue =   City.create(
   name:"Mantoue",
   geocoding: "45° 10′ NORD 10° 48′ EST",
-  description:"C'est d'éclat qu'il faut parler pour décrire Mantoue, cette perle de la Renaissance dont la famille Gonzague fit la richesse et la gloire. En embellissant sans cesse leur Palazzo Ducale, les ducs de Mantoue ont créé une oeuvre de beauté totale. Les plus belles fresques habillent les murs, les couloirs sont parsemées de mille fleurs peintes et les loggias donnent sur des jardins intérieurs et secrets. Dans la Chambre des Epoux - la plus importante pièce du palais - le peintre Mantegna a représenté ses maîtres avec beaucoup de diligence, ainsi qu'un fameux trompe l'oeil qui laisse des petits anges nous regarder depuis leur nuage de crème. Continuons la promenade jusqu'aux portes de la ville, dans le Palazzo Te où le peintre maniériste Giulio Romano a renversé les perspectives et les ordres de grandeur, nous entrainant à sa suite dans le monde des géants et des dieux.",
+  description:"C'est d'éclat qu'il faut parler pour décrire Mantoue, cette perle de la Renaissance dont la famille Gonzague fit la richesse et la gloire. En embellissant sans cesse leur Palazzo Ducale, les ducs de Mantoue ont créé une oeuvre de beauté totale. Les plus belles fresques habillent les murs, les couloirs sont parsemées de mille fleurs peintes et les loggias donnent sur des jardins intérieurs et secrets. Dans la Chambre des Epoux - la plus importante pièce du palais - le peintre Mantegna a représenté ses maîtres avec beaucoup de diligence, ainsi qu'un fameux trompe l'oeil qui laisse des anges vous regarder depuis leur nuage de crème. Continuons la promenade jusqu'aux portes de la ville, dans le Palazzo Te où le peintre maniériste Giulio Romano a renversé les perspectives et les ordres de grandeur, nous entrainant à sa suite dans le monde des géants et des dieux.",
   province: lombardie,
   coordinates: "https://goo.gl/maps/wMK3qnSbNVn",
   heraldic: "blaz_mantoue.png",
@@ -926,11 +926,11 @@ Picture.create(
 lacs = Province.create(
   name: "Lacs Italiens",
   map: "laghi-italiani-map.png",
-  description:"La beauté des lacs de l'Italie du Nord fascine. Enchassés dans les Alpes blanches, ils dessinent leurs larges courbes dans la brume des montagnes bleutées, tandis que sur leurs rives apparaissent des villages authentiques, des somptueuses villas bordées par des jardins remplis de lauriers, et des palais magnifiques au bout desquels sont amarrés des bateaux en bois. Le rythme qu'on y trouve, le silence et la profondeur des lacs font de ces endroits la quintessence du raffinement italien : la richesse trouvée dans une admirable simplicité.")
+  description:"La beauté des lacs de l'Italie du Nord fascine. Enchassés dans les Alpes blanches, ils dessinent leurs larges courbes dans la brume des montagnes, tandis que sur leurs rives apparaissent de charmants villages, des villas bordées par des jardins remplis de lauriers, et des palais magnifiques au bout desquels sont amarrés des bateaux en bois. Le rythme qu'on y trouve, le silence et la profondeur des lacs font de ces endroits la quintessence du raffinement italien : la richesse trouvée dans une admirable simplicité.")
 come =  City.create(
   name:"Lac de Come",
   geocoding: "45° 59′ 40″ NORD 9° 15′ 58″ EST",
-  description:"Escapade au lac Come. Des montagnes au loin se dessinent dans la nuée, l'eau claque contre les escaliers des palais édifiés par la noblesse lombarde et les statues rêvent en regardant l'horizon. Depuis l'époque romaine, on y a construit des demeures merveilleuses entre ciel et eau. Parmi les plus connues, la villa Carlotta, où l'on trouve des jardins en cascade qui se jettent dans le lac, tandis qu'à l'intérieur du palais, des marbres de Canova reposent sous des plafonds d'or. Plus loin, la villa Monastero accueille ses promeneurs par une longue balade sur graviers blancs, avec vue sur le lac immobile et bleu, sur ce lac de Come que le soleil fait scintiller en milles endroits, comme un diamant liquide.",
+  description:"Partons en escapade au lac de Come. Des montagnes au loin se dessinent dans la nuée, l'eau claque contre les escaliers des palais édifiés par la noblesse lombarde et les statues rêvent en regardant l'horizon. Depuis l'époque romaine, on y a construit des demeures merveilleuses entre ciel et eau. Parmi les plus connues, il y a la villa Carlotta. Ses jardins en cascade se jettent dans le lac alors qu'à l'intérieur, des marbres de Canova reposent sous des plafonds d'or. Plus loin, on trouve encore la villa Monastero. Elle accueille ses promeneurs par une longue balade fleurie sur graviers blancs, avec vue sur le lac immobile et bleu, sur ce lac de Come que le soleil fait scintiller par des reflets sans cesse mouvants, comme un diamant liquide.",
   province: lacs,
   coordinates: "https://goo.gl/maps/iNpSnhvPHom",
   heraldic: "blaz_varese.png",
@@ -1036,78 +1036,53 @@ Picture.create(
   city: come
 )
 Picture.create(
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/como_21.jpg",
+  position: 21,
+  css_class: "all",
+  city: come
+)
+Picture.create(
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/como_22.jpg",
+  position: 22,
+  css_class: "landscape",
+  city: come
+)
+Picture.create(
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/como_23.jpg",
+  position: 23,
+  css_class: "landscape",
+  city: come
+)
+Picture.create(
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/como_24.jpg",
+  position: 24,
+  css_class: "portrait",
+  city: come
+)
+Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/como_25.jpg",
   position: 25,
-  css_class: "portrait",
+  css_class: "zoom",
   city: come
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/como_26.jpg",
   position: 26,
-  css_class: "portrait",
+  css_class: "all",
   city: come
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/como_27.jpg",
   position: 27,
-  css_class: "portrait",
+  css_class: "landscape",
   city: come
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/como_28.jpg",
   position: 28,
-  css_class: "all",
-  city: come
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/como_29.jpg",
-  position: 29,
-  css_class: "all",
-  city: come
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/como_30.jpg",
-  position: 30,
   css_class: "landscape",
   city: come
 )
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/como_31.jpg",
-  position: 31,
-  css_class: "landscape",
-  city: come
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/como_32.jpg",
-  position: 32,
-  css_class: "portrait",
-  city: come
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/como_33.jpg",
-  position: 33,
-  css_class: "zoom",
-  city: come
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/como_34.jpg",
-  position: 34,
-  css_class: "landscape",
-  city: come
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/como_35.jpg",
-  position: 35,
-  css_class: "landscape",
-  city: come
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/como_36.jpg",
-  position: 36,
-  css_class: "all",
-  city: come
-)
-
 
 majeur =  City.create(
   name:"Lac Majeur",
@@ -1238,24 +1213,6 @@ Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/maggio_24.jpg",
   position: 24,
   css_class: "portrait",
-  city: majeur
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/maggio_25.jpg",
-  position: 25,
-  css_class: "all",
-  city: majeur
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/maggio_26.jpg",
-  position: 26,
-  css_class: "landscape",
-  city: majeur
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/maggio_27.jpg",
-  position: 27,
-  css_class: "landscape",
   city: majeur
 )
 Picture.create(
