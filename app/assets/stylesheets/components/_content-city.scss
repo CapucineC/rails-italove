@@ -148,6 +148,41 @@ img {
   }
 }
 
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+.content-city {
+
+  & .cadre {
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 20px;
+  }
+
+  & .sous-cadre {
+    display: block;
+  }
+
+  & .top-info {
+    display: block;
+  }
+
+  & h1 {
+    font-size: 54px;
+  }
+
+  & .description-city {
+    padding: 10px;
+  }
+
+  & .heraldic {
+    & > img {
+      text-align: center;
+      margin: auto;
+      width: 63px;
+      }
+    }
+  }
+}
+
 
 @media(min-width: 2790px) {
   .content-city {

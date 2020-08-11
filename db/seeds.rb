@@ -6,7 +6,7 @@ Province.destroy_all
 piemont = Province.create(
   name: "Piémont",
   map: "piemonte-map.png",
-  description:"Situé aux pieds des Alpes, le Piémont est une région très caractérielle traversée par des bourgades montagnardes authentiques. Au loin, les sommets enneigés des montagnes  donnent aux paysages une sérénité hors temps. Devant elles, il y a des vallons et des coteaux chargés de vignes qui murissent lentement. Plus bas, dans les plaines gorgées par l'eau froide du Pô, on cultive depuis toujours un riz perlé de renom. A cheval sur deux pays, le Piémont fut longtemps disputé entre la France et l'Italie, et puis, au fil des siècles, la région fut unifiée par les comtes et les ducs de Savoie. Par la suite, les Savoie aidés d'une autre famille piémontaise, les Cavour, ont donné l'impulsion nécessaire à l'unification des régions et donc à la construction de l'Italie. D'où les nombreuses 'Place Cavour' que l'on trouve dans les bourgs. Chef-lieu du Piémont, la ville de Turin est une ville solennelle aux accents français. Elle garde encore en elle la dignité royale des Savoie.")
+  description:"Situé aux pieds des Alpes, le Piémont est une région très caractérielle traversée par des bourgades montagnardes authentiques. Au loin, les sommets enneigés des montagnes donnent aux paysages une sérénité hors temps. Devant elles, il y a des vallons et des coteaux chargés de vignes qui mûrissent lentement. Plus bas, dans les plaines gorgées par l'eau froide du Pô, on cultive depuis toujours un riz perlé de renom. A cheval sur deux pays, le Piémont fut longtemps disputé entre la France et l'Italie, et puis, au fil des siècles, la région fut unifiée par les ducs de Savoie. Par la suite, ils ont largement oeuvré à l'unification des régions et donc la création de l'Italie, aidés d'une autre famille piémontaise, les Cavour. Chef-lieu du Piémont, la ville de Turin est une ville solennelle aux accents français qui garde encore en elle la dignité royale des Savoie.")
 turin = City.create(
   name:"Turin",
   geocoding: "45° 04′ 00″ NORD 7° 42′ 00″ EST",
@@ -221,16 +221,28 @@ Picture.create(
 lombardie = Province.create(
   name: "Lombardie",
   map: "lombardia-map.png",
-  description:"À la chute de l'empire romain, le peuple germanique des Lombards a envahi le nord de l'Italie pour se concentrer dans cette région à laquelle ils ont laissé leur nom. Avoisinant les Alpes et sertie par les grands lacs, la nature lombarde est froide et bleutée. Les villes, elles, ont été créées par des dynasties ambitieuses et belliqueuses qui les ont parées de prestigieux monuments: dômes, palais de marbres et forteresses s'y dressent élégamment vers le ciel pour côtoyer les nuages. Dans les rues de Milan, chef lieu de la région et capitale économique de l'Italie, les piétons traversent les viale, corso et rues d'un pas rapide et sûr, tout absorbés qu'ils sont par leur réussite dans les affaires qu'ils provoqueront jusqu'à l'atteindre.")
+  description:"À la chute de l'empire romain, le peuple germanique des Lombards a envahi le nord de l'Italie pour se concentrer dans cette région à laquelle ils ont laissé leur nom. Avoisinant les Alpes et sertie par les grands lacs, la nature lombarde est froide et bleutée. Les villes, elles, ont été créées par des dynasties ambitieuses et belliqueuses qui les ont parées de prestigieux monuments : dômes, palais de marbres et forteresses s'y dressent élégamment vers le ciel pour côtoyer les nuages. Dans les rues de Milan, chef lieu de la région et capitale économique de l'Italie, les piétons traversent les viale, corso et rues d'un pas rapide et sûr, tout absorbés qu'ils sont par leur réussite dans les affaires qu'ils provoqueront jusqu'à l'atteindre.")
 milan =   City.create(
   name:"Milan",
   geocoding: "45° 28′ 00″ NORD 9° 10′ 00″ EST",
-  description:"Fief des familles Sforza et Visconti, capitale de la mode et de la finance, lieu du design par excellence, la divine Milan étale son succès avec fierté. Mais la beauté de cette ville ne se laisse pas regarder si facilement. Il faut patiemment la chercher. Elle se cache dans les arrière-cours des palazzi, se révèle par a-coups au gré des balades dans le quartier de Brera et derrière les vitrines de la pâtisserie Marchesi. On la retrouve aussi à l'intérieur de la Galleria Vittorio Emmanuelle, en face des devantures de Prada ou dans les couloirs de la Scala qui mènent encore aux opéras de Verdi. Nous reste à admirer l'austère château Sforza et l'éblouissant Dôme de Milan qui pointe vers le ciel cent trente cinq flèches de marbre.",
+  description:"Fief des familles Sforza et Visconti, capitale de la mode et de la finance, lieu du design par excellence, la divine Milan étale son succès avec fierté. Mais la beauté de cette ville ne se laisse pas regarder si facilement. Il faut patiemment la chercher. Elle se cache dans les arrière-cours des palazzi, se révèle par à-coups au gré des balades dans le quartier de Brera et derrière les vitrines de la pâtisserie Marchesi. On la retrouve aussi à l'intérieur de la Galleria Vittorio Emmanuelle, en face des devantures de Prada ou dans les couloirs de la Scala qui mènent encore aux opéras de Verdi. Nous reste à admirer l'austère château Sforza et l'éblouissant Dôme de Milan qui pointe vers le ciel cent trente cinq flèches de marbre.",
   province: lombardie,
   coordinates: "https://goo.gl/maps/PwxzZtBFjSq",
   heraldic: "blaz_milan.png",
   picture: "mi_00.jpg",
   caption: "Galleria Vittorio Emanuele")
+Picture.create(
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_1.jpg",
+  position: 1,
+  css_class: "portrait",
+  city: milan
+)
+Picture.create(
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_2.jpg",
+  position: 2,
+  css_class: "portrait",
+  city: milan
+)
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_3.jpg",
   position: 3,
@@ -240,25 +252,25 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_4.jpg",
   position: 4,
-  css_class: "portrait",
+  css_class: "all",
   city: milan
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_5.jpg",
   position: 5,
-  css_class: "portrait",
+  css_class: "landscape",
   city: milan
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_6.jpg",
   position: 6,
-  css_class: "all",
+  css_class: "landscape",
   city: milan
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_7.jpg",
   position: 7,
-  css_class: "all",
+  css_class: "landscape",
   city: milan
 )
 Picture.create(
@@ -270,26 +282,26 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_9.jpg",
   position: 9,
-  css_class: "landscape",
+  css_class: "all",
   city: milan
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_10.jpg",
   position: 10,
-  css_class: "landscape",
+  css_class: "portrait",
   city: milan
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_11.jpg",
   position: 11,
-  css_class: "landscape",
+  css_class: "portrait",
   city: milan
 )
 
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_12.jpg",
   position: 12,
-  css_class: "all",
+  css_class: "portrait",
   city: milan
 )
 Picture.create(
@@ -313,19 +325,19 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_16.jpg",
   position: 16,
-  css_class: "portrait",
+  css_class: "landscape",
   city: milan
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_17.jpg",
   position: 17,
-  css_class: "portrait",
+  css_class: "landscape",
   city: milan
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_18.jpg",
   position: 18,
-  css_class: "portrait",
+  css_class: "landscape",
   city: milan
 )
 Picture.create(
@@ -343,13 +355,13 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_21.jpg",
   position: 21,
-  css_class: "all",
+  css_class: "landscape",
   city: milan
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_22.jpg",
   position: 22,
-  css_class: "landscape",
+  css_class: "allées",
   city: milan
 )
 Picture.create(
@@ -361,7 +373,7 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_24.jpg",
   position: 24,
-  css_class: "portrait",
+  css_class: "landscape",
   city: milan
 )
 Picture.create(
@@ -379,7 +391,7 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_27.jpg",
   position: 27,
-  css_class: "all",
+  css_class: "portrait",
   city: milan
 )
 Picture.create(
@@ -397,31 +409,16 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_30.jpg",
   position: 30,
-  css_class: "landscape",
   city: milan
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_31.jpg",
   position: 31,
-  css_class: "landscape",
   city: milan
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_32.jpg",
   position: 32,
-  css_class: "all",
-  city: milan
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_33.jpg",
-  position: 33,
-  css_class: "landscape",
-  city: milan
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_34.jpg",
-  position: 34,
-  css_class: "landscape",
   city: milan
 )
 Picture.create(
@@ -445,22 +442,17 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_40.jpg",
   position: 40,
-  css_class: "all",
   city: milan
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_41.jpg",
   position: 41,
+  css_class: "zoom",
   city: milan
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_42.jpg",
   position: 42,
-  city: milan
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_43.jpg",
-  position: 43,
   city: milan
 )
 Picture.create(
@@ -529,18 +521,6 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_55.jpg",
   position: 55,
-  css_class: "landscape",
-  city: milan
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_56.jpg",
-  position: 56,
-  css_class: "landscape",
-  city: milan
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_57.jpg",
-  position: 57,
   css_class: "landscape",
   city: milan
 )
