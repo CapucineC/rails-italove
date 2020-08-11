@@ -361,7 +361,7 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_22.jpg",
   position: 22,
-  css_class: "allées",
+  css_class: "all",
   city: milan
 )
 Picture.create(
@@ -442,12 +442,12 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_40.jpg",
   position: 40,
+  css_class: "zoom",
   city: milan
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_41.jpg",
   position: 41,
-  css_class: "zoom",
   city: milan
 )
 Picture.create(
@@ -577,7 +577,7 @@ Picture.create(
 bergame =   City.create(
   name:"Bergame",
   geocoding: "45° 42′ 00″ NORD 9° 39′ 58″ EST",
-  description:"Bergame altà est un village lombard perché en haut une colline, au pied des Alpes bergamasques. Il est entouré par ses vieilles murailles d'enceinte consolidées au XVIe siècle par la domination vénitienne. A l’intérieur du bastion, on trouve une ville miniature : sur le sol quadrillé de longue Piazza Vecchia se regroupent des bâtiments publiques aux façades de marbre. Au centre, la Fontaine Contarini est gardée par des lions sculptés qui toisent les habitants attablés dans les cafés. Plus loin, on ne peut manquer la Basilica di Santa Maria Maggiore qui présente une extraordinaire façade rose et blanche, structurées en fin motifs géométriques. Petit village certes, mais d'une grande beauté.",
+  description:"Bergame altà est un village lombard perché en haut d'une colline, au pied des Alpes bergamasques. Il est entouré par ses vieilles murailles d'enceinte qui ont été consolidées au XVIe siècle par la domination vénitienne. Elles donnent au lieu un charme tout à fait  chevaleresque. A l’intérieur du bastion, on trouve une ville miniature : sur le sol quadrillé de longue Piazza Vecchia se regroupent des bâtiments publiques aux façades de marbre. Les rues ressemblent à des chemins de traverse et les gens qui les empruntent ont l'air de petits personnages. Au centre du village, la Fontaine Contarini est gardée par des lions sculptés qui toisent les habitants attablés dans les cafés. Plus loin, on ne peut manquer la Basilica di Santa Maria Maggiore qui présente une extraordinaire façade rose et blanche structurées en fin motifs géométriques.",
   province: lombardie,
   coordinates: "https://goo.gl/maps/EVKRgQvA6jK2",
   heraldic: "blaz_bergame.png",
