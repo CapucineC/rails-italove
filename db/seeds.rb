@@ -3145,7 +3145,7 @@ Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_23.jpg",
   position: 23,
   css_class: "bande",
-  city: orvieto
+  city: montone
 )
 
 gubbio =  City.create(
