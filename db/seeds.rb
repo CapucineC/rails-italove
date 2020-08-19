@@ -6,7 +6,7 @@ Province.destroy_all
 piemont = Province.create(
   name: "Piémont",
   map: "piemonte-map.png",
-  description:"Étendue sur les Alpes, le Piémont est une région très caractérielle traversée par des bourgades montagnardes authentiques. Au loin, les sommets blanc des montagnes donnent aux paysages une sérénité hors temps. Devant eux, il y a des vallons et des coteaux chargés de vignes qui mûrissent lentement. Plus bas, dans les plaines gorgées par l'eau froide du Pô, on cultive depuis toujours un riz perlé de renom. A cheval sur deux pays, le Piémont fut longtemps disputé entre la France et l'Italie, et puis, au fil des siècles, il fut unifié par les ducs de Savoie. Par la suite, ils ont largement oeuvré au rassemblement des régions et à donc la création de l'Italie, aidés en cela par autre famille piémontaise : les Cavour. Chef-lieu du Piémont, Turin est une ville solennelle aux accents français qui garde encore en elle la dignité royale des Savoie.")
+  description:"Étendu sur les Alpes, le Piémont est une région très caractérielle traversée par des bourgades montagnardes authentiques. Au loin, les sommets blanc des montagnes donnent aux paysages une sérénité hors temps. Devant eux, il y a des vallons et des coteaux chargés de vignes qui mûrissent lentement. Plus bas, dans les plaines gorgées par l'eau froide du Pô, on cultive depuis toujours un riz perlé de renom. A cheval sur deux pays, le Piémont fut longtemps disputé entre la France et l'Italie, et puis, au fil des siècles, il fut unifié par les ducs de Savoie. Par la suite, ils ont largement oeuvré au rassemblement des régions et donc à la création de l'Italie, aidés en cela par autre famille piémontaise : les Cavour. Chef-lieu du Piémont, Turin est une ville solennelle aux accents français qui garde encore en elle la dignité royale des Savoie.")
 turin = City.create(
   name:"Turin",
   geocoding: "45° 04′ 00″ NORD 7° 42′ 00″ EST",
@@ -1350,11 +1350,11 @@ Picture.create(
 venetie = Province.create(
   name: "Vénétie",
   map: "veneto-map.png",
-  description:"En Vénétie, c'est la nature qui joue le rôle d' artiste et dessine pour les voyageurs des paysages féeriques : c'est elle qui enneige les montagne des Dolomites et les recouvre d'un long manteau blanc. C'est elle toujours qui pave d'eau les rues de l'éblouissante Venise. C'est elle encore qui fait éclore les fleurs des balcons de Vérone à chaque printemps.")
+  description:"En Vénétie, c'est la nature qui joue le rôle d' artiste et dessine pour les voyageurs des paysages féeriques : c'est elle qui enneige les montagnes des Dolomites et les recouvre d'un long manteau blanc. C'est elle toujours qui pave d'eau les rues de l'éblouissante Venise. C'est elle encore qui fait éclore les fleurs des balcons de Vérone à l'arrivée de chaque printemps.")
 venise =  City.create(
   name: "Venise",
   geocoding: "45° 26′ 23″ NORD 12° 19′ 55″ EST",
-  description:"Venise est ville sans l'être tout à fait. Construite sur un sol qu'on jurait inconstructible, elle est imaginaire et tangible, réelle et irréelle. Ses habitants, ou plutôt ses personnages de théâtre, jouent leur pièce sous un ciel de marbre blanc et se déplacent entre des rues lagunaires. Ils déambulent dans de somptueux costumes avec leur masque pour seule vérité : et vous qui êtes-vous ? À Venise, le plaisir des sens est une affaire sérieuse et tout doit y concorder. On trouve des ruelles labyrinthiques qui s'entremêlent sans logique, des palais en place de maisons et des plafonds qui s'enfoncent dans des boursoufflements d'or et les fresques de Tiepolo. Loin de la pesanteur pourtant, l'architecture de Venise est subtile et délicate, rose et blanche comme l'intérieur nacré d'un coquillage lisse. Sa préciosité tranche avec les flots lourds. Elle Aphrodite tout juste sortie des eaux. Venise est ville d'Amour.",
+  description:"Venise est ville sans l'être tout à fait. Construite sur un sol qu'on jurait inconstructible, elle est imaginaire et tangible, réelle et irréelle. Ses habitants sont des personnages de théâtre qui jouent sous un ciel de marbre blanc et se déplacent entre des rues lagunaires. Ils déambulent dans de somptueux costumes avec leur masque pour seule vérité : et vous qui êtes-vous ? À Venise, le plaisir des sens est une affaire sérieuse et tout doit y concorder. On trouve des ruelles labyrinthiques qui s'entremêlent sans logique, des palais en place de maisons et des plafonds qui s'enfoncent dans des boursoufflements d'or et les fresques de Tiepolo. Loin de la pesanteur pourtant, l'architecture de Venise est subtile et délicate, rose et blanche comme l'intérieur nacré d'un coquillage lisse. Sa préciosité tranche avec les flots lourds. Elle est Aphrodite sortie des eaux. Venise est ville d'Amour.",
   province: venetie,
   coordinates: "https://www.youtube.com/watch?v=JPOfJcb-wqA",
   heraldic: "blaz_venise.png",
@@ -2202,11 +2202,11 @@ Picture.create(
 toscane = Province.create(
   name: "Toscane",
   map: "toscana-map.png",
-  description:"Splendeur du paysage toscan, si finement ciselé dans ses contours qu'on dirait qu'il fut dessiné par les peintres pour continuer l'art hors des villes. Les collines vertes perdues dans la nué d’or du soleil couchant, les cyprès centenaires et les églises en marbre… tout ceci sépare les plus beaux villages qui ont été par le passé d’anciennes républiques autonomes. A l’heure de l’invention du politique dans l’Italie du Quattrocento, la Toscane a vu s’opposer deux modèles dans une rivalité historique : le gouvernement communal de Sienne contre le principat médicéen de Florence. De la Toscane, on retient cette invention magistrale de l'art de vivre, de la vie comme un art, de l'art comme une ville.")
+  description:"Splendeur du paysage toscan, si finement ciselé dans ses contours qu'on dirait qu'il fut dessiné par les peintres pour continuer l'art hors des villes. Les collines vertes perdues dans la nué d’or du soleil couchant, les cyprès centenaires et les églises en marbre… tout ceci sépare les plus beaux villages qui ont été par le passé d’anciennes républiques autonomes. A l’heure de l’invention du politique dans l’Italie du Quattrocento, la Toscane a vu s’opposer deux modèles dans une rivalité historique : le gouvernement communal de Sienne contre le principat médicéen de Florence. De la Toscane, on retient cette invention magistrale de l'art de vivre, de la vie comme un art et de l'art dans la ville.")
 florence =  City.create(
   name:"Florence",
   geocoding: "43° 46′ 18′ NORD 11° 15′ 13′ EST",
-  description: "Ville binaire et géométrique, Florence est sans demi-mesure. Elle est tantôt sombre, avec un ciel bas et des bâtisses austères qui rappellent son passé politique sulfureux fait de dangers et de luttes : se sont affrontés les Guelfes contre les Gibelins, les Franciscains contre les Dominicains, les Medicis contre les Pazzi, Savenarole contre Laurent le Magnifique. Et puis, inversée comme par miracle, elle apparait soudain légère, saupoudrée d'or, parsemée de chapelles et de cloîtres aux peintures les plus douces. À Florence, la Beauté est un pouvoir, depuis qu'au quinzième siècle, Cosme de Médicis demanda à Brunelleschi de construire le Dôme chargé de recouvrir Santa Maria del Fiore. Par ce moyen, le mécène Médicis avait lancé la Renaissance, et permis un foisonnement artistique sans précédent qui donna à l'Italie ses plus grands artistes et penseurs.",
+  description: "Ville binaire et géométrique, Florence est sans demi-mesure. Elle est tantôt sombre, avec un ciel bas et des bâtisses austères qui rappellent son passé politique sulfureux fait de dangers et de luttes : se sont affrontés les Guelfes contre les Gibelins, les Franciscains contre les Dominicains, les Medicis contre les Pazzi, Savenarole contre Laurent le Magnifique. Et puis, inversée comme par miracle, elle apparait soudain légère, saupoudrée d'or, parsemée de chapelles et de cloîtres aux peintures les plus douces. À Florence, la Beauté est un pouvoir depuis qu'au quinzième siècle, Cosme de Médicis demanda à Brunelleschi de construire le Dôme chargé de recouvrir Santa Maria del Fiore. Par ce moyen, le mécène Médicis avait lancé la Renaissance, ce qui permit un foisonnement artistique sans précédent qui donna à l'Italie ses plus grands artistes et penseurs.",
   province: toscane,
   coordinates: "https://www.franceculture.fr/emissions/carnet-nomade/je-vous-ecris-de-florence",
   heraldic: "blaz_florence.png",
@@ -2905,11 +2905,11 @@ Picture.create(
 ombrie = Province.create(
   name: "Ombrie",
   map: "umbria-map.png",
-  description:"La Ombrie est la seule partie d’Italie qui soit sans frontière commune avec la mer. Bien repliée dans ses forêts intérieures, ses vallées étalent un vert sombre et sérieux sur tout le paysage. C’est une région totalement enclavée, intérieure et secrète, propice à une méditation heureuse encouragée par le souvenir de François d’Assise et la piété des fresques de Giotto. La Ombrie est lointainement étrusque et fortement médiévale. En haut des collines et des champs labourés, on voit se dresser des villages fortifiés dont la pierre historique nous rappelle au Moyen-Âge et nous replonge dans cette époque absolue, spirituelle et dangereuse qui n'avait pas encore dit non à la puissance de l'Imaginaire.")
+  description:"La Ombrie est la seule partie d’Italie qui est sans frontière commune avec la mer. Bien repliée dans ses forêts intérieures, ses vallées étalent un vert sombre et sérieux sur tout le paysage. C’est une région totalement enclavée, intérieure et secrète, propice à une méditation heureuse encouragée par le souvenir de François d’Assise et la piété des fresques de Giotto. La Ombrie est lointainement étrusque et fortement médiévale. En haut des collines et des champs labourés, on voit se dresser des villages fortifiés dont la pierre historique nous rappelle au Moyen-Âge et nous replonge dans cette époque d'absolu, à la fois spirituelle et dangereuse, qui n'avait pas encore dit non à la puissance de l'Imaginaire.")
 bevagna =  City.create(
   name:"Bevagna",
   geocoding: "none given",
-  description:"Bevagna est un petit bourg fortifié dessiné par des lignes romaines. On le voit bien en parcourant la piazza Silvestri, sorte de forum qui mêle lieux de pouvoir, de culture et de négoce. On le remarque encore en passant devant de vieilles bâtisses aux sols marquetés de mosaïques romaines ayant servi aux thermes. Et puis, chemin faisant et l'histoire suivant son court la ville prend un aspect médiéval. Elle nous montre alors ses remparts serties de grosses tours en pierre, et ses deux églises de Saint Michel Archange et de Saint Sylvestre qui sont solidement bâties et merveilleusement dépouillées. Esthétique puriste pour un tempérament vigoureux.",
+  description:"Bevagna, ou la ville à la campagne, ou la campagne en ville. On y voit des très hautes bâtisses qu'on croirait des corps de ferme, des chemins de traverses et une végétation qui se mélange aux pierres. La place centrale, appelée la piazza Silvestri, est magnifique. C'est une sorte d'ancien forum romain qui mêle lieux de pouvoir, de culte et de négoce. Il y a le palais des Consuls, deux églises, un théâtre et une fontaine. Certaines maisons ont encore des sols marquetés de mosaïques qui servaient pour les thermes. Et puis, chemin faisant et l'histoire suivant son cours, la ville prend un aspect médiéval. Elle nous montre alors ses remparts sertis de grosses tours en pierre qui sont solidement bâties et merveilleusement dépouillées. Esthétique puriste pour un tempérament vigoureux.",
   province: ombrie,
   coordinates: "none given",
   heraldic: "blaz_bevagna.png",
@@ -2924,13 +2924,13 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_2.jpg",
   position: 2,
-  css_class: "landscape",
+  css_class: "all",
   city: bevagna
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_3.jpg",
   position: 3,
-  css_class: "landscape",
+  css_class: "all",
   city: bevagna
 )
 Picture.create(
@@ -3145,7 +3145,7 @@ Picture.create(
 gubbio =  City.create(
   name:"Gubbio",
   geocoding: "none given",
-  description:"Le village de Gubbio possède une beauté pure, terrestre et raffinée. En bas de la vallée, il nous cueille pour nous emmener dans ses ruelles pavées. Elles sont denses et pierreuses, et se rétrécissent à mesure que notre montée se raidie pour mieux nous capturer dans son atmosphère médiévale. Sur la grande place en haut du village, on aperçoit le très altier Palais des Consuls, dont la hauteur vertigineuse provoque l'ébahissement. Il faut s'avancer sur le rebord de cette place qui est entièrement bordée par une petite muraille. Un pas ou deux, et devant nous s'étale toute la vallée ombrienne à perte de vue. Nous regardons les villages au loin enroulés sur leurs églises, les oliviers à flanc vallée et les vieilles bâtisses qui parsèment la campagne. Alors nous sourions en pensant combien tout ceci ressemble à un tableau de maître.",
+  description:"Le village de Gubbio possède une beauté pure et terrestre. En bas de la vallée, il nous cueille pour nous emmener dans ses ruelles pavées. Elles sont denses et pierreuses, et se rétrécissent à mesure que notre montée se raidie pour mieux nous capturer dans son atmosphère médiévale. Sur la grande place en haut du village, on aperçoit le très altier Palais des Consuls, dont la hauteur vertigineuse provoque l'ébahissement. Il faut s'avancer sur le rebord de cette place qui est entièrement bordée par une petite muraille. Un pas ou deux, et devant nous s'étale toute la vallée ombrienne à perte de vue. Nous regardons les villages au loin enroulés sur leurs églises, les oliviers à flanc de vallée et les vieilles bâtisses qui parsèment la campagne. Tout ceci ressemble à un tableau de maître.",
   province: ombrie,
   coordinates: "none given",
   heraldic: "blaz_gubbio.png",
@@ -3359,7 +3359,7 @@ Picture.create(
 orvieto =  City.create(
   name:"Orvieto",
   geocoding: "none given",
-  description:"Orvieto est une ville aux milles couleurs, témoignage encore vivant de la flamboyance du Moyen-Âge. Elle est perchée sur un éperon rochaux et de la-haut, elle domine une paisible campagne dans laquelle s'allongent des arbres bien rangés. A l’intérieur de la ville, les rues sont épaisses, la pierre est lourde, et les maisons se cachent les unes à côté des autres. Elles sont bien protégées par la muraille d'enceite défensive qui entoure toute la ville. Sur la place centrale trôrne une cathédrale prodigieusement colorée, presqu’à la manière d’une enluminure monumentale. Ses murs sont parés de lignes de marbre rose, blanc et noir et son fronton est couvert de mosaïques aux reliefs d’or. A l’intérieur de l’église, d’incroyables fresques racontent avec ferveur le voyage des anges à travers les nuées nocturnes.",
+  description:"Orvieto est un témoignage encore vivant de la flamboyance du Moyen-Âge. Elle est perchée sur un éperon rocheux et domine de là-haut une paisible campagne dans laquelle s'allongent des arbres bien rangés. À l’intérieur de la ville, les rues sont épaisses, la pierre est lourde, et les maisons se cachent les unes à côté des autres. Elles sont protégées par une muraille défensive qui entoure toute la ville. Sur la place centrale trône une cathédrale prodigieusement colorée, presqu’à la manière d’une enluminure monumentale. Ses murs sont parés de lignes de marbre rose, blanc et noir et son fronton est couvert de mosaïques aux reliefs d’or. À l’intérieur de l’église, d’incroyables fresques racontent avec ferveur le voyage des anges à travers les nuées nocturnes.",
   province: ombrie,
   coordinates: "none given",
   heraldic: "blaz_orvieto.png",
@@ -3506,7 +3506,7 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_25.jpg",
   position: 25,
-  css_class: "all",
+  css_class: "bande",
   city: orvieto
 )
 
