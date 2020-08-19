@@ -3141,6 +3141,12 @@ Picture.create(
   css_class: "zoom",
   city: montone
 )
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_23.jpg",
+  position: 23,
+  css_class: "bande",
+  city: orvieto
+)
 
 gubbio =  City.create(
   name:"Gubbio",
@@ -3359,7 +3365,7 @@ Picture.create(
 orvieto =  City.create(
   name:"Orvieto",
   geocoding: "none given",
-  description:"Orvieto est un témoignage encore vivant de la flamboyance du Moyen-Âge. Elle est perchée sur un éperon rocheux et domine de là-haut une paisible campagne dans laquelle s'allongent des arbres bien rangés. À l’intérieur de la ville, les rues sont épaisses, la pierre est lourde, et les maisons se cachent les unes à côté des autres. Elles sont protégées par une muraille défensive qui entoure toute la ville. Sur la place centrale trône une cathédrale prodigieusement colorée, presqu’à la manière d’une enluminure monumentale. Ses murs sont parés de lignes de marbre rose, blanc et noir et son fronton est couvert de mosaïques aux reliefs d’or. À l’intérieur de l’église, d’incroyables fresques racontent avec ferveur le voyage des anges à travers les nuées nocturnes.",
+  description:"Orvieto est un témoignage encore vivant de la flamboyance du Moyen-Âge. La ville est perchée sur un éperon rocheux et domine de là-haut une paisible campagne dans laquelle s'allongent des arbres bien rangés. À l’intérieur, les rues sont épaisses, la pierre est lourde, et les maisons se cachent les unes à côté des autres. Elles sont protégées par une muraille défensive qui entoure toute la ville. Sur la place centrale trône une cathédrale prodigieusement colorée, presqu’à la manière d’une enluminure monumentale. Ses murs sont parés de lignes de marbre rose, blanc et noir et son fronton est couvert de mosaïques aux reliefs d’or. À l’intérieur de l’église, d’incroyables fresques racontent avec ferveur le voyage des anges à travers les nuées nocturnes.",
   province: ombrie,
   coordinates: "none given",
   heraldic: "blaz_orvieto.png",
