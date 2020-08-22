@@ -6,7 +6,8 @@
   font-size: 18px;
 
   & .cadre {
-  min-height: 90vh;
+  // min-height: 90vh;
+  height: calc(100vh - 40px);
   align-items: stretch;
   margin-left: 150px;
   margin-right: 150px;
