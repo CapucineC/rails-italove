@@ -714,19 +714,19 @@ mantoue =   City.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_1.jpg",
   position: 1,
-  css_class:"all",
+  css_class:"zoom",
   city: mantoue
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_2.jpg",
   position: 2,
-  css_class:"landscape",
+  css_class:"",
   city: mantoue
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_3.jpg",
   position: 3,
-  css_class:"landscape",
+  css_class:"",
   city: mantoue
 )
 Picture.create(
