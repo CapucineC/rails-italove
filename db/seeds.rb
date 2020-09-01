@@ -3882,10 +3882,10 @@ Picture.create(
 campanie = Province.create(
   name: "Campanie",
   map: "campania-map.png",
-  description:"Si la Campanie est aussi célébrée, c'est pour la beauté de ses couleurs. On trouve les teintes les plus douces d'Italie dans les marbres de Naples et les fresques des sites archéologiques de Pompéi et d'Herculanum mais aussi des couleurs vives et explosives sur les îles de Capri et Ravello, et dans tous les villages colorés qui parsèment la côte amalfitaine. La Campanie est une terre profonde et mystérieuse. Ici, le passé ne s'est jamais effacé et imprègne les caractères d'une vitalité immuable. Ici, la nature confond la beauté et le danger, dichotomie fondamentale renfermée dans le Vésuve, qui fait et défait les villes par son rugissement volcanique. Arrivée en terre méridionale, changement complet de paradigme, voici le Grand Sud.")
+  description:"Si la Campanie est aussi célébrée, c'est pour la beauté de ses couleurs. On trouve les teintes les plus douces dans les marbres de Naples et les fresques des sites archéologiques de Pompéi et d'Herculanum mais aussi des couleurs bien vives et explosives sur les îles de Capri et Ravello, et dans tous les villages colorés qui parsèment la côte amalfitaine. La Campanie est une terre profonde et mystérieuse. Ici, le passé ne s'est jamais effacé et imprègne les caractères d'une vitalité immuable. Ici, la nature confond la beauté et le danger, dichotomie fondamentale renfermée dans le Vésuve, qui fait et défait les villes par son rugissement volcanique. Arrivée en terre méridionale, changement complet de paradigme, voici le Grand Sud.")
 naples =  City.create(
   name:"Naples",
-  description:"Le sable marin, les murs décrépis, la lumière des vespas dans l'étroitesse des rues : Jaune de Naples. On dit que cette couleur est l'étendard des Dieux. Jaune du soleil et de la force, qui emplissait les décors à fresque des maisons des patriciens romains. Jaune du festoiement, de l'humeur heureuse, de l'or, de la grande richesse. Mais si d'aventure son éclat passe, alors il prend la teinte du souffre : couleur des flammes de l'enfer, jaune des parias, danger. Rire jaune, rire pour échapper aux situations, ainsi font les napolitains. Naples est assurément la ville la plus fascinante d'Italie, par la puissance des contradictions qu'elle est capable d'accepter. Cette ville qu'on dit dangereuse, où l'argent est sali et méprisé est une ville aristocrate qui traite ses habitants en princes. Les palais, les oeuvres d'art et les plus beaux opéras leurs sont donnés, offerts dans les rues aussi nécessairement que l'air et le soleil.",
+  description:"Le sable marin, les murs décrépis, la lumière des vespas dans l'étroitesse des rues : Jaune de Naples. On dit que cette couleur est l'étendard des Dieux. Jaune du soleil et de la force, qui emplissait les décors à fresque des maisons des patriciens romains. Jaune du festoiement, de l'humeur heureuse, de l'or, de la grande richesse. Mais si d'aventure son éclat passe, alors il prend la teinte du souffre. C'est le jaune des parias, c'est celui du danger, c'est la couleur des flammes de l'Enfer. Rire jaune, rire pour échapper aux situations, ainsi font les Napolitains. Naples est assurément la ville la plus fascinante d'Italie, par la puissance des contradictions qu'elle est capable d'accepter. Cette ville qu'on dit dangereuse, où l'argent est sali et méprisé est une ville aristocrate qui traite ses habitants en princes. Les palais, les œuvres d'art et les plus beaux airs d’opéras leurs sont donnés, offerts dans les rues aussi nécessairement que le soleil.",
   province: campanie,
   heraldic: "blaz_naples.png",
   picture: "na_00.jpg",
@@ -4361,7 +4361,7 @@ Picture.create(
 
 capri =  City.create(
   name:"Capri",
-  description:"Capri commence là où s'arrête Naples et permet une escapade nécessaire à l'intensité baroque. C'est une île brute au paysage rocheux et escarpé, entourée par de nombreuses criques précieuses aux eaux d’émeraude et de saphir. En son for intérieur, deux petits villages dominent. Les chemins qui les traversent révèlent une abondance de fleurs aux couleurs chatoyantes qui embaument le vent marin. Qu'il est doux de se laisser ravir, avant d'affronter la bruyante et richissime clientèle qui accapare les boutiques de luxe. Ainsi, perdu dans la mer Tyrrhénienne au large de la baie de Naples, le voyageur retrouve pour quelques heures une respiration au grand large, une légèreté, voire même quelquefois le sens du superflus. Le contraste est saisissant.",
+  description:"Capri commence là où s'arrête Naples et permet une escapade nécessaire après l'intensité baroque napolitaine. C'est une île brute au paysage rocheux et escarpé, sertie de nombreuses criques précieuses aux eaux d’émeraude et de saphir. En son for intérieur, deux petits villages dominent. Les chemins qui les traversent révèlent une abondance de fleurs aux couleurs étincelantes qui embaument le vent marin. Qu'il est doux de se laisser ravir, avant d'affronter la bruyante et richissime clientèle qui accapare les boutiques de luxe. Ainsi, perdu dans la mer Tyrrhénienne au large de la baie de Naples, le voyageur retrouve pour quelques heures une respiration au grand large, une légèreté, voire même quelquefois une certaine frivolité. Le contraste est saisissant.",
   province: campanie,
   heraldic: "blaz_capri.png",
   picture: "ca_00.jpg",
@@ -4565,11 +4565,11 @@ Picture.create(
 pouilles = Province.create(
   name: "Pouilles",
   map: "puglia-map.png",
-  description:"La région des Pouilles forme le talon de la botte italienne. Elle offre aux promeneurs des paysages d'une grande beauté : une côte capricieusement découpée, la mer d'un bleu cristallin, des criques secrètes, des plages au sable infiniment fin et des plateaux agricoles couleur cuivre semés d'oliviers centenaires. Bordées par les mers adriatique et ionienne, parsemée d'églises romanes, de palais baroques et de châteaux normands, souabes et aragonais, il fallait bien que les Pouilles s'accordent au pluriel. Sur la route de Bari à Otrante se succèdent petits ports et villes blanchies à la chaux, simples et nues, de moins en moins italiennes et presque déjà grecques...")
+  description:"La région des Pouilles forme le talon de la botte italienne. Elle offre aux promeneurs des paysages d'une grande beauté : une côte capricieusement découpée, la mer d'un bleu cristallin, des criques secrètes, des plages au sable infiniment fin et des plateaux agricoles couleur cuivre recouverts d'oliviers centenaires. Bordés par les mers Adriatique et Ionienne, parsemés d'églises romanes, de palais baroques et de châteaux normands, souabes et aragonais, il fallait bien que les Pouilles s'accordent au pluriel. Sur la route de Bari à Otrante se succèdent petits ports et villes blanchies à la chaux, simples et nues, de moins en moins italiennes et presque déjà grecques...")
 bari =  City.create(
   name:"Bari",
   geocoding: "41° 08′ 00″ NORD, 16° 52′ 00″ EST",
-  description:"À l'intérieur de Bari, le quartier de Barivecchia est un labyrinthe de vieilles rues secrètes et mystérieuses. Dès l'aube, les femmes préparent manuellement des orecchiettes dans leur cuisine, pendent le linge propre à leurs fenêtres et s'en vont s'assoir sur le pas de leur porte pour discuter. D'autres habitants passent devant elles en empruntant des ruelles étroites, sorte de rue-couloirs ou s'égrènent les effigies de la Madone. Ils parlent un dialecte que l'on comprend à peine. Là-bas sur les petites places, les enfants jouent au ballon et les hommes boivent le café entre eux. Enfin, nous passons devant les très belles, très blanches et très hautes cathédrales romanes, et puis nous arrivons en haut des remparts, face à la mer adriatique, où les pécheurs nettoient le poisson tout juste pris.",
+  description:"À l'intérieur de Bari, le quartier de Barivecchia est un labyrinthe de vieilles rues secrètes et mystérieuses. Dès l'aube, les femmes préparent de leurs mains des pâtes orecchiettes dans leur cuisine, pendent le linge propre à leurs fenêtres et s'en vont s'assoir sur le pas de leur porte. D'autres habitants passent devant elles en empruntant des ruelles étroites, sorte de rue-couloirs ou s'égrènent les effigies de la Madone. Ils parlent un dialecte que l'on comprend à peine. Là-bas sur les petites places, les enfants jouent au ballon et les hommes boivent le café entre eux. Enfin, nous passons devant les très belles, blanches et hautes cathédrales romanes, et puis nous arrivons en haut des remparts, face à la mer Adriatique, où les pécheurs nettoient le poisson tout juste pris.",
   province: pouilles,
   coordinates: "https://goo.gl/maps/EsaSJMXxuf32",
   heraldic: "blaz_bari.png",
@@ -4780,7 +4780,7 @@ Picture.create(
 polignano =   City.create(
   name:"Polignano a Mare",
   geocoding: "41° 00′ 00″ NORD 17° 13′ 00″ EST",
-  description:"C'est l'un des plus beaux villages des Pouilles, au profil antique et grec. C'est un village tout blanc.  Il est perché en haut de ses falaises qui tombent à pic. Il s'avance dans la mer comme un navire prêt à larguer ses amarres. Dans sa crique aux eaux limpides, des nageurs apparaissent par centaine entre les grottes apparentes et les rochers, et forment un tourbillon de couleurs vives. Plus haut, à l'intérieur même du village, Polignago laisse voir et revoir la mer par différents points de perspectives - sur les places, au travers de fenêtres, en haut d'un escalier - comme une perpetuelle incitation à prendre le large.",
+  description:"C'est l'un des plus beaux villages des Pouilles, au profil antique et grec. C'est un village tout blanc, perché en haut falaises qui tombent à pic. Il s'avance dans la mer comme un navire prêt à larguer ses amarres. Dans sa crique aux eaux limpides, des nageurs apparaissent par centaine entre les grottes apparentes et les rochers, et forment un tourbillon de couleurs vives. Plus haut, à l'intérieur même du village, Polignago laisse voir et revoir la mer par différents points de perspectives - sur les places, au travers de fenêtres, en haut d'un escalier - comme une perpétuelle incitation à prendre le large.",
   province: pouilles,
   coordinates: "https://goo.gl/maps/y5jPJWArV9H2",
   heraldic: "blaz_polignano.png",
@@ -4858,7 +4858,7 @@ Picture.create(
 monopoli =  City.create(
   name:"Monopoli",
   geocoding: "40° 57′ 00″ NORD 17° 18′ 00″ EST",
-  description:"Le charme de Monopoli vient de son port miniature rempli d'authentiques barques en bois qui sont peintes en bleu et rouge. Avec certains balcons qui ont des loggias blanches, sa place faite d'eau et un Dôme en arrière-fond, l'endroit possède un charme quasiment vénitien. Les promeneurs viennent s'y retrouver  avant de continuer leur balade dans les ruelles historiques, pour terminer devant le château de Charles V, une impressionnante fortification défensive édifiée pendant l'occupation aragonaise. La ville a donc eu plusieurs influences, mais son nom hérité du grec 'monos-polis' l'affirme, elle est 'la ville unique'.",
+  description:"Le charme de Monopoli vient de son port miniature rempli d'authentiques barques en bois peintes en bleu et rouge. Avec certains balcons qui ont des loggias blanches, sa place faite d'eau et un Dôme en arrière-fond, l'endroit possède un charme quasiment vénitien. Les promeneurs viennent s'y retrouver avant de continuer leur balade dans les ruelles historiques, pour terminer devant le château de Charles V, une impressionnante fortification défensive édifiée pendant l'occupation aragonaise. La ville a donc eu plusieurs influences, mais son nom hérité du grec 'monos-polis' l'affirme, elle est 'la ville unique'.",
   province: pouilles,
   coordinates: "https://goo.gl/maps/iSCYZKeXgPk",
   heraldic: "blaz_monopoli.png",
@@ -5076,7 +5076,7 @@ Picture.create(
 lecce =   City.create(
   name:"Lecce",
   geocoding: "40° 21′ 13″ NORD 18° 10′ 32″ EST",
-  description:"La beauté de Lecce s'explique par sa pierre si particulière dont la souplesse et la luminosité ont permis l'invention du style architectural nommé 'Barocco leccese'. Pierre blanche, beige ou ocre à mesure que le soleil l'éclaire pendant la journée. Pierre crayeuse, lisse et lumineuse. Pierre souple, montée en crème, sculptée toute en rondeur avec une facilité déconcertante, qui confère à toute la ville une harmonie des couleurs et une douceur des formes. En mettant à profit les qualités exceptionnellement maléables de cette pierre calcaire, les basiliques ont été ornées de multiples sculptures d'anges, de fleurs et de blasons. Aussi, toute balade dans les rues de Lecce est-elle infiniment baroque et merveilleusement poétique.",
+  description:"La beauté de Lecce s'explique par sa pierre si particulière dont la souplesse et la luminosité ont permis l'invention du style architectural nommé 'Barocco leccese'. Pierre blanche, beige ou ocre à mesure que le soleil l'éclaire pendant la journée. Pierre crayeuse, lisse, lumineuse. Pierre souple, montée en crème, sculptée toute en rondeur avec une facilité déconcertante, qui confère à toute la ville une harmonie des couleurs et une douceur des formes. En mettant à profit les qualités exceptionnellement maléables de cette pierre calcaire, les basiliques ont été ornées de multiples sculptures d'anges, de fleurs et de blasons. Aussi, toute balade dans les rues de Lecce est-elle infiniment baroque et merveilleusement poétique.",
   province: pouilles,
   coordinates: "https://goo.gl/maps/jtHhFteNxYD2",
   heraldic: "blaz_lecce.png",
@@ -5090,13 +5090,7 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_2.jpg",
   position: 2,
-  css_class:"landscape",
-  city: lecce
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_3.jpg",
-  position: 3,
-  css_class:"landscape",
+  css_class:"all",
   city: lecce
 )
 Picture.create(
