@@ -1758,7 +1758,7 @@ bologne =   City.create(
   coordinates: "https://goo.gl/maps/SikWUfv8ZAP2",
   heraldic: "blaz_bologne.png",
   picture: "bo_00.jpg",
-  caption: "Serratura di porta, Centro Storico")
+  caption: "Centro Storico")
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_1.jpg",
   position: 1,
@@ -2209,7 +2209,7 @@ florence =  City.create(
   coordinates: "https://www.franceculture.fr/emissions/carnet-nomade/je-vous-ecris-de-florence",
   heraldic: "blaz_florence.png",
   picture: "flo_00.jpg",
-  caption: "Cattedrale di Santa Maria del Fiore")
+  caption: "Cappella dei Magi, Benozzo Gozzoli")
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_1.jpg",
 position: 1,
