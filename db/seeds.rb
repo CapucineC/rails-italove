@@ -1924,12 +1924,13 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_28.jpg",
   position: 28,
+  css_class: "landscape",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_29.jpg",
   position: 29,
-  css_class: "zoom",
+  css_class: "all",
   city: bologne
 )
 Picture.create(
@@ -1940,19 +1941,18 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_31.jpg",
   position: 31,
-  css_class: "all",
+  css_class: "zoom",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_32.jpg",
   position: 32,
-  css_class: "landscape",
   city: bologne
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_33.jpg",
   position: 33,
-  css_class: "landscape",
+  css_class: "all",
   city: bologne
 )
 Picture.create(
