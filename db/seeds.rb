@@ -1753,7 +1753,7 @@ emilieromagne = Province.create(
 bologne =   City.create(
   name:"Bologne",
   geocoding: "44° 30′ 00″ NORD 11° 21′ 00″ EST",
-  description:"Son centre historique est hérissé d'une dizaine de hautes tours. Au Moyen-Âge, elles servaient de poste de guet pour prévenir des attaques. Ses rues médiévales, elles, sont encore propices à toutes les aventures. Elles sont recouvertes par d'interminables portiques, construits assez haut, dit-on, pour laisser passer un homme à cheval. Mais aujourd'hui, qui habite ici ? Où sont les clefs des portes de Bologne, aux serrures surmontées par des masques rieurs et des lions en bronze ? Qui fait la loi ? Est-ce la couleur rouge des murs ? Ou celle du plaisir du bon vin ? Ou les étudiants qui, aux heures de soleil, envahissent les places pour discuter à même le sol ? C'est que Bologne abrite la plus vieille université d'Europe, fréquentée par les illustres Dante, Boccace et Pétrarque. Il n'y a pas, en Italie, de ville plus amicale et sympathique que celle-ci.",
+  description:"Ses rues médiévales sont propices à toutes les aventures. Elles sont recouvertes par d'interminables portiques, construits assez haut, dit-on, pour laisser passer un homme à cheval. Son centre historique est hérissé d'une dizaine de hautes tours. Au Moyen-Âge, elles servaient de poste de guet pour prévenir des attaques. Mais aujourd'hui, qui habite ici ? Où sont les clefs des portes de Bologne, aux serrures surmontées par des masques rieurs et des lions en bronze ? Qui fait la loi ? Est-ce la couleur rouge des murs ? Ou celle du plaisir du bon vin ? Ou les étudiants qui, aux heures de soleil, envahissent les places pour discuter à même le sol ? C'est que Bologne abrite la plus vieille université d'Europe, fréquentée par les illustres Dante, Boccace et Pétrarque. Il n'y a pas, en Italie, de ville plus amicale et sympathique que celle-ci.",
   province: emilieromagne,
   coordinates: "https://goo.gl/maps/SikWUfv8ZAP2",
   heraldic: "blaz_bologne.png",
@@ -1947,12 +1947,6 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_32.jpg",
   position: 32,
-  city: bologne
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_33.jpg",
-  position: 33,
-  css_class: "all",
   city: bologne
 )
 Picture.create(
