@@ -221,11 +221,11 @@ Picture.create(
 lombardie = Province.create(
   name: "Lombardie",
   map: "lombardia-map.png",
-  description:"À la chute de l'empire romain, le peuple germanique des Lombards a envahi le nord de l'Italie pour se concentrer dans cette région à laquelle ils ont laissé leur nom. Avoisinant les Alpes et sertie par les grands lacs, la nature lombarde est froide et bleutée. Les villes, elles, ont été créées par des dynasties ambitieuses et belliqueuses qui les ont parées de prestigieux monuments : dômes, palais de marbres et forteresses s'y dressent élégamment vers le ciel pour côtoyer les nuages. Dans les rues de Milan, chef lieu de la région et capitale économique de l'Italie, les piétons traversent les viale, corso et rues d'un pas rapide et sûr, tout absorbés qu'ils sont par leur réussite dans les affaires.")
+  description:"À la chute de l'empire romain, le peuple germanique des Lombards a envahi le nord de l'Italie pour se concentrer dans cette région à laquelle ils ont laissé leur nom. Avoisinant les Alpes et sertie par les grands lacs, la nature lombarde est froide et bleutée. Les villes, elles, ont été créées par des dynasties ambitieuses et belliqueuses qui les ont parées de prestigieux monuments : dômes, palais de marbres et forteresses s'y dressent élégamment vers le ciel pour côtoyer les nuages. Dans les rues de Milan, chef lieu de la région et capitale économique de l'Italie, les piétons traversent les viale, corso et rues d'un pas rapide et sûr, tout absorbés qu'ils sont par la réussite et les affaires.")
 milan =   City.create(
   name:"Milan",
   geocoding: "45° 28′ 00″ NORD 9° 10′ 00″ EST",
-  description:"Fief des familles Sforza et Visconti, capitale de la mode et de la finance, lieu du design par excellence, la divine Milan étale son succès avec fierté. Mais la beauté de cette ville ne se laisse pas regarder si facilement. Il faut patiemment la chercher. Elle se cache dans les arrière-cours des palazzi, se révèle par à-coups au gré des balades dans le quartier de Brera et derrière les vitrines de la pâtisserie Marchesi. On la retrouve aussi à l'intérieur de la Galleria Vittorio Emmanuelle, en face des devantures de Prada ou dans les couloirs de la Scala qui mènent encore aux opéras de Verdi. Nous reste à admirer l'austère château Sforza et l'éblouissant Dôme de Milan qui pointe vers le ciel cent trente cinq flèches de marbre.",
+  description:"Fief des familles Sforza et Visconti, capitale de la mode et de la finance, lieu du design par excellence, la divine Milan étale son succès avec fierté. Mais la beauté de cette ville ne se laisse pas regarder si facilement. Il faut patiemment la chercher. Elle se cache dans les arrière-cours des palazzi, se révèle par à-coups au gré des balades dans le quartier de Brera et derrière les vitrines de la pâtisserie Marchesi. On peut aussi la rencontrer à l'intérieur de la Galleria Vittorio Emmanuelle, en face des devantures de Prada. On peut encore la trouver dans les couloirs de la Scala qui mènent aux opéras de Verdi. La seule fois où elle se montre, elle s’impose avec force. En témoigne l'austère château Sforza et l'éblouissant Dôme de Milan qui pointe vers le ciel cent trente-cinq flèches de marbre.",
   province: lombardie,
   coordinates: "https://goo.gl/maps/PwxzZtBFjSq",
   heraldic: "blaz_milan.png",
@@ -581,7 +581,8 @@ bergame =   City.create(
   province: lombardie,
   coordinates: "https://goo.gl/maps/EVKRgQvA6jK2",
   heraldic: "blaz_bergame.png",
-  picture: "be_00.jpg")
+  picture: "be_00.jpg",
+  caption: "Fontana Contarini, Piazza Vecchia")
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_1.jpg",
   position: 1,
@@ -669,7 +670,7 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_17.jpg",
   position: 17,
-  css_class: "landscape",
+  css_class: "all",
   city: bergame
 )
 Picture.create(
@@ -681,7 +682,7 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_19.jpg",
   position: 19,
-  css_class: "all",
+  css_class: "landscape",
   city: bergame
 )
 Picture.create(
@@ -694,12 +695,6 @@ Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_21.jpg",
   position: 21,
   css_class: "landscape",
-  city: bergame
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_22.jpg",
-  position: 22,
-  css_class: "all",
   city: bergame
 )
 
