@@ -14,7 +14,8 @@ turin = City.create(
   province: piemont,
   coordinates: "https://goo.gl/maps/6G6XQSSDz7T2",
   heraldic: "blaz_turin.png",
-  picture: "tu_00.jpg")
+  picture: "tu_00.jpg",
+  caption: "Piazza Carlo Alberto")
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_1.jpg",
   position: 1,
@@ -225,7 +226,7 @@ lombardie = Province.create(
 milan =   City.create(
   name:"Milan",
   geocoding: "45° 28′ 00″ NORD 9° 10′ 00″ EST",
-  description:"Fief des familles Sforza et Visconti, capitale de la mode et de la finance, lieu du design par excellence, la divine Milan étale son succès avec fierté. Mais la beauté de cette ville ne se laisse pas regarder si facilement. Il faut patiemment la chercher. Elle se cache dans les arrière-cours des palazzi, se révèle par à-coups au gré des balades dans le quartier de Brera et derrière les vitrines de la pâtisserie Marchesi. On peut aussi la rencontrer à l'intérieur de la Galleria Vittorio Emmanuelle, en face des devantures de Prada. On peut encore la trouver dans les couloirs de la Scala qui mènent aux opéras de Verdi. La seule fois où elle se montre, elle s’impose avec force. En témoigne l'austère château Sforza et l'éblouissant Dôme de Milan qui pointe vers le ciel cent trente-cinq flèches de marbre.",
+  description:"Fief des familles Sforza et Visconti, capitale de la mode et de la finance, lieu du design par excellence, la divine Milan étale son succès avec fierté. Mais la beauté de cette ville ne se laisse pas regarder si facilement. Il faut patiemment la chercher. Elle se cache dans les arrière-cours des palazzi, se révèle par à-coups au gré des balades dans le quartier de Brera et derrière les vitrines de la pâtisserie Marchesi. On peut aussi la rencontrer à l'intérieur de la Galleria Vittorio Emmanuelle, en face des devantures de Prada, ou bien la trouver dans les couloirs de la Scala qui mènent aux opéras de Verdi. La seule fois où elle se montre, elle s’impose avec force. En témoigne l'austère château Sforza et l'éblouissant Dôme de Milan qui pointe vers le ciel cent trente-cinq flèches de marbre.",
   province: lombardie,
   coordinates: "https://goo.gl/maps/PwxzZtBFjSq",
   heraldic: "blaz_milan.png",
@@ -705,7 +706,8 @@ mantoue =   City.create(
   province: lombardie,
   coordinates: "https://goo.gl/maps/wMK3qnSbNVn",
   heraldic: "blaz_mantoue.png",
-  picture: "man_00.jpg")
+  picture: "man_00.jpg",
+  caption: "Palazzo Ducale")
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_1.jpg",
   position: 1,
@@ -1082,7 +1084,7 @@ Picture.create(
 majeur =  City.create(
   name:"Lac Majeur",
   geocoding: "45° 54′ 18″ NORD 8° 34′ 57″ EST",
-  description:"Sur le rivage du lac Majeur, des bateaux en bois vernis attendent les promeneurs pour les emmener sur les trois ilots perdus au milieu du lac, qui constituent 'les îles Borromées'. Sur l'île Isola Madre, des chemins dallés conduisent à des jardin luxuriants où les palmiers côtoient des roses rouges. Sur l'Isola dei Pescatori, on trouve un village pittoresque avec son clocher blanc, ses toits rouges et ses filets de pêcheurs accrochés aux portes rustiques. Enfin, sur Isola Bella, un somptueux palais baroque semble flotter sur les eaux, tandis que dans ses jardins en cascade, des paons blancs se baladent en grand seigneur dans des allées rosies par les azalées et les rhododendrons.",
+  description:"Sur le rivage du lac Majeur, des bateaux en bois vernis attendent les promeneurs pour les emmener sur les trois ilots perdus au milieu du lac, qui constituent 'les îles Borromées'. Sur l'île Isola Madre, des chemins dallés emmènent vers des jardin luxuriants où les palmiers côtoient des roses rouges. Sur l'Isola dei Pescatori, on trouve un village pittoresque avec son clocher blanc, ses toits rouges et ses filets de pêcheurs accrochés aux portes rustiques. Enfin, sur Isola Bella, un somptueux palais baroque semble flotter sur les eaux, tandis que dans ses jardins en cascade, des paons blancs se baladent en grand seigneur dans des allées rosies par les azalées et les rhododendrons.",
   province: lacs,
   coordinates: "https://goo.gl/maps/UhoNC994VF42",
   heraldic: "blaz_stressa.png",
@@ -1345,7 +1347,7 @@ Picture.create(
 venetie = Province.create(
   name: "Vénétie",
   map: "veneto-map.png",
-  description:"En Vénétie, c'est la nature qui joue le rôle d' artiste et dessine pour les voyageurs des paysages féeriques : c'est elle qui enneige les montagnes des Dolomites et les recouvre d'un long manteau blanc. C'est elle toujours qui pave d'eau les rues de l'éblouissante Venise. C'est elle encore qui fait éclore les fleurs des balcons de Vérone à l'arrivée de chaque printemps.")
+  description:"En Vénétie, c'est la nature qui joue le rôle d'artiste et dessine pour les voyageurs des paysages féeriques : c'est elle qui enneige les montagnes des Dolomites et les recouvre d'un long manteau blanc. C'est elle toujours qui pave d'eau les rues de l'éblouissante Venise. C'est elle encore qui fait éclore des fleurs sur les balcons de Vérone à l'arrivée de chaque printemps.")
 venise =  City.create(
   name: "Venise",
   geocoding: "45° 26′ 23″ NORD 12° 19′ 55″ EST",
@@ -1556,7 +1558,8 @@ verone =  City.create(
   province: venetie,
   coordinates: "https://www.youtube.com/watch?v=zp3hnBt9TqM",
   heraldic: "blaz_verone.png",
-  picture: "ver_00.jpg")
+  picture: "ver_00.jpg",
+  caption: "Museo degli Affreschi")
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_1.jpg",
   position: 1,
