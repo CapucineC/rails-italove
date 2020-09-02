@@ -1749,7 +1749,7 @@ Picture.create(
 emilieromagne = Province.create(
   name: "Émilie-Romagne",
   map: "emilia-romagna-map.png",
-  description:"En Émilie-Romagne, contrée heureuse et prospère, tout rappelle encore les centurions et les frasques de l'empire romain. La région doit d'ailleurs son nom à la construction de la 'voie Émilienne' par le consul Marcus Aemilius Lepidus au IIe siècle av. J.-C. Aventuresques, les villes de Bologne et de Ferrare nous entrainent dans des rues rougeoyantes, sous des arcades et des voûtes, sur des places bordées de tavernes, à l'intérieur de châteaux qui ont encore des pont-levis. On y ripaille excellemment, tant la région est connue pour sa bonne viande, ses saucissons et son vin goûtu.")
+  description:"En Émilie-Romagne, contrée heureuse et prospère, tout rappelle encore les centurions et les frasques de l'empire romain. La région doit d'ailleurs son nom à la construction de la 'voie Émilienne' par le consul Marcus Aemilius Lepidus au IIe siècle av. J.-C. Aventuresques, les villes de Bologne et de Ferrare nous entrainent dans des rues rougeoyantes, sous des arcades et des voûtes, sur des places bordées de tavernes et à l'intérieur de châteaux qui ont encore des pont-levis. On y ripaille excellemment, tant la région est connue pour sa bonne viande, ses saucissons et son vin goûtu.")
 bologne =   City.create(
   name:"Bologne",
   geocoding: "44° 30′ 00″ NORD 11° 21′ 00″ EST",
@@ -1758,7 +1758,7 @@ bologne =   City.create(
   coordinates: "https://goo.gl/maps/SikWUfv8ZAP2",
   heraldic: "blaz_bologne.png",
   picture: "bo_00.jpg",
-  caption: "Serratura di porta")
+  caption: "Serratura di porta, Centro Storico")
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_1.jpg",
   position: 1,
@@ -2017,7 +2017,7 @@ ferrare =   City.create(
   coordinates: "https://goo.gl/maps/dRXnKnRM3BM2",
   heraldic: "blaz_ferrare.png",
   picture: "fe_00.jpg",
-  caption: "Palazzo Schifanoia, Francesco del Cossa")
+  caption: "Via delle Volte")
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_1.jpg",
   position: 1,
@@ -2200,16 +2200,16 @@ Picture.create(
 toscane = Province.create(
   name: "Toscane",
   map: "toscana-map.png",
-  description:"Splendeur du paysage toscan, si finement ciselé dans ses contours qu'on dirait qu'il fut dessiné par les peintres pour continuer l'art hors des villes. Les collines vertes perdues dans la nué d’or du soleil couchant, les cyprès centenaires et les églises en marbre… tout ceci sépare les plus beaux villages qui ont été par le passé d’anciennes républiques autonomes. A l’heure de l’invention du politique dans l’Italie du Quattrocento, la Toscane a vu s’opposer deux modèles dans une rivalité historique : le gouvernement communal de Sienne contre le principat médicéen de Florence. De la Toscane, on retient cette invention magistrale de l'art de vivre, de la vie comme un art et de l'art dans la ville.")
+  description:"Splendeur du paysage toscan, si finement ciselé dans ses contours qu'on dirait qu'il fut dessiné par les peintres pour continuer l'art hors des villes. A l’heure du soleil couchant, les collines vertes se perdent dans une nuée d’or, les cyprès centenaires reflètent leurs altières silhouettes sur les chemins, et les églises en marbre sonnent leurs cloches de fonte… Tout ceci sépare les plus beaux villages qui ont été par le passé d’anciennes républiques autonomes. Lors de l’invention du politique dans l’Italie du Quattrocento, la Toscane a vu s’opposer deux modèles de pouvoir dans une rivalité historique : le gouvernement communal de Sienne contre le principat médicéen de Florence. De la Toscane, on retient cette invention magistrale de l'art de vivre qui décline la beauté dans les infimes détails de toutes les choses vécues. On dit de ce lieu qu’il est un miracle.")
 florence =  City.create(
   name:"Florence",
   geocoding: "43° 46′ 18′ NORD 11° 15′ 13′ EST",
-  description: "Ville binaire et géométrique, Florence est sans demi-mesure. Elle est tantôt sombre, avec un ciel bas et des bâtisses austères qui rappellent son passé politique sulfureux fait de dangers et de luttes : se sont affrontés les Guelfes contre les Gibelins, les Franciscains contre les Dominicains, les Medicis contre les Pazzi, Savenarole contre Laurent le Magnifique. Et puis, inversée comme par miracle, elle apparait soudain légère, saupoudrée d'or, parsemée de chapelles et de cloîtres aux peintures les plus douces. À Florence, la Beauté est un pouvoir depuis qu'au quinzième siècle, Cosme de Médicis demanda à Brunelleschi de construire le Dôme chargé de recouvrir Santa Maria del Fiore. Par ce moyen, le mécène Médicis avait lancé la Renaissance, ce qui permit un foisonnement artistique sans précédent qui donna à l'Italie ses plus grands artistes et penseurs.",
+  description: "Ville binaire et géométrique, Florence est sans demi-mesure. Elle est tantôt sombre, avec un ciel bas et des bâtisses austères qui rappellent son passé politique sulfureux fait de dangers et de luttes : se sont affrontés les Guelfes contre les Gibelins, les Franciscains contre les Dominicains, les Medicis contre les Pazzi, Savenarole contre Laurent le Magnifique. Et puis, inversée comme par miracle, elle apparait soudain légère, saupoudrée d'or, parsemée de chapelles et de cloîtres aux peintures les plus douces. À Florence, la Beauté est un pouvoir depuis qu'au quinzième siècle, Cosme de Médicis demanda à Brunelleschi de construire le Dôme chargé de recouvrir la cathédrale Santa Maria del Fiore. Par ce moyen, le mécène Médicis avait lancé la Renaissance et fut informellement décrété roi de Florence, un roi en tout sauf en titre.",
   province: toscane,
   coordinates: "https://www.franceculture.fr/emissions/carnet-nomade/je-vous-ecris-de-florence",
   heraldic: "blaz_florence.png",
   picture: "flo_00.jpg",
-  caption: "Cappella dei Magi, Benozzo Gozzoli")
+  caption: "Cattedrale di Santa Maria del Fiore")
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_1.jpg",
 position: 1,
@@ -2711,12 +2711,12 @@ city: florence
  sienne =   City.create(
   name:"Sienne",
   geocoding: "43° 20′ 00″ NORD 11° 20′ 00″ EST",
-  description: "Dans la brume glacée d'une matinée d'hiver, apercevoir Sienne au loin, perchée en haut d'une colline comme une forteresse imprenable. Parcourir ses rues hautes, pavées, moyenâgeuses. Traverser la Piazza del Campo, cette grande place connue pour sa forme de coquillage, sur laquelle se déroule chaque année la course équestre du Palio. Dépasser les hautes façades du Palazzo Publico pour y voir les fresques peintes par Ambrogio Lorenzetti au quatorzième siècle, lorsque Sienne est en plein doute sur l'efficacité de son gouvernement communal. Et puis enfin, monter jusqu'à l'impressionnant Douomo, rayé de marbre blanc et noir, qui renferme jalousement des madones d'or. Marcher, rêver, se perdre dans Sienne.",
+  description: "Dans la brume glacée d'une matinée d'hiver, apercevoir Sienne au loin, perchée en haut d'une colline comme une forteresse imprenable. Parcourir ses rues hautes, pavées, moyenâgeuses. Traverser la Piazza del Campo, cette grande place connue pour sa forme de coquillage sur laquelle se déroule chaque année la course équestre du Palio. Dépasser les hautes façades du Palazzo Publico pour y voir les fresques peintes par Ambrogio Lorenzetti au quatorzième siècle, lorsque Sienne est en plein doute sur l'efficacité de son gouvernement communal. Et puis enfin, monter jusqu'à l'impressionnant Douomo, rayé de marbre blanc et noir, qui renferme jalousement des madones d'or. Marcher, rêver, se perdre dans Sienne.",
   province: toscane,
   coordinates: "https://www.franceculture.fr/emissions/questions-dethique-13-14/bon-gouvernement-et-mauvais-gouvernement-sienne-1338-avec-patrick",
   heraldic: "blaz_sienne.png",
   picture: "si_00.jpg",
-  caption: "Annunciazione, Ambrogio Lorenzetti")
+  caption: "Maestà di Massa Marittima, Ambrogio Lorenzetti")
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_3.jpg",
   position: 2,
@@ -2897,6 +2897,12 @@ Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_38.jpg",
   position: 38,
   css_class: "portrait",
+  city: sienne
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_39.jpg",
+  position: 39,
+  css_class: "bande",
   city: sienne
 )
 
