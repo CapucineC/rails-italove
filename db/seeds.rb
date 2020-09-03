@@ -2220,7 +2220,7 @@ florence =  City.create(
   heraldic: "blaz_florence.png",
   picture: "flo_00.jpg",
   caption: "Cappella dei Magi, Benozzo Gozzoli")
-Picture.create
+Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_1.jpg",
 position: 1,
 css_class: "portrait",
@@ -2654,7 +2654,7 @@ city: florence
   heraldic: "blaz_sienne.png",
   picture: "si_00.jpg",
   caption: "Maestà di Massa Marittima, Ambrogio Lorenzetti")
-Picture.create
+Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_3.jpg",
   position: 2,
   css_class: "all",
