@@ -5,7 +5,7 @@ Province.destroy_all
 piemont = Province.create(
   name: "Piémont",
   map: "piemonte-map.png",
-  description:"Étendu sur les Alpes, le Piémont est une région très caractérielle traversée par des bourgades montagnardes authentiques. Au loin, les sommets blanc des montagnes donnent aux paysages une sérénité hors temps. Devant eux, il y a des vallons et des coteaux chargés de vignes qui mûrissent lentement. Plus bas, dans les plaines gorgées par l'eau froide du Pô, on cultive depuis toujours un riz perlé de renom. A cheval sur deux pays, le Piémont fut longtemps disputé entre la France et l'Italie, et puis, au fil des siècles, il fut unifié par les ducs de Savoie. Par la suite, ils ont largement oeuvré au rassemblement des régions et donc à la création de l'Italie, aidés en cela par autre famille piémontaise : les Cavour. Chef-lieu du Piémont, Turin est une ville solennelle aux accents français qui garde encore en elle la dignité royale des Savoie.")
+  description:"Étendu sur les Alpes, le Piémont est une région très caractérielle traversée par des bourgades montagnardes authentiques. Au loin, les sommets blanc des montagnes donnent aux paysages une sérénité hors temps. Devant eux, il y a des vallons et des coteaux chargés de vignes qui mûrissent lentement. Plus bas, dans les plaines gorgées par l'eau froide du Pô, on cultive depuis toujours un riz perlé de renom. À cheval sur deux pays, le Piémont fut longtemps disputé entre la France et l'Italie. Et puis, au fil des siècles, il fut délimité autour de Turin par les comtes et les ducs de Savoie, qui ont ensuite largement œuvré au rassemblement des régions et donc à la création de l'Italie, aidés en cela par autre famille piémontaise : les Cavour. Chef-lieu du Piémont, Turin est une ville solennelle aux accents français qui garde encore en elle la dignité royale des Savoie.")
 turin = City.create(
   name:"Turin",
   geocoding: "45° 04′ 00″ NORD 7° 42′ 00″ EST",
@@ -2355,8 +2355,14 @@ Picture.create(
   city: florence
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_25.jpg",
-  position: 25,
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_25.1.jpg",
+  position: 25.1,
+  css_class: "all",
+  city: florence
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_25.2.jpg",
+  position: 25.2,
   css_class: "all",
   city: florence
 )
@@ -2485,18 +2491,15 @@ Picture.create(
   city: florence
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_53.jpg",
-  position: 52,
-  city: florence
-)
-Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_52.jpg",
-  position: 53,
+  position: 52,
+  css_class: "landscape",
   city: florence
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_5'.jpg",
-  position: 54,
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_53.jpg",
+  position: 53,
+  css_class: "landscape",
   city: florence
 )
 Picture.create(
