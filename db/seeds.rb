@@ -231,7 +231,7 @@ milan =   City.create(
   heraldic: "blaz_milan.png",
   picture: "mi_00.jpg",
   caption: "Galleria Vittorio Emanuele")
-Picture.create
+Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Milan/milan_1.jpg",
   position: 1,
   css_class: "portrait",
