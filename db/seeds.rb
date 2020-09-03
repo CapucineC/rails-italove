@@ -1088,7 +1088,7 @@ majeur =  City.create(
   heraldic: "blaz_stressa.png",
   picture: "maj_00.jpg",
   caption: "Giardini del Palazzo Borromeo")
-Picture.create
+Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20Majeur/maggio_2.jpg",
   position: 2,
   css_class: "portrait",
