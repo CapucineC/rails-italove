@@ -1684,13 +1684,13 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_22.jpg",
   position: 22,
-   css_class: "landscape",
+  , css_class: "landscape",
   city: verone
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_23.jpg",
   position: 23,
-   css_class: "all",
+  , css_class: "all",
   city: verone
 )
 Picture.create(
@@ -2222,85 +2222,85 @@ florence =  City.create(
   caption: "Cappella dei Magi, Benozzo Gozzoli")
 Picture.create
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_1.jpg",
-position: 1
+position: 1,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_2.jpg",
-position: 2
+position: 2,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_3.jpg",
-position: 3
+position: 3,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_4.jpg",
-position: 4
+position: 4,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_5.jpg",
-position: 5
+position: 5,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_6.jpg",
-position: 6
+position: 6,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_7.jpg",
-position: 7
+position: 7,
 css_class: "landscape",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_8.jpg",
-position: 8
+position: 8,
 css_class: "landscape",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_9.jpg",
-position: 9
+position: 9,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_10.jpg",
-position: 10
+position: 10,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_11.jpg",
-position: 11
+position: 11,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_12.jpg",
-position: 12
+position: 12,
 css_class: "zoom",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_14.jpg",
-position: 14
+position: 14,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_15.jpg",
-position: 15
+position: 15,
 css_class: "zoom",
 city: florence
 )
@@ -2316,7 +2316,7 @@ city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_18.jpg",
-position: 18
+position: 18,
 css_class: "portrait",
 city: florence
 )
@@ -2327,25 +2327,25 @@ city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_20.jpg",
-position: 20
+position: 20,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_21.jpg",
-position: 21
+position: 21,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_22.jpg",
-position: 22
+position: 22,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_23.jpg",
-position: 23
+position: 23,
 css_class: "portrait",
 city: florence
 )
@@ -2356,13 +2356,13 @@ city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_25.jpg",
-position: 25
+position: 25,
 css_class: "all",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_26.jpg",
-position: 26
+position: 26,
 css_class: "zoom",
 city: florence
 )
@@ -2378,109 +2378,109 @@ city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_30.jpg",
-position: 30
+position: 30,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_31.jpg",
-position: 31
+position: 31,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_33.jpg",
-position: 33
+position: 33,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_37.jpg",
-position: 37
+position: 37,
 css_class: "landscape",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_38.jpg",
-position: 38
+position: 38,
 css_class: "landscape",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_39.jpg",
-position: 39
+position: 39,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_40.jpg",
-position: 40
+position: 40,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_41.jpg",
-position: 41
+position: 41,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_42.jpg",
-position: 42
+position: 42,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_43.jpg",
-position: 43
+position: 43,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_44.jpg",
-position: 44
+position: 44,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_45.jpg",
-position: 45
+position: 45,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_46.jpg",
-position: 46
+position: 46,
 css_class: "mini",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_47.jpg",
-position: 47
+position: 47,
 css_class: "mini",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_48.jpg",
-position: 48
+position: 48,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_49.jpg",
-position: 49
+position: 49,
 css_class: "mini",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_50.jpg",
-position: 50
+position: 50,
 css_class: "mini",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_51.jpg",
-position: 51
+position: 51,
 css_class: "all",
 city: florence
 )
@@ -2501,145 +2501,145 @@ city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_55.jpg",
-position: 55
+position: 55,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_56.jpg",
-position: 56
+position: 56,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_57.jpg",
-position: 57
+position: 57,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_58.jpg",
-position: 58
+position: 58,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_59.jpg",
-position: 59
+position: 59,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_60.jpg",
-position: 60
+position: 60,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_61.jpg",
-position: 61
+position: 61,
 css_class: "zoom",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_62.jpg",
-position: 62
+position: 62,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_63.jpg",
-position: 63
+position: 63,
 css_class: "mini",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_64.jpg",
-position: 64
+position: 64,
 css_class: "mini",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_65.jpg",
-position: 65
+position: 65,
 css_class: "mini",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_66.jpg",
-position: 66
+position: 66,
 css_class: "mini",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_67.jpg",
-position: 67
+position: 67,
 css_class: "mini",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_68.jpg",
-position: 68
+position: 68,
 css_class: "mini",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_69.jpg",
-position: 69
+position: 69,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_70.jpg",
-position: 70
+position: 70,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_71.jpg",
-position: 71
+position: 71,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_72.jpg",
-position: 72
+position: 72,
 css_class: "landscape",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_73.jpg",
-position: 73
+position: 73,
 css_class: "landscape",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_74.jpg",
-position: 74
+position: 74,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_75.jpg",
-position: 75
+position: 75,
 css_class: "zoom",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_76.jpg",
-position: 76
+position: 76,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_77.jpg",
-position: 77
+position: 77,
 css_class: "portrait",
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_78.jpg",
-position: 78
+position: 78,
 css_class: "portrait",
 city: florence
 )
