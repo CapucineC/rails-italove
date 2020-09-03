@@ -5087,7 +5087,7 @@ lecce =   City.create(
   coordinates: "https://goo.gl/maps/jtHhFteNxYD2",
   heraldic: "blaz_lecce.png",
   picture: "le_00.jpg",
-  caption:"chiesa di Sant'Irene"))
+  caption:"chiesa di Sant'Irene")
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_1.jpg",
   position: 1,
