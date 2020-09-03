@@ -47,7 +47,6 @@
 }
 
 
-
 img {
   width: 100%;
   //display: block;
@@ -66,10 +65,10 @@ img {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
     margin: 1em auto;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
     grid-auto-flow: dense;
-    grid-auto-rows: 35px;
+    grid-auto-rows: 36px;
   }
 
   .wrapper div {
@@ -113,8 +112,8 @@ img {
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
   .wrapper {
     grid-auto-rows: 5vh;
-    padding-left: 5vh;
-    padding-right: 5vh;
+    padding-left: 3vh;
+    padding-right: 3vh;
     grid-auto-flow: dense;
 
   }

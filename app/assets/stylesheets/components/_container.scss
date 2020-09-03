@@ -15,7 +15,18 @@
   max-width: 302px;
   color: #eeeeee;
   font-size: 14px;
-  font-family: 'Major Mono Display', monospace;
+  font-family: 'Cormorant Infant', serif;
+  font-weight: bold;
+  position: absolute;
+  left: 5vh;
+  bottom: 2vh;
+}
+
+.copywrite{
+  color: #eeeeee;
+  font-size: 14px;
+  font-family: 'Cormorant Infant', serif;
+  font-weight: bold;
   position: absolute;
   right: 5vh;
   bottom: 2vh;
@@ -39,6 +50,7 @@
   margin: auto;
   padding: 10px;
 }
+
 
 .title {
   color: white;

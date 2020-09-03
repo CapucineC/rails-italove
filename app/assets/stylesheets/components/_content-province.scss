@@ -115,6 +115,22 @@
 
 }
 
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+  .content-province .sideblock-map {
+    display: none;
+    }
+  .content-province .sous-cadre {
+  display: table-row;
+  }
+  .description-province {
+    font-size: 20px;
+  }
+  .content-province .province-box {
+    max-width: 450px;
+    margin-left: 0px;
+  }
+}
+
 
 @media(min-width: 2790px) {
   .content-province {
