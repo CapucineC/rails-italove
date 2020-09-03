@@ -582,7 +582,7 @@ bergame =   City.create(
   heraldic: "blaz_bergame.png",
   picture: "be_00.jpg",
   caption: "Fontana Contarini, Piazza Vecchia")
-Picture.create
+Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_1.jpg",
   position: 1,
   css_class: "all",
@@ -706,7 +706,7 @@ mantoue =   City.create(
   heraldic: "blaz_mantoue.png",
   picture: "man_00.jpg",
   caption: "Palazzo Ducale")
-Picture.create
+Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Mantoue/man_1.jpg",
   position: 1,
   css_class:"zoom",
@@ -931,7 +931,7 @@ come =  City.create(
   heraldic: "blaz_varese.png",
   picture: "co_00.jpg",
   caption: "Villa Carlotta, Tremezzo")
-Picture.create
+Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/como_1.jpg",
   position: 1,
   css_class:"all",
@@ -1355,7 +1355,7 @@ venise =  City.create(
   heraldic: "blaz_venise.png",
   picture: "ve_00.jpg",
   caption: "Piazza San Marco")
-Picture.create
+Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Venise/vene_1.jpg",
   position: 1,
   css_class: "portrait",
@@ -1558,7 +1558,7 @@ verone =  City.create(
   heraldic: "blaz_verone.png",
   picture: "ver_00.jpg",
   caption: "Museo degli Affreschi")
-Picture.create
+Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_1.jpg",
   position: 1,
   css_class: "zoom",
@@ -1756,7 +1756,7 @@ bologne =   City.create(
   heraldic: "blaz_bologne.png",
   picture: "bo_00.jpg",
   caption: "Palazzo della Mercanzia")
-Picture.create
+Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bologne/bolo_1.jpg",
   position: 1,
   css_class: "portrait",
@@ -2031,7 +2031,7 @@ ferrare =   City.create(
   heraldic: "blaz_ferrare.png",
   picture: "fe_00.jpg",
   caption: "Via delle Volte")
-Picture.create
+Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Ferrare/fe_1.jpg",
   position: 1,
   css_class: "landscape",
@@ -2856,7 +2856,7 @@ bevagna =  City.create(
   heraldic: "blaz_bevagna.png",
   picture: "be_00.png",
   caption: "Piazza Silvestri")
-Picture.create
+Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_1.jpg",
   position: 1,
   css_class: "all",
@@ -2950,7 +2950,7 @@ montone =  City.create(
   heraldic: "blaz_montone.png",
   picture: "mon_00.png",
   caption: "Convento di San Francesco")
-Picture.create
+Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_1.jpg",
   position: 1,
   css_class: "portrait",
@@ -3098,7 +3098,7 @@ gubbio =  City.create(
   heraldic: "blaz_gubbio.png",
   picture: "gu_00.png",
   caption: "Palazzo dei Consoli")
-Picture.create
+Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Gubbio/gu_1.jpg",
   position: 1,
   css_class: "landscape",
@@ -3312,7 +3312,7 @@ orvieto =  City.create(
   heraldic: "blaz_orvieto.png",
   picture: "or_00.png",
   caption: "Duomo di Orvieto")
-Picture.create
+Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Orvieto/or_1.jpg",
   position: 1,
   css_class: "landscape",
@@ -3470,7 +3470,7 @@ rome =  City.create(
   heraldic: "blaz_rome.png",
   picture: "ro_2.jpg",
   caption: "Musei Capitolini")
-Picture.create
+Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_1.jpg",
   position: 1,
   city: rome
@@ -3825,7 +3825,7 @@ naples =  City.create(
   heraldic: "blaz_naples.png",
   picture: "na_00.jpg",
   caption: "Museo Archeologico")
-Picture.create
+Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_1.jpg",
   position: 1,
   css_class: "portrait",
@@ -4301,7 +4301,7 @@ capri =  City.create(
   heraldic: "blaz_capri.png",
   picture: "ca_00.jpg",
   caption: "Giardini di Augusto")
-Picture.create
+Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Capri/ca_01.jpg",
   position: 1,
   css_class:"landscape",
@@ -4509,7 +4509,7 @@ bari =  City.create(
   heraldic: "blaz_bari.png",
   picture: "ba_00.png",
   caption: "Bari Vecchia")
-Picture.create
+Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_1.jpg",
   position: 1,
   css_class:"landscape",
@@ -4713,7 +4713,7 @@ polignano =   City.create(
   heraldic: "blaz_polignano.png",
   picture: "po_00.jpg",
   caption:"Spiaggia Cala Porto")
-Picture.create
+Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Polignano/po_1.jpg",
   position: 1,
   css_class: "all",
@@ -4791,7 +4791,7 @@ monopoli =  City.create(
   heraldic: "blaz_monopoli.png",
   picture: "monop_00.jpg",
   caption:"Porto di Monopoli")
-Picture.create
+Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Monopoli/mo_2.jpg",
   position: 1,
   css_class:"portrait",
@@ -5009,7 +5009,7 @@ lecce =   City.create(
   heraldic: "blaz_lecce.png",
   picture: "le_00.jpg",
   caption:"Chiesa di Sant'Irene")
-Picture.create
+Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_1.jpg",
   position: 1,
   css_class:"all",
