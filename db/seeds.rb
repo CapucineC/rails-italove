@@ -15,7 +15,7 @@ turin = City.create(
   heraldic: "blaz_turin.png",
   picture: "tu_00.jpg",
   caption: "Piazza Carlo Alberto")
-Picture.create()
+Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Turin/to_1.jpg",
   position: 1,
   css_class: "zoom",
