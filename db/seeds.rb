@@ -1,6 +1,6 @@
 Picture.destroy_all
 City.destroy_all
-Province.destro_all
+Province.destroy_all
 
 piemont = Province.create(
   name: "Piémont",
@@ -1564,7 +1564,7 @@ Picture.create(
   css_class: "zoom",
   city: verone
   )
-Piture.create(
+Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_2.jpg",
   position: 2,
   css_class: "portrait",
@@ -2496,7 +2496,7 @@ Picture.create(
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_5'.jpg",
-  position: 54
+  position: 54,
   city: florence
 )
 Picture.create(
