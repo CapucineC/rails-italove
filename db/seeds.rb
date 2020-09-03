@@ -5,11 +5,11 @@ Province.destro_all
 piemont = Province.create(
   name: "Piémont",
   map: "piemonte-map.png",
-  description:"Étendu sur les Alpes, le Piémont est une région très caractérielle traversée par des bourgades montagnardes authentiques. Au loin, les sommets blanc des montagnes donnent aux paysages une sérénité hors temps. Devant eux, il y a des vallons et des coteaux chargés de vignes qui mûrissent lentement. Plus bas, dans les plaines gorgées par l'eau froide du Pô, on cultive depuis toujours un riz perlé de renom. A cheval sur deux pays, le Piémont fut longtemps disputé entre la France et l'Italie, et puis, au fil des siècles, il fut unifié par les ducs de Savoie. Par la suite, ils ont largement oeuvré au rassemblement des régions et donc à la création de l'Italie, aidés en cela par autre famille piémontaise : les Cavour. Chef-lieu du Piémont, Turin est une ville solennelle aux accents français qui garde encore en elle la dignité royale des Savoie.")
+  description:"Étendu sur les Alpesle Piémont est une région très caractérielle traversée par des bourgades montagnardes authentiques. Au loinles sommets blanc des montagnes donnent aux paysages une sérénité hors temps. Devant euxil y a des vallons et des coteaux chargés de vignes qui mûrissent lentement. Plus basdans les plaines gorgées par l'eau froide du Pôon cultive depuis toujours un riz perlé de renom. A cheval sur deux paysle Piémont fut longtemps disputé entre la France et l'Italieet puisau fil des sièclesil fut unifié par les ducs de Savoie. Par la suiteils ont largement oeuvré au rassemblement des régions et donc à la création de l'Italieaidés en cela par autre famille piémontaise : les Cavour. Chef-lieu du PiémontTurin est une ville solennelle aux accents français qui garde encore en elle la dignité royale des Savoie.")
 turin = City.create(
   name:"Turin",
   geocoding: "45° 04′ 00″ NORD 7° 42′ 00″ EST",
-  description: "Ville haute et fière, à la beauté classique. Ville grise par temps lourd, ville aux mille reflets d'argent quand le soleil descend sur le fleuve Pô. Avec ses rues droites, ses avenues larges et ses angles parfaits, Turin est une ville sérieuse marquée par l'ordre. Son centre historique est flamboyant. Il compte le Palazzo Reale, le palais Madame, des arcades, des vieux cafés et des grandes places rectangulaires sur lesquelles se cabrent des statues de cavaliers. Ville aristocratique des comtes de Savoie ou ville ouvrière pour les usines de la Fiat, Turin a toujours travaillé à quelque chose de grand. Mais à quoi rêve Turin, dans le secret de son coeur de pierre qu'elle me montre, et dont je ne suis pas dupe ?",
+  description: "Ville haute et fièreà la beauté classique. Ville grise par temps lourdville aux mille reflets d'argent quand le soleil descend sur le fleuve Pô. Avec ses rues droitesses avenues larges et ses angles parfaitsTurin est une ville sérieuse marquée par l'ordre. Son centre historique est flamboyant. Il compte le Palazzo Realele palais Madamedes arcadesdes vieux cafés et des grandes places rectangulaires sur lesquelles se cabrent des statues de cavaliers. Ville aristocratique des comtes de Savoie ou ville ouvrière pour les usines de la FiatTurin a toujours travaillé à quelque chose de grand. Mais à quoi rêve Turindans le secret de son coeur de pierre qu'elle me montreet dont je ne suis pas dupe ?",
   province: piemont,
   coordinates: "https://goo.gl/maps/6G6XQSSDz7T2",
   heraldic: "blaz_turin.png",
@@ -221,11 +221,11 @@ Picture.create(
 lombardie = Province.create(
   name: "Lombardie",
   map: "lombardia-map.png",
-  description:"À la chute de l'empire romain, le peuple germanique des Lombards a envahi le nord de l'Italie pour se concentrer dans cette région à laquelle ils ont laissé leur nom. Avoisinant les Alpes et sertie par les grands lacs, la nature lombarde est froide et bleutée. Les villes, elles, ont été créées par des dynasties ambitieuses et belliqueuses qui les ont parées de prestigieux monuments : dômes, palais de marbres et forteresses s'y dressent élégamment vers le ciel pour côtoyer les nuages. Dans les rues de Milan, chef lieu de la région et capitale économique de l'Italie, les piétons traversent les viale, corso et rues d'un pas rapide et sûr, tout absorbés qu'ils sont par la réussite et les affaires.")
+  description:"À la chute de l'empire romainle peuple germanique des Lombards a envahi le nord de l'Italie pour se concentrer dans cette région à laquelle ils ont laissé leur nom. Avoisinant les Alpes et sertie par les grands lacsla nature lombarde est froide et bleutée. Les villesellesont été créées par des dynasties ambitieuses et belliqueuses qui les ont parées de prestigieux monuments : dômespalais de marbres et forteresses s'y dressent élégamment vers le ciel pour côtoyer les nuages. Dans les rues de Milanchef lieu de la région et capitale économique de l'Italieles piétons traversent les vialecorso et rues d'un pas rapide et sûrtout absorbés qu'ils sont par la réussite et les affaires.")
 milan =   City.create(
   name:"Milan",
   geocoding: "45° 28′ 00″ NORD 9° 10′ 00″ EST",
-  description:"Fief des familles Sforza et Visconti, capitale de la mode et de la finance, lieu du design par excellence, la divine Milan étale son succès avec fierté. Mais la beauté de cette ville ne se laisse pas regarder si facilement. Il faut patiemment la chercher. Elle se cache dans les arrière-cours des palazzi, se révèle par à-coups au gré des balades dans le quartier de Brera et derrière les vitrines de la pâtisserie Marchesi. On peut aussi la rencontrer à l'intérieur de la Galleria Vittorio Emmanuele, en face des devantures de Prada, ou bien la trouver dans les couloirs de la Scala qui mènent aux opéras de Verdi. La seule fois où elle se montre, elle s’impose avec force. En témoigne l'austère château Sforza et l'éblouissant Dôme de Milan qui pointe vers le ciel cent trente-cinq flèches de marbre.",
+  description:"Fief des familles Sforza et Visconticapitale de la mode et de la financelieu du design par excellencela divine Milan étale son succès avec fierté. Mais la beauté de cette ville ne se laisse pas regarder si facilement. Il faut patiemment la chercher. Elle se cache dans les arrière-cours des palazzise révèle par à-coups au gré des balades dans le quartier de Brera et derrière les vitrines de la pâtisserie Marchesi. On peut aussi la rencontrer à l'intérieur de la Galleria Vittorio Emmanueleen face des devantures de Pradaou bien la trouver dans les couloirs de la Scala qui mènent aux opéras de Verdi. La seule fois où elle se montreelle s’impose avec force. En témoigne l'austère château Sforza et l'éblouissant Dôme de Milan qui pointe vers le ciel cent trente-cinq flèches de marbre.",
   province: lombardie,
   coordinates: "https://goo.gl/maps/PwxzZtBFjSq",
   heraldic: "blaz_milan.png",
@@ -576,12 +576,12 @@ Picture.create(
 bergame =   City.create(
   name:"Bergame",
   geocoding: "45° 42′ 00″ NORD 9° 39′ 58″ EST",
-  description:"Bergame altà est un village lombard perché en haut d'une colline, au pied des Alpes bergamasques. Il est entouré par ses vieilles murailles d'enceinte qui ont été consolidées au XVIe siècle par la domination vénitienne. Elles donnent au lieu un charme tout à fait  chevaleresque. A l’intérieur du bastion, on trouve une ville miniature : sur le sol quadrillé de longue Piazza Vecchia se regroupent des bâtiments publiques aux façades de marbre. Les rues ressemblent à des chemins de traverse et les gens qui les empruntent ont l'air de petits personnages. Au centre du village, la Fontaine Contarini est gardée par des lions sculptés qui toisent les habitants attablés dans les cafés. Plus loin, on ne peut manquer la Basilica di Santa Maria Maggiore qui présente une extraordinaire façade rose et blanche structurées en fin motifs géométriques.",
+  description:"Bergame altà est un village lombard perché en haut d'une collineau pied des Alpes bergamasques. Il est entouré par ses vieilles murailles d'enceinte qui ont été consolidées au XVIe siècle par la domination vénitienne. Elles donnent au lieu un charme tout à fait  chevaleresque. A l’intérieur du bastionon trouve une ville miniature : sur le sol quadrillé de longue Piazza Vecchia se regroupent des bâtiments publiques aux façades de marbre. Les rues ressemblent à des chemins de traverse et les gens qui les empruntent ont l'air de petits personnages. Au centre du villagela Fontaine Contarini est gardée par des lions sculptés qui toisent les habitants attablés dans les cafés. Plus loinon ne peut manquer la Basilica di Santa Maria Maggiore qui présente une extraordinaire façade rose et blanche structurées en fin motifs géométriques.",
   province: lombardie,
   coordinates: "https://goo.gl/maps/EVKRgQvA6jK2",
   heraldic: "blaz_bergame.png",
   picture: "be_00.jpg",
-  caption: "Fontana Contarini, Piazza Vecchia")
+  caption: "Fontana ContariniPiazza Vecchia")
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bergame/ber_1.jpg",
   position: 1,
@@ -700,7 +700,7 @@ Picture.create(
 mantoue =   City.create(
   name:"Mantoue",
   geocoding: "45° 10′ NORD 10° 48′ EST",
-  description:"C'est d'éclat qu'il faut parler pour décrire Mantoue, cette perle de la Renaissance dont la famille Gonzague fit la richesse et la gloire. En embellissant sans cesse leur Palazzo Ducale, les ducs de Mantoue ont créé une oeuvre de beauté totale. Les plus belles fresques habillent les murs, les couloirs sont parsemées de mille fleurs peintes et les loggias donnent sur des jardins intérieurs et secrets. Dans la Chambre des Epoux - la plus importante pièce du palais - le peintre Mantegna a représenté ses maîtres avec beaucoup de diligence, ainsi qu'un fameux trompe l'oeil qui laisse des anges vous regarder depuis leur nuage de crème. Continuons la promenade jusqu'aux portes de la ville, dans le Palazzo Te où le peintre maniériste Giulio Romano a renversé les perspectives et les ordres de grandeur, nous entrainant à sa suite dans le monde des géants et des dieux.",
+  description:"C'est d'éclat qu'il faut parler pour décrire Mantouecette perle de la Renaissance dont la famille Gonzague fit la richesse et la gloire. En embellissant sans cesse leur Palazzo Ducaleles ducs de Mantoue ont créé une oeuvre de beauté totale. Les plus belles fresques habillent les mursles couloirs sont parsemées de mille fleurs peintes et les loggias donnent sur des jardins intérieurs et secrets. Dans la Chambre des Epoux - la plus importante pièce du palais - le peintre Mantegna a représenté ses maîtres avec beaucoup de diligenceainsi qu'un fameux trompe l'oeil qui laisse des anges vous regarder depuis leur nuage de crème. Continuons la promenade jusqu'aux portes de la villedans le Palazzo Te où le peintre maniériste Giulio Romano a renversé les perspectives et les ordres de grandeurnous entrainant à sa suite dans le monde des géants et des dieux.",
   province: lombardie,
   coordinates: "https://goo.gl/maps/wMK3qnSbNVn",
   heraldic: "blaz_mantoue.png",
@@ -921,16 +921,16 @@ Picture.create(
 lacs = Province.create(
   name: "Lacs Italiens",
   map: "laghi-italiani-map.png",
-  description:"La beauté des lacs de l'Italie du Nord fascine. Enchassés dans les Alpes blanches, ils dessinent leurs larges courbes dans la brume des montagnes, tandis que sur leurs rives apparaissent des villages charmants, des villas bordées par des jardins remplis de lauriers, et des palais magnifiques au bout desquels sont amarrés des bateaux en bois. Le rythme qu'on constate, le silence et la profondeur des lacs font de ces endroits la quintessence du raffinement italien : la richesse trouvée dans une admirable simplicité.")
+  description:"La beauté des lacs de l'Italie du Nord fascine. Enchassés dans les Alpes blanchesils dessinent leurs larges courbes dans la brume des montagnestandis que sur leurs rives apparaissent des villages charmantsdes villas bordées par des jardins remplis de laurierset des palais magnifiques au bout desquels sont amarrés des bateaux en bois. Le rythme qu'on constatele silence et la profondeur des lacs font de ces endroits la quintessence du raffinement italien : la richesse trouvée dans une admirable simplicité.")
 come =  City.create(
   name:"Lac de Come",
   geocoding: "45° 59′ 40″ NORD 9° 15′ 58″ EST",
-  description:"Partons en escapade au lac de Come. Des montagnes au loin se dessinent dans la nuée, l'eau claque contre les escaliers des palais édifiés par la noblesse lombarde et les statues rêvent en regardant l'horizon. Depuis l'époque romaine, on y a construit des demeures merveilleuses entre ciel et eau. Parmi les plus connues, il y a la villa Carlotta. Ses jardins en cascade se jettent dans le lac alors qu'à l'intérieur, des marbres de Canova reposent sous des plafonds d'or. Plus loin, on trouve encore la villa Monastero. Elle accueille ses promeneurs par une longue balade fleurie sur graviers blancs, avec vue sur le lac immobile et bleu, sur ce lac de Come que le soleil fait scintiller par des reflets sans cesse mouvants, comme un diamant liquide.",
+  description:"Partons en escapade au lac de Come. Des montagnes au loin se dessinent dans la nuéel'eau claque contre les escaliers des palais édifiés par la noblesse lombarde et les statues rêvent en regardant l'horizon. Depuis l'époque romaineon y a construit des demeures merveilleuses entre ciel et eau. Parmi les plus connuesil y a la villa Carlotta. Ses jardins en cascade se jettent dans le lac alors qu'à l'intérieurdes marbres de Canova reposent sous des plafonds d'or. Plus loinon trouve encore la villa Monastero. Elle accueille ses promeneurs par une longue balade fleurie sur graviers blancsavec vue sur le lac immobile et bleusur ce lac de Come que le soleil fait scintiller par des reflets sans cesse mouvantscomme un diamant liquide.",
   province: lacs,
   coordinates: "https://goo.gl/maps/iNpSnhvPHom",
   heraldic: "blaz_varese.png",
   picture: "co_00.jpg",
-  caption: "Villa Carlotta, Tremezzo")
+  caption: "Villa CarlottaTremezzo")
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lac%20de%20Come/como_1.jpg",
   position: 1,
@@ -1082,7 +1082,7 @@ Picture.create(
 majeur =  City.create(
   name:"Lac Majeur",
   geocoding: "45° 54′ 18″ NORD 8° 34′ 57″ EST",
-  description:"Sur le rivage du lac Majeur, des bateaux en bois vernis attendent les promeneurs pour les emmener sur les trois ilots perdus au milieu du lac, qui constituent 'les îles Borromées'. Sur l'île Isola Madre, des chemins dallés emmènent vers des jardin luxuriants où les palmiers côtoient des roses rouges. Sur l'Isola dei Pescatori, on trouve un village pittoresque avec son clocher blanc, ses toits rouges et ses filets de pêcheurs accrochés aux portes rustiques. Enfin, sur Isola Bella, un somptueux palais baroque semble flotter sur les eaux, tandis que dans ses jardins en cascade, des paons blancs se baladent en grand seigneur dans des allées rosies par les azalées et les rhododendrons.",
+  description:"Sur le rivage du lac Majeurdes bateaux en bois vernis attendent les promeneurs pour les emmener sur les trois ilots perdus au milieu du lacqui constituent 'les îles Borromées'. Sur l'île Isola Madredes chemins dallés emmènent vers des jardin luxuriants où les palmiers côtoient des roses rouges. Sur l'Isola dei Pescatorion trouve un village pittoresque avec son clocher blancses toits rouges et ses filets de pêcheurs accrochés aux portes rustiques. Enfinsur Isola Bellaun somptueux palais baroque semble flotter sur les eauxtandis que dans ses jardins en cascadedes paons blancs se baladent en grand seigneur dans des allées rosies par les azalées et les rhododendrons.",
   province: lacs,
   coordinates: "https://goo.gl/maps/UhoNC994VF42",
   heraldic: "blaz_stressa.png",
@@ -1345,11 +1345,11 @@ Picture.create(
 venetie = Province.create(
   name: "Vénétie",
   map: "veneto-map.png",
-  description:"En Vénétie, c'est la nature qui joue le rôle d'artiste et dessine pour les voyageurs des paysages féeriques : c'est elle qui enneige les montagnes des Dolomites et les recouvre d'un long manteau blanc. C'est elle toujours qui pave d'eau les rues de l'éblouissante Venise. C'est elle encore qui fait éclore des fleurs sur les balcons de Vérone à l'arrivée de chaque printemps.")
+  description:"En Vénétiec'est la nature qui joue le rôle d'artiste et dessine pour les voyageurs des paysages féeriques : c'est elle qui enneige les montagnes des Dolomites et les recouvre d'un long manteau blanc. C'est elle toujours qui pave d'eau les rues de l'éblouissante Venise. C'est elle encore qui fait éclore des fleurs sur les balcons de Vérone à l'arrivée de chaque printemps.")
 venise =  City.create(
   name: "Venise",
   geocoding: "45° 26′ 23″ NORD 12° 19′ 55″ EST",
-  description:"Venise est ville sans l'être tout à fait. Construite sur un sol qu'on jurait inconstructible, elle est imaginaire et tangible, réelle et irréelle. Ses habitants sont des personnages de théâtre qui jouent sous un ciel de marbre blanc et se déplacent entre des rues lagunaires. Ils déambulent dans de somptueux costumes avec leur masque pour seule vérité : et vous qui êtes-vous ? À Venise, le plaisir des sens est une affaire sérieuse et tout doit y concorder. On trouve des ruelles labyrinthiques qui s'entremêlent sans logique, des palais en place de maisons et des plafonds qui s'enfoncent dans des boursoufflements d'or et les fresques de Tiepolo. Loin de la pesanteur pourtant, l'architecture de Venise est subtile et délicate, rose et blanche comme l'intérieur nacré d'un coquillage lisse. Sa préciosité tranche avec les flots lourds. Elle est Aphrodite sortie des eaux. Venise est ville d'Amour.",
+  description:"Venise est ville sans l'être tout à fait. Construite sur un sol qu'on jurait inconstructibleelle est imaginaire et tangibleréelle et irréelle. Ses habitants sont des personnages de théâtre qui jouent sous un ciel de marbre blanc et se déplacent entre des rues lagunaires. Ils déambulent dans de somptueux costumes avec leur masque pour seule vérité : et vous qui êtes-vous ? À Venisele plaisir des sens est une affaire sérieuse et tout doit y concorder. On trouve des ruelles labyrinthiques qui s'entremêlent sans logiquedes palais en place de maisons et des plafonds qui s'enfoncent dans des boursoufflements d'or et les fresques de Tiepolo. Loin de la pesanteur pourtantl'architecture de Venise est subtile et délicaterose et blanche comme l'intérieur nacré d'un coquillage lisse. Sa préciosité tranche avec les flots lourds. Elle est Aphrodite sortie des eaux. Venise est ville d'Amour.",
   province: venetie,
   coordinates: "https://www.youtube.com/watch?v=JPOfJcb-wqA",
   heraldic: "blaz_venise.png",
@@ -1552,7 +1552,7 @@ Picture.create(
 verone =  City.create(
   name:"Verone",
   geocoding: "45° 26′ 00″ NORD 10° 59′ 00″ EST",
-  description:"On parcourt Vérone comme on marcherait dans les allées d'un jardin antique. Ici, on rencontre la nature au milieu de la ville. En haut des palais, les fenêtres sont bordées par un cadre de lierre grimpant. Partout les fleurs ornent les balcons comme des joyaux dans leur écrin. Les rues sont peintes et prennent ombrage des toits. La Piazza delle Erbe est recouverte de splendides fresques dont on devine l'éclat d'antan. On ne sait plus qui de l'art ou de la nature s'imite. Alors, songeur, on s'éloigne des sentiers battus. On déambule jusqu'au jardin Giusti qui décline le vert dans ses nuances infimes. Le jardin, cet idéal de beauté qui fait de la nature une oeuvre, qui transporte l'esprit, où le corps soudain flotte, bercé par toutes les sensations et par tous les parfums.",
+  description:"On parcourt Vérone comme on marcherait dans les allées d'un jardin antique. Icion rencontre la nature au milieu de la ville. En haut des palaisles fenêtres sont bordées par un cadre de lierre grimpant. Partout les fleurs ornent les balcons comme des joyaux dans leur écrin. Les rues sont peintes et prennent ombrage des toits. La Piazza delle Erbe est recouverte de splendides fresques dont on devine l'éclat d'antan. On ne sait plus qui de l'art ou de la nature s'imite. Alorssongeuron s'éloigne des sentiers battus. On déambule jusqu'au jardin Giusti qui décline le vert dans ses nuances infimes. Le jardincet idéal de beauté qui fait de la nature une oeuvrequi transporte l'espritoù le corps soudain flottebercé par toutes les sensations et par tous les parfums.",
   province: venetie,
   coordinates: "https://www.youtube.com/watch?v=zp3hnBt9TqM",
   heraldic: "blaz_verone.png",
@@ -1684,13 +1684,13 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_22.jpg",
   position: 22,
-  , css_class: "landscape",
+  css_class: "landscape",
   city: verone
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Verone/verona_23.jpg",
   position: 23,
-  , css_class: "all",
+  css_class: "all",
   city: verone
 )
 Picture.create(
@@ -1746,11 +1746,11 @@ Picture.create(
 emilieromagne = Province.create(
   name: "Émilie-Romagne",
   map: "emilia-romagna-map.png",
-  description:"En Émilie-Romagne, contrée heureuse et prospère, tout rappelle encore les centurions et les frasques de l'empire romain. La région doit d'ailleurs son nom à la construction de la 'voie Émilienne' par le consul Marcus Aemilius Lepidus au IIe siècle av. J.-C. Aventuresques, les villes de Bologne et de Ferrare nous entrainent dans des rues rougeoyantes, sous des arcades et des voûtes, sur des places bordées de tavernes et à l'intérieur de châteaux qui ont encore des pont-levis. On y ripaille excellemment, tant la région est connue pour sa bonne viande, ses saucissons et son vin goûtu.")
+  description:"En Émilie-Romagnecontrée heureuse et prospèretout rappelle encore les centurions et les frasques de l'empire romain. La région doit d'ailleurs son nom à la construction de la 'voie Émilienne' par le consul Marcus Aemilius Lepidus au IIe siècle av. J.-C. Aventuresquesles villes de Bologne et de Ferrare nous entrainent dans des rues rougeoyantessous des arcades et des voûtessur des places bordées de tavernes et à l'intérieur de châteaux qui ont encore des pont-levis. On y ripaille excellemmenttant la région est connue pour sa bonne viandeses saucissons et son vin goûtu.")
 bologne =   City.create(
   name:"Bologne",
   geocoding: "44° 30′ 00″ NORD 11° 21′ 00″ EST",
-  description:"Ses rues médiévales sont propices à toutes les aventures. Elles sont recouvertes par d'interminables portiques, construits assez haut, dit-on, pour laisser passer un homme à cheval. Son centre historique est hérissé d'une dizaine de hautes tours. Au Moyen-Âge, elles servaient de poste de guet pour prévenir des attaques. Mais aujourd'hui, qui habite ici ? Où sont les clefs des portes de Bologne, aux serrures surmontées par des masques rieurs et des lions en bronze ? Qui fait la loi ? Est-ce la couleur rouge des murs ? Ou celle du plaisir du bon vin ? Ou les étudiants qui, aux heures de soleil, envahissent les places pour discuter à même le sol ? C'est que Bologne abrite la plus vieille université d'Europe, fréquentée par les illustres Dante, Boccace et Pétrarque. Il n'y a pas, en Italie, de ville plus amicale et sympathique que celle-ci.",
+  description:"Ses rues médiévales sont propices à toutes les aventures. Elles sont recouvertes par d'interminables portiquesconstruits assez hautdit-onpour laisser passer un homme à cheval. Son centre historique est hérissé d'une dizaine de hautes tours. Au Moyen-Âgeelles servaient de poste de guet pour prévenir des attaques. Mais aujourd'huiqui habite ici ? Où sont les clefs des portes de Bologneaux serrures surmontées par des masques rieurs et des lions en bronze ? Qui fait la loi ? Est-ce la couleur rouge des murs ? Ou celle du plaisir du bon vin ? Ou les étudiants quiaux heures de soleilenvahissent les places pour discuter à même le sol ? C'est que Bologne abrite la plus vieille université d'Europefréquentée par les illustres DanteBoccace et Pétrarque. Il n'y a pasen Italiede ville plus amicale et sympathique que celle-ci.",
   province: emilieromagne,
   coordinates: "https://goo.gl/maps/SikWUfv8ZAP2",
   heraldic: "blaz_bologne.png",
@@ -2025,7 +2025,7 @@ Picture.create(
 ferrare =   City.create(
   name:"Ferrare",
   geocoding: "44° 50′ 00″ NORD 11° 37′ 00″ EST",
-  description:"Ferrare est dangereusement belle. Ses rues étroites sont tapies dans l'ombre des voûtes et des arcades. Le soleil cogne sur les briques sèches des admirables bâtisses. Les peintures des palais ont des pansements parce que la terre risque de trembler et de les fissurer à tout moment. Au centre de la ville, on découvre un majestueux mais terrifiant château fort, séparé du reste du monde par des douves remplies d'eau verte. Ferrare fut gouvernée pendant plus de quatre siècles par la dynastie des Ducs d'Este. Visionnaires et tyranniques, ces princes ont remodelé la ville à la Renaissance, en redessinant ses rues pour en faire une citadelle idéale. C'était alors l'une des cours les plus puissantes d'Europe : s'y réunissait tout ce que l'on comptait d'esprits ambitieux et téméraires.",
+  description:"Ferrare est dangereusement belle. Ses rues étroites sont tapies dans l'ombre des voûtes et des arcades. Le soleil cogne sur les briques sèches des admirables bâtisses. Les peintures des palais ont des pansements parce que la terre risque de trembler et de les fissurer à tout moment. Au centre de la villeon découvre un majestueux mais terrifiant château fortséparé du reste du monde par des douves remplies d'eau verte. Ferrare fut gouvernée pendant plus de quatre siècles par la dynastie des Ducs d'Este. Visionnaires et tyranniquesces princes ont remodelé la ville à la Renaissanceen redessinant ses rues pour en faire une citadelle idéale. C'était alors l'une des cours les plus puissantes d'Europe : s'y réunissait tout ce que l'on comptait d'esprits ambitieux et téméraires.",
   province: emilieromagne,
   coordinates: "https://goo.gl/maps/dRXnKnRM3BM2",
   heraldic: "blaz_ferrare.png",
@@ -2210,16 +2210,16 @@ Picture.create(
 toscane = Province.create(
   name: "Toscane",
   map: "toscana-map.png",
-  description:"Splendeur du paysage toscan, si finement ciselé dans ses contours qu'on dirait qu'il fut dessiné par les peintres pour continuer l'art hors des villes. A l’heure du soleil couchant, les collines vertes se perdent dans une nuée d’or, les cyprès centenaires reflètent leurs altières silhouettes sur les chemins, et les églises en marbre sonnent leurs cloches de fonte… Tout ceci sépare les plus beaux villages qui ont été par le passé d’anciennes républiques autonomes. Lors de l’invention du politique dans l’Italie du Quattrocento, la Toscane a vu s’opposer deux modèles de pouvoir dans une rivalité historique : le gouvernement communal de Sienne contre le principat médicéen de Florence. De la Toscane, on retient cette invention magistrale de l'art de vivre qui recherche la beauté dans les infimes détails de toutes les choses vécues. On dit de ce lieu qu’il est un miracle.")
+  description:"Splendeur du paysage toscansi finement ciselé dans ses contours qu'on dirait qu'il fut dessiné par les peintres pour continuer l'art hors des villes. A l’heure du soleil couchantles collines vertes se perdent dans une nuée d’orles cyprès centenaires reflètent leurs altières silhouettes sur les cheminset les églises en marbre sonnent leurs cloches de fonte… Tout ceci sépare les plus beaux villages qui ont été par le passé d’anciennes républiques autonomes. Lors de l’invention du politique dans l’Italie du Quattrocentola Toscane a vu s’opposer deux modèles de pouvoir dans une rivalité historique : le gouvernement communal de Sienne contre le principat médicéen de Florence. De la Toscaneon retient cette invention magistrale de l'art de vivre qui recherche la beauté dans les infimes détails de toutes les choses vécues. On dit de ce lieu qu’il est un miracle.")
 florence =  City.create(
   name:"Florence",
   geocoding: "43° 46′ 18′ NORD 11° 15′ 13′ EST",
-  description: "Ville binaire et géométrique, Florence est sans demi-mesure. Elle est tantôt sombre, avec un ciel bas et des bâtisses austères qui rappellent son passé politique sulfureux fait de dangers et de luttes : se sont affrontés les Guelfes contre les Gibelins, les Franciscains contre les Dominicains, les Medicis contre les Pazzi, Savenarole contre Laurent le Magnifique. Et puis, inversée comme par miracle, elle apparait soudain légère, saupoudrée d'or, parsemée de chapelles et de cloîtres aux peintures les plus douces. À Florence, la Beauté est un pouvoir depuis qu'au quinzième siècle, Cosme de Médicis demanda à Brunelleschi de construire le Dôme chargé de recouvrir la cathédrale Santa Maria del Fiore. Par ce moyen, le mécène Médicis avait lancé la Renaissance et fut informellement décrété roi de Florence, un roi en tout sauf en titre.",
+  description: "Ville binaire et géométriqueFlorence est sans demi-mesure. Elle est tantôt sombreavec un ciel bas et des bâtisses austères qui rappellent son passé politique sulfureux fait de dangers et de luttes : se sont affrontés les Guelfes contre les Gibelinsles Franciscains contre les Dominicainsles Medicis contre les PazziSavenarole contre Laurent le Magnifique. Et puisinversée comme par miracleelle apparait soudain légèresaupoudrée d'orparsemée de chapelles et de cloîtres aux peintures les plus douces. À Florencela Beauté est un pouvoir depuis qu'au quinzième siècleCosme de Médicis demanda à Brunelleschi de construire le Dôme chargé de recouvrir la cathédrale Santa Maria del Fiore. Par ce moyenle mécène Médicis avait lancé la Renaissance et fut informellement décrété roi de Florenceun roi en tout sauf en titre.",
   province: toscane,
   coordinates: "https://www.franceculture.fr/emissions/carnet-nomade/je-vous-ecris-de-florence",
   heraldic: "blaz_florence.png",
   picture: "flo_00.jpg",
-  caption: "Cappella dei Magi, Benozzo Gozzoli")
+  caption: "Cappella dei MagiBenozzo Gozzoli")
 Picture.create
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_1.jpg",
 position: 1,
@@ -2648,12 +2648,12 @@ city: florence
  sienne =   City.create(
   name:"Sienne",
   geocoding: "43° 20′ 00″ NORD 11° 20′ 00″ EST",
-  description: "Dans la brume glacée d'une matinée d'hiver, apercevoir Sienne au loin, perchée en haut d'une colline comme une forteresse imprenable. Parcourir ses rues hautes, pavées, moyenâgeuses. Traverser la Piazza del Campo, cette grande place connue pour sa forme de coquillage sur laquelle se déroule chaque année la course équestre du Palio. Dépasser les hautes façades du Palazzo Publico pour y voir les fresques peintes par Ambrogio Lorenzetti au quatorzième siècle, lorsque Sienne est en plein doute sur l'efficacité de son gouvernement communal. Et puis enfin, monter jusqu'à l'impressionnant Douomo, rayé de marbre blanc et noir, qui renferme jalousement des madones d'or. Marcher, rêver, se perdre dans Sienne.",
+  description: "Dans la brume glacée d'une matinée d'hiverapercevoir Sienne au loinperchée en haut d'une colline comme une forteresse imprenable. Parcourir ses rues hautespavéesmoyenâgeuses. Traverser la Piazza del Campocette grande place connue pour sa forme de coquillage sur laquelle se déroule chaque année la course équestre du Palio. Dépasser les hautes façades du Palazzo Publico pour y voir les fresques peintes par Ambrogio Lorenzetti au quatorzième sièclelorsque Sienne est en plein doute sur l'efficacité de son gouvernement communal. Et puis enfinmonter jusqu'à l'impressionnant Douomorayé de marbre blanc et noirqui renferme jalousement des madones d'or. Marcherrêverse perdre dans Sienne.",
   province: toscane,
   coordinates: "https://www.franceculture.fr/emissions/questions-dethique-13-14/bon-gouvernement-et-mauvais-gouvernement-sienne-1338-avec-patrick",
   heraldic: "blaz_sienne.png",
   picture: "si_00.jpg",
-  caption: "Maestà di Massa Marittima, Ambrogio Lorenzetti")
+  caption: "Maestà di Massa MarittimaAmbrogio Lorenzetti")
 Picture.create
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_3.jpg",
   position: 2,
@@ -2846,11 +2846,11 @@ Picture.create(
 ombrie = Province.create(
   name: "Ombrie",
   map: "umbria-map.png",
-  description:"La Ombrie est la seule partie d’Italie qui est sans frontière commune avec la mer. Bien repliée dans ses forêts, ses vallées étalent un vert sombre et sérieux sur tout le paysage. C’est une région totalement enclavée, intérieure et secrète, propice à une méditation heureuse encouragée par le souvenir de François d’Assise et la piété des fresques de Giotto. La Ombrie est lointainement étrusque et fortement médiévale. En haut des collines et des champs labourés, on voit se dresser des villages fortifiés dont la pierre historique nous rappelle au Moyen-Âge et nous replonge dans cette époque d'absolu, à la fois spirituelle et dangereuse, qui n'avait pas encore dit non à la puissance de l'Imaginaire.")
+  description:"La Ombrie est la seule partie d’Italie qui est sans frontière commune avec la mer. Bien repliée dans ses forêtsses vallées étalent un vert sombre et sérieux sur tout le paysage. C’est une région totalement enclavéeintérieure et secrètepropice à une méditation heureuse encouragée par le souvenir de François d’Assise et la piété des fresques de Giotto. La Ombrie est lointainement étrusque et fortement médiévale. En haut des collines et des champs labouréson voit se dresser des villages fortifiés dont la pierre historique nous rappelle au Moyen-Âge et nous replonge dans cette époque d'absoluà la fois spirituelle et dangereusequi n'avait pas encore dit non à la puissance de l'Imaginaire.")
 bevagna =  City.create(
   name:"Bevagna",
   geocoding: "none given",
-  description:"Bevagna, ou la ville à la campagne, ou la campagne en ville. On y voit des très hautes bâtisses qu'on croirait être des corps de ferme, des chemins de traverses et une végétation qui se mélange aux pierres. La place centrale, appelée la piazza Silvestri, est magnifique. C'est une sorte d'ancien forum romain qui mêle lieux de pouvoir, de culte et de négoce. Il y a le palais des Consuls, deux églises, un théâtre et une fontaine. Certaines maisons ont encore des sols marquetés de mosaïques romaines ayant servi pour les thermes. Et puis, chemin faisant et l'histoire suivant son cours, la ville prend un aspect médiéval. Elle nous montre alors ses remparts ponctués de grosses tours en pierre qui sont solidement bâties et incroyablement dépouillées. Esthétique puriste pour un tempérament vigoureux.",
+  description:"Bevagnaou la ville à la campagneou la campagne en ville. On y voit des très hautes bâtisses qu'on croirait être des corps de fermedes chemins de traverses et une végétation qui se mélange aux pierres. La place centraleappelée la piazza Silvestriest magnifique. C'est une sorte d'ancien forum romain qui mêle lieux de pouvoirde culte et de négoce. Il y a le palais des Consulsdeux églisesun théâtre et une fontaine. Certaines maisons ont encore des sols marquetés de mosaïques romaines ayant servi pour les thermes. Et puischemin faisant et l'histoire suivant son coursla ville prend un aspect médiéval. Elle nous montre alors ses remparts ponctués de grosses tours en pierre qui sont solidement bâties et incroyablement dépouillées. Esthétique puriste pour un tempérament vigoureux.",
   province: ombrie,
   coordinates: "none given",
   heraldic: "blaz_bevagna.png",
@@ -2944,7 +2944,7 @@ Picture.create(
 montone =  City.create(
   name:"Montone",
   geocoding: "none given",
-  description:"C'est un tout petit village sur un rocher bruni, sur un rocher perché, comme un point sur un i. Au gré de la promenade, Montone laisse lentement découvrir ses rues qui montent et qui descendent. On y voit des pierres et des portes, des Madones en faïence, des feuilles, une jolie fille et des lumières qui arrivent à mesure que la nuit s'agrandit. C'est ici, dans ce petit village très caractériel que naquit Andrea Fortebracci, surnommé Braccio da Montone, qui fut l'un des plus illustres condottières du quatorzième siècle. Derrière leur charme bucolique, les vieux pavés de Montone nous renvoient donc aux temps troubles de l'Italie communale.",
+  description:"C'est un tout petit village sur un rocher brunisur un rocher perchécomme un point sur un i. Au gré de la promenadeMontone laisse lentement découvrir ses rues qui montent et qui descendent. On y voit des pierres et des portesdes Madones en faïencedes feuillesune jolie fille et des lumières qui arrivent à mesure que la nuit s'agrandit. C'est icidans ce petit village très caractériel que naquit Andrea Fortebraccisurnommé Braccio da Montonequi fut l'un des plus illustres condottières du quatorzième siècle. Derrière leur charme bucoliqueles vieux pavés de Montone nous renvoient donc aux temps troubles de l'Italie communale.",
   province: ombrie,
   coordinates: "none given",
   heraldic: "blaz_montone.png",
@@ -3092,7 +3092,7 @@ Picture.create(
 gubbio =  City.create(
   name:"Gubbio",
   geocoding: "none given",
-  description:"Le village de Gubbio possède une beauté pure et terrestre. En bas de la vallée, il nous cueille pour nous emmener dans ses ruelles pavées. Elles sont denses et pierreuses, et se rétrécissent à mesure que notre montée se raidie pour mieux nous capturer dans son atmosphère médiévale. Sur la grande place en haut du village, on aperçoit le très altier Palais des Consuls, dont la hauteur vertigineuse provoque l'ébahissement. Il faut s'avancer sur le rebord de cette place qui est entièrement bordée par une petite muraille. Un pas ou deux, et devant nous s'étale toute la vallée ombrienne à perte de vue. Nous regardons les villages au loin enroulés sur leurs églises, les oliviers à flanc de vallée, les vieilles bâtisses qui parsèment la campagne et nous pensons combien tout ceci ressemble à un tableau de maître.",
+  description:"Le village de Gubbio possède une beauté pure et terrestre. En bas de la valléeil nous cueille pour nous emmener dans ses ruelles pavées. Elles sont denses et pierreuseset se rétrécissent à mesure que notre montée se raidie pour mieux nous capturer dans son atmosphère médiévale. Sur la grande place en haut du villageon aperçoit le très altier Palais des Consulsdont la hauteur vertigineuse provoque l'ébahissement. Il faut s'avancer sur le rebord de cette place qui est entièrement bordée par une petite muraille. Un pas ou deuxet devant nous s'étale toute la vallée ombrienne à perte de vue. Nous regardons les villages au loin enroulés sur leurs églisesles oliviers à flanc de valléeles vieilles bâtisses qui parsèment la campagne et nous pensons combien tout ceci ressemble à un tableau de maître.",
   province: ombrie,
   coordinates: "none given",
   heraldic: "blaz_gubbio.png",
@@ -3306,7 +3306,7 @@ Picture.create(
 orvieto =  City.create(
   name:"Orvieto",
   geocoding: "none given",
-  description:"Orvieto est un témoignage encore vivant de la flamboyance du Moyen-Âge. La ville est perchée sur un éperon rocheux et domine de là-haut une paisible campagne. À l’intérieur, les rues sont épaisses, la pierre est lourde, et les maisons se cachent les unes à côté des autres. Elles sont protégées par une muraille défensive qui entoure toute la ville. Sur la place centrale trône une cathédrale prodigieusement colorée, presqu’à la manière d’une enluminure monumentale. Ses murs sont parés de lignes de marbre rose, blanc et noir et son fronton est couvert de mosaïques aux reliefs d’or. À l’intérieur de l’église, d’incroyables fresques racontent avec ferveur le voyage des anges à travers les nuées nocturnes.",
+  description:"Orvieto est un témoignage encore vivant de la flamboyance du Moyen-Âge. La ville est perchée sur un éperon rocheux et domine de là-haut une paisible campagne. À l’intérieurles rues sont épaissesla pierre est lourdeet les maisons se cachent les unes à côté des autres. Elles sont protégées par une muraille défensive qui entoure toute la ville. Sur la place centrale trône une cathédrale prodigieusement coloréepresqu’à la manière d’une enluminure monumentale. Ses murs sont parés de lignes de marbre roseblanc et noir et son fronton est couvert de mosaïques aux reliefs d’or. À l’intérieur de l’églised’incroyables fresques racontent avec ferveur le voyage des anges à travers les nuées nocturnes.",
   province: ombrie,
   coordinates: "none given",
   heraldic: "blaz_orvieto.png",
@@ -3460,11 +3460,11 @@ Picture.create(
 latium = Province.create(
   name: "Latium",
   map: "lazio-map.png",
-  description:"Pareil à la louve romaine, le Latium est, depuis l'époque antique, une terre nourricière tant sur le plan de l’agriculture que de la culture. Les paysages montreront une succession de champs cultivés, prés blondis par les blés et quelques collines, mais c’est la géologie du Latium qui livrera le plus de secrets. Le passé, lisible par strates, révèle que le Latium se construit une identité avec le roi Latinus et ses sujets les Latini qui parlaient une langue archaïque ancêtre du latin. Avec eux commence toute la culture latine, mais ils ont été précédé – qu’apprend-on ! – par les Étrusques, une civilisation raffinée et très avancée sur le plan technique. Le Latium ne compte pas beaucoup de grandes villes il est vrai, mais il a construit Rome, capitale de l'Empire romain, ville la plus chargée d'histoire de toute l'Italie, et peut-être même du monde entier.")
+  description:"Pareil à la louve romainele Latium estdepuis l'époque antiqueune terre nourricière tant sur le plan de l’agriculture que de la culture. Les paysages montreront une succession de champs cultivésprés blondis par les blés et quelques collinesmais c’est la géologie du Latium qui livrera le plus de secrets. Le passélisible par stratesrévèle que le Latium se construit une identité avec le roi Latinus et ses sujets les Latini qui parlaient une langue archaïque ancêtre du latin. Avec eux commence toute la culture latinemais ils ont été précédé – qu’apprend-on ! – par les Étrusquesune civilisation raffinée et très avancée sur le plan technique. Le Latium ne compte pas beaucoup de grandes villes il est vraimais il a construit Romecapitale de l'Empire romainville la plus chargée d'histoire de toute l'Italieet peut-être même du monde entier.")
 rome =  City.create(
   name:"Rome",
   geocoding: "41° 53′ 19″ NORD 12° 29′ 12″ EST",
-  description:"Elle est Urbs, Caput Mundis, la ville éternelle. Rome a toujours été une ville du Pouvoir et sa gloire au fil des siècles ne s'est jamais éteinte. Dans l'Antiquité, elle donna son nom à l'empire romain, empire le plus puissant du monde, prodigieusement étendu par-delà la mer Méditerranée. Au Moyen-Âge, le pouvoir catholique en a fait son siège et les Papes leur lieu de résidence. À la Renaissance, les familles Orsini, Farnese, Borghese et les Barberini y ont construit des palais somptueux. Au dix-septième siècle, elle est devenue baroque. ROMA, alors, s'est renversé en AMOR pour nous parler d'amour et de passion au milieu des peintures du Caravage, des églises de Borromini et des sculptures du Bernin. Et depuis, elle ne cesse d'attirer les esthètes, historiens, étudiants latinistes et autres chercheurs de destin.",
+  description:"Elle est UrbsCaput Mundisla ville éternelle. Rome a toujours été une ville du Pouvoir et sa gloire au fil des siècles ne s'est jamais éteinte. Dans l'Antiquitéelle donna son nom à l'empire romainempire le plus puissant du mondeprodigieusement étendu par-delà la mer Méditerranée. Au Moyen-Âgele pouvoir catholique en a fait son siège et les Papes leur lieu de résidence. À la Renaissanceles familles OrsiniFarneseBorghese et les Barberini y ont construit des palais somptueux. Au dix-septième siècleelle est devenue baroque. ROMAalorss'est renversé en AMOR pour nous parler d'amour et de passion au milieu des peintures du Caravagedes églises de Borromini et des sculptures du Bernin. Et depuiselle ne cesse d'attirer les esthèteshistoriensétudiants latinistes et autres chercheurs de destin.",
   province: latium,
   coordinates: "https://goo.gl/maps/ceRkEQgjreP2",
   heraldic: "blaz_rome.png",
@@ -3817,10 +3817,10 @@ Picture.create(
 campanie = Province.create(
   name: "Campanie",
   map: "campania-map.png",
-  description:"Si la Campanie est aussi célébrée, c'est pour la beauté de ses couleurs. On trouve les teintes les plus douces d'Italie dans les marbres de Naples et les fresques des sites archéologiques de Pompéi et d'Herculanum mais aussi des couleurs bien vives et explosives sur les îles de Capri et Ravello, et dans tous les villages colorés qui parsèment la côte amalfitaine. La Campanie est une terre profonde et mystérieuse. Ici, le passé ne s'est jamais effacé et imprègne les caractères d'une vitalité immuable. Ici, la nature confond la beauté et le danger, dichotomie fondamentale renfermée dans le Vésuve, qui fait et défait les villes par son rugissement volcanique. Arrivée en terre méridionale, changement complet de paradigme, voici le Grand Sud.")
+  description:"Si la Campanie est aussi célébréec'est pour la beauté de ses couleurs. On trouve les teintes les plus douces d'Italie dans les marbres de Naples et les fresques des sites archéologiques de Pompéi et d'Herculanum mais aussi des couleurs bien vives et explosives sur les îles de Capri et Ravelloet dans tous les villages colorés qui parsèment la côte amalfitaine. La Campanie est une terre profonde et mystérieuse. Icile passé ne s'est jamais effacé et imprègne les caractères d'une vitalité immuable. Icila nature confond la beauté et le dangerdichotomie fondamentale renfermée dans le Vésuvequi fait et défait les villes par son rugissement volcanique. Arrivée en terre méridionalechangement complet de paradigmevoici le Grand Sud.")
 naples =  City.create(
   name:"Naples",
-  description:"Le sable marin, les murs décrépis, la lumière des vespas dans l'étroitesse des rues : Jaune de Naples. On dit que cette couleur est l'étendard des Dieux. Jaune du soleil et de la force, qui emplissait les décors à fresque des maisons des patriciens romains. Jaune du festoiement, de l'humeur heureuse, de l'or, de la grande richesse. Mais si d'aventure son éclat passe, alors il prend la teinte du souffre. C'est le jaune des parias, c'est celui du danger, c'est la couleur des flammes de l'Enfer. Rire jaune ou rire pour échapper aux situations, ainsi font les Napolitains. Naples est assurément la ville la plus fascinante d'Italie, par la puissance des contradictions qu'elle est capable d'accepter. Cette ville qu'on dit dangereuse, où l'argent est sali et méprisé est une ville aristocrate qui traite ses habitants en princes. Les palais, les œuvres d'art et les plus beaux airs d’opéras leurs sont donnés, offerts dans les rues aussi nécessairement que le soleil.",
+  description:"Le sable marinles murs décrépisla lumière des vespas dans l'étroitesse des rues : Jaune de Naples. On dit que cette couleur est l'étendard des Dieux. Jaune du soleil et de la forcequi emplissait les décors à fresque des maisons des patriciens romains. Jaune du festoiementde l'humeur heureusede l'orde la grande richesse. Mais si d'aventure son éclat passealors il prend la teinte du souffre. C'est le jaune des pariasc'est celui du dangerc'est la couleur des flammes de l'Enfer. Rire jaune ou rire pour échapper aux situationsainsi font les Napolitains. Naples est assurément la ville la plus fascinante d'Italiepar la puissance des contradictions qu'elle est capable d'accepter. Cette ville qu'on dit dangereuseoù l'argent est sali et méprisé est une ville aristocrate qui traite ses habitants en princes. Les palaisles œuvres d'art et les plus beaux airs d’opéras leurs sont donnésofferts dans les rues aussi nécessairement que le soleil.",
   province: campanie,
   heraldic: "blaz_naples.png",
   picture: "na_00.jpg",
@@ -4296,7 +4296,7 @@ Picture.create(
 
 capri =  City.create(
   name:"Capri",
-  description:"Capri commence là où s'arrête Naples et permet une escapade nécessaire après l'intensité baroque napolitaine. C'est une île brute au paysage rocheux et escarpé, entourée par de nombreuses criques précieuses aux eaux d’émeraude et de saphir. En son for intérieur, deux petits villages dominent. Les chemins qui les traversent révèlent une abondance de fleurs aux couleurs étincelantes qui embaument le vent marin. Qu'il est doux de se laisser ravir, avant d'affronter la bruyante et richissime clientèle qui accapare les boutiques de luxe. Ainsi, perdu dans la mer Tyrrhénienne au large de la baie de Naples, le voyageur retrouve pour quelques heures une respiration au grand large, une légèreté, voire même quelquefois une certaine frivolité. Le contraste est saisissant.",
+  description:"Capri commence là où s'arrête Naples et permet une escapade nécessaire après l'intensité baroque napolitaine. C'est une île brute au paysage rocheux et escarpéentourée par de nombreuses criques précieuses aux eaux d’émeraude et de saphir. En son for intérieurdeux petits villages dominent. Les chemins qui les traversent révèlent une abondance de fleurs aux couleurs étincelantes qui embaument le vent marin. Qu'il est doux de se laisser raviravant d'affronter la bruyante et richissime clientèle qui accapare les boutiques de luxe. Ainsiperdu dans la mer Tyrrhénienne au large de la baie de Naplesle voyageur retrouve pour quelques heures une respiration au grand largeune légèretévoire même quelquefois une certaine frivolité. Le contraste est saisissant.",
   province: campanie,
   heraldic: "blaz_capri.png",
   picture: "ca_00.jpg",
@@ -4499,11 +4499,11 @@ Picture.create(
 pouilles = Province.create(
   name: "Pouilles",
   map: "puglia-map.png",
-  description:"La région des Pouilles forme le talon de la botte italienne. Elle offre aux promeneurs des paysages d'une grande beauté : une côte capricieusement découpée, la mer d'un bleu cristallin, des criques secrètes, des plages au sable infiniment fin et des plateaux agricoles couleur cuivre recouverts d'oliviers centenaires. Bordés par les mers Adriatique et Ionienne, parsemés d'églises romanes, de palais baroques et de châteaux normands, souabes et aragonais, il fallait bien que les Pouilles s'accordent au pluriel. Sur la route de Bari à Otrante se succèdent petits ports et villes blanchies à la chaux, simples et nues, de moins en moins italiennes et presque déjà grecques...")
+  description:"La région des Pouilles forme le talon de la botte italienne. Elle offre aux promeneurs des paysages d'une grande beauté : une côte capricieusement découpéela mer d'un bleu cristallindes criques secrètesdes plages au sable infiniment fin et des plateaux agricoles couleur cuivre recouverts d'oliviers centenaires. Bordés par les mers Adriatique et Ionienneparsemés d'églises romanesde palais baroques et de châteaux normandssouabes et aragonaisil fallait bien que les Pouilles s'accordent au pluriel. Sur la route de Bari à Otrante se succèdent petits ports et villes blanchies à la chauxsimples et nuesde moins en moins italiennes et presque déjà grecques...")
 bari =  City.create(
   name:"Bari",
-  geocoding: "41° 08′ 00″ NORD, 16° 52′ 00″ EST",
-  description:"À l'intérieur de Bari, le quartier de Barivecchia est un labyrinthe de vieilles rues secrètes et mystérieuses. Dès l'aube, les femmes préparent de leurs mains des pâtes orecchiettes dans leur cuisine, pendent le linge propre à leurs fenêtres et s'en vont s'assoir sur le pas de leur porte. D'autres habitants passent devant elles en empruntant des ruelles étroites, sorte de rue-couloirs ou s'égrènent les effigies de la Madone. Ils parlent un dialecte que l'on comprend à peine. Là-bas sur les petites places, les enfants jouent au ballon et les hommes boivent le café entre eux. Enfin, nous passons devant les très belles, blanches et hautes cathédrales romanes, et puis nous arrivons en haut des remparts, face à la mer Adriatique, où les pécheurs nettoient le poisson tout juste pris.",
+  geocoding: "41° 08′ 00″ NORD16° 52′ 00″ EST",
+  description:"À l'intérieur de Barile quartier de Barivecchia est un labyrinthe de vieilles rues secrètes et mystérieuses. Dès l'aubeles femmes préparent de leurs mains des pâtes orecchiettes dans leur cuisinependent le linge propre à leurs fenêtres et s'en vont s'assoir sur le pas de leur porte. D'autres habitants passent devant elles en empruntant des ruelles étroitessorte de rue-couloirs ou s'égrènent les effigies de la Madone. Ils parlent un dialecte que l'on comprend à peine. Là-bas sur les petites placesles enfants jouent au ballon et les hommes boivent le café entre eux. Enfinnous passons devant les très bellesblanches et hautes cathédrales romaneset puis nous arrivons en haut des rempartsface à la mer Adriatiqueoù les pécheurs nettoient le poisson tout juste pris.",
   province: pouilles,
   coordinates: "https://goo.gl/maps/EsaSJMXxuf32",
   heraldic: "blaz_bari.png",
@@ -4707,7 +4707,7 @@ Picture.create(
 polignano =   City.create(
   name:"Polignano a Mare",
   geocoding: "41° 00′ 00″ NORD 17° 13′ 00″ EST",
-  description:"C'est l'un des plus beaux villages des Pouilles, au profil antique et grec. C'est un village tout blanc, perché en haut de falaises qui tombent à pic. Il s'avance dans la mer comme un navire prêt à larguer ses amarres. Dans sa crique aux eaux limpides, des nageurs apparaissent par centaine entre les grottes apparentes et les rochers, et forment un tourbillon de couleurs vives. Plus haut, à l'intérieur même du village, Polignago laisse voir et revoir la mer par différents points de perspectives - sur les places, au travers de fenêtres, en haut d'un escalier - comme une perpétuelle incitation à prendre le large.",
+  description:"C'est l'un des plus beaux villages des Pouillesau profil antique et grec. C'est un village tout blancperché en haut de falaises qui tombent à pic. Il s'avance dans la mer comme un navire prêt à larguer ses amarres. Dans sa crique aux eaux limpidesdes nageurs apparaissent par centaine entre les grottes apparentes et les rocherset forment un tourbillon de couleurs vives. Plus hautà l'intérieur même du villagePolignago laisse voir et revoir la mer par différents points de perspectives - sur les placesau travers de fenêtresen haut d'un escalier - comme une perpétuelle incitation à prendre le large.",
   province: pouilles,
   coordinates: "https://goo.gl/maps/y5jPJWArV9H2",
   heraldic: "blaz_polignano.png",
@@ -4785,7 +4785,7 @@ Picture.create(
 monopoli =  City.create(
   name:"Monopoli",
   geocoding: "40° 57′ 00″ NORD 17° 18′ 00″ EST",
-  description:"Le charme de Monopoli vient de son port miniature rempli d'authentiques barques en bois peintes en bleu et rouge. Avec certains balcons qui ont des loggias blanches, sa place faite d'eau et un Dôme en arrière-fond, l'endroit possède un charme quasiment vénitien. Les promeneurs viennent s'y retrouver avant de continuer leur balade dans les ruelles historiques, pour terminer devant le château de Charles V, une impressionnante fortification défensive édifiée pendant l'occupation aragonaise. La ville a donc eu plusieurs influences, mais son nom hérité du grec 'monos-polis' l'affirme, elle est 'la ville unique'.",
+  description:"Le charme de Monopoli vient de son port miniature rempli d'authentiques barques en bois peintes en bleu et rouge. Avec certains balcons qui ont des loggias blanchessa place faite d'eau et un Dôme en arrière-fondl'endroit possède un charme quasiment vénitien. Les promeneurs viennent s'y retrouver avant de continuer leur balade dans les ruelles historiquespour terminer devant le château de Charles Vune impressionnante fortification défensive édifiée pendant l'occupation aragonaise. La ville a donc eu plusieurs influencesmais son nom hérité du grec 'monos-polis' l'affirmeelle est 'la ville unique'.",
   province: pouilles,
   coordinates: "https://goo.gl/maps/iSCYZKeXgPk",
   heraldic: "blaz_monopoli.png",
@@ -5003,7 +5003,7 @@ Picture.create(
 lecce =   City.create(
   name:"Lecce",
   geocoding: "40° 21′ 13″ NORD 18° 10′ 32″ EST",
-  description:"La beauté de Lecce s'explique par sa pierre si particulière dont la souplesse et la luminosité ont permis l'invention du style architectural nommé 'Barocco leccese'. Pierre blanche, beige ou ocre à mesure que le soleil l'éclaire pendant la journée. Pierre crayeuse, lisse, lumineuse. Pierre souple, montée en crème, sculptée toute en rondeur avec une facilité déconcertante, qui confère à toute la ville une harmonie des couleurs et une douceur des formes. En mettant à profit les qualités exceptionnellement maléables de cette pierre calcaire, les basiliques ont été ornées de multiples sculptures d'anges, de fleurs et de blasons. Aussi, toute balade dans les rues de Lecce est-elle infiniment baroque et merveilleusement poétique.",
+  description:"La beauté de Lecce s'explique par sa pierre si particulière dont la souplesse et la luminosité ont permis l'invention du style architectural nommé 'Barocco leccese'. Pierre blanchebeige ou ocre à mesure que le soleil l'éclaire pendant la journée. Pierre crayeuselisselumineuse. Pierre souplemontée en crèmesculptée toute en rondeur avec une facilité déconcertantequi confère à toute la ville une harmonie des couleurs et une douceur des formes. En mettant à profit les qualités exceptionnellement maléables de cette pierre calcaireles basiliques ont été ornées de multiples sculptures d'angesde fleurs et de blasons. Aussitoute balade dans les rues de Lecce est-elle infiniment baroque et merveilleusement poétique.",
   province: pouilles,
   coordinates: "https://goo.gl/maps/jtHhFteNxYD2",
   heraldic: "blaz_lecce.png",
@@ -5211,8 +5211,8 @@ Picture.create(
   city: lecce
 )
 
-puts "All good darling, relax and get a coffee"
+puts "All good darlingrelax and get a coffee"
 
-#toscane = Province.create(name: "Toscane", description:"")
-#florence =   City.create(name:"", description:"", province: )
+#toscane = Province.create(name: "Toscane"description:"")
+#florence =   City.create(name:""description:""province: )
 
