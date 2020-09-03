@@ -2306,12 +2306,12 @@ city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_16.jpg",
-position: 16
+position: 16,
 city: florence
 )
 Picture.create(
 url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_17.jpg",
-position: 17
+position: 17,
 city: florence
 )
 Picture.create(
