@@ -2211,12 +2211,10 @@ Picture.create(
 )
 
 
-
-
 toscane = Province.create(
   name: "Toscane",
   map: "toscana-map.png",
-  description:"Splendeur du paysage toscan, si finement ciselé dans ses contours qu'on dirait qu'il fut dessiné par les peintres pour continuer l'art hors des villes. A l’heure du soleil couchant, les collines vertes se perdent dans une nuée d’or, les cyprès centenaires reflètent leurs altières silhouettes sur les chemins, et les églises en marbre sonnent leurs cloches de fonte… Tout ceci sépare les plus beaux villages qui ont été par le passé d’anciennes républiques autonomes. Lors de l’invention du politique dans l’Italie du Quattrocento, la Toscane a vu s’opposer deux modèles de pouvoir dans une rivalité historique : le gouvernement communal de Sienne contre le principat médicéen de Florence. De la Toscane, on retient cette invention magistrale de l'art de vivre qui décline la beauté dans les infimes détails de toutes les choses vécues. On dit de ce lieu qu’il est un miracle.")
+  description:"Splendeur du paysage toscan, si finement ciselé dans ses contours qu'on dirait qu'il fut dessiné par les peintres pour continuer l'art hors des villes. A l’heure du soleil couchant, les collines vertes se perdent dans une nuée d’or, les cyprès centenaires reflètent leurs altières silhouettes sur les chemins, et les églises en marbre sonnent leurs cloches de fonte… Tout ceci sépare les plus beaux villages qui ont été par le passé d’anciennes républiques autonomes. Lors de l’invention du politique dans l’Italie du Quattrocento, la Toscane a vu s’opposer deux modèles de pouvoir dans une rivalité historique : le gouvernement communal de Sienne contre le principat médicéen de Florence. De la Toscane, on retient cette invention magistrale de l'art de vivre qui recherche la beauté dans les infimes détails de toutes les choses vécues. On dit de ce lieu qu’il est un miracle.")
 florence =  City.create(
   name:"Florence",
   geocoding: "43° 46′ 18′ NORD 11° 15′ 13′ EST",
@@ -2925,11 +2923,11 @@ Picture.create(
 ombrie = Province.create(
   name: "Ombrie",
   map: "umbria-map.png",
-  description:"La Ombrie est la seule partie d’Italie qui est sans frontière commune avec la mer. Bien repliée dans ses forêts intérieures, ses vallées étalent un vert sombre et sérieux sur tout le paysage. C’est une région totalement enclavée, intérieure et secrète, propice à une méditation heureuse encouragée par le souvenir de François d’Assise et la piété des fresques de Giotto. La Ombrie est lointainement étrusque et fortement médiévale. En haut des collines et des champs labourés, on voit se dresser des villages fortifiés dont la pierre historique nous rappelle au Moyen-Âge et nous replonge dans cette époque d'absolu, à la fois spirituelle et dangereuse, qui n'avait pas encore dit non à la puissance de l'Imaginaire.")
+  description:"La Ombrie est la seule partie d’Italie qui est sans frontière commune avec la mer. Bien repliée dans ses forêts, ses vallées étalent un vert sombre et sérieux sur tout le paysage. C’est une région totalement enclavée, intérieure et secrète, propice à une méditation heureuse encouragée par le souvenir de François d’Assise et la piété des fresques de Giotto. La Ombrie est lointainement étrusque et fortement médiévale. En haut des collines et des champs labourés, on voit se dresser des villages fortifiés dont la pierre historique nous rappelle au Moyen-Âge et nous replonge dans cette époque d'absolu, à la fois spirituelle et dangereuse, qui n'avait pas encore dit non à la puissance de l'Imaginaire.")
 bevagna =  City.create(
   name:"Bevagna",
   geocoding: "none given",
-  description:"Bevagna, ou la ville à la campagne, ou la campagne en ville. On y voit des très hautes bâtisses qu'on croirait être des corps de ferme, des chemins de traverses et une végétation qui se mélange aux pierres. La place centrale, appelée la piazza Silvestri, est magnifique. C'est une sorte d'ancien forum romain qui mêle lieux de pouvoir, de culte et de négoce. Il y a le palais des Consuls, deux églises, un théâtre et une fontaine. Certaines maisons ont encore des sols marquetés de mosaïques qui servaient pour les thermes. Et puis, chemin faisant et l'histoire suivant son cours, la ville prend un aspect médiéval. Elle nous montre alors ses remparts sertis de grosses tours en pierre qui sont solidement bâties et merveilleusement dépouillées. Esthétique puriste pour un tempérament vigoureux.",
+  description:"Bevagna, ou la ville à la campagne, ou la campagne en ville. On y voit des très hautes bâtisses qu'on croirait être des corps de ferme, des chemins de traverses et une végétation qui se mélange aux pierres. La place centrale, appelée la piazza Silvestri, est magnifique. C'est une sorte d'ancien forum romain qui mêle lieux de pouvoir, de culte et de négoce. Il y a le palais des Consuls, deux églises, un théâtre et une fontaine. Certaines maisons ont encore des sols marquetés de mosaïques romaines ayant servi pour les thermes. Et puis, chemin faisant et l'histoire suivant son cours, la ville prend un aspect médiéval. Elle nous montre alors ses remparts ponctués de grosses tours en pierre qui sont solidement bâties et incroyablement dépouillées. Esthétique puriste pour un tempérament vigoureux.",
   province: ombrie,
   coordinates: "none given",
   heraldic: "blaz_bevagna.png",
@@ -2956,13 +2954,13 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_4.jpg",
   position: 4,
-  css_class: "landscape",
+  css_class: "all",
   city: bevagna
 )
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_5.jpg",
   position: 5,
-  css_class: "landscape",
+  css_class: "all",
   city: bevagna
 )
 Picture.create(
@@ -3023,7 +3021,7 @@ Picture.create(
 montone =  City.create(
   name:"Montone",
   geocoding: "none given",
-  description:"C'est un tout petit village sur un rocher bruni, sur un rocher perché, comme un point sur un i. Montone laisse lentement découvrir ses rues qui montent et qui descendent, protégées par des petites murailles toutes médiévales. On y voit des pierres et des portes, des madonnes en faïence, des feuilles, une jolie fille et des lumières qui arrivent à mesure que la nuit s'agrandit. C'est ici, dans ce petit village très caractériel que naquit Andrea Fortebracci, surnommé Braccio da Montone, qui fut l'un des plus illustres condottières du quatorzième siècle. Derrière leur charme bucolique, les vieux pavés de Montone nous renvoient donc aux temps troubles de l'Italie communale.",
+  description:"C'est un tout petit village sur un rocher bruni, sur un rocher perché, comme un point sur un i. Au gré de la promenade, Montone laisse lentement découvrir ses rues qui montent et qui descendent. On y voit des pierres et des portes, des Madones en faïence, des feuilles, une jolie fille et des lumières qui arrivent à mesure que la nuit s'agrandit. C'est ici, dans ce petit village très caractériel que naquit Andrea Fortebracci, surnommé Braccio da Montone, qui fut l'un des plus illustres condottières du quatorzième siècle. Derrière leur charme bucolique, les vieux pavés de Montone nous renvoient donc aux temps troubles de l'Italie communale.",
   province: ombrie,
   coordinates: "none given",
   heraldic: "blaz_montone.png",
@@ -3171,7 +3169,7 @@ Picture.create(
 gubbio =  City.create(
   name:"Gubbio",
   geocoding: "none given",
-  description:"Le village de Gubbio possède une beauté pure et terrestre. En bas de la vallée, il nous cueille pour nous emmener dans ses ruelles pavées. Elles sont denses et pierreuses, et se rétrécissent à mesure que notre montée se raidie pour mieux nous capturer dans son atmosphère médiévale. Sur la grande place en haut du village, on aperçoit le très altier Palais des Consuls, dont la hauteur vertigineuse provoque l'ébahissement. Il faut s'avancer sur le rebord de cette place qui est entièrement bordée par une petite muraille. Un pas ou deux, et devant nous s'étale toute la vallée ombrienne à perte de vue. Nous regardons les villages au loin enroulés sur leurs églises, les oliviers à flanc de vallée et les vieilles bâtisses qui parsèment la campagne. Tout ceci ressemble à un tableau de maître.",
+  description:"Le village de Gubbio possède une beauté pure et terrestre. En bas de la vallée, il nous cueille pour nous emmener dans ses ruelles pavées. Elles sont denses et pierreuses, et se rétrécissent à mesure que notre montée se raidie pour mieux nous capturer dans son atmosphère médiévale. Sur la grande place en haut du village, on aperçoit le très altier Palais des Consuls, dont la hauteur vertigineuse provoque l'ébahissement. Il faut s'avancer sur le rebord de cette place qui est entièrement bordée par une petite muraille. Un pas ou deux, et devant nous s'étale toute la vallée ombrienne à perte de vue. Nous regardons les villages au loin enroulés sur leurs églises, les oliviers à flanc de vallée, les vieilles bâtisses qui parsèment la campagne et nous pensons combien tout ceci ressemble à un tableau de maître.",
   province: ombrie,
   coordinates: "none given",
   heraldic: "blaz_gubbio.png",
@@ -3385,7 +3383,7 @@ Picture.create(
 orvieto =  City.create(
   name:"Orvieto",
   geocoding: "none given",
-  description:"Orvieto est un témoignage encore vivant de la flamboyance du Moyen-Âge. La ville est perchée sur un éperon rocheux et domine de là-haut une paisible campagne dans laquelle s'allongent des arbres bien rangés. À l’intérieur, les rues sont épaisses, la pierre est lourde, et les maisons se cachent les unes à côté des autres. Elles sont protégées par une muraille défensive qui entoure toute la ville. Sur la place centrale trône une cathédrale prodigieusement colorée, presqu’à la manière d’une enluminure monumentale. Ses murs sont parés de lignes de marbre rose, blanc et noir et son fronton est couvert de mosaïques aux reliefs d’or. À l’intérieur de l’église, d’incroyables fresques racontent avec ferveur le voyage des anges à travers les nuées nocturnes.",
+  description:"Orvieto est un témoignage encore vivant de la flamboyance du Moyen-Âge. La ville est perchée sur un éperon rocheux et domine de là-haut une paisible campagne. À l’intérieur, les rues sont épaisses, la pierre est lourde, et les maisons se cachent les unes à côté des autres. Elles sont protégées par une muraille défensive qui entoure toute la ville. Sur la place centrale trône une cathédrale prodigieusement colorée, presqu’à la manière d’une enluminure monumentale. Ses murs sont parés de lignes de marbre rose, blanc et noir et son fronton est couvert de mosaïques aux reliefs d’or. À l’intérieur de l’église, d’incroyables fresques racontent avec ferveur le voyage des anges à travers les nuées nocturnes.",
   province: ombrie,
   coordinates: "none given",
   heraldic: "blaz_orvieto.png",
@@ -3539,7 +3537,7 @@ Picture.create(
 latium = Province.create(
   name: "Latium",
   map: "lazio-map.png",
-  description:"Pareil à la louve romaine, le Latium est, depuis l'époque antique, une terre nourricière tant sur le plan de l’agriculture que de la culture. Les paysages montreront une succession de champs cultivés, paysages blondis et quelques montagnes, mais c’est la géologie du Latium qui livrera le plus de secrets. Le passé, lisible par strates, révèle que le Latium se construit une identité avec le roi Latinus et ses sujets les Latini qui parlaient une langue archaïque ancêtre du latin. Avec eux commence toute la culture latine, mais ils ont été précédé – qu’apprend-on ! – par les Étrusques, une civilisation raffinée et très avancée sur le plan technique, auxquels les latins doivent beaucoup. Le Latium ne compte pas beaucoup de grandes villes il est vrai, mais il a construit Rome, capitale de l'Empire romain, ville la plus chargée d'histoire de toute l'Italie et peut-être même du monde.")
+  description:"Pareil à la louve romaine, le Latium est, depuis l'époque antique, une terre nourricière tant sur le plan de l’agriculture que de la culture. Les paysages montreront une succession de champs cultivés, prés blondis par les blés et quelques collines, mais c’est la géologie du Latium qui livrera le plus de secrets. Le passé, lisible par strates, révèle que le Latium se construit une identité avec le roi Latinus et ses sujets les Latini qui parlaient une langue archaïque ancêtre du latin. Avec eux commence toute la culture latine, mais ils ont été précédé – qu’apprend-on ! – par les Étrusques, une civilisation raffinée et très avancée sur le plan technique. Le Latium ne compte pas beaucoup de grandes villes il est vrai, mais il a construit Rome, capitale de l'Empire romain, ville la plus chargée d'histoire de toute l'Italie, et peut-être même du monde entier.")
 rome =  City.create(
   name:"Rome",
   geocoding: "41° 53′ 19″ NORD 12° 29′ 12″ EST",
@@ -3751,20 +3749,9 @@ Picture.create(
   city: rome
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_39.jpg",
-  position: 39,
-  css_class: "portrait",
-  city: rome
-)
-Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_40.jpg",
   position: 40,
   css_class: "portrait",
-  city: rome
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_41.jpg",
-  position: 41,
   city: rome
 )
 Picture.create(
@@ -3897,6 +3884,12 @@ Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_68.jpg",
   position: 68,
   css_class: "portrait",
+  city: rome
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Rome/ro_69.jpg",
+  position: 69,
+  css_class: "bande",
   city: rome
 )
 campanie = Province.create(
