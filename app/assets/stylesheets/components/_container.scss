@@ -27,9 +27,10 @@
   font-size: 14px;
   font-family: 'Cormorant Infant', serif;
   font-weight: bold;
-  position: absolute;
-  right: 5vh;
-  bottom: 2vh;
+  position: fixed;
+ // right: 5vh;
+  bottom: 0px;
+  padding: 5px;
 }
 
 .source{

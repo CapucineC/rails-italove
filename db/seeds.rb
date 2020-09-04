@@ -2210,7 +2210,7 @@ Picture.create(
 toscane = Province.create(
   name: "Toscane",
   map: "toscana-map.png",
-  description:"Splendeur du paysage toscan, si finement ciselé dans ses contours qu'on dirait qu'il fut dessiné par les peintres pour continuer l'art hors des villes. A l’heure du soleil couchant, les collines vertes se perdent dans une nuée d’or, les cyprès centenaires reflètent leurs altières silhouettes sur les chemins, et les églises en marbre sonnent leurs cloches de fonte… Tout ceci sépare les plus beaux villages qui ont été par le passé d’anciennes républiques autonomes. Lors de l’invention du politique dans l’Italie du Quattrocento, la Toscane a vu s’opposer deux modèles de pouvoir dans une rivalité historique : le gouvernement communal de Sienne contre le principat médicéen de Florence. De la Toscane, on retient cette invention magistrale de l'art de vivre qui recherche la beauté dans les infimes détails de toutes les choses vécues. On dit de ce lieu qu’il est un miracle.")
+  description:"Splendeur du paysage toscan, si finement ciselé dans ses contours qu'on dirait qu'il fut dessiné par les peintres pour continuer l'art hors des villes. A l’heure du soleil couchant, les collines vertes se perdent dans une nuée d’or, les cyprès centenaires reflètent leurs altières silhouettes sur les chemins, et les églises en marbre sonnent leurs cloches de fonte… Tout ceci sépare les plus beaux villages qui ont été par le passé d’anciennes républiques autonomes. Lors de l’invention du politique dans l’Italie du Quattrocento, la Toscane a vu s’opposer deux modèles de pouvoir dans une rivalité historique : le gouvernement communal de Sienne contre le principat médicéen de Florence. De la Toscane, on retient cette invention magistrale de la Renaissance qui place la beauté dans les infimes détails de toutes les choses vécues.")
 florence =  City.create(
   name:"Florence",
   geocoding: "43° 46′ 18′ NORD 11° 15′ 13′ EST",
@@ -2355,14 +2355,8 @@ Picture.create(
   city: florence
 )
 Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_25.1.jpg",
-  position: 25.1,
-  css_class: "all",
-  city: florence
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_25.2.jpg",
-  position: 25.2,
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_25.jpg",
+  position: 25,
   css_class: "all",
   city: florence
 )
@@ -2451,7 +2445,7 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_45.jpg",
   position: 45,
-  css_class: "portrait",
+  css_class: "mini",
   city: florence
 )
 Picture.create(
@@ -2469,7 +2463,7 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_48.jpg",
   position: 48,
-  css_class: "portrait",
+  css_class: "mini",
   city: florence
 )
 Picture.create(
@@ -4298,7 +4292,7 @@ Picture.create(
 
 capri =  City.create(
   name:"Capri",
-  description:"Capri commence là où s'arrête Naples et permet une escapade nécessaire après l'intensité baroque napolitaine. C'est une île brute au paysage rocheux et escarpé, entourée par de nombreuses criques précieuses aux eaux d’émeraude et de saphir. En son for intérieur, deux petits villages dominent. Les chemins qui les traversent révèlent une abondance de fleurs aux couleurs étincelantes qui embaument le vent marin. Qu'il est doux de se laisser ravir, avant d'affronter la bruyante et richissime clientèle qui accapare les boutiques de luxe. Ainsi, perdu dans la mer Tyrrhénienne au large de la baie de Naples, le voyageur retrouve pour quelques heures une respiration au grand large, une légèreté, voire même quelquefois une certaine frivolité. Le contraste est saisissant.",
+  description:"Capri permet une escapade nécessaire après l'intensité baroque napolitaine. C'est une île brute au paysage rocheux et escarpé, entourée par de nombreuses criques précieuses aux eaux d’émeraude et de saphir. En son for intérieur, deux petits villages dominent. Les chemins qui les traversent révèlent une abondance de fleurs aux couleurs étincelantes qui embaument le vent marin. Qu'il est doux de se laisser ravir, avant d'affronter la bruyante et richissime clientèle qui accapare les boutiques de luxe. Ainsi, perdu dans la mer Tyrrhénienne au large de la baie de Naples, le voyageur retrouve pour quelques heures une respiration au grand large, une légèreté, voire même quelquefois une certaine frivolité. Le contraste est saisissant.",
   province: campanie,
   heraldic: "blaz_capri.png",
   picture: "ca_00.jpg",
@@ -4709,7 +4703,7 @@ Picture.create(
 polignano =   City.create(
   name:"Polignano a Mare",
   geocoding: "41° 00′ 00″ NORD 17° 13′ 00″ EST",
-  description:"C'est l'un des plus beaux villages des Pouilles, au profil antique et grec. C'est un village tout blanc, perché en haut de falaises qui tombent à pic. Il s'avance dans la mer comme un navire prêt à larguer ses amarres. Dans sa crique aux eaux limpides, des nageurs apparaissent par centaine entre les grottes apparentes et les rochers, et forment un tourbillon de couleurs vives. Plus haut, à l'intérieur même du village, Polignago laisse voir et revoir la mer par différents points de perspectives - sur les places, au travers de fenêtres, en haut d'un escalier - comme une perpétuelle incitation à prendre le large.",
+  description:"C'est l'un des plus beaux villages des Pouilles, au profil antique et grec. C'est un village tout blanc, perché en haut de falaises qui tombent à pic. Il s'avance dans la mer comme un navire prêt à larguer ses amarres. Dans sa crique aux eaux limpides, des nageurs apparaissent par centaine entre les grottes et les rochers, et forment un tourbillon de couleurs vives. Plus haut, à l'intérieur même du village, Polignago laisse voir et revoir la mer par différents points de perspectives - sur les places, au travers de fenêtres, en haut d'un escalier - comme une perpétuelle incitation à prendre le large.",
   province: pouilles,
   coordinates: "https://goo.gl/maps/y5jPJWArV9H2",
   heraldic: "blaz_polignano.png",
@@ -5010,7 +5004,7 @@ lecce =   City.create(
   coordinates: "https://goo.gl/maps/jtHhFteNxYD2",
   heraldic: "blaz_lecce.png",
   picture: "le_00.jpg",
-  caption:"Chiesa di Sant'Irene")
+  caption:"Via San Giuseppe")
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_1.jpg",
   position: 1,

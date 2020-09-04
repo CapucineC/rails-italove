@@ -1,0 +1,26 @@
+Searching 16508 files for "art de vivre"
+
+/Users/CapGerard/code/CapucineC/rails-italove/db/seeds.rb:
+ 2211    name: "Toscane",
+ 2212    map: "toscana-map.png",
+ 2213:   description:"Splendeur du paysage toscan, si finement ciselé dans ses contours qu'on dirait qu'il fut dessiné par les peintres pour continuer l'art hors des villes. A l’heure du soleil couchant, les collines vertes se perdent dans une nuée d’or, les cyprès centenaires reflètent leurs altières silhouettes sur les chemins, et les églises en marbre sonnent leurs cloches de fonte… Tout ceci sépare les plus beaux villages qui ont été par le passé d’anciennes républiques autonomes. Lors de l’invention du politique dans l’Italie du Quattrocento, la Toscane a vu s’opposer deux modèles de pouvoir dans une rivalité historique : le gouvernement communal de Sienne contre le principat médicéen de Florence. De la Toscane, on retient cette invention magistrale de l'art de vivre qui recherche la beauté dans les infimes détails de toutes les choses vécues.")
+ 2214  florence =  City.create(
+ 2215    name:"Florence",
+
+1 match in 1 file
+
+
+Searching 16508 files for ".content-province .city-tag {"
+
+
+
+Searching 16508 files for "city-tag {"
+
+/Users/CapGerard/code/CapucineC/rails-italove/app/assets/stylesheets/components/_content-province.scss:
+   67
+   68
+   69:   & .city-tag {
+   70      font-family: 'Cabin Sketch', cursive;
+   71      padding-top: 5px;
+
+1 match in 1 file

@@ -133,6 +133,10 @@ img {
     padding: 10px;
   }
 
+  & .classNameHere {
+    display: none;
+  }
+
   & .heraldic {
     & > img {
       text-align: center;

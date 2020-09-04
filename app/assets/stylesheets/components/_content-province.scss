@@ -67,7 +67,8 @@
 
 
   & .city-tag {
-    font-family: 'Cabin Sketch', cursive;
+    //font-family: 'Cabin Sketch', cursive;
+    font-family: 'Crimson Text', serif;
     padding-top: 5px;
   }
 
@@ -92,7 +93,7 @@
     }
 }
 
-@media (max-width: 500px) {
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
   .content-province {
     height: auto;
     margin-left: 0px;
@@ -112,6 +113,10 @@
   .content-province .sideblock-map {
     display: none;
     }
+
+  .content-province .sideblock .description-province {
+    font-size: 20px;
+    }
  }
 
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
@@ -122,7 +127,7 @@
   display: table-row;
   }
   .description-province {
-    font-size: 20px;
+    font-size: 18px;
   }
   .content-province .province-box {
     max-width: 450px;
