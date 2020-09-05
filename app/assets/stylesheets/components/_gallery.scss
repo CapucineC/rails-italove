@@ -65,10 +65,10 @@ img {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
     margin: 1em auto;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 6vh;
+    padding-right: 6vh;
     grid-auto-flow: dense;
-    grid-auto-rows: 32px;
+    grid-auto-rows: 4vh;
   }
 
   .wrapper div {
@@ -92,7 +92,7 @@ img {
 
   .wrapper div.landscape {
     grid-column-end: span 6;
-    grid-row-end: span 7;
+    grid-row-end: span 8;
   }
 
   .wrapper div.mini {

@@ -2842,7 +2842,7 @@ Picture.create(
 ombrie = Province.create(
   name: "Ombrie",
   map: "umbria-map.png",
-  description:"La Ombrie est la seule partie d’Italie qui est sans frontière commune avec la mer. Bien repliée dans ses forêts, ses vallées étalent un vert sombre et sérieux sur tout le paysage. C’est une région totalement enclavée, intérieure et secrète, propice à une méditation heureuse encouragée par le souvenir de François d’Assise et la piété des fresques de Giotto. La Ombrie est lointainement étrusque et fortement médiévale. En haut des collines et des champs labourés, on voit se dresser des villages fortifiés dont la pierre historique nous rappelle au Moyen-Âge et nous replonge dans cette époque d'absolu, à la fois spirituelle et dangereuse, qui n'avait pas encore dit non à la puissance de l'Imaginaire.")
+  description:"L'Ombrie est la seule partie d’Italie qui est sans frontière commune avec la mer. Bien repliée dans ses forêts, ses vallées étalent un vert sombre et sérieux sur tout le paysage. C’est une région totalement enclavée, intérieure et secrète, propice à une méditation heureuse encouragée par le souvenir de François d’Assise et la piété des fresques de Giotto. L'Ombrie est lointainement étrusque et fortement médiévale. En haut des collines et des champs labourés, on voit se dresser des villages fortifiés dont la pierre historique nous rappelle au Moyen-Âge et nous replonge dans cette époque d'absolu, à la fois spirituelle et dangereuse, qui n'avait pas encore dit non à la puissance de l'Imaginaire.")
 bevagna =  City.create(
   name:"Bevagna",
   geocoding: "none given",
@@ -4292,7 +4292,7 @@ Picture.create(
 
 capri =  City.create(
   name:"Capri",
-  description:"Capri permet une escapade nécessaire après l'intensité baroque napolitaine. C'est une île brute au paysage rocheux et escarpé, entourée par de nombreuses criques précieuses aux eaux d’émeraude et de saphir. En son for intérieur, deux petits villages dominent. Les chemins qui les traversent révèlent une abondance de fleurs aux couleurs étincelantes qui embaument le vent marin. Qu'il est doux de se laisser ravir, avant d'affronter la bruyante et richissime clientèle qui accapare les boutiques de luxe. Ainsi, perdu dans la mer Tyrrhénienne au large de la baie de Naples, le voyageur retrouve pour quelques heures une respiration au grand large, une légèreté, voire même quelquefois une certaine frivolité. Le contraste est saisissant.",
+  description:"Capri permet une escapade nécessaire après l'intensité baroque napolitaine. C'est une île brute au paysage rocheux et escarpé, entourée par de nombreuses criques précieuses aux eaux d’émeraude et de saphir. À l'intérieur des terres, il y a deux petits villages. Les chemins qui les traversent révèlent une abondance de fleurs aux couleurs étincelantes qui embaument le vent marin. Qu'il est doux de se laisser ravir, avant d'affronter la bruyante et richissime clientèle qui accapare les boutiques de luxe. Ainsi, perdu dans la mer Tyrrhénienne au large de la baie de Naples, le voyageur retrouve pour quelques heures une respiration au grand large, une légèreté, voire même quelquefois une certaine frivolité. Le contraste est saisissant.",
   province: campanie,
   heraldic: "blaz_capri.png",
   picture: "ca_00.jpg",
@@ -4495,7 +4495,7 @@ Picture.create(
 pouilles = Province.create(
   name: "Pouilles",
   map: "puglia-map.png",
-  description:"La région des Pouilles forme le talon de la botte italienne. Elle offre aux promeneurs des paysages d'une grande beauté : une côte capricieusement découpée, la mer d'un bleu cristallin, des criques secrètes, des plages au sable infiniment fin et des plateaux agricoles couleur cuivre recouverts d'oliviers centenaires. Bordés par les mers Adriatique et Ionienne, parsemés d'églises romanes, de palais baroques et de châteaux normands, souabes et aragonais, il fallait bien que les Pouilles s'accordent au pluriel. Sur la route de Bari à Otrante se succèdent petits ports et villes blanchies à la chaux, simples et nues, de moins en moins italiennes et presque déjà grecques...")
+  description:"La région des Pouilles forme le talon de la botte italienne. Elle offre aux promeneurs des paysages d'une grande beauté : une côte capricieusement découpée, la mer d'un bleu cristallin, des criques secrètes, des plages au sable infiniment fin et des plateaux agricoles couleur cuivre recouverts d'oliviers centenaires. Bordées par les mers Adriatique et Ionienne, parsemées d'églises romanes, de palais baroques et de châteaux normands, souabes et aragonais, il fallait bien que les Pouilles s'accordent au pluriel. Sur la route de Bari à Otrante se succèdent petits ports et villes blanchies à la chaux, simples et nues, de moins en moins italiennes et presque déjà grecques...")
 bari =  City.create(
   name:"Bari",
   geocoding: "41° 08′ 00″ NORD, 16° 52′ 00″ EST",
