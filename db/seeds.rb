@@ -2693,12 +2693,6 @@ Picture.create(
   city: sienne
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_10.jpg",
-  position: 10,
-  css_class: "all",
-  city: sienne
-)
-Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_13.jpg",
   position: 13,
   css_class: "portrait",
