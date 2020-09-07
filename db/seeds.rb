@@ -5,7 +5,7 @@ Province.destroy_all
 piemont = Province.create(
   name: "Piémont",
   map: "piemonte-map.png",
-  description:"Étendu sur les Alpes, le Piémont est une région très caractérielle traversée par des bourgades montagnardes authentiques. Au loin, les sommets blanc des montagnes donnent aux paysages une sérénité hors temps. Devant eux, il y a des vallons et des coteaux chargés de vignes qui mûrissent lentement. Plus bas, dans les plaines gorgées par l'eau froide du Pô, on cultive depuis toujours un riz perlé de renom. À cheval sur deux pays, le Piémont fut longtemps disputé entre la France et l'Italie. Et puis, au fil des siècles, il fut délimité autour de Turin par les comtes et les ducs de Savoie, qui ont ensuite largement œuvré au rassemblement des régions et donc à la création de l'Italie, aidés en cela par autre famille piémontaise : les Cavour. Chef-lieu du Piémont, Turin est une ville solennelle aux accents français qui garde encore en elle la dignité royale des Savoie.")
+  description:"Étendu sur les Alpes, le Piémont est une région très caractérielle traversée par des bourgades montagnardes authentiques. Au loin, les sommets blanc des montagnes donnent aux paysages une sérénité hors temps. Devant eux, il y a des vallons et des coteaux chargés de vignes qui mûrissent lentement. Plus bas, dans les plaines gorgées par l'eau froide du Pô, on cultive depuis toujours un riz perlé de renom. À cheval sur deux pays, le Piémont fut longtemps disputé entre la France et l'Italie. Et puis, au fil des siècles, il fut délimité autour de Turin par les comtes et les ducs de Savoie. Ces derniers ont ensuite largement œuvré au rassemblement des régions et donc à la création de l'Italie, aidés en cela par les Cavour, une autre famille piémontaise. Chef-lieu du Piémont, Turin est une ville solennelle aux accents français qui garde encore en elle la dignité royale des Savoie.")
 turin = City.create(
   name:"Turin",
   geocoding: "45° 04′ 00″ NORD 7° 42′ 00″ EST",
@@ -2809,15 +2809,9 @@ Picture.create(
   city: sienne
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_35.jpg",
-  position: 35,
-  css_class: "portrait",
-  city: sienne
-)
-Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Sienne/si_36.jpg",
   position: 36,
-  css_class: "zoom",
+  css_class: "all",
   city: sienne
 )
 Picture.create(
