@@ -921,7 +921,7 @@ Picture.create(
 lacs = Province.create(
   name: "Lacs Italiens",
   map: "laghi-italiani-map.png",
-  description:"La beauté des lacs de l'Italie du Nord fascine. Est-il possible qu'ils soit seulement l'œuvre de la nature, sans autre agencement que le sien ? Enchâssés dans les Alpes blanches, ils dessinent leurs larges courbes dans la brume des montagnes, tandis que sur leurs rives apparaissent des villages charmants, des villas bordées par des jardins remplis de lauriers, et des palais magnifiques au bout desquels sont amarrés des bateaux en bois. L'homme a donc rajouté sont sa délicatesse dans les jardins, déposés comme des nénuphars sur l'eau. Le rythme qu'on constate, le silence et la profondeur des lacs font de ces endroits la quintessence du raffinement italien : la richesse trouvée dans une admirable simplicité.")
+  description:"La beauté des lacs de l'Italie du Nord fascine. Est-il possible qu'ils soient seulement l'œuvre de la nature, sans autre agencement que le sien ? Enchâssés dans les Alpes blanches, ils dessinent leurs larges courbes dans la brume des montagnes, tandis que sur leurs rives apparaissent des villages charmants, des villas bordées par des jardins remplis de lauriers, et des palais magnifiques au bout desquels sont amarrés des bateaux en bois. L'homme a donc ajouté sa délicatesse dans les jardins, qui semblent déposés comme des nénuphars sur l'eau. Le rythme qu'on constate, le silence et la profondeur des lacs font de ces endroits la quintessence du raffinement italien : la richesse trouvée dans une admirable simplicité.")
 come =  City.create(
   name:"Lac de Come",
   geocoding: "45° 59′ 40″ NORD 9° 15′ 58″ EST",
@@ -2831,248 +2831,6 @@ ombrie = Province.create(
   name: "Ombrie",
   map: "umbria-map.png",
   description:"L'Ombrie est la seule partie d’Italie qui est sans frontière commune avec la mer. Bien repliée dans ses forêts, ses vallées étalent un vert sombre et sérieux sur tout le paysage. C’est une région totalement enclavée, intérieure et secrète, propice à une méditation heureuse encouragée par le souvenir de François d’Assise et la piété des fresques de Giotto. L'Ombrie est lointainement étrusque et fortement médiévale. En haut des collines et des champs labourés, on voit se dresser des villages fortifiés dont la pierre historique nous rappelle au Moyen-Âge et nous replonge dans cette époque d'absolu, à la fois spirituelle et dangereuse, qui n'avait pas encore dit non à la puissance de l'Imaginaire.")
-bevagna =  City.create(
-  name:"Bevagna",
-  geocoding: "none given",
-  description:"Bevagna, ou la ville à la campagne, ou la campagne en ville. On y voit des très hautes bâtisses qu'on croirait être des corps de ferme, des chemins de traverses et une végétation qui se mélange aux pierres. La place centrale, appelée la piazza Silvestri, est magnifique. C'est une sorte d'ancien forum romain qui mêle lieux de pouvoir, de culte et de négoce. Il y a le palais des Consuls, deux églises, un théâtre et une fontaine. Certaines maisons ont encore des sols marquetés de mosaïques romaines ayant servi pour les thermes. Et puis, chemin faisant et l'histoire suivant son cours, la ville prend un aspect médiéval. Elle nous montre alors ses remparts ponctués de grosses tours en pierre qui sont solidement bâties et incroyablement dépouillées. Esthétique puriste pour un tempérament vigoureux.",
-  province: ombrie,
-  coordinates: "none given",
-  heraldic: "blaz_bevagna.png",
-  picture: "be_00.png",
-  caption: "Piazza Silvestri")
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_1.jpg",
-  position: 1,
-  css_class: "all",
-  city: bevagna
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_2.jpg",
-  position: 2,
-  css_class: "all",
-  city: bevagna
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_3.jpg",
-  position: 3,
-  css_class: "all",
-  city: bevagna
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_4.jpg",
-  position: 4,
-  css_class: "all",
-  city: bevagna
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_5.jpg",
-  position: 5,
-  css_class: "all",
-  city: bevagna
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_6.jpg",
-  position: 6,
-  css_class: "portrait",
-  city: bevagna
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_7.jpg",
-  position: 7,
-  css_class: "portrait",
-  city: bevagna
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_8.jpg",
-  position: 8,
-  css_class: "portrait",
-  city: bevagna
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_9.jpg",
-  position: 9,
-  css_class: "portrait",
-  city: bevagna
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_10.jpg",
-  position: 10,
-  css_class: "portrait",
-  city: bevagna
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_11.jpg",
-  position: 11,
-  css_class: "portrait",
-  city: bevagna
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_12.jpg",
-  position: 12,
-  css_class: "portrait",
-  city: bevagna
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_13.jpg",
-  position: 13,
-  css_class: "portrait",
-  city: bevagna
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Bevagna/be_14.jpg",
-  position: 14,
-  css_class: "portrait",
-  city: bevagna
-)
-
-montone =  City.create(
-  name:"Montone",
-  geocoding: "none given",
-  description:"C'est un tout petit village sur un rocher bruni, sur un rocher perché, comme un point sur un i. Au gré de la promenade, Montone laisse lentement découvrir ses rues qui montent et qui descendent. On y voit des pierres et des portes, des Madones en faïence, des feuilles, une jolie fille et des lumières qui arrivent à mesure que la nuit s'agrandit. C'est ici, dans ce petit village très caractériel que naquit Andrea Fortebracci, surnommé Braccio da Montone, qui fut l'un des plus illustres condottières du quatorzième siècle. Derrière leur charme bucolique, les vieux pavés de Montone nous renvoient donc aux temps troubles de l'Italie communale.",
-  province: ombrie,
-  coordinates: "none given",
-  heraldic: "blaz_montone.png",
-  picture: "mon_00.png",
-  caption: "Convento di San Francesco")
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_1.jpg",
-  position: 1,
-  css_class: "portrait",
-  city: montone
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_2.jpg",
-  position: 2,
-  css_class: "portrait",
-  city: montone
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_3.jpg",
-  position: 3,
-  css_class: "portrait",
-  city: montone
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_4.jpg",
-  position: 4,
-  css_class: "portrait",
-  city: montone
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_5.jpg",
-  position: 5,
-  css_class: "portrait",
-  city: montone
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_6.jpg",
-  position: 6,
-  css_class: "portrait",
-  city: montone
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_7.jpg",
-  position: 7,
-  css_class: "all",
-  city: montone
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_8.jpg",
-  position: 8,
-  css_class: "portrait",
-  city: montone
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_9.jpg",
-  position: 9,
-  css_class: "portrait",
-  city: montone
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_10.jpg",
-  position: 10,
-  css_class: "portrait",
-  city: montone
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_11.jpg",
-  position: 11,
-  css_class: "portrait",
-  city: montone
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_12.jpg",
-  position: 12,
-  css_class: "portrait",
-  city: montone
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_13.jpg",
-  position: 13,
-  css_class: "portrait",
-  city: montone
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_14.jpg",
-  position: 14,
-  css_class: "portrait",
-  city: montone
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_15.jpg",
-  position: 15,
-  css_class: "portrait",
-  city: montone
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_16.jpg",
-  position: 16,
-  css_class: "portrait",
-  city: montone
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_17.jpg",
-  position: 17,
-  css_class: "portrait",
-  city: montone
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_18.jpg",
-  position: 18,
-  css_class: "zoom",
-  city: montone
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_19.jpg",
-  position: 19,
-  css_class: "landscape",
-  city: montone
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_20.jpg",
-  position: 20,
-  css_class: "landscape",
-  city: montone
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_21.jpg",
-  position: 21,
-  css_class: "portrait",
-  city: montone
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_22.jpg",
-  position: 22,
-  css_class: "zoom",
-  city: montone
-)
-Picture.create(
-  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Montone/mon_23.jpg",
-  position: 23,
-  css_class: "bande",
-  city: montone
-)
-
 gubbio =  City.create(
   name:"Gubbio",
   geocoding: "none given",
@@ -3810,15 +3568,9 @@ naples =  City.create(
   picture: "na_00.jpg",
   caption: "Museo Archeologico")
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_1.jpg",
-  position: 1,
-  css_class: "portrait",
-  city: naples
-)
-Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Naples/na_2.jpg",
   position: 2,
-  css_class: "zoom",
+  css_class: "all",
   city: naples
 )
 Picture.create(
@@ -4603,13 +4355,13 @@ Picture.create(
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_18.3.jpg",
-  position: 18.2,
+  position: 18.3,
   css_class:"portrait",
   city: bari
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_18.2.jpg",
-  position: 18.3,
+  position: 18.2,
   css_class:"landscape",
   city: bari
 )
