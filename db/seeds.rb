@@ -5,7 +5,7 @@ Province.destroy_all
 piemont = Province.create(
   name: "Piémont",
   map: "piemonte-map.png",
-  description:"Étendu sur les Alpes, le Piémont est une région très caractérielle traversée par des bourgades montagnardes authentiques. Au loin, les sommets blanc des montagnes donnent aux paysages une sérénité hors temps. Devant eux, il y a des vallons et des coteaux chargés de vignes qui mûrissent lentement. Plus bas, dans les plaines gorgées par l'eau froide du Pô, on cultive depuis toujours un riz perlé de renom. À cheval sur deux pays, le Piémont fut longtemps disputé entre la France et l'Italie. Et puis, au fil des siècles, il fut délimité autour de Turin par les comtes et les ducs de Savoie. Ces derniers ont ensuite largement œuvré au rassemblement des régions et donc à la création de l'Italie, aidés en cela par les Cavour, une autre famille piémontaise. Chef-lieu du Piémont, Turin est une ville solennelle aux accents français qui garde encore en elle la dignité royale des Savoie.")
+  description:"Les montagnes sublimes et grandioses qui traversent le Piémont lui ont donné à coup sûr tous ses rêves d’ambition. C’est le Piémont, au pied du Mont Blanc, qui a imaginé, voulu et réalisé l’unification de l’Italie. Comment ne pas rêver de gloire, quand on est bercé par les sommets ? À cheval sur deux pays, la région fut longtemps disputé entre la France et l'Italie. Et puis, au fil des siècles, elle fut délimité autour de Turin par les comtes et les ducs de Savoie. Ils ont ensuite largement œuvré à l’unification des régions et donc à la création de l'Italie, aidés en cela par les Cavour, une autre famille piémontaise. Avec ses rochers, ses coteaux chargés de vignes et ses plaines gorgées par l'eau froide du Pô, le Piémont est une région très caractérielle traversée par des bourgades montagnardes authentiques. Au loin, les sommets blanc se détachent de la ligne d’horizon et donnent aux paysages une sérénité hors temps.")
 turin = City.create(
   name:"Turin",
   geocoding: "45° 04′ 00″ NORD 7° 42′ 00″ EST",
@@ -921,7 +921,7 @@ Picture.create(
 lacs = Province.create(
   name: "Lacs Italiens",
   map: "laghi-italiani-map.png",
-  description:"La beauté des lacs de l'Italie du Nord fascine. Enchassés dans les Alpes blanches, ils dessinent leurs larges courbes dans la brume des montagnes, tandis que sur leurs rives apparaissent des villages charmants, des villas bordées par des jardins remplis de lauriers, et des palais magnifiques au bout desquels sont amarrés des bateaux en bois. Le rythme qu'on constate, le silence et la profondeur des lacs font de ces endroits la quintessence du raffinement italien : la richesse trouvée dans une admirable simplicité.")
+  description:"La beauté des lacs de l'Italie du Nord fascine. Est-il possible qu'ils soit seulement l'œuvre de la nature, sans autre agencement que le sien ? Enchâssés dans les Alpes blanches, ils dessinent leurs larges courbes dans la brume des montagnes, tandis que sur leurs rives apparaissent des villages charmants, des villas bordées par des jardins remplis de lauriers, et des palais magnifiques au bout desquels sont amarrés des bateaux en bois. L'homme a donc rajouté sont sa délicatesse dans les jardins, déposés comme des nénuphars sur l'eau. Le rythme qu'on constate, le silence et la profondeur des lacs font de ces endroits la quintessence du raffinement italien : la richesse trouvée dans une admirable simplicité.")
 come =  City.create(
   name:"Lac de Come",
   geocoding: "45° 59′ 40″ NORD 9° 15′ 58″ EST",
@@ -1345,7 +1345,7 @@ Picture.create(
 venetie = Province.create(
   name: "Vénétie",
   map: "veneto-map.png",
-  description:"En Vénétie, c'est la nature qui joue le rôle d'artiste et dessine pour les voyageurs des paysages féeriques : c'est elle qui enneige les montagnes des Dolomites et les recouvre d'un long manteau blanc. C'est elle toujours qui pave d'eau les rues de l'éblouissante Venise. C'est elle encore qui fait éclore des fleurs sur les balcons de Vérone à l'arrivée de chaque printemps.")
+  description:"En Vénétie, c'est la nature qui joue le rôle d'artiste. A mesure que les quatre saisons arrivent, elle peint sur des paysages et dans les villes les détails les plus baroques, pour créer des lieux féériques. Ainsi, à l’automne, elle fait déborder la lagune pour paver d’eau les rues de l'éblouissante Venise. Et puis, quand vient l’hiver, elle enneige les montagnes des Dolomites et les recouvre d’un long et scintillant manteau blanc. Enfin, elle fait éclore les plus belles fleurs sur les balcons de Vérone à l'arrivée de chaque printemps, et transforme alors la ville en un jardin monumental.")
 venise =  City.create(
   name: "Venise",
   geocoding: "45° 26′ 23″ NORD 12° 19′ 55″ EST",
@@ -1746,7 +1746,7 @@ Picture.create(
 emilieromagne = Province.create(
   name: "Émilie-Romagne",
   map: "emilia-romagna-map.png",
-  description:"En Émilie-Romagne, contrée heureuse et prospère, tout rappelle encore les centurions et les frasques de l'empire romain. La région doit d'ailleurs son nom à la construction de la 'voie Émilienne' par le consul Marcus Aemilius Lepidus au IIe siècle av. J.-C. Aventuresques, les villes de Bologne et de Ferrare nous entrainent dans des rues rougeoyantes, sous des arcades et des voûtes, sur des places bordées de tavernes et à l'intérieur de châteaux qui ont encore des pont-levis. On y ripaille excellemment, tant la région est connue pour sa bonne viande, ses saucissons et son vin goûtu.")
+  description:"Beaucoup de via pavés, quelques aqueducs, des vestiges de mur en briques… tout ce que l’on observe sur les chemins d’Émilie-Romagne rappelle encore les centurions et les frasques de l'empire romain. La région doit jusqu’à son nom à la construction de la 'voie Émilienne' par le consul Marcus Aemilius Lepidus au IIe siècle av. J.-C. Aventuresques, les villes de Bologne et de Ferrare nous entrainent dans des rues rougeoyantes, sous des arcades et des voûtes, sur des places bordées de tavernes et à l'intérieur de châteaux qui ont encore des pont-levis. On y ripaille excellemment, tant la région est connue pour sa bonne viande, ses saucissons et son vin goûtu.")
 bologne =   City.create(
   name:"Bologne",
   geocoding: "44° 30′ 00″ NORD 11° 21′ 00″ EST",
