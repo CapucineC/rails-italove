@@ -5,7 +5,7 @@ Province.destroy_all
 piemont = Province.create(
   name: "Piémont",
   map: "piemonte-map.png",
-  description:"Les montagnes sublimes et grandioses qui traversent le Piémont lui ont donné à coup sûr tous ses rêves d’ambition. C’est le Piémont, au pied du Mont Blanc, qui a imaginé, voulu et réalisé l’unification de l’Italie. Comment ne pas rêver de gloire, quand on est bercé par les sommets ? À cheval sur deux pays, la région fut longtemps disputé entre la France et l'Italie. Et puis, au fil des siècles, elle fut délimité autour de Turin par les comtes et les ducs de Savoie. Ils ont ensuite largement œuvré à l’unification des régions et donc à la création de l'Italie, aidés en cela par les Cavour, une autre famille piémontaise. Avec ses rochers, ses coteaux chargés de vignes et ses plaines gorgées par l'eau froide du Pô, le Piémont est une région très caractérielle traversée par des bourgades montagnardes authentiques. Au loin, les sommets blanc se détachent de la ligne d’horizon et donnent aux paysages une sérénité hors temps.")
+  description:"Les montagnes majestueuses qui traversent le Piémont lui ont donné à coup sûr ses rêves d’ambition. C’est le Piémont qui a imaginé, voulu et réalisé l’unification de l’Italie. Comment ne pas rêver de gloire, quand la géographie vous a placé au pied du Mont Blanc, et que vous êtes bercé par les sommets ? À cheval sur deux pays, la région fut longtemps disputé entre la France et l'Italie. Et puis, au fil des siècles, elle fut délimité autour de Turin par les comtes et les ducs de Savoie. Ils ont ensuite largement œuvré à l’unification des régions et donc à la création de l'Italie, aidés en cela par les Cavour, une autre famille piémontaise. Avec ses rochers, ses coteaux chargés de vignes et ses plaines gorgées par l'eau froide du Pô, le Piémont est une région très caractérielle traversée par des bourgades montagnardes authentiques. En arrière-fond, les monts enneigés des Alpes se détachent et donnent aux paysages une sérénité hors temps.")
 turin = City.create(
   name:"Turin",
   geocoding: "45° 04′ 00″ NORD 7° 42′ 00″ EST",
@@ -1345,7 +1345,7 @@ Picture.create(
 venetie = Province.create(
   name: "Vénétie",
   map: "veneto-map.png",
-  description:"En Vénétie, c'est la nature qui joue le rôle d'artiste. A mesure que les quatre saisons arrivent, elle peint sur des paysages et dans les villes les détails les plus baroques, pour créer des lieux féériques. Ainsi, à l’automne, elle fait déborder la lagune pour paver d’eau les rues de l'éblouissante Venise. Et puis, quand vient l’hiver, elle enneige les montagnes des Dolomites et les recouvre d’un long et scintillant manteau blanc. Enfin, elle fait éclore les plus belles fleurs sur les balcons de Vérone à l'arrivée de chaque printemps, et transforme alors la ville en un jardin monumental.")
+  description:"En Vénétie, la nature joue le rôle d'artiste. À mesure que les quatre saisons arrivent, elle peint sur les paysages et dans les villes les détails les plus extravagants, pour créer des lieux féériques. Ainsi, à l’automne, elle fait déborder la lagune pour paver d’eau les rues de l'éblouissante Venise. Et puis, quand vient l’hiver, elle enneige les montagnes des Dolomites et les recouvre d’un long et scintillant manteau blanc. Enfin, elle fait éclore les plus belles fleurs sur les balcons de Vérone à l'arrivée de chaque printemps, et transforme alors la ville en un jardin monumental.")
 venise =  City.create(
   name: "Venise",
   geocoding: "45° 26′ 23″ NORD 12° 19′ 55″ EST",
@@ -2637,6 +2637,18 @@ Picture.create(
 Picture.create(
   url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_78.jpg",
   position: 78,
+  css_class: "portrait",
+  city: florence
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_79.jpg",
+  position: 79,
+  css_class: "zoom",
+  city: florence
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/Florence/flo_80.jpg",
+  position: 80,
   css_class: "portrait",
   city: florence
 )
@@ -4272,7 +4284,7 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_5.jpg",
   position: 5,
-  css_class:"zoom",
+  css_class:"all",
   city: bari
 )
 Picture.create(
@@ -4290,12 +4302,6 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_8.jpg",
   position: 8,
-  css_class:"portrait",
-  city: bari
-)
-Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_9.jpg",
-  position: 9,
   css_class:"portrait",
   city: bari
 )
@@ -4398,6 +4404,7 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Bari/ba_24.jpg",
   position: 24,
+  css_class:"zoom",
   city: bari
 )
 Picture.create(
