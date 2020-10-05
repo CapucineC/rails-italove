@@ -2839,6 +2839,259 @@ Picture.create(
   city: sienne
 )
 
+sangimignano =  City.create(
+  name:"San Gimignano",
+  description: "en construction...",
+  province: toscane,
+  picture: "san_00.jpg",
+  caption: "Cappella dei Magi, Benozzo Gozzoli")
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_1.jpg",
+  position: 1,
+  css_class: "all",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_2.jpg",
+  position: 2,
+  css_class: "portrait",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_3.jpg",
+  position: 3,
+  css_class: "zoom",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_4.jpg",
+  position: 4,
+  css_class: "",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_5.jpg",
+  position: 5,
+  css_class: "",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_6.jpg",
+  position: 6,
+  css_class: "",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_7.jpg",
+  position: 7,
+  css_class: "landscape",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_8.jpg",
+  position: 8,
+  css_class: "landscape",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_9.jpg",
+  position: 9,
+  css_class: "landscape",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_10.jpg",
+  position: 10,
+  css_class: "landscape",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_11.jpg",
+  position: 11,
+  css_class: "landscape",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_12.jpg",
+  position: 12,
+  css_class: "landscape",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_13.jpg",
+  position: 13,
+  css_class: "landscape",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_14.jpg",
+  position: 14,
+  css_class: "landscape",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_15.jpg",
+  position: 15,
+  css_class: "all",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_16.jpg",
+  position: 16,
+  css_class: "portrait",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_17.jpg",
+  position: 17,
+  css_class: "portrait",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_18.jpg",
+  position: 18,
+  css_class: "portrait",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_19.jpg",
+  position: 19,
+  css_class: "portrait",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_20.jpg",
+  position: 20,
+  css_class: "portrait",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_21.jpg",
+  position: 21,
+  css_class: "portrait",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_22.jpg",
+  position: 22,
+  css_class: "landscape",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_23.jpg",
+  position: 23,
+  css_class: "landscape",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_24.jpg",
+  position: 24,
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_25.jpg",
+  position: 25,
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_26.jpg",
+  position: 26,
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_27.jpg",
+  position: 27,
+  css_class: "mini",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_28.jpg",
+  position: 28,
+  css_class: "mini",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_30.jpg",
+  position: 30,
+  css_class: "mini",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_31.jpg",
+  position: 31,
+  css_class: "mini",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_32.jpg",
+  position: 32,
+  css_class: "mini",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_33.jpg",
+  position: 33,
+  css_class: "all",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_34.jpg",
+  position: 34,
+  css_class: "landscape",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_35.jpg",
+  position: 35,
+  css_class: "landscape",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_36.jpg",
+  position: 36,
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_37.jpg",
+  position: 37,
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_38.jpg",
+  position: 38,
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_39.jpg",
+  position: 39,
+  css_class: "landscape",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_40.jpg",
+  position: 40,
+  css_class: "landscape",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_41.jpg",
+  position: 41,
+  css_class: "",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_42.jpg",
+  position: 42,
+  css_class: "",
+  city: sangimignano
+)
+Picture.create(
+  url:"https://raw.githubusercontent.com/CapucineC/iMages/master/San%20Gimignano/san_43.jpg",
+  position: 43,
+  css_class: "",
+  city: sangimignano
+)
+
 ombrie = Province.create(
   name: "Ombrie",
   map: "umbria-map.png",
