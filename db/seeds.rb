@@ -2843,7 +2843,7 @@ sangimignano =  City.create(
   name:"San Gimignano",
   description: "Entre Sienne et Florence, dessinée par l’histoire pour les récits chevaleresques il y a le village de San Giminiano, qui tire son nom d’un ancien évêque, et que les plus grandes familles ont embelli en se construisant chacune une haute tour, symbole de pouvoir et de prestige. La dizaine de tour qui reste de cette période se lit comme un flambeau, une idée de passage, une invitation au voyage dans le temps long. Trace unique sur des bâtiments intactes qui forment un paysage captivant. On trouve à l’intérieur du palais communal les fresques peintes par Memmo di Filippuccio d’un couple à la fenêtre, au bain, et puis sur le seuil de la nuit. Faut-il venir ici tout seul pour se rendre compte de la beauté d’être à deux ?",
   province: toscane,
-  heraldic: "blaz_florence.png",
+  heraldic: "blaz_sangiminiano.png",
   picture: "san_00.jpg",
   caption: "Piazza del Duomo")
 Picture.create(
