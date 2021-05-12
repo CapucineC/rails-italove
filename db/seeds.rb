@@ -2210,7 +2210,7 @@ Picture.create(
 toscane = Province.create(
   name: "Toscane",
   map: "toscana-map.png",
-  description:"Splendeur du paysage toscan, si finement ciselé dans ses contours qu'on dirait qu'il fut dessiné par les peintres pour continuer l'art hors des villes. À l’heure du soleil couchant, on voit les collines vertes se perdre dans une nuée d’or, les cyprès centenaires refléter leurs altières silhouettes sur les chemins, et on entend les églises faire résonner leurs cloches de fonte. Tout ceci sépare les plus beaux villages qui ont été, par le passé, d’anciennes républiques autonomes. Pendant la renaissance italienne, la Toscane a vu s’opposer deux modèles de pouvoir dans une rivalité historique : le gouvernement communal de Sienne contre le principat médicéen de Florence. C’est par l’art et la guerre que ces villes se sont continuellement opposées, livrant au voyageur ahuri des architectures exceptionnelles.")
+  description:"Splendeur du paysage toscan, si finement ciselé dans ses contours qu'on dirait qu'il fut dessiné par les peintres pour continuer l'art hors des villes. À l’heure du soleil couchant, on voit les collines vertes se perdre dans une nuée d’or, les cyprès centenaires refléter leurs altières silhouettes sur les chemins, et on entend les églises faire résonner leurs cloches de fonte. Tout ceci sépare les plus beaux villages qui ont été, par le passé, d’anciennes républiques autonomes. Pendant la Renaissance, la Toscane a vu s’opposer deux modèles de pouvoir dans une rivalité historique : le gouvernement communal de Sienne contre le principat médicéen de Florence. C’est par l’art et la guerre que ces villes se sont continuellement opposées, livrant au voyageur ahuri des architectures exceptionnelles.")
 florence =  City.create(
   name:"Florence",
   geocoding: "43° 46′ 18′ NORD 11° 15′ 13′ EST",
@@ -2841,7 +2841,7 @@ Picture.create(
 
 sangimignano =  City.create(
   name:"San Gimignano",
-  description: "Entre Sienne et Florence, dessiné par l’histoire pour les récits chevaleresques il y a le village de San Giminiano, que les familles importantes de la ville ont embelli en se faisant construire chacune sa haute tour, symbole de pouvoir et de prestige. Trace unique sur des bâtiments intactes qui forment un paysage captivant. La dizaine d'édifices qui reste de cette période se lit comme un flambeau, une idée de passage, une invitation au voyage dans le temps long. On trouve à l’intérieur du palais communal les fresques peintes par Memmo di Filippuccio d’un couple d'abord à la fenêtre, puis au bain, et enfin sur le seuil de la nuit. Ah, faut-il venir ici tout seul pour se rendre compte de la beauté d’être à deux ?",
+  description: "Entre Sienne et Florence, dessiné par l’histoire pour les récits chevaleresques il y a le village de San Giminiano. Les familles importantes de la ville l'embellirent en se faisant construire des hautes tours, symbole de pouvoir et de prestige. Trace unique sur des bâtiments intactes qui forment un paysage captivant. La dizaine d'édifices qui reste de cette période se lit comme un flambeau, une idée de passage, une invitation au voyage dans le temps long. On trouve à l’intérieur du palais communal les fresques peintes par Memmo di Filippuccio d’un couple. D'abord à la fenêtre, puis au bain, et enfin sur le seuil de la nuit. Ah, faut-il venir ici tout seul pour se rendre compte de la beauté d’être à deux ?",
   province: toscane,
   heraldic: "blaz_sangiminiano.png",
   picture: "san_00.jpg",
