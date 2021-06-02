@@ -4442,7 +4442,7 @@ Picture.create(
 pouilles = Province.create(
   name: "Pouilles",
   map: "puglia-map.png",
-  description:"La région des Pouilles forme le talon de la botte italienne. Elle se caractérise par des paysages côtiers d'une grande beauté, où se mêlent un littoral capricieusement découpé, la mer d'un bleu cristallin, des criques secrètes, des plages au sable infiniment fin et des plateaux agricoles couleur cuivre recouverts d'oliviers centenaires. Bordées par les mers Adriatique et Ionienne, parsemées d'églises romanes, de palais baroques et de châteaux normands, souabes et aragonais, il fallait bien que les Pouilles s'accordent au pluriel. Sur la route de Bari à Otrante se succèdent petits ports et villes blanchies à la chaux, simples et nues, de moins en moins italiennes et presque déjà grecques...")
+  description:"La région des Pouilles forme le talon de la botte italienne. D'une grande beauté, son paysage côtier mêle un littoral capricieusement découpé, la mer d'un bleu cristallin, des criques secrètes, des plages au sable infiniment fin et des plateaux agricoles couleur cuivre recouverts d'oliviers centenaires. Bordées par les mers Adriatique et Ionienne, parsemées d'églises romanes, de palais baroques et de châteaux normands, souabes et aragonais, il fallait bien que les Pouilles s'accordent au pluriel. Sur la route de Bari à Otrante se succèdent petits ports et villes blanchies à la chaux, simples et nues, de moins en moins italiennes et presque déjà grecques...")
 bari =  City.create(
   name:"Bari",
   geocoding: "41° 08′ 00″ NORD, 16° 52′ 00″ EST",
@@ -4723,7 +4723,7 @@ Picture.create(
 monopoli =  City.create(
   name:"Monopoli",
   geocoding: "40° 57′ 00″ NORD 17° 18′ 00″ EST",
-  description:"Le charme de Monopoli vient de son port miniature rempli d'authentiques barques en bois peintes en bleu et rouge. Avec certains balcons qui ont des loggias blanches, sa place faite d'eau et un Dôme en arrière-fond, l'endroit possède un charme quasiment vénitien. Les promeneurs viennent s'y retrouver avant de continuer leur balade dans les ruelles historiques, pour terminer devant le château de Charles V, une impressionnante fortification défensive édifiée pendant l'occupation aragonaise. La ville a donc eu plusieurs influences, mais son nom hérité du grec 'monos-polis' l'affirme, elle est 'la ville unique'.",
+  description:"Le charme de Monopoli vient de son port miniature rempli d'authentiques barques en bois peintes en bleu et rouge. Avec cette grande place qui semble faite d'eau, un palais doté d’un loggia blanche et un Dôme en arrière-fond, l'endroit possède un charme vénitien et rappelle à lui l’ancienne domination de Venise sur le village. Les promeneurs viennent s'y retrouver au détour d’une balade dans les ruelles historiques de Monopoli, avant d’aller voir le château de Charles V, une impressionnante fortification défensive édifiée pendant l'occupation aragonaise. La ville a donc eu plusieurs influences, mais son nom hérité du grec 'monos-polis' l'affirme, elle est 'la ville unique'.",
   province: pouilles,
   coordinates: "https://goo.gl/maps/iSCYZKeXgPk",
   heraldic: "blaz_monopoli.png",
