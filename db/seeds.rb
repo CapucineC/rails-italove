@@ -4996,6 +4996,12 @@ Picture.create(
   city: lecce
 )
 Picture.create(
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_9.jpg",
+  position: 9,
+  css_class:"landscape",
+  city: lecce
+)
+Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_10.jpg",
   position: 10,
   css_class:"mini",
@@ -5064,19 +5070,19 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_21.jpg",
   position: 21,
-  css_class:"landscape",
+  css_class:"",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_22.jpg",
   position: 22,
-  css_class:"landscape",
+  css_class:"",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_23.jpg",
   position: 23,
-  css_class:"portrait",
+  css_class:"",
   city: lecce
 )
 Picture.create(
@@ -5094,13 +5100,13 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_26.jpg",
   position: 26,
-  css_class:"landscape",
+  css_class:"portrait",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_27.jpg",
   position: 27,
-  css_class:"landscape",
+  css_class:"portrait",
   city: lecce
 )
 Picture.create(
@@ -5112,13 +5118,25 @@ Picture.create(
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_29.jpg",
   position: 29,
-  css_class:"zoom",
+  css_class:"portrait",
   city: lecce
 )
 Picture.create(
   url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_30.jpg",
   position: 30,
   css_class:"all",
+  city: lecce
+)
+Picture.create(
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_31.jpg",
+  position: 31,
+  css_class:"landscape",
+  city: lecce
+)
+Picture.create(
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_32.jpg",
+  position: 32,
+  css_class:"landscape",
   city: lecce
 )
 
