@@ -4948,193 +4948,193 @@ lecce =   City.create(
   picture: "le_00.jpg",
   caption:"Via San Giuseppe")
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_1.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_1.jpg",
   position: 1,
   css_class:"all",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_2.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_2.jpg",
   position: 2,
   css_class:"landscape",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_3.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_3.jpg",
   position: 3,
   css_class:"landscape",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_4.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_4.jpg",
   position: 4,
   css_class:"landscape",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_5.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_5.jpg",
   position: 5,
   css_class:"landscape",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_6.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_6.jpg",
   position: 6,
   css_class:"landscape",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_7.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_7.jpg",
   position: 7,
   css_class:"landscape",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_8.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_8.jpg",
   position: 8,
   css_class:"landscape",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_9.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_9.jpg",
   position: 9,
   css_class:"landscape",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_10.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_10.jpg",
   position: 10,
   css_class:"mini",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_11.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_11.jpg",
   position: 11,
   css_class:"mini",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_12.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_12.jpg",
   position: 12,
   css_class:"mini",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_13.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_13.jpg",
   position: 13,
   css_class:"mini",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_14.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_14.jpg",
   position: 14,
   css_class:"mini",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_15.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_15.jpg",
   position: 15,
   css_class:"mini",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_16.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_16.jpg",
   position: 16,
   css_class:"landscape",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_17.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_17.jpg",
   position: 17,
   css_class:"landscape",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_18.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_18.jpg",
   position: 18,
   css_class:"portrait",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_19.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_19.jpg",
   position: 19,
   css_class:"portrait",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_20.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_20.jpg",
   position: 20,
   css_class:"portrait",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_21.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_21.jpg",
   position: 21,
   css_class:"",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_22.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_22.jpg",
   position: 22,
   css_class:"",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_23.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_23.jpg",
   position: 23,
   css_class:"",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_24.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_24.jpg",
   position: 24,
   css_class:"portrait",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_25.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_25.jpg",
   position: 25,
   css_class:"portrait",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_26.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_26.jpg",
   position: 26,
   css_class:"portrait",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_27.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_27.jpg",
   position: 27,
   css_class:"portrait",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_28.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_28.jpg",
   position: 28,
   css_class:"portrait",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_29.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_29.jpg",
   position: 29,
   css_class:"portrait",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_30.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_30.jpg",
   position: 30,
   css_class:"all",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_31.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_31.jpg",
   position: 31,
   css_class:"landscape",
   city: lecce
 )
 Picture.create(
-  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/le_32.jpg",
+  url: "https://raw.githubusercontent.com/CapucineC/iMages/master/Lecce/lecce_32.jpg",
   position: 32,
   css_class:"landscape",
   city: lecce
